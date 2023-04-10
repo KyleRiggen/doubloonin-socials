@@ -27,6 +27,8 @@ self_match_history = lol_watcher.match.matchlist_by_puuid(region=self_player_reg
 print(self_summoner['puuid'])
 print(self_match_history)
 
+ban_ids = []
+
 for matchID in self_match_history:
     match_data_0 = lol_watcher.match.by_id(region=self_player_routing, match_id=matchID)['info']
 
@@ -41,7 +43,11 @@ for matchID in self_match_history:
 
     for eachTeam in match_data_0['teams']:
         for eachBan in eachTeam['bans']:
-            aBan = eachBan['championId']
+            aBan = str(eachBan['championId'])
+            ban_ids.append(aBan)
             # print(f"{aBan} has earned 5 points for being banned")
 
-print(parsed_json['data']['Aatrox']['key'])
+for id in ban_ids:
+    for person in parsed_json['data'].values():
+        if person['key'] == id:
+            print(person['name'])
