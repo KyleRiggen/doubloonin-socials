@@ -3,6 +3,12 @@ from dotenv import load_dotenv
 import os
 import pandas as pd
 import config
+import json
+
+with open('champs.json') as user_file:
+  file_contents = user_file.read()
+
+parsed_json = json.loads(file_contents)
 
 lol_watcher = LolWatcher(config.riot_api_key)
 
@@ -12,7 +18,7 @@ lol_watcher = LolWatcher(config.riot_api_key)
 #     match_data2 = lol_watcher.match.by_id(region=player_routing2, match_id=matchID)['info']['gameDuration']
 
 
-self_player_name = 'nykerion'
+self_player_name = 'DouyinTonyTop'
 self_player_region = 'NA1'.lower()
 self_player_routing = 'americas'
 self_summoner = lol_watcher.summoner.by_name(self_player_region, self_player_name)
@@ -25,14 +31,17 @@ for matchID in self_match_history:
     match_data_0 = lol_watcher.match.by_id(region=self_player_routing, match_id=matchID)['info']
 
     for eachPerson in match_data_0['participants']:
-        champ_name = eachPerson['championId']
+        champ_id = eachPerson['championId']
+        champ_name = eachPerson['championName']
         kills = eachPerson['kills']
         deaths = eachPerson['deaths']
         assists = eachPerson['assists']
         champ_score = (2*kills) + (assists) - (2*deaths)
-        print(f"{champ_name} with a KDA of {kills}/{deaths}/{assists} and score of {champ_score}")
+        # print(f"{champ_name} ({champ_id}) with a KDA of {kills}/{deaths}/{assists} and score of {champ_score}")
 
     for eachTeam in match_data_0['teams']:
         for eachBan in eachTeam['bans']:
             aBan = eachBan['championId']
-            print(f"{aBan} has earned 5 points for being banned")
+            # print(f"{aBan} has earned 5 points for being banned")
+
+print(parsed_json['data']['Aatrox']['key'])
