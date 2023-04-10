@@ -2,8 +2,9 @@ from riotwatcher import LolWatcher
 from dotenv import load_dotenv
 import os
 import pandas as pd
+import config
 
-lol_watcher = LolWatcher("RGAPI-3bee7ec3-2bbc-4a36-8c5d-84357d6465f2")
+lol_watcher = LolWatcher(config.riot_api_key)
 
 # for matchID in match_history:
 #     match_data = lol_watcher.match.by_id(region=player_routing, match_id=matchID)
