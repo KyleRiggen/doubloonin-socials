@@ -9,10 +9,10 @@ parsed_json = json.loads(file_contents)
 lol_watcher = LolWatcher(config.riot_api_key)
 
 # scoring numbers
-win = 10
-loss = -10
-pick = 5
-ban = 4
+win = 1
+loss = -1
+pick = 3
+ban = 10
 kill = 2
 assist = 1
 death = -3
@@ -36,8 +36,7 @@ for matchID in self_match_history:
         kills = eachPerson['kills']
         deaths = eachPerson['deaths']
         assists = eachPerson['assists']
-        loses = True if eachPerson['nexusLost'] == 1 else False
-        winLosePoints = win if loses == False else loss
+        winLosePoints = win if eachPerson['win'] == True else loss
         for eachChamp_pick in champsDict.values():
             if eachChamp_pick['id'] == champ_id_pick:
                 eachChamp_pick['score'] = eachChamp_pick['score'] + (pick + (kills * kill) + (deaths * death) + (assists * assist) + winLosePoints)
