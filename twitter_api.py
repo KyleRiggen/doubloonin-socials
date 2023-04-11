@@ -4,9 +4,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import config
 
-USERNAME = 'doubloonin'
-PASSWORD = 'Paintball8!@#$'
+USERNAME = config.twitter_username
+PASSWORD = config.twitter_password
 driver = webdriver.Chrome()
 
 driver.get("https://www.twitter.com/login")
@@ -24,7 +25,7 @@ try:
     password.send_keys(PASSWORD)
     time.sleep(5)
     password.send_keys(Keys.ENTER)
-    time.sleep(5)
+    time.sleep(60)
 finally:
     driver.quit()
 
