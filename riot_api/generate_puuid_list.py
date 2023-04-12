@@ -31,5 +31,5 @@ for index, player in enumerate(challenger_ladder['entries']):
 
 print(len(puuid_list))
 
-with open('puuid_list.json', 'w', encoding='utf-8') as f:
+with open('json/puuid_list.json', 'w', encoding='utf-8') as f:
     json.dump(puuid_list, f, ensure_ascii=False, indent=4)

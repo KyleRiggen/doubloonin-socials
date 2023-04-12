@@ -11,7 +11,7 @@ def setup_enviorment():
   del(api_key)
   return lol_watcher
 
-with open('puuid_list.json') as user_file:
+with open('json/puuid_list.json') as user_file:
   file_contents = user_file.read()
 puuid_list_json = json.loads(file_contents)
 
@@ -21,8 +21,8 @@ player_region = 'na1'
 def get_match_list():
 
   # config numbers for API calls
-  players_to_check = 3
-  matches_to_check = 3
+  players_to_check = 10
+  matches_to_check = 20
 
   # loop through the puuids to get a match list
   match_list = []
@@ -38,6 +38,7 @@ def get_match_list():
 
   # remove duplicates
   match_list = list(dict.fromkeys(match_list))
+  print(f'amount after dupilicate filter: {len(match_list)}')
 
   # remove old matches
   now = time.time()
@@ -50,8 +51,10 @@ def get_match_list():
     converted_time = match_timestamp / 1000
     if converted_time > one_day_ago:
       new_match_list.append(match)
-      print(f'adding: {time.ctime(converted_time)} < {time.ctime(one_day_ago)}')
+      print(f'added: {time.ctime(converted_time)}')
+    else:
+      print(f'removed: {time.ctime(converted_time)}')
 
-  print(f'ending amount: {len(new_match_list)}')
+  print(f'amount after "recent" filter: {len(new_match_list)}')
 
   return new_match_list
