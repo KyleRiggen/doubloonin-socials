@@ -1,6 +1,8 @@
-import json
+array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print(array)
+new_array = []
+for num in array:
+    if num > 5:
+        new_array.append(num)
 
-puuid_list_list = ['1', '2', '3', '4']
-
-with open('puuid_list.json', 'w', encoding='utf-8') as f:
-    json.dump(puuid_list_list, f, ensure_ascii=False, indent=4)
+print(new_array)

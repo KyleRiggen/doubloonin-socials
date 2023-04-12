@@ -2,6 +2,7 @@ from riotwatcher import LolWatcher
 from dotenv import load_dotenv
 import os
 import json
+import time
 
 def setup_enviorment():
   load_dotenv('../config2.env')
@@ -14,38 +15,53 @@ with open('champs.json') as user_file:
   file_contents = user_file.read()
 champs_json = json.loads(file_contents)
 
+with open('puuid_list.json') as user_file:
+  file_contents = user_file.read()
+puuid_list_json = json.loads(file_contents)
+
 lol_watcher = setup_enviorment()
 player_region = 'na1'
-queue_type = 'RANKED_SOLO_5x5'
-challenger_ladder = lol_watcher.league.challenger_by_queue(region=player_region, queue=queue_type)
 
-# get challenger ladder > receive summonerID
-# convert summonerID to puuid (convert using summonerName)
-# get matchIDs
-# comb through matchIDs (remove duplicates)
+def get_match_list():
 
+  # config numbers for API calls
+  players_to_check = 3
+  matches_to_check = 3
 
+  # loop through the puuids to get a match list
+  match_list = []
+  for index, eachPlayer in enumerate(puuid_list_json):
+    match = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=eachPlayer, queue=420, start=0, count=matches_to_check)
+    print(index, match)
+    for eachMatch in match:
+      match_list.append(eachMatch)
+    if (index + 1) >= players_to_check:
+      break
 
-# create array of 10 players only to look at
-# workable_challenger_list = []
-# count = 0
-# for player in challenger_ladder['entries']:
-#   workable_challenger_list.append(challenger_ladder['entries'][count]['summonerId'])
-#   count = count + 1
-#   if count >= 10:
-#     break
+  print(f'starting amount: {len(match_list)}')
 
+  # remove duplicates
+  match_list = list(dict.fromkeys(match_list))
 
-# match_list = []
-# for eachPlayer in workable_challenger_list:
-#   # get match history
-#   match = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=eachPlayer, queue=420, start=0, count=10)
-#   print(match)
+  # remove old matches
+  now = time.time()
+  one_day = 86400
+  one_day_ago = now - one_day
+  new_match_list = []
 
-# get an array of matchIDs then check only the challenger players in those matches with their champ and KDA
-# print(len(workable_challenger_list))
+  for match in match_list:
+    match_timestamp = lol_watcher.match.by_id(region=player_region, match_id=match)['info']['gameStartTimestamp']
+    converted_time = match_timestamp / 1000
+    if converted_time > one_day_ago:
+      new_match_list.append(match)
+      print(f'adding: {time.ctime(converted_time)} < {time.ctime(one_day_ago)}')
 
+  print(f'ending amount: {len(new_match_list)}')
 
+  return new_match_list
+
+finished_match_list = get_match_list()
+print(finished_match_list)
 
 
 
