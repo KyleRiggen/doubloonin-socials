@@ -17,17 +17,22 @@ kill = 2
 assist = 1
 death = -3
 
-self_player_name = 'DouyinTonyTop'
+def matchIDs_toNames():
+    pass
+
+self_player_name = 'Li Hai Xiao Zi'
 self_player_region = 'NA1'.lower()
 self_player_routing = 'americas'
 self_summoner = lol_watcher.summoner.by_name(self_player_region, self_player_name)
+print(self_summoner)
 self_match_history = lol_watcher.match.matchlist_by_puuid(region=self_player_region, puuid=self_summoner['puuid'], queue=420, start=0, count=10)
 
+# creates blank results dictionary of all the champs with their scores
 champsDict = {}
-
 for eachChamp in parsed_json['data'].values():
     champsDict[eachChamp['id']] = {'name': eachChamp['name'], 'score': 0, 'id': parsed_json['data'][eachChamp['id']]['key']}
 
+# for each match a specific player played, parse it
 for matchID in self_match_history:
     match_data_0 = lol_watcher.match.by_id(region=self_player_routing, match_id=matchID)['info']
 
