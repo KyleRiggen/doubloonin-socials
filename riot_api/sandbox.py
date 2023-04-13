@@ -1,9 +1,16 @@
-dicts = {}
-values = ["Hi", "I", "am", "John"]
+# removing duplicated from the list using naive methods
 
-for i in values:
-    dicts[i] = values[i]
-print(dicts)
+# initializing list
+sam_list = [11, 13, 15, 16, 13, 15, 16, 11]
+print ("The list is: " + str(sam_list))
 
-# In [7]: dict(list(enumerate(values)))
-# Out[7]: {0: 'Hi', 1: 'I', 2: 'am', 3: 'John'}
+# remove duplicated from list
+result = []
+for i in sam_list:
+    if i not in result:
+        result.append(i)
+    else:
+        print(f'removed: {i}')
+
+# printing list after removal
+print ("The list after removing duplicates : " + str(result))
