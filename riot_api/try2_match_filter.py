@@ -2,6 +2,12 @@ from setup import setup_enviorment
 import json
 import time
 
+now = time.time()
+now_nice = time.ctime(time.time())
+one_day = 86400
+one_day_ago = now - one_day
+print(now_nice)
+
 lol_watcher = setup_enviorment()
 player_region = 'na1'
 
@@ -9,17 +15,21 @@ with open('json/puuid_list.json') as user_file:
     file_contents = user_file.read()
 puuid_list_json = json.loads(file_contents)
 
+with open('json/champs.json') as user_file:
+    file_contents = user_file.read()
+champsJSON = json.loads(file_contents)
+
 match_list = []
 
 for index, player in enumerate(puuid_list_json):
-    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=10)
-    if index >= 20:
+    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=5)
+    if index >= 5:
         break
-    print(index, matches, player)
+    print(index, player, matches)
     for match in matches:
         match_list.append(match)
 
-print(f'match list number:{len(match_list)}')
+print(f'{now_nice} match list number before filtering duplicates: {len(match_list)}')
 # remove duplicated from list
 result = []
 for match in match_list:
@@ -29,7 +39,8 @@ for match in match_list:
         print(f'removed as a duplicate: {match}')
 
 print(result)
-print(f'match list number:{len(result)}')
+now_nice = time.ctime(time.time())
+print(f'{now_nice} match list number after filtering duplicates: {len(result)}')
 
 all_matches = []
 
@@ -38,23 +49,27 @@ for index, match in enumerate(result):
     match_timestamp = match_info['info']['gameStartTimestamp']
     converted_time = match_timestamp / 1000
 
-    print(index)
+    now_nice = time.ctime(time.time())
+    print(index, now_nice)
 
     player_list = []
     for player in match_info['info']['participants']:
-        player_dictionary = {
-            'puuid': player['puuid'],
-            'summonerName': player['summonerName'],
-            'champID': player['championId'],
-            'champName': player['championName'],
-            'kills': player['kills'],
-            'deaths': player['deaths'],
-            'assists': player['kills'],
-            'win': player['win']
-        }
+        playerID = player['puuid']
 
-        # Add player dictionary to our player_list
-        player_list.append(player_dictionary)
+        if playerID in puuid_list_json:
+            player_dictionary = {
+                'puuid': playerID,
+                'summonerName': player['summonerName'],
+                'champID': player['championId'],
+                'champName': player['championName'],
+                'kills': player['kills'],
+                'deaths': player['deaths'],
+                'assists': player['kills'],
+                'win': player['win']
+            }
+
+            # Add player dictionary to our player_list
+            player_list.append(player_dictionary)
 
     match_dictionary = {
         'matchId': match_info['metadata']['matchId'],
@@ -64,12 +79,9 @@ for index, match in enumerate(result):
 
     all_matches.append(match_dictionary)
 
-print(all_matches)
-print(len(all_matches))
+now_nice = time.ctime(time.time())
+print(f'{now_nice} match number after building custom dictionary: {len(all_matches)}')
 
-now = time.time()
-one_day = 86400
-one_day_ago = now - one_day
 all_matches_timed = []
 
 for eachMatch in all_matches:
@@ -81,8 +93,8 @@ for eachMatch in all_matches:
     else:
         print(f'removed: {viewableTime}')
 
-print(all_matches_timed)
-print(len(all_matches_timed))
+now_nice = time.ctime(time.time())
+print(f'{now_nice} match number after filtering for time: {len(all_matches_timed)}')
 
 final_results = {}
 kills = 0
@@ -106,6 +118,13 @@ for eachMatch in all_matches_timed:
             final_results[champName]['deaths'] = deaths
             final_results[champName]['assists'] = assists
 
-print(final_results)
-print(len(final_results))
+now_nice = time.ctime(time.time())
+print(f'{now_nice} champion entries into champ_stats.json: {len(final_results)}')
+
+for eachChamp in final_results:
+    print(eachChamp)
+
+with open('json/champ_stats.json', 'w', encoding='utf-8') as f:
+    json.dump(final_results, f, ensure_ascii=False, indent=4)
+
 

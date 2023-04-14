@@ -1,0 +1,197 @@
+{
+    "Tryndamere": {
+        "kills": 1,
+        "deaths": 3,
+        "assists": 1
+    },
+    "Ryze": {
+        "kills": 2,
+        "deaths": 3,
+        "assists": 2
+    },
+    "MonkeyKing": {
+        "kills": 21,
+        "deaths": 14,
+        "assists": 21
+    },
+    "Zeri": {
+        "kills": 20,
+        "deaths": 8,
+        "assists": 20
+    },
+    "Jayce": {
+        "kills": 14,
+        "deaths": 12,
+        "assists": 14
+    },
+    "Aphelios": {
+        "kills": 13,
+        "deaths": 7,
+        "assists": 13
+    },
+    "Yasuo": {
+        "kills": 11,
+        "deaths": 25,
+        "assists": 11
+    },
+    "Gragas": {
+        "kills": 9,
+        "deaths": 16,
+        "assists": 9
+    },
+    "Xayah": {
+        "kills": 31,
+        "deaths": 35,
+        "assists": 31
+    },
+    "Pyke": {
+        "kills": 7,
+        "deaths": 9,
+        "assists": 7
+    },
+    "Ivern": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 1
+    },
+    "Morgana": {
+        "kills": 11,
+        "deaths": 13,
+        "assists": 11
+    },
+    "KSante": {
+        "kills": 4,
+        "deaths": 4,
+        "assists": 4
+    },
+    "Jinx": {
+        "kills": 10,
+        "deaths": 7,
+        "assists": 10
+    },
+    "Alistar": {
+        "kills": 3,
+        "deaths": 4,
+        "assists": 3
+    },
+    "Elise": {
+        "kills": 6,
+        "deaths": 4,
+        "assists": 6
+    },
+    "Malphite": {
+        "kills": 2,
+        "deaths": 4,
+        "assists": 2
+    },
+    "Lux": {
+        "kills": 10,
+        "deaths": 4,
+        "assists": 10
+    },
+    "Rakan": {
+        "kills": 3,
+        "deaths": 8,
+        "assists": 3
+    },
+    "Maokai": {
+        "kills": 0,
+        "deaths": 7,
+        "assists": 0
+    },
+    "Milio": {
+        "kills": 1,
+        "deaths": 2,
+        "assists": 1
+    },
+    "Renekton": {
+        "kills": 5,
+        "deaths": 1,
+        "assists": 5
+    },
+    "Thresh": {
+        "kills": 2,
+        "deaths": 3,
+        "assists": 2
+    },
+    "Lillia": {
+        "kills": 4,
+        "deaths": 2,
+        "assists": 4
+    },
+    "Nautilus": {
+        "kills": 2,
+        "deaths": 17,
+        "assists": 2
+    },
+    "Orianna": {
+        "kills": 6,
+        "deaths": 3,
+        "assists": 6
+    },
+    "Viktor": {
+        "kills": 9,
+        "deaths": 5,
+        "assists": 9
+    },
+    "Jax": {
+        "kills": 12,
+        "deaths": 5,
+        "assists": 12
+    },
+    "Kindred": {
+        "kills": 7,
+        "deaths": 11,
+        "assists": 7
+    },
+    "Swain": {
+        "kills": 9,
+        "deaths": 8,
+        "assists": 9
+    },
+    "Karma": {
+        "kills": 0,
+        "deaths": 7,
+        "assists": 0
+    },
+    "Olaf": {
+        "kills": 5,
+        "deaths": 3,
+        "assists": 5
+    },
+    "Gnar": {
+        "kills": 10,
+        "deaths": 5,
+        "assists": 10
+    },
+    "Taric": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 1
+    },
+    "Ahri": {
+        "kills": 9,
+        "deaths": 4,
+        "assists": 9
+    },
+    "Lulu": {
+        "kills": 0,
+        "deaths": 2,
+        "assists": 0
+    },
+    "JarvanIV": {
+        "kills": 3,
+        "deaths": 6,
+        "assists": 3
+    },
+    "Sylas": {
+        "kills": 4,
+        "deaths": 5,
+        "assists": 4
+    },
+    "Graves": {
+        "kills": 6,
+        "deaths": 2,
+        "assists": 6
+    }
+}
