@@ -1,1168 +1,507 @@
-[
-  {
-    'matchId': 'NA1_4628816391',
-    'gameStartTimestamp': 1681407478.817,
-    'players': [
-      {
-        'puuid': '6vEyCIyQTa9ep9q9htiJmyJtnMTxL6AmzWFKxy11G-zcrSCET0iw8BQmJchkOmsdOyDKzU8MmcxJ7w',
-        'summonerName': 'BorgvVz',
-        'champID': 887,
-        'champName': 'Gwen',
-        'kills': 0,
-        'deaths': 0,
-        'assists': 0,
-        'win': True
-      },
-      {
-        'puuid': 'ILlKElLIear0uSeAMxMz4-FJCHGjiCAiZS304so_ZhztI7Sc4HnLJFJpfnYSSNClHc-d9RwOrD0Cbg',
-        'summonerName': 'down mid',
-        'champID': 107,
-        'champName': 'Rengar',
-        'kills': 3,
-        'deaths': 0,
-        'assists': 3,
-        'win': True
-      },
-      {
-        'puuid': 'tWbhEgDyW7yaZCHcv7C1G7fmaNwB73MDtNv1iiWGGKNK1qjbkjpbOD_yboToO0t-5uNzJWJsPPWllg',
-        'summonerName': 'Pentaless',
-        'champID': 14,
-        'champName': 'Sion',
-        'kills': 2,
-        'deaths': 2,
-        'assists': 2,
-        'win': True
-      },
-      {
-        'puuid': '8hrP2MIkfjur5klIx5OWhtKr9nCrDP3-HETroCmXlxk1QxCAynMEIHBtzjZksFkkyuH9xFKJJBM-Mw',
-        'summonerName': 'SageWabe',
-        'champID': 110,
-        'champName': 'Varus',
-        'kills': 5,
-        'deaths': 1,
-        'assists': 5,
-        'win': True
-      },
-      {
-        'puuid': 'o-jC6bAyoo6nbqZCBZdHAhhUjtTHhulsuQ8mS5xqSlLXSi01-HlghWj8_O1HitaapA0LsbbqRLgoEg',
-        'summonerName': 'mid gap sorry',
-        'champID': 25,
-        'champName': 'Morgana',
-        'kills': 1,
-        'deaths': 3,
-        'assists': 1,
-        'win': True
-      },
-      {
-        'puuid': 'M9mxoVMNJkIvl5evayPinj2PdJQPeaScI9j7_S0tH-cH1hQyi1ykU-ath8yR5wF2snD_e_g2E3_8-A',
-        'summonerName': 'DrewDozer',
-        'champID': 57,
-        'champName': 'Maokai',
-        'kills': 1,
-        'deaths': 1,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': '_LF-IfEzfEfsKWeohmXS9MwE7mhWSp6jzFENKw6QhJWvwjEbu-JCCHrDAD0Yaw4-WKaMSZyZb4OjmQ',
-        'summonerName': 'Fanthom',
-        'champID': 516,
-        'champName': 'Ornn',
-        'kills': 0,
-        'deaths': 1,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'Ntohw5YyraNaZkxrvlnt0XOoPAFsbbz00TiD3Ovwsf4Te3TOH7EQZtGnVyDqZzCCtULxx08_MjeB2Q',
-        'summonerName': 'EnSaneZ',
-        'champID': 777,
-        'champName': 'Yone',
-        'kills': 5,
-        'deaths': 2,
-        'assists': 5,
-        'win': False
-      },
-      {
-        'puuid': 'yL_xIx2nhJgHXKYgzEuBLCRYdbrz0GLbSjVo07G_gEZyTCjFPh62_bikLg33vrPT99j6kno7DLprKQ',
-        'summonerName': 'Shogolol',
-        'champID': 15,
-        'champName': 'Sivir',
-        'kills': 0,
-        'deaths': 5,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'p-KjWXNMb6RoCMiEBsiHCjisB0xuVrvZ3djMgfInFhwR1Cf1ccKmGb23jRv4oMmbtMjl9MIEgoD10Q',
-        'summonerName': 'Lord Garza',
-        'champID': 43,
-        'champName': 'Karma',
-        'kills': 0,
-        'deaths': 2,
-        'assists': 0,
-        'win': False
-      }
-    ]
+{
+  'Jayce': {
+    'kills': 28,
+    'deaths': 43,
+    'assists': 28
   },
-  {
-    'matchId': 'NA1_4628346281',
-    'gameStartTimestamp': 1681351840.685,
-    'players': [
-      {
-        'puuid': 'WDR26nXVQFDIPMvKGaQgr5kpyQDnwV4TP_MB60JywA6yA-69Mp_sfHXwmK7e2B0FlmUz3NLviDLN_A',
-        'summonerName': 'qingwanovo',
-        'champID': 54,
-        'champName': 'Malphite',
-        'kills': 2,
-        'deaths': 5,
-        'assists': 2,
-        'win': False
-      },
-      {
-        'puuid': 'Jirkse4VC8OB_-QaFI4BPthEX1ivDYK2Z288mqm5BJ4Hq-YiQQTYX_Q1XI3Ouj62BafBoO8Z9QeNUQ',
-        'summonerName': 'Dreàmer',
-        'champID': 104,
-        'champName': 'Graves',
-        'kills': 2,
-        'deaths': 2,
-        'assists': 2,
-        'win': False
-      },
-      {
-        'puuid': 'VsIitbxaKoQfRXb7Pe_injnVlLJcWcZRJVTlhVCuSBNt6o8_3JNX2WMONEVSBZWSkbjBsrukVwKk9Q',
-        'summonerName': 'Kryoow',
-        'champID': 74,
-        'champName': 'Heimerdinger',
-        'kills': 0,
-        'deaths': 5,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': '8jH9zi2fxJAZA_0Y3tsRUXhJbfKSpRQFdU_EOl_SenkgQ73YrsXRcikJSxgVOBpEPWtUJjeVB2MRNw',
-        'summonerName': 'no leo lloros',
-        'champID': 15,
-        'champName': 'Sivir',
-        'kills': 0,
-        'deaths': 2,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'g1M-4XGVcbt9y1n1amBYFTbNEGgA-k5xQdy0UQR0BYsbiA6eT5DG4jBuigt3d9xnLmbDb0p1kgZVVw',
-        'summonerName': 'Jabbadahutsnuts',
-        'champID': 432,
-        'champName': 'Bard',
-        'kills': 1,
-        'deaths': 1,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': 'cLRIzu_whmG2j9-iG4JlMgCousIGbjfHmd2ExKilz9vT56QIH3_IJm0-GJNq8_WGvuxbOfE-AJnAtQ',
-        'summonerName': 'Ricky Láfleur',
-        'champID': 516,
-        'champName': 'Ornn',
-        'kills': 5,
-        'deaths': 2,
-        'assists': 5,
-        'win': True
-      },
-      {
-        'puuid': 'tWbhEgDyW7yaZCHcv7C1G7fmaNwB73MDtNv1iiWGGKNK1qjbkjpbOD_yboToO0t-5uNzJWJsPPWllg',
-        'summonerName': 'Pentaless',
-        'champID': 20,
-        'champName': 'Nunu',
-        'kills': 3,
-        'deaths': 0,
-        'assists': 3,
-        'win': True
-      },
-      {
-        'puuid': 'gMa90vm9c0snnoy-T_BYvzUia41-5BBt3vSLXL9qAHfwBHgk59K9bXONqxZ2f6EKeIxjL2rnW0H4og',
-        'summonerName': 'Quantum',
-        'champID': 105,
-        'champName': 'Fizz',
-        'kills': 2,
-        'deaths': 1,
-        'assists': 2,
-        'win': True
-      },
-      {
-        'puuid': 'jMyquTLYvPSHAEQCyUxMtjnLG-LoMwoFHIHvfA98CvZLjONNbiaDBOHl1UXVk8QDeBS4b8gugFtKZA',
-        'summonerName': 'Maykel',
-        'champID': 221,
-        'champName': 'Zeri',
-        'kills': 3,
-        'deaths': 1,
-        'assists': 3,
-        'win': True
-      },
-      {
-        'puuid': 'ror407MHR8YDiZjy0pnEmqRtfpNw0R6UB4iKA2qouRvT9TZRBpEx6OEio2zyzZFLNUDT0-akOYNrGw',
-        'summonerName': 'BoskETI',
-        'champID': 1,
-        'champName': 'Annie',
-        'kills': 2,
-        'deaths': 1,
-        'assists': 2,
-        'win': True
-      }
-    ]
+  'Hecarim': {
+    'kills': 6,
+    'deaths': 7,
+    'assists': 6
   },
-  {
-    'matchId': 'NA1_4628302501',
-    'gameStartTimestamp': 1681349710.345,
-    'players': [
-      {
-        'puuid': 'XVb255LvUZleCAiq0yzYwOQSO7CMXN-eEYCpiGCj2nAXNk94COoRJtmE9rr6ombMm84qMBF1Yem4HQ',
-        'summonerName': 'lolyaoyao',
-        'champID': 897,
-        'champName': 'KSante',
-        'kills': 0,
-        'deaths': 2,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'U8XX1LnqlmEV6l0YR7e5hUAuZmIAisA4s2Djd1eTEc5fMh3TG95UwaQjSIx_WgEvRu-3gzzvvSJKhw',
-        'summonerName': 'Matty',
-        'champID': 57,
-        'champName': 'Maokai',
-        'kills': 0,
-        'deaths': 3,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'e2ETJMCB1zGrlVAJtrxlWVb_j2VhGrl9x1jafOLhqmyJ9biUcydtK_fBL3Jl4E9hHgprvC36Vb7hfA',
-        'summonerName': 'kisno',
-        'champID': 4,
-        'champName': 'TwistedFate',
-        'kills': 6,
-        'deaths': 3,
-        'assists': 6,
-        'win': False
-      },
-      {
-        'puuid': 'YZg3pcN9nAIzImWWYCrfS6pY68W1hXJ-hQG-5mFbsNWFy16AMNbdZWilumn89J-JM_khgFfAUgejVw',
-        'summonerName': 'Kral Luger',
-        'champID': 18,
-        'champName': 'Tristana',
-        'kills': 1,
-        'deaths': 4,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': 'tT7Pf8UvJFfRMhbiJYE3lw44nCm7zF4XWZ32XB2jWVy8gV3BfZRQXwDXHhPzUj26FJhNy2sXC_4UHg',
-        'summonerName': 'amphy',
-        'champID': 1,
-        'champName': 'Annie',
-        'kills': 1,
-        'deaths': 4,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': 'ZGjk226uCGX56iI9to2kTrnBlPcHYO_kxenvwWdB92yWDyoRSBZJHDeyfDh1qFySEaXoPfl9QygS7Q',
-        'summonerName': 'Sorde',
-        'champID': 157,
-        'champName': 'Yasuo',
-        'kills': 2,
-        'deaths': 0,
-        'assists': 2,
-        'win': True
-      },
-      {
-        'puuid': 'GYyRgM7CoLiSy8GiDgSeXh_zKC7wPENN7VniUvDfVjSNSaNvHsB-JukfopkCkYXcMXYE8kyjPvJKVQ',
-        'summonerName': 'twtv Gryffinn',
-        'champID': 203,
-        'champName': 'Kindred',
-        'kills': 5,
-        'deaths': 2,
-        'assists': 5,
-        'win': True
-      },
-      {
-        'puuid': 'q4xTlGkW2LjNasL2XMCSOR7gjt-pzxO5ui0wPnI8aYpuKpKUFZgIIQlN5uxQYZ28G1r-QciOOYW8jQ',
-        'summonerName': 'grompgathering',
-        'champID': 517,
-        'champName': 'Sylas',
-        'kills': 3,
-        'deaths': 1,
-        'assists': 3,
-        'win': True
-      },
-      {
-        'puuid': '9PqMrwSR0eN89ka9wAWm8afKHgJGpCbgAIhZnAVYBjfS1DL8o8xvbgKpDsI0Na9PTkxx9M4SJCm2NQ',
-        'summonerName': 'Andoqs',
-        'champID': 202,
-        'champName': 'Jhin',
-        'kills': 5,
-        'deaths': 3,
-        'assists': 5,
-        'win': True
-      },
-      {
-        'puuid': 'LlL_Crcr7aN0saHc_r9C0r9q6cGfFirhAK-G3ljc8rw-JR1YEniaiNMAJI5j3QjU-_mmoB-ln0bHZQ',
-        'summonerName': 'Sword2',
-        'champID': 12,
-        'champName': 'Alistar',
-        'kills': 1,
-        'deaths': 2,
-        'assists': 1,
-        'win': True
-      }
-    ]
+  'Fizz': {
+    'kills': 8,
+    'deaths': 4,
+    'assists': 8
   },
-  {
-    'matchId': 'NA1_4628254365',
-    'gameStartTimestamp': 1681346717.343,
-    'players': [
-      {
-        'puuid': '1w9MusmFM1qFr5_3Q62KJ9xz_QnRSAAa_iD8FmVZlJVHSGSntxWYPx4xQRtXwOUoTPXz4vfYPW5J7A',
-        'summonerName': '100 Sniper ',
-        'champID': 92,
-        'champName': 'Riven',
-        'kills': 7,
-        'deaths': 3,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'GYyRgM7CoLiSy8GiDgSeXh_zKC7wPENN7VniUvDfVjSNSaNvHsB-JukfopkCkYXcMXYE8kyjPvJKVQ',
-        'summonerName': 'twtv Gryffinn',
-        'champID': 62,
-        'champName': 'MonkeyKing',
-        'kills': 15,
-        'deaths': 5,
-        'assists': 15,
-        'win': True
-      },
-      {
-        'puuid': '0mRiXqh5cPlrS8KVR6gVoBaXHZcQADrZF_FsFBRT0E7v5RxNcpHUoeLxa4lAzMmzCWHW2IYnmKxq-A',
-        'summonerName': 'MessaThreat',
-        'champID': 163,
-        'champName': 'Taliyah',
-        'kills': 4,
-        'deaths': 3,
-        'assists': 4,
-        'win': True
-      },
-      {
-        'puuid': 'hb-PyZtMx5mLdWUff6bH89NQXop3r2Kh5jMYdq5go4TiO-lQM0ZbhsZfTCrCqAz2_bbTbDo1y7i4rg',
-        'summonerName': 'FA Heartbreak',
-        'champID': 145,
-        'champName': 'Kaisa',
-        'kills': 5,
-        'deaths': 2,
-        'assists': 5,
-        'win': True
-      },
-      {
-        'puuid': 'xCWo74GOHsy1eNBUUYIlmsko-T7H9o1DM3t-JNtnSlgDXcjTNTTACvm44Pjo4sVKaKSafuG1KWoN9g',
-        'summonerName': 'Gmandlife',
-        'champID': 53,
-        'champName': 'Blitzcrank',
-        'kills': 0,
-        'deaths': 6,
-        'assists': 0,
-        'win': True
-      },
-      {
-        'puuid': '_L_rTiPsoUrI5_ZjbPCjRHd8Tn_hCHoz5DkxoLgFFjDOZoiT2QzPtf43YHXtEfVVf1f3MhhMkJKBSg',
-        'summonerName': 'Sołitaire',
-        'champID': 126,
-        'champName': 'Jayce',
-        'kills': 4,
-        'deaths': 4,
-        'assists': 4,
-        'win': False
-      },
-      {
-        'puuid': 'dB-jXrljiV53coxENI6hTu0Go7H8HNEuDaW9auAr2V9AHVz74fOwHwb45K_fKykaP0kYqgJ1JxBNww',
-        'summonerName': 'SIayer Supreme',
-        'champID': 24,
-        'champName': 'Jax',
-        'kills': 6,
-        'deaths': 6,
-        'assists': 6,
-        'win': False
-      },
-      {
-        'puuid': 'WvjcEK2fKAP-7Zi7KkiMFUwVBrM0kco-nr75p6Mq80SY_bIAuQ-ohYMQzwTZ2lFZA3wLyKBGVfCrOw',
-        'summonerName': 'Avers',
-        'champID': 127,
-        'champName': 'Lissandra',
-        'kills': 3,
-        'deaths': 7,
-        'assists': 3,
-        'win': False
-      },
-      {
-        'puuid': 'cnDBB4aTYfuDtz7JBqKjTJWvNRQKYAxlPzVDAZzXc0DeaVewcBPoE5NBDS8XMTGthotqb1xv3nOwPg',
-        'summonerName': 'EU Red',
-        'champID': 498,
-        'champName': 'Xayah',
-        'kills': 5,
-        'deaths': 7,
-        'assists': 5,
-        'win': False
-      },
-      {
-        'puuid': 'l04AuJ00mM3TDWnMoAobm5559j6jIjklmgPwokeo66jBnOa3Jwq4kpheESCHrCDlQX-t322I2lItmA',
-        'summonerName': 'C9 Zven',
-        'champID': 201,
-        'champName': 'Braum',
-        'kills': 1,
-        'deaths': 7,
-        'assists': 1,
-        'win': False
-      }
-    ]
+  'Ezreal': {
+    'kills': 3,
+    'deaths': 6,
+    'assists': 3
   },
-  {
-    'matchId': 'NA1_4628216987',
-    'gameStartTimestamp': 1681344050.624,
-    'players': [
-      {
-        'puuid': 'dfkAVnu-c_TcnMj9hL2LRxPpR6XW7RlLKuRQ7v6VCkCwTgYj8rbJiKHkW4uuf14fMlGgQe0J7AYyzQ',
-        'summonerName': '톱 왕',
-        'champID': 2,
-        'champName': 'Olaf',
-        'kills': 4,
-        'deaths': 4,
-        'assists': 4,
-        'win': True
-      },
-      {
-        'puuid': 'JqnTsTni3OMWFV2vMG23-Dw0okMrsDxp0Fo88j3RCs1xkxLHYLVtvLIWEXEAsoVXopXfbCMO2ChCUQ',
-        'summonerName': 'No Ionger Iove',
-        'champID': 107,
-        'champName': 'Rengar',
-        'kills': 17,
-        'deaths': 3,
-        'assists': 17,
-        'win': True
-      },
-      {
-        'puuid': '-37le1OuXQOzePJ5dGJM-fA7bLQbjAwUhmWsnqpPKHbPfKL-W1lTiYBVN3EBR4c-aoSqszyYV4IRuA',
-        'summonerName': 'Kind Jungle',
-        'champID': 69,
-        'champName': 'Cassiopeia',
-        'kills': 7,
-        'deaths': 4,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'DxcnQGot6YJwm0oeSs-Ss4a9ytqM_ccouv-Qo8GCZZoCWCtCNo6ih8RG1YQTsa6LX4gxOKMpc54yqw',
-        'summonerName': 'Fishlord',
-        'champID': 50,
-        'champName': 'Swain',
-        'kills': 7,
-        'deaths': 2,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'Q34iyPujt6WacVNndLAKYZiTaSQr-nigdT8FJSIWWJ9NE-GH07Vit70W4X3BBJXaXpcxlMqNYmAMHw',
-        'summonerName': 'YoojungHukiriLee',
-        'champID': 235,
-        'champName': 'Senna',
-        'kills': 1,
-        'deaths': 3,
-        'assists': 1,
-        'win': True
-      },
-      {
-        'puuid': 'ugfRgdDy2aMGLcRiF6HffeD3ttCJtUfjXyPd4LXF_F_1yTz5bEFUzl0SWhM9FIjVNCG04RwjU1DKvQ',
-        'summonerName': 'TwTv KoKooPuffs',
-        'champID': 113,
-        'champName': 'Sejuani',
-        'kills': 2,
-        'deaths': 6,
-        'assists': 2,
-        'win': False
-      },
-      {
-        'puuid': 'GYyRgM7CoLiSy8GiDgSeXh_zKC7wPENN7VniUvDfVjSNSaNvHsB-JukfopkCkYXcMXYE8kyjPvJKVQ',
-        'summonerName': 'twtv Gryffinn',
-        'champID': 62,
-        'champName': 'MonkeyKing',
-        'kills': 6,
-        'deaths': 9,
-        'assists': 6,
-        'win': False
-      },
-      {
-        'puuid': '6tquvV1cPyaBDCqzpYpp0VJtms5Jf1SOX6spoK6AInTjK8blOcYQptRPRsPC5kzxnzbXofhOGzClAg',
-        'summonerName': 'Zelt',
-        'champID': 39,
-        'champName': 'Irelia',
-        'kills': 4,
-        'deaths': 9,
-        'assists': 4,
-        'win': False
-      },
-      {
-        'puuid': 'cZ3rqHqOHlH9udIPinKfV2_ITmtUbDdg6ALwLAKvPZW1FoYdneBk8TLLINJl-a-wbxcT8arVeFeK-w',
-        'summonerName': 'kiyume',
-        'champID': 147,
-        'champName': 'Seraphine',
-        'kills': 2,
-        'deaths': 4,
-        'assists': 2,
-        'win': False
-      },
-      {
-        'puuid': 'BWbxu2z9c5DCA2Pndj5z0LTpQ71L6eYhBxvL7SFbA-wi8Vkbb8wEWsmdKrtihLwDpL_XKhJPTtPllg',
-        'summonerName': 'Amba Ssingh',
-        'champID': 43,
-        'champName': 'Karma',
-        'kills': 2,
-        'deaths': 8,
-        'assists': 2,
-        'win': False
-      }
-    ]
+  'Karma': {
+    'kills': 4,
+    'deaths': 16,
+    'assists': 4
   },
-  {
-    'matchId': 'NA1_4628175608',
-    'gameStartTimestamp': 1681341589.191,
-    'players': [
-      {
-        'puuid': 'dfkAVnu-c_TcnMj9hL2LRxPpR6XW7RlLKuRQ7v6VCkCwTgYj8rbJiKHkW4uuf14fMlGgQe0J7AYyzQ',
-        'summonerName': '톱 왕',
-        'champID': 85,
-        'champName': 'Kennen',
-        'kills': 5,
-        'deaths': 10,
-        'assists': 5,
-        'win': False
-      },
-      {
-        'puuid': 'JqnTsTni3OMWFV2vMG23-Dw0okMrsDxp0Fo88j3RCs1xkxLHYLVtvLIWEXEAsoVXopXfbCMO2ChCUQ',
-        'summonerName': 'No Ionger Iove',
-        'champID': 107,
-        'champName': 'Rengar',
-        'kills': 12,
-        'deaths': 9,
-        'assists': 12,
-        'win': False
-      },
-      {
-        'puuid': '-37le1OuXQOzePJ5dGJM-fA7bLQbjAwUhmWsnqpPKHbPfKL-W1lTiYBVN3EBR4c-aoSqszyYV4IRuA',
-        'summonerName': 'Kind Jungle',
-        'champID': 518,
-        'champName': 'Neeko',
-        'kills': 8,
-        'deaths': 6,
-        'assists': 8,
-        'win': False
-      },
-      {
-        'puuid': 'YZg3pcN9nAIzImWWYCrfS6pY68W1hXJ-hQG-5mFbsNWFy16AMNbdZWilumn89J-JM_khgFfAUgejVw',
-        'summonerName': 'Kral Luger',
-        'champID': 15,
-        'champName': 'Sivir',
-        'kills': 7,
-        'deaths': 4,
-        'assists': 7,
-        'win': False
-      },
-      {
-        'puuid': 'BWbxu2z9c5DCA2Pndj5z0LTpQ71L6eYhBxvL7SFbA-wi8Vkbb8wEWsmdKrtihLwDpL_XKhJPTtPllg',
-        'summonerName': 'Amba Ssingh',
-        'champID': 902,
-        'champName': 'Milio',
-        'kills': 2,
-        'deaths': 7,
-        'assists': 2,
-        'win': False
-      },
-      {
-        'puuid': '1w9MusmFM1qFr5_3Q62KJ9xz_QnRSAAa_iD8FmVZlJVHSGSntxWYPx4xQRtXwOUoTPXz4vfYPW5J7A',
-        'summonerName': '100 Sniper ',
-        'champID': 39,
-        'champName': 'Irelia',
-        'kills': 7,
-        'deaths': 7,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'GYyRgM7CoLiSy8GiDgSeXh_zKC7wPENN7VniUvDfVjSNSaNvHsB-JukfopkCkYXcMXYE8kyjPvJKVQ',
-        'summonerName': 'twtv Gryffinn',
-        'champID': 62,
-        'champName': 'MonkeyKing',
-        'kills': 14,
-        'deaths': 7,
-        'assists': 14,
-        'win': True
-      },
-      {
-        'puuid': '6tquvV1cPyaBDCqzpYpp0VJtms5Jf1SOX6spoK6AInTjK8blOcYQptRPRsPC5kzxnzbXofhOGzClAg',
-        'summonerName': 'Zelt',
-        'champID': 7,
-        'champName': 'Leblanc',
-        'kills': 7,
-        'deaths': 7,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'nFRKjjmT8YggrymRzQJwOXHDutD_OKeMU7M4OsLMcdOcRb9kQO5r-7-QAscJ5VdKgDWILoWhCVzQvw',
-        'summonerName': 'ARRAY123',
-        'champID': 222,
-        'champName': 'Jinx',
-        'kills': 8,
-        'deaths': 4,
-        'assists': 8,
-        'win': True
-      },
-      {
-        'puuid': 'zL-m_t9FCNxSWMTPdIZlt5bV5K7iRrhW3gcCB-s8y-nuntYG-chyqOuocnbmQpO6SOqMRHQcENsXeQ',
-        'summonerName': 'davidmonsterfan',
-        'champID': 111,
-        'champName': 'Nautilus',
-        'kills': 0,
-        'deaths': 9,
-        'assists': 0,
-        'win': True
-      }
-    ]
+  'Garen': {
+    'kills': 8,
+    'deaths': 9,
+    'assists': 8
   },
-  {
-    'matchId': 'NA1_4628160750',
-    'gameStartTimestamp': 1681339482.622,
-    'players': [
-      {
-        'puuid': 'OWmrjTzH4ZsbrY9keUdBx3iK1Vd3jYBME2ETwmd2p3kTAFlKF7-aGgTydVtmmyFRjPsi-2dn3eHQtQ',
-        'summonerName': 'DSKMTMCHHH',
-        'champID': 897,
-        'champName': 'KSante',
-        'kills': 0,
-        'deaths': 2,
-        'assists': 0,
-        'win': True
-      },
-      {
-        'puuid': 'GYyRgM7CoLiSy8GiDgSeXh_zKC7wPENN7VniUvDfVjSNSaNvHsB-JukfopkCkYXcMXYE8kyjPvJKVQ',
-        'summonerName': 'twtv Gryffinn',
-        'champID': 79,
-        'champName': 'Gragas',
-        'kills': 9,
-        'deaths': 3,
-        'assists': 9,
-        'win': True
-      },
-      {
-        'puuid': 'Vc9j_PoCuiToSdFi3DZ33lVM0Ds6AM2DOxjd3YxwjueBANf9Ja5c-ktQB6H_wbdxQFcDqJD7eW2qIA',
-        'summonerName': 'meaninglessgame',
-        'champID': 238,
-        'champName': 'Zed',
-        'kills': 8,
-        'deaths': 4,
-        'assists': 8,
-        'win': True
-      },
-      {
-        'puuid': '7J3oLyeWIIxqJkFQfTKYXvY_RAFEXYnvXvFEss7YW3ybTKJ0x4qi1vo9eDNWU9kBF5MgXLnf4dBbog',
-        'summonerName': 'Peyz1',
-        'champID': 222,
-        'champName': 'Jinx',
-        'kills': 9,
-        'deaths': 4,
-        'assists': 9,
-        'win': True
-      },
-      {
-        'puuid': 'exWXKVOKoasuL412N8Hosmo7mYiYqjcH6eMNG9MT1h9TKMkayw_JY6PdiNC5b0Smu7HPuNjwvM5CCw',
-        'summonerName': 'TymMio',
-        'champID': 902,
-        'champName': 'Milio',
-        'kills': 1,
-        'deaths': 4,
-        'assists': 1,
-        'win': True
-      },
-      {
-        'puuid': 'dfkAVnu-c_TcnMj9hL2LRxPpR6XW7RlLKuRQ7v6VCkCwTgYj8rbJiKHkW4uuf14fMlGgQe0J7AYyzQ',
-        'summonerName': '톱 왕',
-        'champID': 114,
-        'champName': 'Fiora',
-        'kills': 4,
-        'deaths': 4,
-        'assists': 4,
-        'win': False
-      },
-      {
-        'puuid': 'v-CLW9O3xt-iA5OZBayRBV3UbGHnSu-D_ahlIro99MLJhM-WrF5lAgJKQ74XZo7p8n2BRYZi80nWBQ',
-        'summonerName': 'jamican banana',
-        'champID': 427,
-        'champName': 'Ivern',
-        'kills': 3,
-        'deaths': 5,
-        'assists': 3,
-        'win': False
-      },
-      {
-        'puuid': 'i46RXXTtiB0Hk-9EYE684h6FBrMEKGJFTzsifmzZLiPGOla9ZlaYLVpLMd_-SsFl2j4pQat9cG6pmA',
-        'summonerName': 'kikï',
-        'champID': 777,
-        'champName': 'Yone',
-        'kills': 0,
-        'deaths': 6,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'O4cEOsHJ6iWAWO2vITptEILH0iHY9khBdTVbul6qNAczu81LZrOh_69tOPOKZ5Htm-t2GLQdAg2oEw',
-        'summonerName': 'Volte',
-        'champID': 498,
-        'champName': 'Xayah',
-        'kills': 9,
-        'deaths': 5,
-        'assists': 9,
-        'win': False
-      },
-      {
-        'puuid': 'zL-m_t9FCNxSWMTPdIZlt5bV5K7iRrhW3gcCB-s8y-nuntYG-chyqOuocnbmQpO6SOqMRHQcENsXeQ',
-        'summonerName': 'davidmonsterfan',
-        'champID': 497,
-        'champName': 'Rakan',
-        'kills': 1,
-        'deaths': 7,
-        'assists': 1,
-        'win': False
-      }
-    ]
+  'Nunu': {
+    'kills': 5,
+    'deaths': 3,
+    'assists': 5
   },
-  {
-    'matchId': 'NA1_4628636291',
-    'gameStartTimestamp': 1681371456.891,
-    'players': [
-      {
-        'puuid': 'TecbjFV6q9QIrgQtmHJVDwmoFzNiTBUwB1_galjcKEnvEqzjfHLlrGv8C5vth8HX_1aOYD3JTad4Ig',
-        'summonerName': 'shochi',
-        'champID': 14,
-        'champName': 'Sion',
-        'kills': 6,
-        'deaths': 12,
-        'assists': 6,
-        'win': False
-      },
-      {
-        'puuid': 'MNgMjsZ1iQwEMYJQ5VvGoBDyyllp_X30qastEdkX7v-mG4gPik7LyIVKAnsXJXLRNAbXlByF7xoPJg',
-        'summonerName': 'ASTROBOY99',
-        'champID': 111,
-        'champName': 'Nautilus',
-        'kills': 1,
-        'deaths': 10,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': '-FJCfJXEl3oeyRuwdzWqHjbrWGYhtL3M4YkLFkNNlFL8_uHzixGdybekI8IFwfbpXGZFlCzJb1l4pg',
-        'summonerName': 'dog kachu',
-        'champID': 157,
-        'champName': 'Yasuo',
-        'kills': 12,
-        'deaths': 6,
-        'assists': 12,
-        'win': False
-      },
-      {
-        'puuid': 'dB-jXrljiV53coxENI6hTu0Go7H8HNEuDaW9auAr2V9AHVz74fOwHwb45K_fKykaP0kYqgJ1JxBNww',
-        'summonerName': 'SIayer Supreme',
-        'champID': 236,
-        'champName': 'Lucian',
-        'kills': 14,
-        'deaths': 8,
-        'assists': 14,
-        'win': False
-      },
-      {
-        'puuid': '8-HU6x-Z-DNuSCV5tLluExZgmFoJ0ct3Z7a6nDn3Jb2IkRRIjGnAO1DCbUXcJ9T4xAHeSMMSffBJgQ',
-        'summonerName': 'TL Honda CoreJJ',
-        'champID': 902,
-        'champName': 'Milio',
-        'kills': 1,
-        'deaths': 6,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': 'XVb255LvUZleCAiq0yzYwOQSO7CMXN-eEYCpiGCj2nAXNk94COoRJtmE9rr6ombMm84qMBF1Yem4HQ',
-        'summonerName': 'lolyaoyao',
-        'champID': 2,
-        'champName': 'Olaf',
-        'kills': 9,
-        'deaths': 5,
-        'assists': 9,
-        'win': True
-      },
-      {
-        'puuid': '4BdyxRuYJofixhFgxmioTrXa44segVSl1sLmDQuZ-2geeQmWMPlR2kV04VLbuxhwROFQHXSdcYPFMA',
-        'summonerName': 'Rocks Jgl Acc',
-        'champID': 79,
-        'champName': 'Gragas',
-        'kills': 8,
-        'deaths': 4,
-        'assists': 8,
-        'win': True
-      },
-      {
-        'puuid': 'k24Jl54ma5IHv_XvyxYVerGmCKKEaopu01zUwt6gX1T7wha28wwaNpymYaOinQuci3iYE141u9w84g',
-        'summonerName': 'onat onat onat',
-        'champID': 103,
-        'champName': 'Ahri',
-        'kills': 6,
-        'deaths': 9,
-        'assists': 6,
-        'win': True
-      },
-      {
-        'puuid': 'YZg3pcN9nAIzImWWYCrfS6pY68W1hXJ-hQG-5mFbsNWFy16AMNbdZWilumn89J-JM_khgFfAUgejVw',
-        'summonerName': 'Kral Luger',
-        'champID': 110,
-        'champName': 'Varus',
-        'kills': 17,
-        'deaths': 8,
-        'assists': 17,
-        'win': True
-      },
-      {
-        'puuid': 'oEDaRUqUmJxrlfsObOU9QZjltLvv5gcTHQqxQC-_Slzag3PvTAV3iZ_KvDB4O0m8xGTcgKUuKe7-gQ',
-        'summonerName': 'Zyko',
-        'champID': 888,
-        'champName': 'Renata',
-        'kills': 1,
-        'deaths': 8,
-        'assists': 1,
-        'win': True
-      }
-    ]
+  'Ahri': {
+    'kills': 34,
+    'deaths': 29,
+    'assists': 34
   },
-  {
-    'matchId': 'NA1_4628537245',
-    'gameStartTimestamp': 1681362637.976,
-    'players': [
-      {
-        'puuid': 'dfkAVnu-c_TcnMj9hL2LRxPpR6XW7RlLKuRQ7v6VCkCwTgYj8rbJiKHkW4uuf14fMlGgQe0J7AYyzQ',
-        'summonerName': '톱 왕',
-        'champID': 126,
-        'champName': 'Jayce',
-        'kills': 2,
-        'deaths': 0,
-        'assists': 2,
-        'win': True
-      },
-      {
-        'puuid': 'VvBO0gKiexcv5GGOuhXd80YCtMd9boqy0gORsfAUcAKZ-RW3X7AFOEt1niknq0CM7z4Yfo2HDSUjGQ',
-        'summonerName': 'ANGEL SARA',
-        'champID': 28,
-        'champName': 'Evelynn',
-        'kills': 3,
-        'deaths': 1,
-        'assists': 3,
-        'win': True
-      },
-      {
-        'puuid': 'H9NP2JFeYY_KyNPagf8679hrYLAV7oMbqjH1wuahjIFl34TuaE9ywjWkStS1JwEn6wKSyFcqgSfoWA',
-        'summonerName': 'secretelo',
-        'champID': 166,
-        'champName': 'Akshan',
-        'kills': 0,
-        'deaths': 1,
-        'assists': 0,
-        'win': True
-      },
-      {
-        'puuid': 'YZg3pcN9nAIzImWWYCrfS6pY68W1hXJ-hQG-5mFbsNWFy16AMNbdZWilumn89J-JM_khgFfAUgejVw',
-        'summonerName': 'Kral Luger',
-        'champID': 15,
-        'champName': 'Sivir',
-        'kills': 1,
-        'deaths': 0,
-        'assists': 1,
-        'win': True
-      },
-      {
-        'puuid': '5pKNQoJQiQSANjjlxMc9SivXVhX3V5benNnOr5b3tnSl00LTK_0l0V48oxfhaCBDLFzi_IX8F_ayRw',
-        'summonerName': 'Igdamor',
-        'champID': 497,
-        'champName': 'Rakan',
-        'kills': 0,
-        'deaths': 1,
-        'assists': 0,
-        'win': True
-      },
-      {
-        'puuid': '_L_rTiPsoUrI5_ZjbPCjRHd8Tn_hCHoz5DkxoLgFFjDOZoiT2QzPtf43YHXtEfVVf1f3MhhMkJKBSg',
-        'summonerName': 'Sołitaire',
-        'champID': 84,
-        'champName': 'Akali',
-        'kills': 0,
-        'deaths': 2,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'v-CLW9O3xt-iA5OZBayRBV3UbGHnSu-D_ahlIro99MLJhM-WrF5lAgJKQ74XZo7p8n2BRYZi80nWBQ',
-        'summonerName': 'jamican banana',
-        'champID': 427,
-        'champName': 'Ivern',
-        'kills': 1,
-        'deaths': 1,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': 'Zt_qUQpjNLXFZ-ukHaHto0PshsAmET75KwQQ9Gq_RP-YLImAIg_9jze7X4TTSZr2RE0HCrPUTn69cw',
-        'summonerName': 'IllllIIIIllllIIl',
-        'champID': 8,
-        'champName': 'Vladimir',
-        'kills': 0,
-        'deaths': 1,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'm-XaKsIarYIKLdh7IqUBgtGqx9UEZ-JzEkafuNTPEoRa71O7l2gD1wydFu8r0vIn2gVbUBmn1pfSrA',
-        'summonerName': 'davedanger2006',
-        'champID': 30,
-        'champName': 'Karthus',
-        'kills': 0,
-        'deaths': 2,
-        'assists': 0,
-        'win': False
-      },
-      {
-        'puuid': 'xCWo74GOHsy1eNBUUYIlmsko-T7H9o1DM3t-JNtnSlgDXcjTNTTACvm44Pjo4sVKaKSafuG1KWoN9g',
-        'summonerName': 'Gmandlife',
-        'champID': 53,
-        'champName': 'Blitzcrank',
-        'kills': 1,
-        'deaths': 0,
-        'assists': 1,
-        'win': False
-      }
-    ]
+  'Xayah': {
+    'kills': 22,
+    'deaths': 23,
+    'assists': 22
   },
-  {
-    'matchId': 'NA1_4628266035',
-    'gameStartTimestamp': 1681347122.954,
-    'players': [
-      {
-        'puuid': 'ztVjt8LuldHMgRGmmG2SuTvsb4d6GlwDbv85a3jFWuh58zaECumbkN9e9rORdS0acM75oElhPdfbVQ',
-        'summonerName': 'Dhokla',
-        'champID': 14,
-        'champName': 'Sion',
-        'kills': 4,
-        'deaths': 5,
-        'assists': 4,
-        'win': False
-      },
-      {
-        'puuid': 'v-CLW9O3xt-iA5OZBayRBV3UbGHnSu-D_ahlIro99MLJhM-WrF5lAgJKQ74XZo7p8n2BRYZi80nWBQ',
-        'summonerName': 'jamican banana',
-        'champID': 38,
-        'champName': 'Kassadin',
-        'kills': 4,
-        'deaths': 8,
-        'assists': 4,
-        'win': False
-      },
-      {
-        'puuid': 'MLeOF3gVR0coXo3fHoJHs-3I6Z2wQgGJBvk8gHgV60yhdDsdPdypZ-cCIUGfUa0WcqMvmHh1agVFSw',
-        'summonerName': 'JACK4L',
-        'champID': 141,
-        'champName': 'Kayn',
-        'kills': 4,
-        'deaths': 7,
-        'assists': 4,
-        'win': False
-      },
-      {
-        'puuid': 'Zr8pEjiPLW1mrGC7KoKGqCFZkRLRTRf-v5fBlR-OqZpH62LduedImDcuURIf21EXZTz2mjcvtjjbnA',
-        'summonerName': 'TBS2',
-        'champID': 29,
-        'champName': 'Twitch',
-        'kills': 4,
-        'deaths': 8,
-        'assists': 4,
-        'win': False
-      },
-      {
-        'puuid': 'LlL_Crcr7aN0saHc_r9C0r9q6cGfFirhAK-G3ljc8rw-JR1YEniaiNMAJI5j3QjU-_mmoB-ln0bHZQ',
-        'summonerName': 'Sword2',
-        'champID': 888,
-        'champName': 'Renata',
-        'kills': 1,
-        'deaths': 7,
-        'assists': 1,
-        'win': False
-      },
-      {
-        'puuid': 'XVb255LvUZleCAiq0yzYwOQSO7CMXN-eEYCpiGCj2nAXNk94COoRJtmE9rr6ombMm84qMBF1Yem4HQ',
-        'summonerName': 'lolyaoyao',
-        'champID': 2,
-        'champName': 'Olaf',
-        'kills': 7,
-        'deaths': 4,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'Jirkse4VC8OB_-QaFI4BPthEX1ivDYK2Z288mqm5BJ4Hq-YiQQTYX_Q1XI3Ouj62BafBoO8Z9QeNUQ',
-        'summonerName': 'Dreàmer',
-        'champID': 30,
-        'champName': 'Karthus',
-        'kills': 8,
-        'deaths': 6,
-        'assists': 8,
-        'win': True
-      },
-      {
-        'puuid': 'GFcOudEaYtnLf6VyO5tS6NCr2zrXTf285p1KAv3mzpA19vQTFKG8cM05wShVGLfKC6xgIaQ7qyBuEQ',
-        'summonerName': 'SN Angel',
-        'champID': 126,
-        'champName': 'Jayce',
-        'kills': 8,
-        'deaths': 3,
-        'assists': 8,
-        'win': True
-      },
-      {
-        'puuid': 'YZg3pcN9nAIzImWWYCrfS6pY68W1hXJ-hQG-5mFbsNWFy16AMNbdZWilumn89J-JM_khgFfAUgejVw',
-        'summonerName': 'Kral Luger',
-        'champID': 222,
-        'champName': 'Jinx',
-        'kills': 7,
-        'deaths': 3,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'GRN2ANOq6oduT3WTXy38HkIh24702RC5pj1KZJ-_Otwm_iZIHfgJQKu6sZhlz02dJP_9dkI-nL5UDQ',
-        'summonerName': 'Debraj',
-        'champID': 43,
-        'champName': 'Karma',
-        'kills': 5,
-        'deaths': 2,
-        'assists': 5,
-        'win': True
-      }
-    ]
+  'Thresh': {
+    'kills': 12,
+    'deaths': 23,
+    'assists': 12
   },
-  {
-    'matchId': 'NA1_4628225771',
-    'gameStartTimestamp': 1681344417.89,
-    'players': [
-      {
-        'puuid': '_L_rTiPsoUrI5_ZjbPCjRHd8Tn_hCHoz5DkxoLgFFjDOZoiT2QzPtf43YHXtEfVVf1f3MhhMkJKBSg',
-        'summonerName': 'Sołitaire',
-        'champID': 54,
-        'champName': 'Malphite',
-        'kills': 7,
-        'deaths': 2,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'dB-jXrljiV53coxENI6hTu0Go7H8HNEuDaW9auAr2V9AHVz74fOwHwb45K_fKykaP0kYqgJ1JxBNww',
-        'summonerName': 'SIayer Supreme',
-        'champID': 24,
-        'champName': 'Jax',
-        'kills': 11,
-        'deaths': 5,
-        'assists': 11,
-        'win': True
-      },
-      {
-        'puuid': 'PmLxZrENZlPu5jjKZGvKWS68syVDHTe6paWO-xnPi4UFFmysbXnXe5F7tam0bfo-dAPbTc7ALt_-Eg',
-        'summonerName': 'Ariendel',
-        'champID': 517,
-        'champName': 'Sylas',
-        'kills': 7,
-        'deaths': 5,
-        'assists': 7,
-        'win': True
-      },
-      {
-        'puuid': 'YZg3pcN9nAIzImWWYCrfS6pY68W1hXJ-hQG-5mFbsNWFy16AMNbdZWilumn89J-JM_khgFfAUgejVw',
-        'summonerName': 'Kral Luger',
-        'champID': 221,
-        'champName': 'Zeri',
-        'kills': 12,
-        'deaths': 2,
-        'assists': 12,
-        'win': True
-      },
-      {
-        'puuid': 'zL-m_t9FCNxSWMTPdIZlt5bV5K7iRrhW3gcCB-s8y-nuntYG-chyqOuocnbmQpO6SOqMRHQcENsXeQ',
-        'summonerName': 'davidmonsterfan',
-        'champID': 497,
-        'champName': 'Rakan',
-        'kills': 3,
-        'deaths': 6,
-        'assists': 3,
-        'win': True
-      },
-      {
-        'puuid': '12bsbax9TgQJ-0D39mmyTR3wp323BjL3nNejyQUZIfz-_KU1f6dODkVYsorvZUxjFnOc1r7-ARA7CQ',
-        'summonerName': 'Eclipse',
-        'champID': 68,
-        'champName': 'Rumble',
-        'kills': 2,
-        'deaths': 8,
-        'assists': 2,
-        'win': False
-      },
-      {
-        'puuid': 'pcFtEBvr6dZw2UZlG6QlRFzge31WXdC80bkBhyVpXpBSDAVtX3LcloFpxcqt0PwKFnzN9oOcq0qBFw',
-        'summonerName': 'ARMAO',
-        'champID': 60,
-        'champName': 'Elise',
-        'kills': 5,
-        'deaths': 7,
-        'assists': 5,
-        'win': False
-      },
-      {
-        'puuid': '_HcDAp9qB4qiyVj68MV5RCOeoLs9jHtfzSMbeH8VI_UVJ830PmpepoOLNbSYEY7IV1JOlLrY9Euw7Q',
-        'summonerName': 'Potato Candy',
-        'champID': 126,
-        'champName': 'Jayce',
-        'kills': 5,
-        'deaths': 10,
-        'assists': 5,
-        'win': False
-      },
-      {
-        'puuid': 'ISQi4VsoX0TvBVnVIMrenaeCEKR-EKjJ_2eV4Pk75yx2jHMM_tXwzd1PS69zL2NRhlZH5AHeAZE09g',
-        'summonerName': 'SANDBOX TEDDY',
-        'champID': 81,
-        'champName': 'Ezreal',
-        'kills': 5,
-        'deaths': 6,
-        'assists': 5,
-        'win': False
-      },
-      {
-        'puuid': '1pOJ-Db_a14g4ev8NGGSAODHoc0K3o6_uwRIFUcR9g7im-etYFeY2V7VUiwGJT9HISW327vt8hZzzw',
-        'summonerName': 'Breezyyy',
-        'champID': 235,
-        'champName': 'Senna',
-        'kills': 2,
-        'deaths': 9,
-        'assists': 2,
-        'win': False
-      }
-    ]
+  'Gwen': {
+    'kills': 7,
+    'deaths': 5,
+    'assists': 7
+  },
+  'Rengar': {
+    'kills': 13,
+    'deaths': 7,
+    'assists': 13
+  },
+  'Sion': {
+    'kills': 10,
+    'deaths': 18,
+    'assists': 10
+  },
+  'Varus': {
+    'kills': 38,
+    'deaths': 27,
+    'assists': 38
+  },
+  'Morgana': {
+    'kills': 1,
+    'deaths': 3,
+    'assists': 1
+  },
+  'Maokai': {
+    'kills': 2,
+    'deaths': 4,
+    'assists': 2
+  },
+  'Ornn': {
+    'kills': 5,
+    'deaths': 3,
+    'assists': 5
+  },
+  'Yone': {
+    'kills': 10,
+    'deaths': 15,
+    'assists': 10
+  },
+  'Sivir': {
+    'kills': 1,
+    'deaths': 7,
+    'assists': 1
+  },
+  'Malphite': {
+    'kills': 25,
+    'deaths': 32,
+    'assists': 25
+  },
+  'Graves': {
+    'kills': 71,
+    'deaths': 41,
+    'assists': 71
+  },
+  'Heimerdinger': {
+    'kills': 0,
+    'deaths': 5,
+    'assists': 0
+  },
+  'Bard': {
+    'kills': 1,
+    'deaths': 1,
+    'assists': 1
+  },
+  'Zeri': {
+    'kills': 43,
+    'deaths': 31,
+    'assists': 43
+  },
+  'Annie': {
+    'kills': 2,
+    'deaths': 1,
+    'assists': 2
+  },
+  'Viktor': {
+    'kills': 9,
+    'deaths': 14,
+    'assists': 9
+  },
+  'Jax': {
+    'kills': 14,
+    'deaths': 16,
+    'assists': 14
+  },
+  'Talon': {
+    'kills': 25,
+    'deaths': 13,
+    'assists': 25
+  },
+  'Rakan': {
+    'kills': 7,
+    'deaths': 22,
+    'assists': 7
+  },
+  'Akshan': {
+    'kills': 3,
+    'deaths': 12,
+    'assists': 3
+  },
+  'Kindred': {
+    'kills': 17,
+    'deaths': 19,
+    'assists': 17
+  },
+  'Swain': {
+    'kills': 6,
+    'deaths': 6,
+    'assists': 6
+  },
+  'Pantheon': {
+    'kills': 37,
+    'deaths': 29,
+    'assists': 37
+  },
+  'Jinx': {
+    'kills': 44,
+    'deaths': 45,
+    'assists': 44
+  },
+  'Nautilus': {
+    'kills': 4,
+    'deaths': 39,
+    'assists': 4
+  },
+  'Rumble': {
+    'kills': 20,
+    'deaths': 18,
+    'assists': 20
+  },
+  'Sylas': {
+    'kills': 20,
+    'deaths': 11,
+    'assists': 20
+  },
+  'Draven': {
+    'kills': 10,
+    'deaths': 4,
+    'assists': 10
+  },
+  'Lux': {
+    'kills': 13,
+    'deaths': 2,
+    'assists': 13
+  },
+  'JarvanIV': {
+    'kills': 3,
+    'deaths': 6,
+    'assists': 3
+  },
+  'Gragas': {
+    'kills': 24,
+    'deaths': 17,
+    'assists': 24
+  },
+  'Lulu': {
+    'kills': 0,
+    'deaths': 3,
+    'assists': 0
+  },
+  'Akali': {
+    'kills': 3,
+    'deaths': 13,
+    'assists': 3
+  },
+  'KSante': {
+    'kills': 9,
+    'deaths': 19,
+    'assists': 9
+  },
+  'LeeSin': {
+    'kills': 17,
+    'deaths': 14,
+    'assists': 17
+  },
+  'MonkeyKing': {
+    'kills': 10,
+    'deaths': 6,
+    'assists': 10
+  },
+  'Lissandra': {
+    'kills': 15,
+    'deaths': 16,
+    'assists': 15
+  },
+  'Seraphine': {
+    'kills': 18,
+    'deaths': 8,
+    'assists': 18
+  },
+  'Pyke': {
+    'kills': 19,
+    'deaths': 20,
+    'assists': 19
+  },
+  'Viego': {
+    'kills': 7,
+    'deaths': 8,
+    'assists': 7
+  },
+  'Nocturne': {
+    'kills': 5,
+    'deaths': 4,
+    'assists': 5
+  },
+  'Milio': {
+    'kills': 6,
+    'deaths': 35,
+    'assists': 6
+  },
+  'Kennen': {
+    'kills': 17,
+    'deaths': 21,
+    'assists': 17
+  },
+  'Zed': {
+    'kills': 14,
+    'deaths': 7,
+    'assists': 14
+  },
+  'Senna': {
+    'kills': 4,
+    'deaths': 9,
+    'assists': 4
+  },
+  'Yasuo': {
+    'kills': 12,
+    'deaths': 6,
+    'assists': 12
+  },
+  'Lucian': {
+    'kills': 41,
+    'deaths': 21,
+    'assists': 41
+  },
+  'Olaf': {
+    'kills': 18,
+    'deaths': 21,
+    'assists': 18
+  },
+  'Renata': {
+    'kills': 7,
+    'deaths': 19,
+    'assists': 7
+  },
+  'Evelynn': {
+    'kills': 8,
+    'deaths': 8,
+    'assists': 8
+  },
+  'Ivern': {
+    'kills': 11,
+    'deaths': 2,
+    'assists': 11
+  },
+  'Vladimir': {
+    'kills': 11,
+    'deaths': 17,
+    'assists': 11
+  },
+  'Karthus': {
+    'kills': 24,
+    'deaths': 13,
+    'assists': 24
+  },
+  'Blitzcrank': {
+    'kills': 3,
+    'deaths': 4,
+    'assists': 3
+  },
+  'Camille': {
+    'kills': 3,
+    'deaths': 2,
+    'assists': 3
+  },
+  'Darius': {
+    'kills': 6,
+    'deaths': 5,
+    'assists': 6
+  },
+  'Ziggs': {
+    'kills': 5,
+    'deaths': 6,
+    'assists': 5
+  },
+  'Aatrox': {
+    'kills': 3,
+    'deaths': 8,
+    'assists': 3
+  },
+  'Ashe': {
+    'kills': 10,
+    'deaths': 5,
+    'assists': 10
+  },
+  'Tristana': {
+    'kills': 11,
+    'deaths': 11,
+    'assists': 11
+  },
+  'Jhin': {
+    'kills': 17,
+    'deaths': 7,
+    'assists': 17
+  },
+  'Nami': {
+    'kills': 2,
+    'deaths': 7,
+    'assists': 2
+  },
+  'Renekton': {
+    'kills': 11,
+    'deaths': 5,
+    'assists': 11
+  },
+  'Neeko': {
+    'kills': 2,
+    'deaths': 5,
+    'assists': 2
+  },
+  'Riven': {
+    'kills': 1,
+    'deaths': 6,
+    'assists': 1
+  },
+  'Aphelios': {
+    'kills': 18,
+    'deaths': 12,
+    'assists': 18
+  },
+  'Kled': {
+    'kills': 3,
+    'deaths': 5,
+    'assists': 3
+  },
+  'Cassiopeia': {
+    'kills': 5,
+    'deaths': 4,
+    'assists': 5
+  },
+  'Nidalee': {
+    'kills': 4,
+    'deaths': 6,
+    'assists': 4
+  },
+  'Zoe': {
+    'kills': 5,
+    'deaths': 7,
+    'assists': 5
+  },
+  'Teemo': {
+    'kills': 11,
+    'deaths': 11,
+    'assists': 11
+  },
+  'Belveth': {
+    'kills': 7,
+    'deaths': 7,
+    'assists': 7
+  },
+  'Kaisa': {
+    'kills': 24,
+    'deaths': 16,
+    'assists': 24
+  },
+  'Irelia': {
+    'kills': 16,
+    'deaths': 5,
+    'assists': 16
+  },
+  'FiddleSticks': {
+    'kills': 6,
+    'deaths': 2,
+    'assists': 6
+  },
+  'Amumu': {
+    'kills': 2,
+    'deaths': 4,
+    'assists': 2
+  },
+  'Poppy': {
+    'kills': 2,
+    'deaths': 10,
+    'assists': 2
+  },
+  'Twitch': {
+    'kills': 23,
+    'deaths': 4,
+    'assists': 23
+  },
+  'Kayn': {
+    'kills': 7,
+    'deaths': 9,
+    'assists': 7
+  },
+  'Leblanc': {
+    'kills': 11,
+    'deaths': 6,
+    'assists': 11
+  },
+  'Veigar': {
+    'kills': 7,
+    'deaths': 12,
+    'assists': 7
+  },
+  'Janna': {
+    'kills': 0,
+    'deaths': 5,
+    'assists': 0
+  },
+  'Katarina': {
+    'kills': 10,
+    'deaths': 4,
+    'assists': 10
+  },
+  'Qiyana': {
+    'kills': 2,
+    'deaths': 4,
+    'assists': 2
+  },
+  'Lillia': {
+    'kills': 5,
+    'deaths': 2,
+    'assists': 5
+  },
+  'Elise': {
+    'kills': 4,
+    'deaths': 10,
+    'assists': 4
+  },
+  'Yuumi': {
+    'kills': 2,
+    'deaths': 9,
+    'assists': 2
+  },
+  'Singed': {
+    'kills': 3,
+    'deaths': 4,
+    'assists': 3
+  },
+  'MasterYi': {
+    'kills': 11,
+    'deaths': 2,
+    'assists': 11
+  },
+  'Galio': {
+    'kills': 4,
+    'deaths': 0,
+    'assists': 4
+  },
+  'Vi': {
+    'kills': 1,
+    'deaths': 4,
+    'assists': 1
   }
-]
+}

@@ -12,8 +12,8 @@ puuid_list_json = json.loads(file_contents)
 match_list = []
 
 for index, player in enumerate(puuid_list_json):
-    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=5)
-    if index >= 4:
+    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=10)
+    if index >= 20:
         break
     print(index, matches, player)
     for match in matches:
@@ -33,10 +33,12 @@ print(f'match list number:{len(result)}')
 
 all_matches = []
 
-for match in result:
+for index, match in enumerate(result):
     match_info = lol_watcher.match.by_id(region=player_region, match_id=match)
     match_timestamp = match_info['info']['gameStartTimestamp']
     converted_time = match_timestamp / 1000
+
+    print(index)
 
     player_list = []
     for player in match_info['info']['participants']:
@@ -81,3 +83,29 @@ for eachMatch in all_matches:
 
 print(all_matches_timed)
 print(len(all_matches_timed))
+
+final_results = {}
+kills = 0
+deaths = 0
+assists = 0
+for eachMatch in all_matches_timed:
+    for eachPlayer in eachMatch['players']:
+
+        champName = eachPlayer['champName']
+        champKills = eachPlayer['kills']
+        champDeaths = eachPlayer['deaths']
+        champAssists = eachPlayer['assists']
+
+        if champName not in final_results:
+            final_results[champName] = {'kills': champKills, 'deaths': champDeaths, 'assists': champAssists}
+        else:
+            kills = final_results[champName]['kills'] + champKills
+            deaths = final_results[champName]['deaths'] + champDeaths
+            assists = final_results[champName]['assists'] + champAssists
+            final_results[champName]['kills'] = kills
+            final_results[champName]['deaths'] = deaths
+            final_results[champName]['assists'] = assists
+
+print(final_results)
+print(len(final_results))
+
