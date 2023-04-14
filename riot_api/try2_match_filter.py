@@ -15,15 +15,11 @@ with open('json/puuid_list.json') as user_file:
     file_contents = user_file.read()
 puuid_list_json = json.loads(file_contents)
 
-with open('json/champs.json') as user_file:
-    file_contents = user_file.read()
-champsJSON = json.loads(file_contents)
-
 match_list = []
 
 for index, player in enumerate(puuid_list_json):
     matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=5)
-    if index >= 5:
+    if index >= 20:
         break
     print(index, player, matches)
     for match in matches:
@@ -107,24 +103,55 @@ for eachMatch in all_matches_timed:
         champKills = eachPlayer['kills']
         champDeaths = eachPlayer['deaths']
         champAssists = eachPlayer['assists']
+        winBoolean = eachPlayer['win']
+
+        if winBoolean == True:
+            champWins = 1
+            champLooses = 0
+        else:
+            champLooses = 1
+            champWins = 0
 
         if champName not in final_results:
-            final_results[champName] = {'kills': champKills, 'deaths': champDeaths, 'assists': champAssists}
+            final_results[champName] = {
+                'kills': champKills,
+                'deaths': champDeaths,
+                'assists': champAssists,
+                'champWins': champWins,
+                'champLooses': champLooses
+            }
         else:
             kills = final_results[champName]['kills'] + champKills
             deaths = final_results[champName]['deaths'] + champDeaths
             assists = final_results[champName]['assists'] + champAssists
+            wins = final_results[champName]['champWins'] + champWins
+            looses = final_results[champName]['champLooses'] + champLooses
             final_results[champName]['kills'] = kills
             final_results[champName]['deaths'] = deaths
             final_results[champName]['assists'] = assists
+            final_results[champName]['champWins'] = wins
+            final_results[champName]['champLooses'] = looses
 
 now_nice = time.ctime(time.time())
 print(f'{now_nice} champion entries into champ_stats.json: {len(final_results)}')
 
-for eachChamp in final_results:
-    print(eachChamp)
+new_champStats = {}
+for key, value in final_results.items():
+
+    if key == 'MonkeyKing':
+        new_key = 'Wukong'
+    elif key == 'AurelionSol':
+        new_key = 'Aurelion Sol'
+    elif key == 'KSante':
+        new_key = "K'Sante"
+    elif key == 'JarvanIV':
+        new_key = "Jarvan IV"
+    else:
+        new_key = key
+
+    new_champStats[new_key] = value
 
 with open('json/champ_stats.json', 'w', encoding='utf-8') as f:
-    json.dump(final_results, f, ensure_ascii=False, indent=4)
+    json.dump(new_champStats, f, ensure_ascii=False, indent=4)
 
 

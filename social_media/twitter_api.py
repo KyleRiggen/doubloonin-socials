@@ -4,10 +4,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import config
+from dotenv import load_dotenv
+import os
 
-USERNAME = config.twitter_username
-PASSWORD = config.twitter_password
+load_dotenv('../config2.env')
+USERNAME = os.environ['twitter_username']
+PASSWORD = os.environ['twitter_password']
 driver = webdriver.Chrome()
 
 driver.get("https://www.twitter.com/login")

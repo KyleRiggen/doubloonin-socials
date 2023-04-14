@@ -24,7 +24,7 @@ champStats = {
         "deaths": 3,
         "assists": 1
     },
-    "Ryze": {
+    "AurelionSol": {
         "kills": 2,
         "deaths": 3,
         "assists": 2
@@ -36,11 +36,25 @@ champStats = {
     }
 }
 
-for key in champs['data']:
-    if key != champs['data'][key]['name']:
-        replacement = champs['data'][key]['name']
-        values = champStats[key]
-        champStats[replacement] = values
-        del champStats[key]
+new_champStats = {}
+for key, value in champStats.items():
 
-print(champStats)
+    if key == 'MonkeyKing':
+        new_key = 'Wukong'
+    elif key == 'AurelionSol':
+        new_key = 'Aurelion Sol'
+    else:
+        new_key = key
+
+    new_champStats[new_key] = value
+
+print(new_champStats)
+
+
+# for key in champs['data']:
+#     if key != champs['data'][key]['name']:
+#         replacement = champs['data'][key]['name']
+#         values = champStats[key]
+#         champStats[replacement] = values
+#         del champStats[key]
+

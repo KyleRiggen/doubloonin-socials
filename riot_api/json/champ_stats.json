@@ -1,197 +1,506 @@
 {
+    "Yasuo": {
+        "kills": 14,
+        "deaths": 26,
+        "assists": 14,
+        "champWins": 1,
+        "champLooses": 3
+    },
+    "Pyke": {
+        "kills": 27,
+        "deaths": 22,
+        "assists": 27,
+        "champWins": 1,
+        "champLooses": 2
+    },
     "Tryndamere": {
         "kills": 1,
         "deaths": 3,
-        "assists": 1
+        "assists": 1,
+        "champWins": 0,
+        "champLooses": 1
     },
     "Ryze": {
         "kills": 2,
         "deaths": 3,
-        "assists": 2
+        "assists": 2,
+        "champWins": 0,
+        "champLooses": 1
     },
-    "MonkeyKing": {
-        "kills": 21,
-        "deaths": 14,
-        "assists": 21
+    "Wukong": {
+        "kills": 32,
+        "deaths": 24,
+        "assists": 32,
+        "champWins": 2,
+        "champLooses": 3
     },
     "Zeri": {
-        "kills": 20,
-        "deaths": 8,
-        "assists": 20
+        "kills": 31,
+        "deaths": 21,
+        "assists": 31,
+        "champWins": 3,
+        "champLooses": 2
     },
     "Jayce": {
-        "kills": 14,
-        "deaths": 12,
-        "assists": 14
+        "kills": 52,
+        "deaths": 46,
+        "assists": 52,
+        "champWins": 7,
+        "champLooses": 2
     },
     "Aphelios": {
-        "kills": 13,
-        "deaths": 7,
-        "assists": 13
-    },
-    "Yasuo": {
-        "kills": 11,
-        "deaths": 25,
-        "assists": 11
+        "kills": 27,
+        "deaths": 15,
+        "assists": 27,
+        "champWins": 2,
+        "champLooses": 1
     },
     "Gragas": {
-        "kills": 9,
-        "deaths": 16,
-        "assists": 9
+        "kills": 17,
+        "deaths": 28,
+        "assists": 17,
+        "champWins": 2,
+        "champLooses": 2
     },
     "Xayah": {
-        "kills": 31,
-        "deaths": 35,
-        "assists": 31
-    },
-    "Pyke": {
-        "kills": 7,
-        "deaths": 9,
-        "assists": 7
+        "kills": 39,
+        "deaths": 37,
+        "assists": 39,
+        "champWins": 3,
+        "champLooses": 4
     },
     "Ivern": {
-        "kills": 1,
-        "deaths": 4,
-        "assists": 1
+        "kills": 7,
+        "deaths": 12,
+        "assists": 7,
+        "champWins": 2,
+        "champLooses": 2
     },
     "Morgana": {
-        "kills": 11,
-        "deaths": 13,
-        "assists": 11
+        "kills": 9,
+        "deaths": 3,
+        "assists": 9,
+        "champWins": 0,
+        "champLooses": 1
     },
-    "KSante": {
-        "kills": 4,
-        "deaths": 4,
-        "assists": 4
+    "K'Sante": {
+        "kills": 26,
+        "deaths": 24,
+        "assists": 26,
+        "champWins": 6,
+        "champLooses": 0
     },
     "Jinx": {
-        "kills": 10,
-        "deaths": 7,
-        "assists": 10
+        "kills": 43,
+        "deaths": 35,
+        "assists": 43,
+        "champWins": 3,
+        "champLooses": 3
     },
     "Alistar": {
         "kills": 3,
         "deaths": 4,
-        "assists": 3
+        "assists": 3,
+        "champWins": 1,
+        "champLooses": 0
     },
     "Elise": {
-        "kills": 6,
-        "deaths": 4,
-        "assists": 6
+        "kills": 26,
+        "deaths": 11,
+        "assists": 26,
+        "champWins": 2,
+        "champLooses": 1
     },
     "Malphite": {
-        "kills": 2,
-        "deaths": 4,
-        "assists": 2
+        "kills": 4,
+        "deaths": 11,
+        "assists": 4,
+        "champWins": 3,
+        "champLooses": 0
     },
     "Lux": {
         "kills": 10,
         "deaths": 4,
-        "assists": 10
+        "assists": 10,
+        "champWins": 2,
+        "champLooses": 0
     },
     "Rakan": {
-        "kills": 3,
-        "deaths": 8,
-        "assists": 3
+        "kills": 10,
+        "deaths": 21,
+        "assists": 10,
+        "champWins": 4,
+        "champLooses": 1
     },
-    "Maokai": {
-        "kills": 0,
-        "deaths": 7,
-        "assists": 0
+    "Senna": {
+        "kills": 7,
+        "deaths": 25,
+        "assists": 7,
+        "champWins": 1,
+        "champLooses": 1
     },
-    "Milio": {
-        "kills": 1,
-        "deaths": 2,
-        "assists": 1
-    },
-    "Renekton": {
-        "kills": 5,
-        "deaths": 1,
-        "assists": 5
+    "Jax": {
+        "kills": 23,
+        "deaths": 10,
+        "assists": 23,
+        "champWins": 1,
+        "champLooses": 1
     },
     "Thresh": {
-        "kills": 2,
-        "deaths": 3,
-        "assists": 2
+        "kills": 6,
+        "deaths": 21,
+        "assists": 6,
+        "champWins": 1,
+        "champLooses": 3
+    },
+    "Talon": {
+        "kills": 16,
+        "deaths": 5,
+        "assists": 16,
+        "champWins": 1,
+        "champLooses": 0
     },
     "Lillia": {
         "kills": 4,
         "deaths": 2,
-        "assists": 4
+        "assists": 4,
+        "champWins": 0,
+        "champLooses": 1
     },
     "Nautilus": {
         "kills": 2,
         "deaths": 17,
-        "assists": 2
+        "assists": 2,
+        "champWins": 1,
+        "champLooses": 2
     },
     "Orianna": {
         "kills": 6,
         "deaths": 3,
-        "assists": 6
+        "assists": 6,
+        "champWins": 0,
+        "champLooses": 1
     },
     "Viktor": {
         "kills": 9,
-        "deaths": 5,
-        "assists": 9
-    },
-    "Jax": {
-        "kills": 12,
-        "deaths": 5,
-        "assists": 12
+        "deaths": 8,
+        "assists": 9,
+        "champWins": 1,
+        "champLooses": 1
     },
     "Kindred": {
-        "kills": 7,
-        "deaths": 11,
-        "assists": 7
+        "kills": 9,
+        "deaths": 16,
+        "assists": 9,
+        "champWins": 0,
+        "champLooses": 2
     },
     "Swain": {
-        "kills": 9,
-        "deaths": 8,
-        "assists": 9
+        "kills": 51,
+        "deaths": 36,
+        "assists": 51,
+        "champWins": 3,
+        "champLooses": 4
     },
     "Karma": {
-        "kills": 0,
-        "deaths": 7,
-        "assists": 0
+        "kills": 2,
+        "deaths": 9,
+        "assists": 2,
+        "champWins": 0,
+        "champLooses": 2
     },
     "Olaf": {
-        "kills": 5,
-        "deaths": 3,
-        "assists": 5
+        "kills": 14,
+        "deaths": 16,
+        "assists": 14,
+        "champWins": 0,
+        "champLooses": 3
     },
     "Gnar": {
         "kills": 10,
         "deaths": 5,
-        "assists": 10
+        "assists": 10,
+        "champWins": 1,
+        "champLooses": 0
     },
     "Taric": {
         "kills": 1,
-        "deaths": 4,
-        "assists": 1
+        "deaths": 8,
+        "assists": 1,
+        "champWins": 2,
+        "champLooses": 0
     },
     "Ahri": {
-        "kills": 9,
-        "deaths": 4,
-        "assists": 9
+        "kills": 14,
+        "deaths": 7,
+        "assists": 14,
+        "champWins": 2,
+        "champLooses": 0
     },
     "Lulu": {
         "kills": 0,
         "deaths": 2,
-        "assists": 0
+        "assists": 0,
+        "champWins": 2,
+        "champLooses": 0
     },
-    "JarvanIV": {
+    "Jarvan IV": {
         "kills": 3,
         "deaths": 6,
-        "assists": 3
+        "assists": 3,
+        "champWins": 0,
+        "champLooses": 1
     },
     "Sylas": {
-        "kills": 4,
-        "deaths": 5,
-        "assists": 4
+        "kills": 12,
+        "deaths": 11,
+        "assists": 12,
+        "champWins": 0,
+        "champLooses": 3
     },
     "Graves": {
-        "kills": 6,
+        "kills": 15,
+        "deaths": 7,
+        "assists": 15,
+        "champWins": 2,
+        "champLooses": 0
+    },
+    "Leblanc": {
+        "kills": 16,
+        "deaths": 7,
+        "assists": 16,
+        "champWins": 2,
+        "champLooses": 0
+    },
+    "Kennen": {
+        "kills": 15,
+        "deaths": 15,
+        "assists": 15,
+        "champWins": 2,
+        "champLooses": 2
+    },
+    "Caitlyn": {
+        "kills": 3,
+        "deaths": 5,
+        "assists": 3,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Heimerdinger": {
+        "kills": 2,
+        "deaths": 6,
+        "assists": 2,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Viego": {
+        "kills": 16,
+        "deaths": 14,
+        "assists": 16,
+        "champWins": 0,
+        "champLooses": 2
+    },
+    "Zed": {
+        "kills": 16,
+        "deaths": 11,
+        "assists": 16,
+        "champWins": 1,
+        "champLooses": 1
+    },
+    "Milio": {
+        "kills": 3,
+        "deaths": 10,
+        "assists": 3,
+        "champWins": 1,
+        "champLooses": 2
+    },
+    "Varus": {
+        "kills": 17,
+        "deaths": 7,
+        "assists": 17,
+        "champWins": 2,
+        "champLooses": 0
+    },
+    "Pantheon": {
+        "kills": 13,
+        "deaths": 3,
+        "assists": 13,
+        "champWins": 1,
+        "champLooses": 0
+    },
+    "Annie": {
+        "kills": 3,
+        "deaths": 16,
+        "assists": 3,
+        "champWins": 0,
+        "champLooses": 2
+    },
+    "Nidalee": {
+        "kills": 9,
+        "deaths": 9,
+        "assists": 9,
+        "champWins": 1,
+        "champLooses": 1
+    },
+    "Diana": {
+        "kills": 3,
+        "deaths": 1,
+        "assists": 3,
+        "champWins": 1,
+        "champLooses": 0
+    },
+    "Ezreal": {
+        "kills": 13,
+        "deaths": 5,
+        "assists": 13,
+        "champWins": 1,
+        "champLooses": 1
+    },
+    "Zac": {
+        "kills": 7,
+        "deaths": 0,
+        "assists": 7,
+        "champWins": 1,
+        "champLooses": 0
+    },
+    "Zoe": {
+        "kills": 21,
+        "deaths": 19,
+        "assists": 21,
+        "champWins": 2,
+        "champLooses": 2
+    },
+    "Gwen": {
+        "kills": 3,
+        "deaths": 4,
+        "assists": 3,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Seraphine": {
+        "kills": 0,
         "deaths": 2,
-        "assists": 6
+        "assists": 0,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Sejuani": {
+        "kills": 2,
+        "deaths": 6,
+        "assists": 2,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Renekton": {
+        "kills": 1,
+        "deaths": 2,
+        "assists": 1,
+        "champWins": 1,
+        "champLooses": 0
+    },
+    "Evelynn": {
+        "kills": 5,
+        "deaths": 0,
+        "assists": 5,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Akshan": {
+        "kills": 3,
+        "deaths": 5,
+        "assists": 3,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Ekko": {
+        "kills": 9,
+        "deaths": 13,
+        "assists": 9,
+        "champWins": 0,
+        "champLooses": 2
+    },
+    "Neeko": {
+        "kills": 5,
+        "deaths": 8,
+        "assists": 5,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Sivir": {
+        "kills": 2,
+        "deaths": 8,
+        "assists": 2,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Nami": {
+        "kills": 1,
+        "deaths": 5,
+        "assists": 1,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Rumble": {
+        "kills": 4,
+        "deaths": 5,
+        "assists": 4,
+        "champWins": 1,
+        "champLooses": 0
+    },
+    "LeeSin": {
+        "kills": 7,
+        "deaths": 14,
+        "assists": 7,
+        "champWins": 1,
+        "champLooses": 1
+    },
+    "Hecarim": {
+        "kills": 9,
+        "deaths": 7,
+        "assists": 9,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Renata": {
+        "kills": 5,
+        "deaths": 4,
+        "assists": 5,
+        "champWins": 1,
+        "champLooses": 0
+    },
+    "Rengar": {
+        "kills": 5,
+        "deaths": 3,
+        "assists": 5,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Udyr": {
+        "kills": 7,
+        "deaths": 12,
+        "assists": 7,
+        "champWins": 1,
+        "champLooses": 1
+    },
+    "Blitzcrank": {
+        "kills": 3,
+        "deaths": 6,
+        "assists": 3,
+        "champWins": 0,
+        "champLooses": 1
+    },
+    "Qiyana": {
+        "kills": 15,
+        "deaths": 3,
+        "assists": 15,
+        "champWins": 1,
+        "champLooses": 0
+    },
+    "Yuumi": {
+        "kills": 2,
+        "deaths": 2,
+        "assists": 2,
+        "champWins": 0,
+        "champLooses": 1
     }
 }
