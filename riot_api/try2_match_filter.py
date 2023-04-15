@@ -1,7 +1,6 @@
 from setup import setup_enviorment
 import json
 import time
-import os
 
 now = time.time()
 now_nice = time.ctime(time.time())
@@ -19,9 +18,9 @@ puuid_list_json = json.loads(file_contents)
 match_list = []
 
 for index, player in enumerate(puuid_list_json):
-    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=8)
-    # if index >= 30:
-    #     break
+    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=2)
+    if index >= 100:
+        break
     print(index, player, matches)
     for match in matches:
         match_list.append(match)
@@ -156,6 +155,12 @@ for key, value in final_results.items():
         new_key = "Jarvan IV"
     elif key == 'XinZhao':
         new_key = "Xin Zhao"
+    elif key == 'DrMundo':
+        new_key = "Dr Mundo"
+    elif key == 'KogMaw':
+        new_key = "Kog'Maw"
+    elif key == 'TahmKench':
+        new_key = "Tahm Kench"
     else:
         new_key = key
 
@@ -181,12 +186,23 @@ with open('json/champ_stats.json', 'w', encoding='utf-8') as f:
 def get_top_scores(champStats):
     list_champs = [(name, champStats[name]['score']) for name in champStats]
     sorted_champs = sorted(list_champs, key=lambda x: x[1], reverse=True)
-    print(sorted_champs)
+    # print(sorted_champs)
     ret_dict = {}
     for champ, kills in sorted_champs[:10]:
         ret_dict[champ] = kills
 
-    return ret_dict
+    return sorted_champs
+def create_publish_file():
+    f = open("publish.txt", "a")
+    opening = '||Champion|Points| \n|-|-|-| \n'
+    f.write(opening)
 
+    for index, champ in enumerate(get_top_scores(new_champStats)):
+        round_points = round(champ[1], 1)
+        string = f"| {index + 1} | {champ[0]} | {round_points} | \n"
+        f.write(string)
+
+    f.close()
 
 print(get_top_scores(new_champStats))
+create_publish_file()
