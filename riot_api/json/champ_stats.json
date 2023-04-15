@@ -1,0 +1,1109 @@
+{
+    "Yasuo": {
+        "kills": 126,
+        "deaths": 100,
+        "assists": 126,
+        "wins": 13,
+        "losses": 10,
+        "visionScore": 408,
+        "score": 415.6
+    },
+    "Syndra": {
+        "kills": 20,
+        "deaths": 14,
+        "assists": 20,
+        "wins": 1,
+        "losses": 2,
+        "visionScore": 54,
+        "score": 52.8
+    },
+    "Taric": {
+        "kills": 22,
+        "deaths": 72,
+        "assists": 22,
+        "wins": 8,
+        "losses": 6,
+        "visionScore": 571,
+        "score": 78.2
+    },
+    "Malphite": {
+        "kills": 23,
+        "deaths": 17,
+        "assists": 23,
+        "wins": 4,
+        "losses": 3,
+        "visionScore": 117,
+        "score": 91.4
+    },
+    "Yone": {
+        "kills": 3,
+        "deaths": 5,
+        "assists": 3,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 15,
+        "score": -5.0
+    },
+    "Rakan": {
+        "kills": 48,
+        "deaths": 171,
+        "assists": 48,
+        "wins": 21,
+        "losses": 12,
+        "visionScore": 2304,
+        "score": 400.8
+    },
+    "Xin Zhao": {
+        "kills": 7,
+        "deaths": 11,
+        "assists": 7,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 36,
+        "score": 13.2
+    },
+    "Vayne": {
+        "kills": 43,
+        "deaths": 20,
+        "assists": 43,
+        "wins": 2,
+        "losses": 2,
+        "visionScore": 71,
+        "score": 146.2
+    },
+    "Anivia": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 1,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 5,
+        "score": -13.0
+    },
+    "Milio": {
+        "kills": 11,
+        "deaths": 47,
+        "assists": 11,
+        "wins": 9,
+        "losses": 7,
+        "visionScore": 768,
+        "score": 123.60000000000002
+    },
+    "Graves": {
+        "kills": 149,
+        "deaths": 81,
+        "assists": 149,
+        "wins": 10,
+        "losses": 7,
+        "visionScore": 343,
+        "score": 532.6
+    },
+    "Jinx": {
+        "kills": 132,
+        "deaths": 98,
+        "assists": 132,
+        "wins": 15,
+        "losses": 5,
+        "visionScore": 488,
+        "score": 529.6
+    },
+    "Bard": {
+        "kills": 0,
+        "deaths": 5,
+        "assists": 0,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 123,
+        "score": 14.600000000000001
+    },
+    "Gragas": {
+        "kills": 130,
+        "deaths": 99,
+        "assists": 130,
+        "wins": 14,
+        "losses": 10,
+        "visionScore": 565,
+        "score": 475.0
+    },
+    "Jayce": {
+        "kills": 90,
+        "deaths": 105,
+        "assists": 90,
+        "wins": 11,
+        "losses": 10,
+        "visionScore": 379,
+        "score": 235.8
+    },
+    "Zeri": {
+        "kills": 62,
+        "deaths": 22,
+        "assists": 62,
+        "wins": 5,
+        "losses": 3,
+        "visionScore": 212,
+        "score": 266.4
+    },
+    "Annie": {
+        "kills": 6,
+        "deaths": 26,
+        "assists": 6,
+        "wins": 3,
+        "losses": 1,
+        "visionScore": 249,
+        "score": 41.800000000000004
+    },
+    "Senna": {
+        "kills": 4,
+        "deaths": 12,
+        "assists": 4,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 95,
+        "score": 21.0
+    },
+    "Jax": {
+        "kills": 109,
+        "deaths": 52,
+        "assists": 109,
+        "wins": 8,
+        "losses": 7,
+        "visionScore": 292,
+        "score": 400.4
+    },
+    "Thresh": {
+        "kills": 25,
+        "deaths": 79,
+        "assists": 25,
+        "wins": 7,
+        "losses": 8,
+        "visionScore": 847,
+        "score": 101.4
+    },
+    "K'Sante": {
+        "kills": 59,
+        "deaths": 71,
+        "assists": 59,
+        "wins": 8,
+        "losses": 9,
+        "visionScore": 272,
+        "score": 138.4
+    },
+    "Talon": {
+        "kills": 30,
+        "deaths": 16,
+        "assists": 30,
+        "wins": 1,
+        "losses": 2,
+        "visionScore": 61,
+        "score": 90.2
+    },
+    "Pyke": {
+        "kills": 144,
+        "deaths": 119,
+        "assists": 144,
+        "wins": 11,
+        "losses": 12,
+        "visionScore": 1986,
+        "score": 725.2
+    },
+    "Gangplank": {
+        "kills": 33,
+        "deaths": 47,
+        "assists": 33,
+        "wins": 4,
+        "losses": 4,
+        "visionScore": 145,
+        "score": 67.0
+    },
+    "Diana": {
+        "kills": 103,
+        "deaths": 61,
+        "assists": 103,
+        "wins": 7,
+        "losses": 6,
+        "visionScore": 324,
+        "score": 364.8
+    },
+    "Rengar": {
+        "kills": 32,
+        "deaths": 37,
+        "assists": 32,
+        "wins": 3,
+        "losses": 4,
+        "visionScore": 154,
+        "score": 74.8
+    },
+    "Viego": {
+        "kills": 99,
+        "deaths": 42,
+        "assists": 99,
+        "wins": 8,
+        "losses": 4,
+        "visionScore": 362,
+        "score": 424.4
+    },
+    "Ahri": {
+        "kills": 58,
+        "deaths": 28,
+        "assists": 58,
+        "wins": 6,
+        "losses": 3,
+        "visionScore": 180,
+        "score": 242.0
+    },
+    "Lux": {
+        "kills": 46,
+        "deaths": 43,
+        "assists": 46,
+        "wins": 6,
+        "losses": 5,
+        "visionScore": 277,
+        "score": 163.4
+    },
+    "Hecarim": {
+        "kills": 108,
+        "deaths": 46,
+        "assists": 108,
+        "wins": 11,
+        "losses": 5,
+        "visionScore": 312,
+        "score": 462.4
+    },
+    "Wukong": {
+        "kills": 75,
+        "deaths": 47,
+        "assists": 75,
+        "wins": 7,
+        "losses": 4,
+        "visionScore": 334,
+        "score": 302.8
+    },
+    "Vladimir": {
+        "kills": 11,
+        "deaths": 7,
+        "assists": 11,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 31,
+        "score": 36.2
+    },
+    "Varus": {
+        "kills": 89,
+        "deaths": 70,
+        "assists": 89,
+        "wins": 5,
+        "losses": 9,
+        "visionScore": 317,
+        "score": 239.4
+    },
+    "Fizz": {
+        "kills": 17,
+        "deaths": 19,
+        "assists": 17,
+        "wins": 1,
+        "losses": 2,
+        "visionScore": 91,
+        "score": 38.2
+    },
+    "Kaisa": {
+        "kills": 64,
+        "deaths": 52,
+        "assists": 64,
+        "wins": 5,
+        "losses": 4,
+        "visionScore": 140,
+        "score": 190.0
+    },
+    "Karma": {
+        "kills": 10,
+        "deaths": 33,
+        "assists": 10,
+        "wins": 2,
+        "losses": 3,
+        "visionScore": 313,
+        "score": 26.6
+    },
+    "Ivern": {
+        "kills": 45,
+        "deaths": 40,
+        "assists": 45,
+        "wins": 6,
+        "losses": 8,
+        "visionScore": 452,
+        "score": 170.4
+    },
+    "Seraphine": {
+        "kills": 51,
+        "deaths": 41,
+        "assists": 51,
+        "wins": 5,
+        "losses": 6,
+        "visionScore": 312,
+        "score": 174.4
+    },
+    "Blitzcrank": {
+        "kills": 14,
+        "deaths": 39,
+        "assists": 14,
+        "wins": 3,
+        "losses": 5,
+        "visionScore": 378,
+        "score": 33.60000000000001
+    },
+    "Kennen": {
+        "kills": 50,
+        "deaths": 51,
+        "assists": 50,
+        "wins": 7,
+        "losses": 8,
+        "visionScore": 314,
+        "score": 150.8
+    },
+    "Braum": {
+        "kills": 8,
+        "deaths": 19,
+        "assists": 8,
+        "wins": 5,
+        "losses": 1,
+        "visionScore": 300,
+        "score": 94.0
+    },
+    "Pantheon": {
+        "kills": 2,
+        "deaths": 7,
+        "assists": 2,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 15,
+        "score": -3.0
+    },
+    "Zed": {
+        "kills": 46,
+        "deaths": 40,
+        "assists": 46,
+        "wins": 4,
+        "losses": 5,
+        "visionScore": 91,
+        "score": 112.2
+    },
+    "Nilah": {
+        "kills": 7,
+        "deaths": 8,
+        "assists": 7,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 32,
+        "score": 18.4
+    },
+    "FiddleSticks": {
+        "kills": 44,
+        "deaths": 45,
+        "assists": 44,
+        "wins": 1,
+        "losses": 5,
+        "visionScore": 332,
+        "score": 112.4
+    },
+    "Aphelios": {
+        "kills": 85,
+        "deaths": 81,
+        "assists": 85,
+        "wins": 5,
+        "losses": 9,
+        "visionScore": 255,
+        "score": 189.0
+    },
+    "Xayah": {
+        "kills": 107,
+        "deaths": 133,
+        "assists": 107,
+        "wins": 7,
+        "losses": 18,
+        "visionScore": 403,
+        "score": 132.60000000000002
+    },
+    "Veigar": {
+        "kills": 6,
+        "deaths": 10,
+        "assists": 6,
+        "wins": 0,
+        "losses": 2,
+        "visionScore": 22,
+        "score": -11.6
+    },
+    "Zoe": {
+        "kills": 89,
+        "deaths": 65,
+        "assists": 89,
+        "wins": 6,
+        "losses": 7,
+        "visionScore": 386,
+        "score": 293.2
+    },
+    "Gnar": {
+        "kills": 30,
+        "deaths": 19,
+        "assists": 30,
+        "wins": 4,
+        "losses": 1,
+        "visionScore": 125,
+        "score": 137.0
+    },
+    "Swain": {
+        "kills": 54,
+        "deaths": 55,
+        "assists": 54,
+        "wins": 5,
+        "losses": 5,
+        "visionScore": 109,
+        "score": 127.8
+    },
+    "Qiyana": {
+        "kills": 55,
+        "deaths": 27,
+        "assists": 55,
+        "wins": 5,
+        "losses": 2,
+        "visionScore": 114,
+        "score": 218.8
+    },
+    "Nautilus": {
+        "kills": 23,
+        "deaths": 70,
+        "assists": 23,
+        "wins": 4,
+        "losses": 7,
+        "visionScore": 620,
+        "score": 46.0
+    },
+    "Sett": {
+        "kills": 19,
+        "deaths": 11,
+        "assists": 19,
+        "wins": 2,
+        "losses": 1,
+        "visionScore": 44,
+        "score": 72.8
+    },
+    "Sejuani": {
+        "kills": 25,
+        "deaths": 24,
+        "assists": 25,
+        "wins": 3,
+        "losses": 2,
+        "visionScore": 94,
+        "score": 80.8
+    },
+    "Rumble": {
+        "kills": 25,
+        "deaths": 28,
+        "assists": 25,
+        "wins": 2,
+        "losses": 2,
+        "visionScore": 92,
+        "score": 62.400000000000006
+    },
+    "Olaf": {
+        "kills": 71,
+        "deaths": 70,
+        "assists": 71,
+        "wins": 2,
+        "losses": 9,
+        "visionScore": 328,
+        "score": 139.60000000000002
+    },
+    "Yuumi": {
+        "kills": 5,
+        "deaths": 14,
+        "assists": 5,
+        "wins": 1,
+        "losses": 4,
+        "visionScore": 132,
+        "score": -11.599999999999998
+    },
+    "Sylas": {
+        "kills": 65,
+        "deaths": 51,
+        "assists": 65,
+        "wins": 5,
+        "losses": 6,
+        "visionScore": 226,
+        "score": 193.2
+    },
+    "Xerath": {
+        "kills": 7,
+        "deaths": 0,
+        "assists": 7,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 24,
+        "score": 42.8
+    },
+    "Kindred": {
+        "kills": 65,
+        "deaths": 54,
+        "assists": 65,
+        "wins": 5,
+        "losses": 6,
+        "visionScore": 294,
+        "score": 200.8
+    },
+    "Alistar": {
+        "kills": 1,
+        "deaths": 9,
+        "assists": 1,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 31,
+        "score": -17.8
+    },
+    "Janna": {
+        "kills": 2,
+        "deaths": 17,
+        "assists": 2,
+        "wins": 2,
+        "losses": 1,
+        "visionScore": 121,
+        "score": 8.200000000000003
+    },
+    "Belveth": {
+        "kills": 3,
+        "deaths": 5,
+        "assists": 3,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 24,
+        "score": -3.1999999999999993
+    },
+    "Sona": {
+        "kills": 5,
+        "deaths": 9,
+        "assists": 5,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 91,
+        "score": 20.2
+    },
+    "Maokai": {
+        "kills": 5,
+        "deaths": 22,
+        "assists": 5,
+        "wins": 3,
+        "losses": 1,
+        "visionScore": 153,
+        "score": 26.6
+    },
+    "Lissandra": {
+        "kills": 9,
+        "deaths": 10,
+        "assists": 9,
+        "wins": 1,
+        "losses": 2,
+        "visionScore": 30,
+        "score": 12.0
+    },
+    "Kled": {
+        "kills": 6,
+        "deaths": 3,
+        "assists": 6,
+        "wins": 2,
+        "losses": 0,
+        "visionScore": 23,
+        "score": 42.6
+    },
+    "Renekton": {
+        "kills": 31,
+        "deaths": 23,
+        "assists": 31,
+        "wins": 0,
+        "losses": 4,
+        "visionScore": 98,
+        "score": 57.6
+    },
+    "Leblanc": {
+        "kills": 29,
+        "deaths": 26,
+        "assists": 29,
+        "wins": 2,
+        "losses": 3,
+        "visionScore": 77,
+        "score": 69.4
+    },
+    "MissFortune": {
+        "kills": 3,
+        "deaths": 9,
+        "assists": 3,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 25,
+        "score": 9.0
+    },
+    "Tristana": {
+        "kills": 19,
+        "deaths": 5,
+        "assists": 19,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 26,
+        "score": 81.2
+    },
+    "Draven": {
+        "kills": 25,
+        "deaths": 28,
+        "assists": 25,
+        "wins": 0,
+        "losses": 4,
+        "visionScore": 76,
+        "score": 19.200000000000003
+    },
+    "Ryze": {
+        "kills": 22,
+        "deaths": 30,
+        "assists": 22,
+        "wins": 2,
+        "losses": 3,
+        "visionScore": 114,
+        "score": 40.8
+    },
+    "Leona": {
+        "kills": 3,
+        "deaths": 5,
+        "assists": 3,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 49,
+        "score": 1.8000000000000007
+    },
+    "Mordekaiser": {
+        "kills": 26,
+        "deaths": 20,
+        "assists": 26,
+        "wins": 3,
+        "losses": 2,
+        "visionScore": 94,
+        "score": 92.8
+    },
+    "Zilean": {
+        "kills": 1,
+        "deaths": 6,
+        "assists": 1,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 32,
+        "score": -11.6
+    },
+    "Akshan": {
+        "kills": 41,
+        "deaths": 35,
+        "assists": 41,
+        "wins": 4,
+        "losses": 1,
+        "visionScore": 86,
+        "score": 141.2
+    },
+    "Ashe": {
+        "kills": 15,
+        "deaths": 33,
+        "assists": 15,
+        "wins": 1,
+        "losses": 3,
+        "visionScore": 259,
+        "score": 25.800000000000004
+    },
+    "Zac": {
+        "kills": 0,
+        "deaths": 3,
+        "assists": 0,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 16,
+        "score": -12.8
+    },
+    "Nocturne": {
+        "kills": 8,
+        "deaths": 11,
+        "assists": 8,
+        "wins": 0,
+        "losses": 2,
+        "visionScore": 46,
+        "score": -0.7999999999999989
+    },
+    "Akali": {
+        "kills": 0,
+        "deaths": 4,
+        "assists": 0,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 9,
+        "score": -16.2
+    },
+    "LeeSin": {
+        "kills": 39,
+        "deaths": 37,
+        "assists": 39,
+        "wins": 1,
+        "losses": 6,
+        "visionScore": 155,
+        "score": 63.0
+    },
+    "Heimerdinger": {
+        "kills": 5,
+        "deaths": 13,
+        "assists": 5,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 156,
+        "score": 25.200000000000003
+    },
+    "Lulu": {
+        "kills": 12,
+        "deaths": 21,
+        "assists": 12,
+        "wins": 5,
+        "losses": 2,
+        "visionScore": 315,
+        "score": 99.0
+    },
+    "Kalista": {
+        "kills": 0,
+        "deaths": 6,
+        "assists": 0,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 9,
+        "score": -20.2
+    },
+    "Twitch": {
+        "kills": 20,
+        "deaths": 17,
+        "assists": 20,
+        "wins": 2,
+        "losses": 1,
+        "visionScore": 85,
+        "score": 73.0
+    },
+    "Poppy": {
+        "kills": 6,
+        "deaths": 4,
+        "assists": 6,
+        "wins": 3,
+        "losses": 0,
+        "visionScore": 36,
+        "score": 53.2
+    },
+    "Sivir": {
+        "kills": 4,
+        "deaths": 9,
+        "assists": 4,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 12,
+        "score": 0.40000000000000036
+    },
+    "Udyr": {
+        "kills": 18,
+        "deaths": 22,
+        "assists": 18,
+        "wins": 2,
+        "losses": 3,
+        "visionScore": 65,
+        "score": 31.0
+    },
+    "Vi": {
+        "kills": 24,
+        "deaths": 9,
+        "assists": 24,
+        "wins": 3,
+        "losses": 0,
+        "visionScore": 71,
+        "score": 122.2
+    },
+    "Samira": {
+        "kills": 9,
+        "deaths": 4,
+        "assists": 9,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 17,
+        "score": 41.4
+    },
+    "Tryndamere": {
+        "kills": 8,
+        "deaths": 8,
+        "assists": 8,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 19,
+        "score": 29.8
+    },
+    "Elise": {
+        "kills": 36,
+        "deaths": 23,
+        "assists": 36,
+        "wins": 4,
+        "losses": 2,
+        "visionScore": 119,
+        "score": 141.8
+    },
+    "Morgana": {
+        "kills": 1,
+        "deaths": 3,
+        "assists": 1,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 14,
+        "score": -9.2
+    },
+    "Soraka": {
+        "kills": 8,
+        "deaths": 16,
+        "assists": 8,
+        "wins": 2,
+        "losses": 2,
+        "visionScore": 168,
+        "score": 33.6
+    },
+    "Fiora": {
+        "kills": 42,
+        "deaths": 35,
+        "assists": 42,
+        "wins": 5,
+        "losses": 1,
+        "visionScore": 92,
+        "score": 156.4
+    },
+    "Caitlyn": {
+        "kills": 28,
+        "deaths": 16,
+        "assists": 28,
+        "wins": 3,
+        "losses": 2,
+        "visionScore": 52,
+        "score": 100.4
+    },
+    "Nidalee": {
+        "kills": 3,
+        "deaths": 4,
+        "assists": 3,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 27,
+        "score": -0.5999999999999996
+    },
+    "Taliyah": {
+        "kills": 4,
+        "deaths": 4,
+        "assists": 4,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 17,
+        "score": 21.4
+    },
+    "Viktor": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 1,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 40,
+        "score": -6.0
+    },
+    "Khazix": {
+        "kills": 2,
+        "deaths": 5,
+        "assists": 2,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 20,
+        "score": -8.0
+    },
+    "Garen": {
+        "kills": 9,
+        "deaths": 8,
+        "assists": 9,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 24,
+        "score": 24.8
+    },
+    "Aatrox": {
+        "kills": 8,
+        "deaths": 10,
+        "assists": 8,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 15,
+        "score": 25.0
+    },
+    "Amumu": {
+        "kills": 4,
+        "deaths": 12,
+        "assists": 4,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 136,
+        "score": 19.200000000000003
+    },
+    "Ziggs": {
+        "kills": 6,
+        "deaths": 1,
+        "assists": 6,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 21,
+        "score": 36.2
+    },
+    "Galio": {
+        "kills": 31,
+        "deaths": 18,
+        "assists": 31,
+        "wins": 4,
+        "losses": 2,
+        "visionScore": 127,
+        "score": 133.4
+    },
+    "Darius": {
+        "kills": 10,
+        "deaths": 7,
+        "assists": 10,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 19,
+        "score": 19.8
+    },
+    "Cassiopeia": {
+        "kills": 14,
+        "deaths": 14,
+        "assists": 14,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 38,
+        "score": 35.6
+    },
+    "Lucian": {
+        "kills": 5,
+        "deaths": 15,
+        "assists": 5,
+        "wins": 0,
+        "losses": 2,
+        "visionScore": 21,
+        "score": -25.8
+    },
+    "KogMaw": {
+        "kills": 9,
+        "deaths": 14,
+        "assists": 9,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 21,
+        "score": 2.2
+    },
+    "Ezreal": {
+        "kills": 14,
+        "deaths": 24,
+        "assists": 14,
+        "wins": 1,
+        "losses": 2,
+        "visionScore": 85,
+        "score": 15.0
+    },
+    "Irelia": {
+        "kills": 7,
+        "deaths": 12,
+        "assists": 7,
+        "wins": 1,
+        "losses": 1,
+        "visionScore": 40,
+        "score": 12.0
+    },
+    "MasterYi": {
+        "kills": 14,
+        "deaths": 5,
+        "assists": 14,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 30,
+        "score": 62.0
+    },
+    "Zyra": {
+        "kills": 2,
+        "deaths": 6,
+        "assists": 2,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 77,
+        "score": 1.4000000000000004
+    },
+    "Camille": {
+        "kills": 7,
+        "deaths": 2,
+        "assists": 7,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 11,
+        "score": 36.2
+    },
+    "Ekko": {
+        "kills": 13,
+        "deaths": 24,
+        "assists": 13,
+        "wins": 0,
+        "losses": 3,
+        "visionScore": 60,
+        "score": -14.0
+    },
+    "Neeko": {
+        "kills": 11,
+        "deaths": 25,
+        "assists": 11,
+        "wins": 0,
+        "losses": 4,
+        "visionScore": 135,
+        "score": -19.0
+    },
+    "Jhin": {
+        "kills": 13,
+        "deaths": 16,
+        "assists": 13,
+        "wins": 3,
+        "losses": 0,
+        "visionScore": 41,
+        "score": 58.2
+    },
+    "Chogath": {
+        "kills": 7,
+        "deaths": 9,
+        "assists": 7,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 11,
+        "score": 2.2
+    },
+    "Velkoz": {
+        "kills": 4,
+        "deaths": 2,
+        "assists": 4,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 16,
+        "score": 5.2
+    },
+    "Jarvan IV": {
+        "kills": 2,
+        "deaths": 10,
+        "assists": 2,
+        "wins": 0,
+        "losses": 1,
+        "visionScore": 16,
+        "score": -18.8
+    },
+    "Sion": {
+        "kills": 4,
+        "deaths": 4,
+        "assists": 4,
+        "wins": 1,
+        "losses": 0,
+        "visionScore": 27,
+        "score": 23.4
+    }
+}

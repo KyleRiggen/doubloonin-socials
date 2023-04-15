@@ -20,7 +20,7 @@ match_list = []
 
 for index, player in enumerate(puuid_list_json):
     matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=8)
-    # if index >= 100:
+    # if index >= 30:
     #     break
     print(index, player, matches)
     for match in matches:
@@ -42,6 +42,7 @@ print(f'{now_nice} match list number after filtering duplicates: {matches_to_go_
 
 all_matches = []
 
+# build dictionary of individual champion performance accross all matches
 for index, match in enumerate(result):
     match_info = lol_watcher.match.by_id(region=player_region, match_id=match)
     match_timestamp = match_info['info']['gameStartTimestamp']
@@ -63,7 +64,8 @@ for index, match in enumerate(result):
                 'kills': player['kills'],
                 'deaths': player['deaths'],
                 'assists': player['kills'],
-                'win': player['win']
+                'win': player['win'],
+                'visionScore': player['visionScore']
             }
 
             # Add player dictionary to our player_list
@@ -82,6 +84,7 @@ print(f'{now_nice} match number after building custom dictionary: {len(all_match
 
 all_matches_timed = []
 
+# filtering for time
 for eachMatch in all_matches:
     viewableTime = time.ctime(eachMatch['gameStartTimestamp'])
     rawTime = eachMatch['gameStartTimestamp']
@@ -94,10 +97,8 @@ for eachMatch in all_matches:
 now_nice = time.ctime(time.time())
 print(f'{now_nice} match number after filtering for time: {len(all_matches_timed)}')
 
+# building results dictionary
 final_results = {}
-kills = 0
-deaths = 0
-assists = 0
 for eachMatch in all_matches_timed:
     for eachPlayer in eachMatch['players']:
 
@@ -105,6 +106,7 @@ for eachMatch in all_matches_timed:
         champKills = eachPlayer['kills']
         champDeaths = eachPlayer['deaths']
         champAssists = eachPlayer['assists']
+        champVisionScore = eachPlayer['visionScore']
         winBoolean = eachPlayer['win']
 
         if winBoolean:
@@ -120,7 +122,8 @@ for eachMatch in all_matches_timed:
                 'deaths': champDeaths,
                 'assists': champAssists,
                 'wins': champWins,
-                'losses': champLooses
+                'losses': champLooses,
+                'visionScore': champVisionScore
             }
         else:
             kills = final_results[champName]['kills'] + champKills
@@ -128,15 +131,18 @@ for eachMatch in all_matches_timed:
             assists = final_results[champName]['assists'] + champAssists
             wins = final_results[champName]['wins'] + champWins
             looses = final_results[champName]['losses'] + champLooses
+            visionScore = final_results[champName]['visionScore'] + champVisionScore
             final_results[champName]['kills'] = kills
             final_results[champName]['deaths'] = deaths
             final_results[champName]['assists'] = assists
             final_results[champName]['wins'] = wins
             final_results[champName]['losses'] = looses
+            final_results[champName]['visionScore'] = visionScore
 
 now_nice = time.ctime(time.time())
 print(f'{now_nice} champion entries into champ_stats.json: {len(final_results)}')
 
+# cleaning up names
 new_champStats = {}
 for key, value in final_results.items():
 
@@ -155,6 +161,7 @@ for key, value in final_results.items():
 
     new_champStats[new_key] = value
 
+# totaling scores
 for champ in new_champStats:
     score = 0
     score = score + (new_champStats[champ]['kills'] * 3)
@@ -162,21 +169,24 @@ for champ in new_champStats:
     score = score + (new_champStats[champ]['assists'] * 1)
     score = score + (new_champStats[champ]['wins'] * 10)
     score = score - (new_champStats[champ]['losses'] * 10)
+    score = score + (new_champStats[champ]['visionScore'] * 0.2)
     new_champStats[champ]['score'] = score
 
+# shipping json
 with open('json/champ_stats.json', 'w', encoding='utf-8') as f:
     json.dump(new_champStats, f, ensure_ascii=False, indent=4)
 
+
+# getting top 3
 def get_top_scores(champStats):
-    list_champs = [(name,champStats[name]['score']) for name in champStats]
-    sorted_champs = sorted(list_champs,key=lambda x: x[1],reverse = True)
+    list_champs = [(name, champStats[name]['score']) for name in champStats]
+    sorted_champs = sorted(list_champs, key=lambda x: x[1], reverse=True)
     print(sorted_champs)
     ret_dict = {}
-    for champ,kills in sorted_champs[:3]:
+    for champ, kills in sorted_champs[:10]:
         ret_dict[champ] = kills
 
     return ret_dict
 
+
 print(get_top_scores(new_champStats))
-
-
