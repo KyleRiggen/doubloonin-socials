@@ -1,6 +1,7 @@
 from setup import setup_enviorment
 import json
 import time
+import os
 
 now = time.time()
 now_nice = time.ctime(time.time())
@@ -18,9 +19,9 @@ puuid_list_json = json.loads(file_contents)
 match_list = []
 
 for index, player in enumerate(puuid_list_json):
-    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=5)
-    if index >= 20:
-        break
+    matches = lol_watcher.match.matchlist_by_puuid(region=player_region, puuid=player, queue=420, start=0, count=8)
+    # if index >= 100:
+    #     break
     print(index, player, matches)
     for match in matches:
         match_list.append(match)
@@ -36,7 +37,8 @@ for match in match_list:
 
 print(result)
 now_nice = time.ctime(time.time())
-print(f'{now_nice} match list number after filtering duplicates: {len(result)}')
+matches_to_go_over = len(result)
+print(f'{now_nice} match list number after filtering duplicates: {matches_to_go_over}')
 
 all_matches = []
 
@@ -46,7 +48,7 @@ for index, match in enumerate(result):
     converted_time = match_timestamp / 1000
 
     now_nice = time.ctime(time.time())
-    print(index, now_nice)
+    print(f'{index} {now_nice} {match} of {matches_to_go_over}')
 
     player_list = []
     for player in match_info['info']['participants']:
@@ -105,7 +107,7 @@ for eachMatch in all_matches_timed:
         champAssists = eachPlayer['assists']
         winBoolean = eachPlayer['win']
 
-        if winBoolean == True:
+        if winBoolean:
             champWins = 1
             champLooses = 0
         else:
@@ -117,20 +119,20 @@ for eachMatch in all_matches_timed:
                 'kills': champKills,
                 'deaths': champDeaths,
                 'assists': champAssists,
-                'champWins': champWins,
-                'champLooses': champLooses
+                'wins': champWins,
+                'losses': champLooses
             }
         else:
             kills = final_results[champName]['kills'] + champKills
             deaths = final_results[champName]['deaths'] + champDeaths
             assists = final_results[champName]['assists'] + champAssists
-            wins = final_results[champName]['champWins'] + champWins
-            looses = final_results[champName]['champLooses'] + champLooses
+            wins = final_results[champName]['wins'] + champWins
+            looses = final_results[champName]['losses'] + champLooses
             final_results[champName]['kills'] = kills
             final_results[champName]['deaths'] = deaths
             final_results[champName]['assists'] = assists
-            final_results[champName]['champWins'] = wins
-            final_results[champName]['champLooses'] = looses
+            final_results[champName]['wins'] = wins
+            final_results[champName]['losses'] = looses
 
 now_nice = time.ctime(time.time())
 print(f'{now_nice} champion entries into champ_stats.json: {len(final_results)}')
@@ -146,12 +148,35 @@ for key, value in final_results.items():
         new_key = "K'Sante"
     elif key == 'JarvanIV':
         new_key = "Jarvan IV"
+    elif key == 'XinZhao':
+        new_key = "Xin Zhao"
     else:
         new_key = key
 
     new_champStats[new_key] = value
 
+for champ in new_champStats:
+    score = 0
+    score = score + (new_champStats[champ]['kills'] * 3)
+    score = score - (new_champStats[champ]['deaths'] * 2)
+    score = score + (new_champStats[champ]['assists'] * 1)
+    score = score + (new_champStats[champ]['wins'] * 10)
+    score = score - (new_champStats[champ]['losses'] * 10)
+    new_champStats[champ]['score'] = score
+
 with open('json/champ_stats.json', 'w', encoding='utf-8') as f:
     json.dump(new_champStats, f, ensure_ascii=False, indent=4)
+
+def get_top_scores(champStats):
+    list_champs = [(name,champStats[name]['score']) for name in champStats]
+    sorted_champs = sorted(list_champs,key=lambda x: x[1],reverse = True)
+    print(sorted_champs)
+    ret_dict = {}
+    for champ,kills in sorted_champs[:3]:
+        ret_dict[champ] = kills
+
+    return ret_dict
+
+print(get_top_scores(new_champStats))
 
 
