@@ -11,7 +11,6 @@ now = time.time()
 now_nice = time.ctime(time.time())
 one_day = 86400
 one_day_ago = now - one_day
-print(now_nice)
 
 lol_watcher = setup_enviorment()
 result = build_match_list()
@@ -62,7 +61,6 @@ def build_working_list():
 
         all_matches.append(match_dictionary)
 
-    print(all_matches)
     now_nice = time.ctime(time.time())
     print(f'{now_nice} match number after building custom dictionary: {len(all_matches)}')
 

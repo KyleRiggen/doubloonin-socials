@@ -9,17 +9,17 @@ all_matches_timed = build_working_list()
 
 # building results dictionary
 def buiding_final_list():
-    banned_champs = []
-
-    champs_list = champs_json['data']
-    for match in all_matches_timed:
-        # print(match['bans'])
-        for index, champ in enumerate(champs_list):
-            # print(champs_list[champ]['key'])
-            if int(champs_list[champ]['key']) in match['bans']:
-                banned_champs.append(champs_list[champ]['id'])
-
-    print(f'banned CHAMPS!!! {banned_champs}')
+    # banned_champs = []
+    #
+    # champs_list = champs_json['data']
+    # for match in all_matches_timed:
+    #     # print(match['bans'])
+    #     for index, champ in enumerate(champs_list):
+    #         # print(champs_list[champ]['key'])
+    #         if int(champs_list[champ]['key']) in match['bans']:
+    #             banned_champs.append(champs_list[champ]['id'])
+    #
+    # print(f'banned CHAMPS!!! {banned_champs}')
 
 
     final_results = {}
@@ -91,5 +91,3 @@ def buiding_final_list():
         final_results[champ]['score'] = score
 
     return final_results
-
-print(buiding_final_list())
