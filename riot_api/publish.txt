@@ -307,3 +307,22 @@
 | 50 | Blitzcrank | -10.8 | 
 | 51 | Olaf | -23.6 | 
 | 52 | Lissandra | -33.2 | 
+||Champion|Points| 
+|-|-|-| 
+| 1 | Aphelios | 195.2 | 
+| 2 | Jax | 106.4 | 
+| 3 | Viego | 95.2 | 
+| 4 | Thresh | 56.4 | 
+| 5 | Ahri | 55.2 | 
+| 6 | Jayce | 50.4 | 
+| 7 | Gragas | 47.6 | 
+| 8 | Nidalee | 47.2 | 
+| 9 | LeeSin | 46.8 | 
+| 10 | Annie | 31.6 | 
+| 11 | Rakan | 4.8 | 
+| 12 | Kindred | 3.2 | 
+| 13 | Milio | 0.0 | 
+| 14 | Leblanc | -6.0 | 
+| 15 | Cassiopeia | -10.4 | 
+| 16 | Zeri | -14.8 | 
+| 17 | Olaf | -47.2 | 

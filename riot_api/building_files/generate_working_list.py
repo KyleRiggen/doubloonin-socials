@@ -28,6 +28,11 @@ def build_working_list():
         now_nice = time.ctime(time.time())
         print(f'{index} {now_nice} {match[0]} of {matches_to_go_over}')
 
+        bans = []
+        for teams in match_info['info']['teams']:
+            for ban in teams['bans']:
+                bans.append(ban['championId'])
+
         player_list = []
         for player in match_info['info']['participants']:
             playerID = player['puuid']
@@ -51,6 +56,7 @@ def build_working_list():
         match_dictionary = {
             'matchId': match_info['metadata']['matchId'],
             'gameStartTimestamp': converted_time,
+            'bans': bans,
             'players': player_list
         }
 
