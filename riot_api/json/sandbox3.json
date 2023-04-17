@@ -1,0 +1,2635 @@
+{
+  'Aatrox': {
+    'champName': 'Aatrox',
+    'champID': '266',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Ahri': {
+    'champName': 'Ahri',
+    'champID': '103',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 3
+    },
+    'players': [],
+    'score': 30.0
+  },
+  'Akali': {
+    'champName': 'Akali',
+    'champID': '84',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Akshan': {
+    'champName': 'Akshan',
+    'champID': '166',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Alistar': {
+    'champName': 'Alistar',
+    'champID': '12',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Amumu': {
+    'champName': 'Amumu',
+    'champID': '32',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Anivia': {
+    'champName': 'Anivia',
+    'champID': '34',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Annie': {
+    'champName': 'Annie',
+    'champID': '1',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Aphelios': {
+    'champName': 'Aphelios',
+    'champID': '523',
+    'champStats': {
+      'kills': 6,
+      'deaths': 9,
+      'assists': 12,
+      'wins': 0,
+      'losses': 2,
+      'visionScore': 47,
+      'bans': 1
+    },
+    'players': [
+      [
+        'kr',
+        '오하오하',
+        -7
+      ],
+      [
+        'kr',
+        '오하오하',
+        -1
+      ]
+    ],
+    'score': 11.4
+  },
+  'Ashe': {
+    'champName': 'Ashe',
+    'champID': '22',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'AurelionSol': {
+    'champName': 'Aurelion Sol',
+    'champID': '136',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Azir': {
+    'champName': 'Azir',
+    'champID': '268',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Bard': {
+    'champName': 'Bard',
+    'champID': '432',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Belveth': {
+    'champName': "Bel'Veth",
+    'champID': '200',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Blitzcrank': {
+    'champName': 'Blitzcrank',
+    'champID': '53',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Brand': {
+    'champName': 'Brand',
+    'champID': '63',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Braum': {
+    'champName': 'Braum',
+    'champID': '201',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Caitlyn': {
+    'champName': 'Caitlyn',
+    'champID': '51',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Camille': {
+    'champName': 'Camille',
+    'champID': '164',
+    'champStats': {
+      'kills': 4,
+      'deaths': 7,
+      'assists': 2,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 30,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'zcxsdasdas',
+        -10
+      ]
+    ],
+    'score': -4.0
+  },
+  'Cassiopeia': {
+    'champName': 'Cassiopeia',
+    'champID': '69',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Chogath': {
+    'champName': "Cho'Gath",
+    'champID': '31',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Corki': {
+    'champName': 'Corki',
+    'champID': '42',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Darius': {
+    'champName': 'Darius',
+    'champID': '122',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Diana': {
+    'champName': 'Diana',
+    'champID': '131',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Draven': {
+    'champName': 'Draven',
+    'champID': '119',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 4
+    },
+    'players': [],
+    'score': 40.0
+  },
+  'DrMundo': {
+    'champName': 'Dr. Mundo',
+    'champID': '36',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Ekko': {
+    'champName': 'Ekko',
+    'champID': '245',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Elise': {
+    'champName': 'Elise',
+    'champID': '60',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Evelynn': {
+    'champName': 'Evelynn',
+    'champID': '28',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 2
+    },
+    'players': [],
+    'score': 20.0
+  },
+  'Ezreal': {
+    'champName': 'Ezreal',
+    'champID': '81',
+    'champStats': {
+      'kills': 7,
+      'deaths': 3,
+      'assists': 2,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 40,
+      'bans': 1
+    },
+    'players': [
+      [
+        'kr',
+        '피그차이나',
+        27
+      ]
+    ],
+    'score': 45.0
+  },
+  'Fiddlesticks': {
+    'champName': 'Fiddlesticks',
+    'champID': '9',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Fiora': {
+    'champName': 'Fiora',
+    'champID': '114',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Fizz': {
+    'champName': 'Fizz',
+    'champID': '105',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Galio': {
+    'champName': 'Galio',
+    'champID': '3',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Gangplank': {
+    'champName': 'Gangplank',
+    'champID': '41',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Garen': {
+    'champName': 'Garen',
+    'champID': '86',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Gnar': {
+    'champName': 'Gnar',
+    'champID': '150',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Gragas': {
+    'champName': 'Gragas',
+    'champID': '79',
+    'champStats': {
+      'kills': 7,
+      'deaths': 3,
+      'assists': 12,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 31,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'midgapmidgapsry',
+        17
+      ]
+    ],
+    'score': 23.2
+  },
+  'Graves': {
+    'champName': 'Graves',
+    'champID': '104',
+    'champStats': {
+      'kills': 6,
+      'deaths': 11,
+      'assists': 11,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 36,
+      'bans': 1
+    },
+    'players': [
+      [
+        'kr',
+        'viasdkjkasd',
+        -3
+      ]
+    ],
+    'score': 14.2
+  },
+  'Gwen': {
+    'champName': 'Gwen',
+    'champID': '887',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Hecarim': {
+    'champName': 'Hecarim',
+    'champID': '120',
+    'champStats': {
+      'kills': 7,
+      'deaths': 3,
+      'assists': 10,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 23,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        '신김성욱',
+        35
+      ]
+    ],
+    'score': 39.6
+  },
+  'Heimerdinger': {
+    'champName': 'Heimerdinger',
+    'champID': '74',
+    'champStats': {
+      'kills': 2,
+      'deaths': 1,
+      'assists': 13,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 102,
+      'bans': 1
+    },
+    'players': [
+      [
+        'kr',
+        'Dazbee9',
+        27
+      ]
+    ],
+    'score': 57.400000000000006
+  },
+  'Illaoi': {
+    'champName': 'Illaoi',
+    'champID': '420',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Irelia': {
+    'champName': 'Irelia',
+    'champID': '39',
+    'champStats': {
+      'kills': 4,
+      'deaths': 7,
+      'assists': 3,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 28,
+      'bans': 2
+    },
+    'players': [
+      [
+        'kr',
+        'Aileri',
+        -9
+      ]
+    ],
+    'score': 16.6
+  },
+  'Ivern': {
+    'champName': 'Ivern',
+    'champID': '427',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Janna': {
+    'champName': 'Janna',
+    'champID': '40',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'JarvanIV': {
+    'champName': 'Jarvan IV',
+    'champID': '59',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Jax': {
+    'champName': 'Jax',
+    'champID': '24',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Jayce': {
+    'champName': 'Jayce',
+    'champID': '126',
+    'champStats': {
+      'kills': 9,
+      'deaths': 9,
+      'assists': 7,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 22,
+      'bans': 1
+    },
+    'players': [
+      [
+        'kr',
+        '바르고고운말해여',
+        26
+      ]
+    ],
+    'score': 40.4
+  },
+  'Jhin': {
+    'champName': 'Jhin',
+    'champID': '202',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Jinx': {
+    'champName': 'Jinx',
+    'champID': '222',
+    'champStats': {
+      'kills': 27,
+      'deaths': 19,
+      'assists': 18,
+      'wins': 0,
+      'losses': 3,
+      'visionScore': 77,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'FA Kingdom',
+        -10
+      ],
+      [
+        'kr',
+        '인생목표한남더힐',
+        16
+      ],
+      [
+        'kr',
+        '피그차이나',
+        25
+      ]
+    ],
+    'score': 46.4
+  },
+  'Kaisa': {
+    'champName': "Kai'Sa",
+    'champID': '145',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Kalista': {
+    'champName': 'Kalista',
+    'champID': '429',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Karma': {
+    'champName': 'Karma',
+    'champID': '43',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Karthus': {
+    'champName': 'Karthus',
+    'champID': '30',
+    'champStats': {
+      'kills': 4,
+      'deaths': 8,
+      'assists': 7,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 12,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        '잃어버린심장박동',
+        -7
+      ]
+    ],
+    'score': -4.6
+  },
+  'Kassadin': {
+    'champName': 'Kassadin',
+    'champID': '38',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Katarina': {
+    'champName': 'Katarina',
+    'champID': '55',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 2
+    },
+    'players': [],
+    'score': 20.0
+  },
+  'Kayle': {
+    'champName': 'Kayle',
+    'champID': '10',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Kayn': {
+    'champName': 'Kayn',
+    'champID': '141',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Kennen': {
+    'champName': 'Kennen',
+    'champID': '85',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Khazix': {
+    'champName': "Kha'Zix",
+    'champID': '121',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Kindred': {
+    'champName': 'Kindred',
+    'champID': '203',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 2
+    },
+    'players': [],
+    'score': 20.0
+  },
+  'Kled': {
+    'champName': 'Kled',
+    'champID': '240',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'KogMaw': {
+    'champName': "Kog'Maw",
+    'champID': '96',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'KSante': {
+    'champName': "K'Sante",
+    'champID': '897',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 2
+    },
+    'players': [],
+    'score': 20.0
+  },
+  'Leblanc': {
+    'champName': 'LeBlanc',
+    'champID': '7',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 4
+    },
+    'players': [],
+    'score': 40.0
+  },
+  'LeeSin': {
+    'champName': 'Lee Sin',
+    'champID': '64',
+    'champStats': {
+      'kills': 14,
+      'deaths': 12,
+      'assists': 26,
+      'wins': 2,
+      'losses': 0,
+      'visionScore': 46,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'L0ve  Jiao',
+        42
+      ],
+      [
+        'kr',
+        'L0ve  Jiao',
+        22
+      ]
+    ],
+    'score': 73.2
+  },
+  'Leona': {
+    'champName': 'Leona',
+    'champID': '89',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Lillia': {
+    'champName': 'Lillia',
+    'champID': '876',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Lissandra': {
+    'champName': 'Lissandra',
+    'champID': '127',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Lucian': {
+    'champName': 'Lucian',
+    'champID': '236',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Lulu': {
+    'champName': 'Lulu',
+    'champID': '117',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Lux': {
+    'champName': 'Lux',
+    'champID': '99',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Malphite': {
+    'champName': 'Malphite',
+    'champID': '54',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 3
+    },
+    'players': [],
+    'score': 30.0
+  },
+  'Malzahar': {
+    'champName': 'Malzahar',
+    'champID': '90',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Maokai': {
+    'champName': 'Maokai',
+    'champID': '57',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'MasterYi': {
+    'champName': 'Master Yi',
+    'champID': '11',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Milio': {
+    'champName': 'Milio',
+    'champID': '902',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'MissFortune': {
+    'champName': 'Miss Fortune',
+    'champID': '21',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'MonkeyKing': {
+    'champName': 'Wukong',
+    'champID': '62',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Mordekaiser': {
+    'champName': 'Mordekaiser',
+    'champID': '82',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Morgana': {
+    'champName': 'Morgana',
+    'champID': '25',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Nami': {
+    'champName': 'Nami',
+    'champID': '267',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Nasus': {
+    'champName': 'Nasus',
+    'champID': '75',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Nautilus': {
+    'champName': 'Nautilus',
+    'champID': '111',
+    'champStats': {
+      'kills': 4,
+      'deaths': 21,
+      'assists': 53,
+      'wins': 2,
+      'losses': 1,
+      'visionScore': 214,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'xi1',
+        -7
+      ],
+      [
+        'kr',
+        '인생목표한남더힐',
+        14
+      ],
+      [
+        'kr',
+        '오뚜기3분미트볼',
+        26
+      ]
+    ],
+    'score': 75.80000000000001
+  },
+  'Neeko': {
+    'champName': 'Neeko',
+    'champID': '518',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Nidalee': {
+    'champName': 'Nidalee',
+    'champID': '76',
+    'champStats': {
+      'kills': 2,
+      'deaths': 4,
+      'assists': 9,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 73,
+      'bans': 2
+    },
+    'players': [
+      [
+        'kr',
+        '오뚜기3분미트볼',
+        -3
+      ]
+    ],
+    'score': 31.6
+  },
+  'Nilah': {
+    'champName': 'Nilah',
+    'champID': '895',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Nocturne': {
+    'champName': 'Nocturne',
+    'champID': '56',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Nunu': {
+    'champName': 'Nunu & Willump',
+    'champID': '20',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Olaf': {
+    'champName': 'Olaf',
+    'champID': '2',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Orianna': {
+    'champName': 'Orianna',
+    'champID': '61',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Ornn': {
+    'champName': 'Ornn',
+    'champID': '516',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Pantheon': {
+    'champName': 'Pantheon',
+    'champID': '80',
+    'champStats': {
+      'kills': 1,
+      'deaths': 6,
+      'assists': 1,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 20,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        '쉔글벙글',
+        -18
+      ]
+    ],
+    'score': -14.0
+  },
+  'Poppy': {
+    'champName': 'Poppy',
+    'champID': '78',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Pyke': {
+    'champName': 'Pyke',
+    'champID': '555',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 2
+    },
+    'players': [],
+    'score': 20.0
+  },
+  'Qiyana': {
+    'champName': 'Qiyana',
+    'champID': '246',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Quinn': {
+    'champName': 'Quinn',
+    'champID': '133',
+    'champStats': {
+      'kills': 25,
+      'deaths': 11,
+      'assists': 16,
+      'wins': 2,
+      'losses': 1,
+      'visionScore': 115,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        '살퀸레',
+        41
+      ],
+      [
+        'kr',
+        '살퀸레',
+        -5
+      ],
+      [
+        'kr',
+        '살퀸레',
+        43
+      ]
+    ],
+    'score': 102.0
+  },
+  'Rakan': {
+    'champName': 'Rakan',
+    'champID': '497',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 4
+    },
+    'players': [],
+    'score': 40.0
+  },
+  'Rammus': {
+    'champName': 'Rammus',
+    'champID': '33',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'RekSai': {
+    'champName': "Rek'Sai",
+    'champID': '421',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Rell': {
+    'champName': 'Rell',
+    'champID': '526',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Renata': {
+    'champName': 'Renata Glasc',
+    'champID': '888',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Renekton': {
+    'champName': 'Renekton',
+    'champID': '58',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Rengar': {
+    'champName': 'Rengar',
+    'champID': '107',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Riven': {
+    'champName': 'Riven',
+    'champID': '92',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Rumble': {
+    'champName': 'Rumble',
+    'champID': '68',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 2
+    },
+    'players': [],
+    'score': 20.0
+  },
+  'Ryze': {
+    'champName': 'Ryze',
+    'champID': '13',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Samira': {
+    'champName': 'Samira',
+    'champID': '360',
+    'champStats': {
+      'kills': 16,
+      'deaths': 8,
+      'assists': 9,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 33,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        '따봉 람미스',
+        51
+      ]
+    ],
+    'score': 57.6
+  },
+  'Sejuani': {
+    'champName': 'Sejuani',
+    'champID': '113',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Senna': {
+    'champName': 'Senna',
+    'champID': '235',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Seraphine': {
+    'champName': 'Seraphine',
+    'champID': '147',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Sett': {
+    'champName': 'Sett',
+    'champID': '875',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Shaco': {
+    'champName': 'Shaco',
+    'champID': '35',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Shen': {
+    'champName': 'Shen',
+    'champID': '98',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Shyvana': {
+    'champName': 'Shyvana',
+    'champID': '102',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Singed': {
+    'champName': 'Singed',
+    'champID': '27',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Sion': {
+    'champName': 'Sion',
+    'champID': '14',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Sivir': {
+    'champName': 'Sivir',
+    'champID': '15',
+    'champStats': {
+      'kills': 8,
+      'deaths': 4,
+      'assists': 11,
+      'wins': 0,
+      'losses': 1,
+      'visionScore': 26,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'NS Jiwoo',
+        17
+      ]
+    ],
+    'score': 22.2
+  },
+  'Skarner': {
+    'champName': 'Skarner',
+    'champID': '72',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Sona': {
+    'champName': 'Sona',
+    'champID': '37',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Soraka': {
+    'champName': 'Soraka',
+    'champID': '16',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Swain': {
+    'champName': 'Swain',
+    'champID': '50',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Sylas': {
+    'champName': 'Sylas',
+    'champID': '517',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Syndra': {
+    'champName': 'Syndra',
+    'champID': '134',
+    'champStats': {
+      'kills': 7,
+      'deaths': 5,
+      'assists': 6,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 33,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'Jiaqi3',
+        27
+      ]
+    ],
+    'score': 33.6
+  },
+  'TahmKench': {
+    'champName': 'Tahm Kench',
+    'champID': '223',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Taliyah': {
+    'champName': 'Taliyah',
+    'champID': '163',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Talon': {
+    'champName': 'Talon',
+    'champID': '91',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Taric': {
+    'champName': 'Taric',
+    'champID': '44',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Teemo': {
+    'champName': 'Teemo',
+    'champID': '17',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Thresh': {
+    'champName': 'Thresh',
+    'champID': '412',
+    'champStats': {
+      'kills': 3,
+      'deaths': 11,
+      'assists': 19,
+      'wins': 0,
+      'losses': 2,
+      'visionScore': 121,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        '피그차이나',
+        -5
+      ],
+      [
+        'kr',
+        'huibuhui',
+        -9
+      ]
+    ],
+    'score': 10.200000000000003
+  },
+  'Tristana': {
+    'champName': 'Tristana',
+    'champID': '18',
+    'champStats': {
+      'kills': 8,
+      'deaths': 15,
+      'assists': 6,
+      'wins': 1,
+      'losses': 1,
+      'visionScore': 47,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        'gpnoeynu',
+        -12
+      ],
+      [
+        'kr',
+        '123312123123',
+        12
+      ]
+    ],
+    'score': 9.4
+  },
+  'Trundle': {
+    'champName': 'Trundle',
+    'champID': '48',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Tryndamere': {
+    'champName': 'Tryndamere',
+    'champID': '23',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'TwistedFate': {
+    'champName': 'Twisted Fate',
+    'champID': '4',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Twitch': {
+    'champName': 'Twitch',
+    'champID': '29',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Udyr': {
+    'champName': 'Udyr',
+    'champID': '77',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Urgot': {
+    'champName': 'Urgot',
+    'champID': '6',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Varus': {
+    'champName': 'Varus',
+    'champID': '110',
+    'champStats': {
+      'kills': 9,
+      'deaths': 7,
+      'assists': 9,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 25,
+      'bans': 0
+    },
+    'players': [
+      [
+        'kr',
+        '우연히 길을 걷다',
+        32
+      ]
+    ],
+    'score': 37.0
+  },
+  'Vayne': {
+    'champName': 'Vayne',
+    'champID': '67',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Veigar': {
+    'champName': 'Veigar',
+    'champID': '45',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Velkoz': {
+    'champName': "Vel'Koz",
+    'champID': '161',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Vex': {
+    'champName': 'Vex',
+    'champID': '711',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Vi': {
+    'champName': 'Vi',
+    'champID': '254',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Viego': {
+    'champName': 'Viego',
+    'champID': '234',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Viktor': {
+    'champName': 'Viktor',
+    'champID': '112',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Vladimir': {
+    'champName': 'Vladimir',
+    'champID': '8',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Volibear': {
+    'champName': 'Volibear',
+    'champID': '106',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Warwick': {
+    'champName': 'Warwick',
+    'champID': '19',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Xayah': {
+    'champName': 'Xayah',
+    'champID': '498',
+    'champStats': {
+      'kills': 10,
+      'deaths': 4,
+      'assists': 1,
+      'wins': 1,
+      'losses': 0,
+      'visionScore': 18,
+      'bans': 4
+    },
+    'players': [
+      [
+        'kr',
+        '오하오하',
+        33
+      ]
+    ],
+    'score': 76.6
+  },
+  'Xerath': {
+    'champName': 'Xerath',
+    'champID': '101',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'XinZhao': {
+    'champName': 'Xin Zhao',
+    'champID': '5',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Yasuo': {
+    'champName': 'Yasuo',
+    'champID': '157',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 2
+    },
+    'players': [],
+    'score': 20.0
+  },
+  'Yone': {
+    'champName': 'Yone',
+    'champID': '777',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Yorick': {
+    'champName': 'Yorick',
+    'champID': '83',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Yuumi': {
+    'champName': 'Yuumi',
+    'champID': '350',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Zac': {
+    'champName': 'Zac',
+    'champID': '154',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Zed': {
+    'champName': 'Zed',
+    'champID': '238',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 1
+    },
+    'players': [],
+    'score': 10.0
+  },
+  'Zeri': {
+    'champName': 'Zeri',
+    'champID': '221',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Ziggs': {
+    'champName': 'Ziggs',
+    'champID': '115',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Zilean': {
+    'champName': 'Zilean',
+    'champID': '26',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Zoe': {
+    'champName': 'Zoe',
+    'champID': '142',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  },
+  'Zyra': {
+    'champName': 'Zyra',
+    'champID': '143',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'players': [],
+    'score': 0.0
+  }
+}

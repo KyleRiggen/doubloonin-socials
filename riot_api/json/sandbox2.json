@@ -1,0 +1,56 @@
+//
+//[
+//  {
+//    'matchId': 'KR_6454571533',
+//    'gameStartTimestamp': 1681661167.628,
+//    'gameDuration': 1352,
+//    'bans': [
+//      203,
+//      54,
+//      7,
+//      -1,
+//      497,
+//      157,
+//      119,
+//      98,
+//      126,
+//      -1
+//    ],
+//    'players': [
+//      {
+//        'puuid': 'SGQi6OWU6lKR3HXdyQMO2RY17m0I4NMdNnq8l-2IQD6fyGidMHXRlSuRCkipUddv_nvf0MM4i7XBXg',
+//        'summonerName': '살퀸레',
+//        'champID': 133,
+//        'champName': 'Quinn',
+//        'kills': 11,
+//        'deaths': 1,
+//        'assists': 0,
+//        'win': True,
+//        'visionScore': 27,
+//        'playerScore': 999
+//      }
+//    ]
+//  }
+//]
+
+{
+  'Aatrox': {
+    'champName': 'Aatrox',
+    'champID': '266',
+    'champStats': {
+      'kills': 0,
+      'deaths': 0,
+      'assists': 0,
+      'wins': 0,
+      'losses': 0,
+      'visionScore': 0,
+      'bans': 0
+    },
+    'score': 0.0,
+    'players': [
+      ['player1', 12, 'kr'],
+      ['player1', 12, 'kr'],
+      ['player1', 12, 'kr']
+    ]
+  }
+}

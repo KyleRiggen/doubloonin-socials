@@ -13,8 +13,8 @@ def build_match_list():
     now_nice = time.ctime(time.time())
 
     for index, player in enumerate(puuid_list_wRegion):
-        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=5)
-        if index >= 10:
+        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=3)
+        if index >= 200:
             break
 
         print(index, player, matches)
@@ -38,4 +38,8 @@ def build_match_list():
     print(f'{now_nice} match list number after filtering duplicates: {matches_to_go_over}')
 
     print(f'{now_nice} match list: {result}')
+
+    with open('json/match_list.json', 'w', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
+
     return result

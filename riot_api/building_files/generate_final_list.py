@@ -31,16 +31,24 @@ def buiding_final_list():
             addUp = added_banned_champs[champ] + 1
             added_banned_champs[champ] = addUp
 
-    print(f'banned CHAMPS!!! {banned_champs}')
-    print(f'added banned CHAMPS!!! {added_banned_champs}')
-
     final_results = {}
 
+    # starting the build
     for eachChamp in champs_json['data']:
 
+        # cleaning up names
         if eachChamp in champs_json['data']:
             champID = champs_json['data'][eachChamp]['key']
             champ_fixed_name = champs_json['data'][eachChamp]['name']
+
+        # adding in the players for each champ
+        player_list = []
+        for match in all_matches_timed:
+            player_region = match['region']
+            for player in match['players']:
+                if player['champName'] == eachChamp:
+                    player_list.append([player_region, player['summonerName'], player['playerScore']])
+                    print(f"added {player['summonerName']} playing {player['champName']} for the champ {eachChamp}")
 
         final_results[eachChamp] = {
             'champName': champ_fixed_name,
@@ -53,7 +61,8 @@ def buiding_final_list():
                 'losses': 0,
                 'visionScore': 0,
                 'bans': added_banned_champs[eachChamp],
-            }
+            },
+            'players': player_list
         }
 
     for eachMatch in all_matches_timed:
@@ -100,7 +109,10 @@ def buiding_final_list():
         final_results[champ]['score'] = score
 
     print(f'final list: {final_results}')
+
+
+    with open('json/final_list.json', 'w', encoding='utf-8') as f:
+        json.dump(final_results, f, ensure_ascii=False, indent=4)
+
     return final_results
 
-
-print(buiding_final_list())

@@ -17,6 +17,7 @@ result = build_match_list()
 matches_to_go_over = len(result)
 all_matches = []
 
+
 # build dictionary of individual champion performance across all matches
 def build_working_list():
     for index, match in enumerate(result):
@@ -37,7 +38,15 @@ def build_working_list():
         for player in match_info['info']['participants']:
             playerID = player['puuid']
 
+            if player['win']:
+                scoreUp_win = 10
+            else:
+                scoreUp_win = -10
+
+            scoreUp = (player['kills'] * 3) - (player['deaths'] * 2) + (player['assists'] * 1) + (player['visionScore'] * 0.2) + scoreUp_win
+
             if playerID in puuid_list:
+
                 player_dictionary = {
                     'puuid': playerID,
                     'summonerName': player['summonerName'],
@@ -47,7 +56,8 @@ def build_working_list():
                     'deaths': player['deaths'],
                     'assists': player['assists'],
                     'win': player['win'],
-                    'visionScore': player['visionScore']
+                    'visionScore': player['visionScore'],
+                    'playerScore': scoreUp
                 }
 
                 # Add player dictionary to our player_list
@@ -55,6 +65,7 @@ def build_working_list():
 
         match_dictionary = {
             'matchId': match_info['metadata']['matchId'],
+            'region': match_info['info']['platformId'].lower(),
             'gameStartTimestamp': converted_time,
             'gameDuration': match_duration,
             'bans': bans,
@@ -66,9 +77,8 @@ def build_working_list():
     now_nice = time.ctime(time.time())
     print(f'{now_nice} match number after building custom dictionary: {len(all_matches)}')
 
-    all_matches_timed = []
-
     # filtering for time
+    all_matches_timed = []
     for eachMatch in all_matches:
         viewableTime = time.ctime(eachMatch['gameStartTimestamp'])
         rawTime = eachMatch['gameStartTimestamp']
@@ -86,10 +96,17 @@ def build_working_list():
             all_matches_finished.append(eachMatch)
             print(f'added: {durationTime}')
         else:
-            print(f'removed: {durationTime}')
+            print(f'removed: {durationTime} for being a remake')
 
     now_nice = time.ctime(time.time())
     print(f'{now_nice} match number after filtering for time: {len(all_matches_finished)}')
 
     print(f'{now_nice} working list: {all_matches_finished}')
+
+
+    with open('json/working_list.json', 'w', encoding='utf-8') as f:
+        json.dump(all_matches_finished, f, ensure_ascii=False, indent=4)
+
     return all_matches_finished
+
+# print(f'working list (out of function): {build_working_list()}')

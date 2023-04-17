@@ -1,260 +1,165 @@
-||Champion|Points| 
-|-|-|-| 
-| 1 | Jinx | 2970.6 | 
-| 2 | Rakan | 2207.6 | 
-| 3 | Xayah | 1704.0 | 
-| 4 | Aphelios | 1483.2 | 
-| 5 | LeeSin | 1264.4 | 
-| 6 | Blitzcrank | 1213.6 | 
-| 7 | Zeri | 1047.4 | 
-| 8 | Gragas | 995.2 | 
-| 9 | Ahri | 985.8 | 
-| 10 | Jayce | 982.2 | 
-| 11 | Ezreal | 838.0 | 
-| 12 | Graves | 815.0 | 
-| 13 | Kindred | 795.6 | 
-| 14 | Kennen | 783.0 | 
-| 15 | Nautilus | 774.2 | 
-| 16 | Varus | 762.8 | 
-| 17 | Cassiopeia | 671.8 | 
-| 18 | Kaisa | 670.8 | 
-| 19 | KSante | 642.4 | 
-| 20 | Lissandra | 642.2 | 
-| 21 | Tristana | 625.8 | 
-| 22 | Pyke | 621.4 | 
-| 23 | Jax | 605.2 | 
-| 24 | Viego | 586.6 | 
-| 25 | Hecarim | 574.8 | 
-| 26 | Thresh | 574.0 | 
-| 27 | Senna | 551.4 | 
-| 28 | Sylas | 546.4 | 
-| 29 | Annie | 522.8 | 
-| 30 | Leblanc | 508.2 | 
-| 31 | Olaf | 505.6 | 
-| 32 | Rengar | 504.0 | 
-| 33 | Irelia | 501.2 | 
-| 34 | Zoe | 497.6 | 
-| 35 | Draven | 485.8 | 
-| 36 | MonkeyKing | 478.6 | 
-| 37 | Galio | 472.0 | 
-| 38 | Syndra | 469.6 | 
-| 39 | Lulu | 456.0 | 
-| 40 | Karthus | 447.6 | 
-| 41 | JarvanIV | 434.0 | 
-| 42 | Ekko | 429.4 | 
-| 43 | Swain | 419.4 | 
-| 44 | Seraphine | 419.4 | 
-| 45 | Talon | 414.6 | 
-| 46 | Zed | 414.4 | 
-| 47 | Rumble | 392.6 | 
-| 48 | Yasuo | 390.8 | 
-| 49 | Vi | 390.2 | 
-| 50 | Milio | 386.2 | 
-| 51 | Malphite | 379.4 | 
-| 52 | Elise | 372.6 | 
-| 53 | Diana | 368.2 | 
-| 54 | Braum | 341.6 | 
-| 55 | Nami | 307.8 | 
-| 56 | Riven | 307.8 | 
-| 57 | Taliyah | 306.0 | 
-| 58 | Akshan | 281.4 | 
-| 59 | Kled | 280.0 | 
-| 60 | Lucian | 278.6 | 
-| 61 | Quinn | 267.4 | 
-| 62 | Samira | 262.0 | 
-| 63 | Fiora | 248.8 | 
-| 64 | Vayne | 243.0 | 
-| 65 | Vladimir | 235.8 | 
-| 66 | Zac | 224.6 | 
-| 67 | Akali | 222.6 | 
-| 68 | Orianna | 214.2 | 
-| 69 | Pantheon | 212.4 | 
-| 70 | Yuumi | 207.4 | 
-| 71 | Khazix | 202.4 | 
-| 72 | Renata | 146.4 | 
-| 73 | Veigar | 146.4 | 
-| 74 | Jhin | 142.2 | 
-| 75 | Gnar | 141.6 | 
-| 76 | Neeko | 137.2 | 
-| 77 | Chogath | 132.4 | 
-| 78 | Lux | 131.4 | 
-| 79 | Kassadin | 128.6 | 
-| 80 | Vex | 127.8 | 
-| 81 | XinZhao | 127.4 | 
-| 82 | Kayn | 127.4 | 
-| 83 | Caitlyn | 122.6 | 
-| 84 | Renekton | 120.4 | 
-| 85 | AurelionSol | 117.8 | 
-| 86 | Yone | 114.6 | 
-| 87 | Soraka | 113.2 | 
-| 88 | KogMaw | 111.2 | 
-| 89 | Kalista | 109.6 | 
-| 90 | Twitch | 108.8 | 
-| 91 | Alistar | 105.2 | 
-| 92 | Maokai | 101.0 | 
-| 93 | TahmKench | 98.4 | 
-| 94 | Karma | 94.8 | 
-| 95 | Heimerdinger | 93.6 | 
-| 96 | Ziggs | 88.0 | 
-| 97 | Warwick | 87.6 | 
-| 98 | Aatrox | 85.6 | 
-| 99 | Taric | 85.0 | 
-| 100 | Rell | 84.8 | 
-| 101 | Shaco | 83.8 | 
-| 102 | Garen | 82.6 | 
-| 103 | Nidalee | 82.4 | 
-| 104 | Sejuani | 80.0 | 
-| 105 | Belveth | 79.4 | 
-| 106 | Janna | 76.6 | 
-| 107 | Sett | 69.2 | 
-| 108 | Mordekaiser | 68.4 | 
-| 109 | Anivia | 66.8 | 
-| 110 | Qiyana | 65.6 | 
-| 111 | Sivir | 64.6 | 
-| 112 | Sona | 63.8 | 
-| 113 | Gwen | 63.0 | 
-| 114 | Evelynn | 61.2 | 
-| 115 | Shen | 54.0 | 
-| 116 | Morgana | 52.8 | 
-| 117 | Ornn | 52.4 | 
-| 118 | Sion | 51.0 | 
-| 119 | Volibear | 50.8 | 
-| 120 | Poppy | 46.8 | 
-| 121 | Ashe | 46.2 | 
-| 122 | Bard | 46.0 | 
-| 123 | Zyra | 44.8 | 
-| 124 | Nunu | 44.6 | 
-| 125 | Nasus | 43.6 | 
-| 126 | Leona | 43.4 | 
-| 127 | Nilah | 41.4 | 
-| 128 | Darius | 37.4 | 
-| 129 | Katarina | 36.0 | 
-| 130 | RekSai | 27.2 | 
-| 131 | FiddleSticks | 22.4 | 
-| 132 | Tryndamere | 18.4 | 
-| 133 | Brand | 18.4 | 
-| 134 | Illaoi | 17.6 | 
-| 135 | Amumu | 14.8 | 
-| 136 | Ryze | 13.8 | 
-| 137 | Camille | 13.4 | 
-| 138 | Nocturne | 3.2 | 
-| 139 | Viktor | 3.0 | 
-| 140 | Kayle | -11.0 | 
-| 141 | TwistedFate | -12.4 | 
-| 142 | MasterYi | -13.2 | 
-| 143 | Singed | -14.8 | 
-| 144 | Gangplank | -22.6 | 
-||Champion|Points| 
-|-|-|-| 
-| 1 | Aphelios | 387.2 | 
-| 2 | Jinx | 192.2 | 
-| 3 | LeeSin | 159.0 | 
-| 4 | Quinn | 147.0 | 
-| 5 | Gragas | 146.8 | 
-| 6 | Jayce | 136.6 | 
-| 7 | Hecarim | 135.2 | 
-| 8 | Nautilus | 112.8 | 
-| 9 | Rakan | 101.8 | 
-| 10 | Xayah | 97.4 | 
-| 11 | Annie | 90.0 | 
-| 12 | Diana | 87.2 | 
-| 13 | Graves | 73.8 | 
-| 14 | Blitzcrank | 72.8 | 
-| 15 | Swain | 69.8 | 
-| 16 | Karthus | 69.4 | 
-| 17 | Varus | 66.2 | 
-| 18 | Yasuo | 58.4 | 
-| 19 | Ahri | 57.8 | 
-| 20 | Samira | 57.6 | 
-| 21 | Thresh | 55.8 | 
-| 22 | KSante | 55.8 | 
-| 23 | Sylas | 50.8 | 
-| 24 | Braum | 47.6 | 
-| 25 | Heimerdinger | 47.4 | 
-| 26 | Rumble | 46.2 | 
-| 27 | Zeri | 45.2 | 
-| 28 | TahmKench | 44.0 | 
-| 29 | Viego | 43.4 | 
-| 30 | Jax | 41.0 | 
-| 31 | Darius | 37.8 | 
-| 32 | Ezreal | 35.0 | 
-| 33 | Kindred | 34.8 | 
-| 34 | Lulu | 34.6 | 
-| 35 | Syndra | 33.6 | 
-| 36 | Shen | 33.4 | 
-| 37 | MonkeyKing | 33.4 | 
-| 38 | Nami | 30.4 | 
-| 39 | Kaisa | 26.0 | 
-| 40 | Pantheon | 21.8 | 
-| 41 | JarvanIV | 21.2 | 
-| 42 | Tryndamere | 16.4 | 
-| 43 | Pyke | 13.8 | 
-| 44 | Nidalee | 11.6 | 
-| 45 | Akshan | 11.4 | 
-| 46 | Sivir | 4.2 | 
-| 47 | Irelia | -3.4 | 
-| 48 | Gnar | -4.2 | 
-| 49 | Yone | -5.8 | 
-| 50 | Sejuani | -6.0 | 
-| 51 | Tristana | -6.2 | 
-| 52 | Galio | -10.8 | 
-| 53 | Camille | -11.2 | 
-| 54 | Elise | -13.2 | 
-| 55 | Cassiopeia | -14.4 | 
-||Champion|Points| 
-|-|-|-| 
-| 1 | Aphelios | 387.2 | 
-| 2 | Jinx | 192.2 | 
-| 3 | Lee Sin | 159.0 | 
-| 4 | Quinn | 147.0 | 
-| 5 | Gragas | 146.8 | 
-| 6 | Jayce | 136.6 | 
-| 7 | Hecarim | 135.2 | 
-| 8 | Nautilus | 112.8 | 
-| 9 | Rakan | 101.8 | 
-| 10 | Xayah | 97.4 | 
-| 11 | Annie | 90.0 | 
-| 12 | Diana | 87.2 | 
-| 13 | Graves | 73.8 | 
-| 14 | Blitzcrank | 72.8 | 
-| 15 | Swain | 69.8 | 
-| 16 | Karthus | 69.4 | 
-| 17 | Varus | 66.2 | 
-| 18 | Yasuo | 58.4 | 
-| 19 | Ahri | 57.8 | 
-| 20 | Samira | 57.6 | 
-| 21 | Thresh | 55.8 | 
-| 22 | K'Sante | 55.8 | 
-| 23 | Sylas | 50.8 | 
-| 24 | Braum | 47.6 | 
-| 25 | Heimerdinger | 47.4 | 
-| 26 | Rumble | 46.2 | 
-| 27 | Zeri | 45.2 | 
-| 28 | Tahm Kench | 44.0 | 
-| 29 | Viego | 43.4 | 
-| 30 | Jax | 41.0 | 
-| 31 | Darius | 37.8 | 
-| 32 | Ezreal | 35.0 | 
-| 33 | Kindred | 34.8 | 
-| 34 | Lulu | 34.6 | 
-| 35 | Syndra | 33.6 | 
-| 36 | Shen | 33.4 | 
-| 37 | Wukong | 33.4 | 
-| 38 | Nami | 30.4 | 
-| 39 | Kai'Sa | 26.0 | 
-| 40 | Pantheon | 21.8 | 
-| 41 | Jarvan IV | 21.2 | 
-| 42 | Tryndamere | 16.4 | 
-| 43 | Pyke | 13.8 | 
-| 44 | Nidalee | 11.6 | 
-| 45 | Akshan | 11.4 | 
-| 46 | Sivir | 4.2 | 
-| 47 | Irelia | -3.4 | 
-| 48 | Gnar | -4.2 | 
-| 49 | Yone | -5.8 | 
-| 50 | Sejuani | -6.0 | 
-| 51 | Tristana | -6.2 | 
-| 52 | Galio | -10.8 | 
-| 53 | Camille | -11.2 | 
-| 54 | Elise | -13.2 | 
-| 55 | Cassiopeia | -14.4 | 
+||Champion|Points|Top Player| 
+|-|-|-|-| 
+| 1 | Rakan | 1096.2 | [IgNar](https://www.op.gg/summoners/kr/IgNar) | 
+| 2 | Xayah | 1054.6 | [sunghyuk39](https://www.op.gg/summoners/kr/sunghyuk39) | 
+| 3 | Aphelios | 937.4 | [BRO Hena](https://www.op.gg/summoners/kr/BRO Hena) | 
+| 4 | Jinx | 903.0 | [FA Kingdom](https://www.op.gg/summoners/kr/FA Kingdom) | 
+| 5 | Lee Sin | 878.2 |  | 
+| 6 | Blitzcrank | 870.0 | [Chu성훈](https://www.op.gg/summoners/kr/Chu성훈) | 
+| 7 | LeBlanc | 701.6 |  | 
+| 8 | Hecarim | 655.6 | [ranranbaby](https://www.op.gg/summoners/kr/ranranbaby) | 
+| 9 | K'Sante | 645.8 |  | 
+| 10 | Draven | 640.0 |  | 
+| 11 | Yasuo | 603.0 | [Jiahai](https://www.op.gg/summoners/kr/Jiahai) | 
+| 12 | Ahri | 589.2 | [농심 콜미](https://www.op.gg/summoners/kr/농심 콜미) | 
+| 13 | Zeri | 585.0 | [저 높은 곳으로](https://www.op.gg/summoners/kr/저 높은 곳으로) | 
+| 14 | Thresh | 535.6 | [아직많이부족하다](https://www.op.gg/summoners/kr/아직많이부족하다) | 
+| 15 | Graves | 527.2 | [L0ve  Jiao](https://www.op.gg/summoners/kr/L0ve  Jiao) | 
+| 16 | Kindred | 517.8 | [naiyoubaby](https://www.op.gg/summoners/kr/naiyoubaby) | 
+| 17 | Cassiopeia | 494.4 | [마가가 소가죽](https://www.op.gg/summoners/kr/마가가 소가죽) | 
+| 18 | Varus | 493.2 | [BRO Hena](https://www.op.gg/summoners/kr/BRO Hena) | 
+| 19 | Zoe | 458.6 | [쪼렙이다말로하자](https://www.op.gg/summoners/kr/쪼렙이다말로하자) | 
+| 20 | Malphite | 436.6 | [개구리 키우기](https://www.op.gg/summoners/kr/개구리 키우기) | 
+| 21 | Nidalee | 433.4 | [eilataN](https://www.op.gg/summoners/kr/eilataN) | 
+| 22 | Jayce | 419.8 | [바르고고운말해여](https://www.op.gg/summoners/kr/바르고고운말해여) | 
+| 23 | Elise | 414.8 | [신김성욱](https://www.op.gg/summoners/kr/신김성욱) | 
+| 24 | Nautilus | 413.2 | [yitianyit1an](https://www.op.gg/summoners/kr/yitianyit1an) | 
+| 25 | Karthus | 396.6 | [DK Sharvel](https://www.op.gg/summoners/kr/DK Sharvel) | 
+| 26 | Kennen | 386.0 | [40대 탑라이너](https://www.op.gg/summoners/kr/40대 탑라이너) | 
+| 27 | Milio | 385.8 | [FlawIess](https://www.op.gg/summoners/kr/FlawIess) | 
+| 28 | Gragas | 351.6 | [Jiahai](https://www.op.gg/summoners/kr/Jiahai) | 
+| 29 | Jax | 348.4 | [HLE Grizzly](https://www.op.gg/summoners/kr/HLE Grizzly) | 
+| 30 | Lissandra | 330.8 | [wo naozi buhao](https://www.op.gg/summoners/kr/wo naozi buhao) | 
+| 31 | Viego | 316.4 | [B0NN1E](https://www.op.gg/summoners/kr/B0NN1E) | 
+| 32 | Sylas | 285.8 | [기모띠123](https://www.op.gg/summoners/kr/기모띠123) | 
+| 33 | Lulu | 242.8 | [BRO Effort](https://www.op.gg/summoners/kr/BRO Effort) | 
+| 34 | Pyke | 236.8 | [사람 안 믿어](https://www.op.gg/summoners/kr/사람 안 믿어) | 
+| 35 | Akshan | 234.0 | [Indexy](https://www.op.gg/summoners/kr/Indexy) | 
+| 36 | Rumble | 228.8 | [바르고고운말해여](https://www.op.gg/summoners/kr/바르고고운말해여) | 
+| 37 | Tristana | 223.0 | [gpnoeynu](https://www.op.gg/summoners/kr/gpnoeynu) | 
+| 38 | Annie | 214.8 | [huibuhui](https://www.op.gg/summoners/kr/huibuhui) | 
+| 39 | Heimerdinger | 197.4 | [Dazbee9](https://www.op.gg/summoners/kr/Dazbee9) | 
+| 40 | Rengar | 196.6 | [Juhana](https://www.op.gg/summoners/kr/Juhana) | 
+| 41 | Irelia | 188.0 | [이렐아칼리](https://www.op.gg/summoners/kr/이렐아칼리) | 
+| 42 | Wukong | 185.2 |  | 
+| 43 | Fiora | 176.8 | [자신감잃지마이현](https://www.op.gg/summoners/kr/자신감잃지마이현) | 
+| 44 | Braum | 171.6 | [ycx](https://www.op.gg/summoners/kr/ycx) | 
+| 45 | Yone | 169.0 | [yasuu](https://www.op.gg/summoners/kr/yasuu) | 
+| 46 | Maokai | 168.8 | [bqrekmlre](https://www.op.gg/summoners/kr/bqrekmlre) | 
+| 47 | Katarina | 150.0 |  | 
+| 48 | Quinn | 149.4 | [살퀸레](https://www.op.gg/summoners/kr/살퀸레) | 
+| 49 | Ezreal | 143.8 | [피그차이나](https://www.op.gg/summoners/kr/피그차이나) | 
+| 50 | Morgana | 133.4 | [AlphaGo test 06](https://www.op.gg/summoners/kr/AlphaGo test 06) | 
+| 51 | Jarvan IV | 132.4 |  | 
+| 52 | Taliyah | 131.8 | [기모띠123](https://www.op.gg/summoners/kr/기모띠123) | 
+| 53 | Nunu & Willump | 120.0 |  | 
+| 54 | Talon | 114.6 | [Katappo](https://www.op.gg/summoners/kr/Katappo) | 
+| 55 | Evelynn | 110.0 |  | 
+| 56 | Zed | 110.0 |  | 
+| 57 | Karma | 108.0 | [씨맥당신은틀렸어](https://www.op.gg/summoners/kr/씨맥당신은틀렸어) | 
+| 58 | Zac | 107.2 | [Zac](https://www.op.gg/summoners/kr/Zac) | 
+| 59 | Vi | 100.4 | [BRO Raptor](https://www.op.gg/summoners/kr/BRO Raptor) | 
+| 60 | Renekton | 100.2 | [자신감을잃지말자](https://www.op.gg/summoners/kr/자신감을잃지말자) | 
+| 61 | Twitch | 100.0 |  | 
+| 62 | Veigar | 92.2 | [Flower1ng](https://www.op.gg/summoners/kr/Flower1ng) | 
+| 63 | Galio | 91.0 | [럽 갈](https://www.op.gg/summoners/kr/럽 갈) | 
+| 64 | Vladimir | 81.0 | [마가가 소가죽](https://www.op.gg/summoners/kr/마가가 소가죽) | 
+| 65 | Shen | 73.0 | [IgNar](https://www.op.gg/summoners/kr/IgNar) | 
+| 66 | Diana | 72.2 | [naiyoubaby](https://www.op.gg/summoners/kr/naiyoubaby) | 
+| 67 | Tahm Kench | 71.8 |  | 
+| 68 | Gwen | 71.2 | [wutian](https://www.op.gg/summoners/kr/wutian) | 
+| 69 | Yuumi | 62.6 | [칠리 맛있어요](https://www.op.gg/summoners/kr/칠리 맛있어요) | 
+| 70 | Nasus | 62.0 | [NongshimRedForce](https://www.op.gg/summoners/kr/NongshimRedForce) | 
+| 71 | Senna | 61.4 | [BRO Hena](https://www.op.gg/summoners/kr/BRO Hena) | 
+| 72 | Qiyana | 60.0 |  | 
+| 73 | Leona | 59.8 | [KT Way](https://www.op.gg/summoners/kr/KT Way) | 
+| 74 | Kog'Maw | 59.8 |  | 
+| 75 | Rell | 58.4 | [Kim Sang Hoon](https://www.op.gg/summoners/kr/Kim Sang Hoon) | 
+| 76 | Sett | 56.8 | [꺾여가는 마음](https://www.op.gg/summoners/kr/꺾여가는 마음) | 
+| 77 | Darius | 54.8 | [DARIKING](https://www.op.gg/summoners/kr/DARIKING) | 
+| 78 | Ashe | 52.4 | [yitianyit1an](https://www.op.gg/summoners/kr/yitianyit1an) | 
+| 79 | Vex | 51.0 | [gnpm](https://www.op.gg/summoners/kr/gnpm) | 
+| 80 | Seraphine | 50.8 | [wo naozi buhao](https://www.op.gg/summoners/kr/wo naozi buhao) | 
+| 81 | Kalista | 49.8 | [NS Jiwoo](https://www.op.gg/summoners/kr/NS Jiwoo) | 
+| 82 | Swain | 46.6 | [Minato2](https://www.op.gg/summoners/kr/Minato2) | 
+| 83 | Alistar | 45.2 | [zui hao yige ren](https://www.op.gg/summoners/kr/zui hao yige ren) | 
+| 84 | Akali | 45.0 | [NS Jiwoo](https://www.op.gg/summoners/kr/NS Jiwoo) | 
+| 85 | Lux | 43.4 | [콩알탄콩콩](https://www.op.gg/summoners/kr/콩알탄콩콩) | 
+| 86 | Bel'Veth | 43.0 |  | 
+| 87 | Vayne | 42.6 | [NS Jiwoo](https://www.op.gg/summoners/kr/NS Jiwoo) | 
+| 88 | Pantheon | 41.8 | [Jiahai](https://www.op.gg/summoners/kr/Jiahai) | 
+| 89 | Xin Zhao | 41.6 |  | 
+| 90 | Rek'Sai | 40.0 |  | 
+| 91 | Shaco | 40.0 |  | 
+| 92 | Gnar | 39.4 | [농심 콜미](https://www.op.gg/summoners/kr/농심 콜미) | 
+| 93 | Kayn | 39.0 | [naiyoubaby](https://www.op.gg/summoners/kr/naiyoubaby) | 
+| 94 | Sejuani | 38.8 | [BRO Raptor](https://www.op.gg/summoners/kr/BRO Raptor) | 
+| 95 | Twisted Fate | 36.0 |  | 
+| 96 | Ekko | 30.0 |  | 
+| 97 | Orianna | 29.8 | [쪼렙이다말로하자](https://www.op.gg/summoners/kr/쪼렙이다말로하자) | 
+| 98 | Soraka | 28.6 | [gpnoeynu](https://www.op.gg/summoners/kr/gpnoeynu) | 
+| 99 | Jhin | 27.8 | [난화내](https://www.op.gg/summoners/kr/난화내) | 
+| 100 | Kha'Zix | 25.2 |  | 
+| 101 | Sion | 22.6 | [This game canwin](https://www.op.gg/summoners/kr/This game canwin) | 
+| 102 | Samira | 20.6 | [HLE Lure](https://www.op.gg/summoners/kr/HLE Lure) | 
+| 103 | Nilah | 20.0 |  | 
+| 104 | Renata Glasc | 20.0 |  | 
+| 105 | Syndra | 20.0 |  | 
+| 106 | Udyr | 20.0 |  | 
+| 107 | Anivia | 10.0 |  | 
+| 108 | Aurelion Sol | 10.0 |  | 
+| 109 | Azir | 10.0 |  | 
+| 110 | Bard | 10.0 |  | 
+| 111 | Gangplank | 10.0 |  | 
+| 112 | Nami | 10.0 |  | 
+| 113 | Rammus | 10.0 |  | 
+| 114 | Riven | 10.0 |  | 
+| 115 | Warwick | 10.0 |  | 
+| 116 | Xerath | 10.0 |  | 
+| 117 | Tryndamere | 6.4 | [바르고고운말해여](https://www.op.gg/summoners/kr/바르고고운말해여) | 
+| 118 | Volibear | 5.6 | [JUG CaD](https://www.op.gg/summoners/kr/JUG CaD) | 
+| 119 | Aatrox | 0.0 |  | 
+| 120 | Amumu | 0.0 |  | 
+| 121 | Brand | 0.0 |  | 
+| 122 | Cho'Gath | 0.0 |  | 
+| 123 | Corki | 0.0 |  | 
+| 124 | Dr. Mundo | 0.0 |  | 
+| 125 | Fiddlesticks | 0.0 |  | 
+| 126 | Fizz | 0.0 |  | 
+| 127 | Garen | 0.0 |  | 
+| 128 | Illaoi | 0.0 |  | 
+| 129 | Ivern | 0.0 |  | 
+| 130 | Janna | 0.0 |  | 
+| 131 | Kassadin | 0.0 |  | 
+| 132 | Kayle | 0.0 |  | 
+| 133 | Kled | 0.0 |  | 
+| 134 | Lillia | 0.0 |  | 
+| 135 | Lucian | 0.0 |  | 
+| 136 | Malzahar | 0.0 |  | 
+| 137 | Master Yi | 0.0 |  | 
+| 138 | Miss Fortune | 0.0 |  | 
+| 139 | Mordekaiser | 0.0 |  | 
+| 140 | Neeko | 0.0 |  | 
+| 141 | Nocturne | 0.0 |  | 
+| 142 | Ornn | 0.0 |  | 
+| 143 | Poppy | 0.0 |  | 
+| 144 | Ryze | 0.0 |  | 
+| 145 | Shyvana | 0.0 |  | 
+| 146 | Singed | 0.0 |  | 
+| 147 | Sivir | 0.0 |  | 
+| 148 | Skarner | 0.0 |  | 
+| 149 | Sona | 0.0 |  | 
+| 150 | Teemo | 0.0 |  | 
+| 151 | Trundle | 0.0 |  | 
+| 152 | Urgot | 0.0 |  | 
+| 153 | Vel'Koz | 0.0 |  | 
+| 154 | Viktor | 0.0 |  | 
+| 155 | Yorick | 0.0 |  | 
+| 156 | Ziggs | 0.0 |  | 
+| 157 | Zilean | 0.0 |  | 
+| 158 | Zyra | 0.0 |  | 
+| 159 | Kai'Sa | -0.2 |  | 
+| 160 | Caitlyn | -7.2 | [아직많이부족하다](https://www.op.gg/summoners/kr/아직많이부족하다) | 
+| 161 | Taric | -8.2 | [douyu9977818](https://www.op.gg/summoners/kr/douyu9977818) | 
+| 162 | Camille | -11.2 | [zcxsdasdas](https://www.op.gg/summoners/kr/zcxsdasdas) | 
+| 163 | Olaf | -18.2 | [지저스 버돌 ](https://www.op.gg/summoners/kr/지저스 버돌 ) | 
