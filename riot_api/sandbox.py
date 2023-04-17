@@ -1,13 +1,13 @@
-array_of_array = [[1,2,3],[4,5,6],[7,8,9]]
+incoming_data = ['billy', 'kyle', 'newItem', 'anotherItem', 'billy', 'kyle']
+resulting_data = {}
 
-match_dictionary = {
-    'data': {
-        'name1': {
-            'key': '1'
-        }
-    }
-}
+for item in incoming_data:
+    total = 0
 
+    if item not in resulting_data.keys():
+        resulting_data[item] = 1
+    else:
+        total = resulting_data[item] + 1
+        resulting_data[item] = total
 
-for array in array_of_array:
-    print(array)
+print(resulting_data)

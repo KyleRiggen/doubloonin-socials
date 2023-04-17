@@ -14,14 +14,15 @@ with open('json/champ_stats.json', 'w', encoding='utf-8') as f:
 
 # getting top 3 and sorting champs
 def get_top_scores(champStats):
-    list_champs = [(name, champStats[name]['score']) for name in champStats]
+    list_champs = [(champStats[name]['champName'], champStats[name]['score']) for name in champStats]
     sorted_champs = sorted(list_champs, key=lambda x: x[1], reverse=True)
     # print(sorted_champs)
-    ret_dict = {}
-    for champ, kills in sorted_champs[:10]:
-        ret_dict[champ] = kills
+    # ret_dict = {}
+    # for champ, kills in sorted_champs[:10]:
+    #     ret_dict[champ] = kills
 
     return sorted_champs
+
 def create_publish_file():
     f = open("publish.txt", "a")
     opening = '||Champion|Points| \n|-|-|-| \n'

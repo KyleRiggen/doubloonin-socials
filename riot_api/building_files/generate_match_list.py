@@ -13,8 +13,8 @@ def build_match_list():
     now_nice = time.ctime(time.time())
 
     for index, player in enumerate(puuid_list_wRegion):
-        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=2)
-        if index >= 100:
+        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=5)
+        if index >= 10:
             break
 
         print(index, player, matches)
@@ -37,4 +37,5 @@ def build_match_list():
     matches_to_go_over = len(result)
     print(f'{now_nice} match list number after filtering duplicates: {matches_to_go_over}')
 
+    print(f'{now_nice} match list: {result}')
     return result

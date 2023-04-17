@@ -22,6 +22,7 @@ def build_working_list():
     for index, match in enumerate(result):
         match_info = lol_watcher.match.by_id(region=match[1], match_id=match[0])
         match_timestamp = match_info['info']['gameStartTimestamp']
+        match_duration = match_info['info']['gameDuration']
         converted_time = match_timestamp / 1000
 
         now_nice = time.ctime(time.time())
@@ -55,6 +56,7 @@ def build_working_list():
         match_dictionary = {
             'matchId': match_info['metadata']['matchId'],
             'gameStartTimestamp': converted_time,
+            'gameDuration': match_duration,
             'bans': bans,
             'players': player_list
         }
@@ -76,7 +78,18 @@ def build_working_list():
         else:
             print(f'removed: {viewableTime}')
 
-    now_nice = time.ctime(time.time())
-    print(f'{now_nice} match number after filtering for time: {len(all_matches_timed)}')
+    # filtering for remakes
+    all_matches_finished = []
+    for eachMatch in all_matches_timed:
+        durationTime = eachMatch['gameDuration']
+        if durationTime > 200:
+            all_matches_finished.append(eachMatch)
+            print(f'added: {durationTime}')
+        else:
+            print(f'removed: {durationTime}')
 
-    return all_matches_timed
+    now_nice = time.ctime(time.time())
+    print(f'{now_nice} match number after filtering for time: {len(all_matches_finished)}')
+
+    print(f'{now_nice} working list: {all_matches_finished}')
+    return all_matches_finished

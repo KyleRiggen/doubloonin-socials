@@ -7,34 +7,65 @@ champs_json = json.loads(file_contents)
 
 all_matches_timed = build_working_list()
 
+
 # building results dictionary
 def buiding_final_list():
-    # banned_champs = []
-    #
-    # champs_list = champs_json['data']
-    # for match in all_matches_timed:
-    #     # print(match['bans'])
-    #     for index, champ in enumerate(champs_list):
-    #         # print(champs_list[champ]['key'])
-    #         if int(champs_list[champ]['key']) in match['bans']:
-    #             banned_champs.append(champs_list[champ]['id'])
-    #
-    # print(f'banned CHAMPS!!! {banned_champs}')
+    banned_champs = []
 
+    for match in all_matches_timed:
+        # print(match['bans'])
+        for index, champ in enumerate(champs_json['data']):
+            # print(champs_list[champ]['key'])
+            if int(champs_json['data'][champ]['key']) in match['bans']:
+                banned_champs.append(champs_json['data'][champ]['id'])
+
+    added_banned_champs = {}
+    for champ in champs_json['data']:
+        added_banned_champs[champ] = 0
+
+    for champ in banned_champs:
+        # addUp = 0
+        if champ not in added_banned_champs.keys():
+            added_banned_champs[champ] = 1
+        else:
+            addUp = added_banned_champs[champ] + 1
+            added_banned_champs[champ] = addUp
+
+    print(f'banned CHAMPS!!! {banned_champs}')
+    print(f'added banned CHAMPS!!! {added_banned_champs}')
 
     final_results = {}
+
+    for eachChamp in champs_json['data']:
+
+        if eachChamp in champs_json['data']:
+            champID = champs_json['data'][eachChamp]['key']
+            champ_fixed_name = champs_json['data'][eachChamp]['name']
+
+        final_results[eachChamp] = {
+            'champName': champ_fixed_name,
+            'champID': champID,
+            'champStats': {
+                'kills': 0,
+                'deaths': 0,
+                'assists': 0,
+                'wins': 0,
+                'losses': 0,
+                'visionScore': 0,
+                'bans': added_banned_champs[eachChamp],
+            }
+        }
+
     for eachMatch in all_matches_timed:
 
         for eachPlayer in eachMatch['players']:
 
             champName = eachPlayer['champName']
-            champ_fixed_name = ''
             champKills = eachPlayer['kills']
             champDeaths = eachPlayer['deaths']
             champAssists = eachPlayer['assists']
             champVisionScore = eachPlayer['visionScore']
             winBoolean = eachPlayer['win']
-            champID = 0
 
             if winBoolean:
                 champWins = 1
@@ -43,41 +74,18 @@ def buiding_final_list():
                 champLooses = 1
                 champWins = 0
 
-            if champName in champs_json['data']:
-                champID = champs_json['data'][champName]['key']
-                champ_fixed_name = champs_json['data'][champName]['name']
-
-
-            if champName not in final_results:
-
-                final_results[champName] = {
-                    'champName': champ_fixed_name,
-                    'champID': champID,
-                    'champStats': {
-                        'kills': champKills,
-                        'deaths': champDeaths,
-                        'assists': champAssists,
-                        'wins': champWins,
-                        'losses': champLooses,
-                        'visionScore': champVisionScore,
-                        'bans': 0,
-                        'picks': 0
-                    }
-                }
-
-            else:
-                kills = final_results[champName]['champStats']['kills'] + champKills
-                deaths = final_results[champName]['champStats']['deaths'] + champDeaths
-                assists = final_results[champName]['champStats']['assists'] + champAssists
-                wins = final_results[champName]['champStats']['wins'] + champWins
-                looses = final_results[champName]['champStats']['losses'] + champLooses
-                visionScore = final_results[champName]['champStats']['visionScore'] + champVisionScore
-                final_results[champName]['champStats']['kills'] = kills
-                final_results[champName]['champStats']['deaths'] = deaths
-                final_results[champName]['champStats']['assists'] = assists
-                final_results[champName]['champStats']['wins'] = wins
-                final_results[champName]['champStats']['losses'] = looses
-                final_results[champName]['champStats']['visionScore'] = visionScore
+            kills = final_results[champName]['champStats']['kills'] + champKills
+            deaths = final_results[champName]['champStats']['deaths'] + champDeaths
+            assists = final_results[champName]['champStats']['assists'] + champAssists
+            wins = final_results[champName]['champStats']['wins'] + champWins
+            looses = final_results[champName]['champStats']['losses'] + champLooses
+            visionScore = final_results[champName]['champStats']['visionScore'] + champVisionScore
+            final_results[champName]['champStats']['kills'] = kills
+            final_results[champName]['champStats']['deaths'] = deaths
+            final_results[champName]['champStats']['assists'] = assists
+            final_results[champName]['champStats']['wins'] = wins
+            final_results[champName]['champStats']['losses'] = looses
+            final_results[champName]['champStats']['visionScore'] = visionScore
 
     # totaling scores
     for champ in final_results:
@@ -88,6 +96,11 @@ def buiding_final_list():
         score = score + (final_results[champ]['champStats']['wins'] * 10)
         score = score - (final_results[champ]['champStats']['losses'] * 10)
         score = score + (final_results[champ]['champStats']['visionScore'] * 0.2)
+        score = score + (final_results[champ]['champStats']['bans'] * 10)
         final_results[champ]['score'] = score
 
+    print(f'final list: {final_results}')
     return final_results
+
+
+print(buiding_final_list())
