@@ -16,8 +16,6 @@ with open('json/champ_stats.json', 'w', encoding='utf-8') as f:
 def get_top_scores(champStats):
     list_champs = [(champStats[name]['champName'], champStats[name]['score']) for name in champStats]
     sorted_champs = sorted(list_champs, key=lambda x: x[1], reverse=True)
-    print(f'list champs: ', list_champs)
-    print('sorted champs: ', sorted_champs)
     # ret_dict = {}
     # for champ, kills in sorted_champs[:10]:
     #     ret_dict[champ] = kills
@@ -39,14 +37,24 @@ def create_publish_file():
             if new_champStats[bigChamp]['champName'] == champ[0]:
                 if len(new_champStats[bigChamp]['players']) == 1:
                     top_player_region = new_champStats[bigChamp]['players'][0][0]
+                    if top_player_region == 'euw1':
+                        top_player_region = 'euw'
+                    elif top_player_region == 'na1':
+                        top_player_region = 'na'
                     top_player_name = new_champStats[bigChamp]['players'][0][1]
                     link_string_top = f'[{top_player_name}](https://www.op.gg/summoners/{top_player_region}/{top_player_name})'
                 elif len(new_champStats[bigChamp]['players']) > 1:
                     bottom_player_region = new_champStats[bigChamp]['players'][-1][0]
+                    top_player_region = new_champStats[bigChamp]['players'][0][0]
+                    if bottom_player_region == 'euw1' or top_player_region == 'euw1':
+                        bottom_player_region = 'euw'
+                        top_player_region = 'euw'
+                    elif bottom_player_region == 'na1' or top_player_region == 'na1':
+                        bottom_player_region = 'na'
+                        top_player_region = 'na'
                     bottom_player_name = new_champStats[bigChamp]['players'][-1][1]
                     link_string_bottom = f'[{bottom_player_name}](https://www.op.gg/summoners/{bottom_player_region}/{bottom_player_name})'
 
-                    top_player_region = new_champStats[bigChamp]['players'][0][0]
                     top_player_name = new_champStats[bigChamp]['players'][0][1]
                     link_string_top = f'[{top_player_name}](https://www.op.gg/summoners/{top_player_region}/{top_player_name})'
                 else:
@@ -59,6 +67,6 @@ def create_publish_file():
     f.close()
 
 
-print(get_top_scores(new_champStats))
-print(f'the um player function: {get_top_player()}')
+get_top_scores(new_champStats)
+get_top_player()
 create_publish_file()

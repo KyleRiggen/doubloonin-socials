@@ -2,7 +2,7 @@ from doubloonin.riot_api.building_files.setup import setup_enviorment
 import json
 
 lol_watcher = setup_enviorment()
-player_region = ['kr', 'euw1', 'na1']
+player_region = ['na1', 'euw1', 'kr']
 queue_type = 'RANKED_SOLO_5x5'
 puuid_list_wRegion = []
 puuid_list = []

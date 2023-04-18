@@ -48,6 +48,8 @@ def building_final_list():
             for player in match['players']:
                 if player['champName'] == eachChamp:
                     player_list.append([player_region, player['summonerName'], player['playerScore']])
+                elif player['champName'] == 'FiddleSticks' and eachChamp == 'Fiddlesticks':
+                    player_list.append([player_region, player['summonerName'], player['playerScore']])
 
         final_results[eachChamp] = {
             'champName': champ_fixed_name,
@@ -76,7 +78,6 @@ def building_final_list():
             winBoolean = eachPlayer['win']
 
             if champName == 'FiddleSticks' or champName == 'Fiddlesticks':
-                print('hi', champName)
                 champName = 'Fiddlesticks'
 
             if winBoolean:
@@ -110,8 +111,6 @@ def building_final_list():
         score = score + (final_results[champ]['champStats']['visionScore'] * 0.2)
         score = score + (final_results[champ]['champStats']['bans'] * 10)
         final_results[champ]['score'] = score
-
-    print(f'final list: {final_results}')
 
     with open('json/final_list.json', 'w', encoding='utf-8') as f:
         json.dump(final_results, f, ensure_ascii=False, indent=4)

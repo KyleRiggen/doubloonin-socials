@@ -13,7 +13,7 @@ def build_match_list():
     now_nice = time.ctime(time.time())
 
     for index, player in enumerate(puuid_list_wRegion):
-        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=2)
+        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=1)
         if index >= 1000:
             break
 
