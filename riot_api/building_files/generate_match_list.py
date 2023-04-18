@@ -13,8 +13,8 @@ def build_match_list():
     now_nice = time.ctime(time.time())
 
     for index, player in enumerate(puuid_list_wRegion):
-        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=3)
-        if index >= 200:
+        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=2)
+        if index >= 1000:
             break
 
         print(index, player, matches)
@@ -23,6 +23,10 @@ def build_match_list():
             match_list.append(combined)
 
     print(match_list)
+
+    isolated_region = 'na1'
+    isolated_puuid = 'Wg394dzXL5rIr4pw87lXqVOaCCJ88e9Gpu-xNHSHhbKchnxFq6uIJ8AzL6_dmH-UyKftmvE_zDm7Qg'
+    isolated_match_list = lol_watcher.match.matchlist_by_puuid(region=isolated_region, puuid=isolated_puuid, queue=420, start=0, count=1)
 
     print(f'{now_nice} match list number before filtering duplicates: {len(match_list)}')
     # remove duplicated from list

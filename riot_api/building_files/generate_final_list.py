@@ -9,7 +9,7 @@ all_matches_timed = build_working_list()
 
 
 # building results dictionary
-def buiding_final_list():
+def building_final_list():
     banned_champs = []
 
     for match in all_matches_timed:
@@ -48,7 +48,6 @@ def buiding_final_list():
             for player in match['players']:
                 if player['champName'] == eachChamp:
                     player_list.append([player_region, player['summonerName'], player['playerScore']])
-                    print(f"added {player['summonerName']} playing {player['champName']} for the champ {eachChamp}")
 
         final_results[eachChamp] = {
             'champName': champ_fixed_name,
@@ -75,6 +74,10 @@ def buiding_final_list():
             champAssists = eachPlayer['assists']
             champVisionScore = eachPlayer['visionScore']
             winBoolean = eachPlayer['win']
+
+            if champName == 'FiddleSticks' or champName == 'Fiddlesticks':
+                print('hi', champName)
+                champName = 'Fiddlesticks'
 
             if winBoolean:
                 champWins = 1
@@ -110,9 +113,7 @@ def buiding_final_list():
 
     print(f'final list: {final_results}')
 
-
     with open('json/final_list.json', 'w', encoding='utf-8') as f:
         json.dump(final_results, f, ensure_ascii=False, indent=4)
 
     return final_results
-

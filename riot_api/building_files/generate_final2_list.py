@@ -1,7 +1,7 @@
-from doubloonin.riot_api.building_files.generate_final_list import buiding_final_list
+from doubloonin.riot_api.building_files.generate_final_list import building_final_list
 import json
 
-champStats = buiding_final_list()
+champStats = building_final_list()
 def get_top_player():
     for champ in champStats:
         new_players = []

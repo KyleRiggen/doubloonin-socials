@@ -27,23 +27,33 @@ def get_top_scores(champStats):
 
 def create_publish_file():
     f = open("publish.txt", "a")
-    opening = '||Champion|Points|Top Player| \n|-|-|-|-| \n'
+    opening = '||Champion|Points|Top Player|Bottom Player| \n|-|-|-|-|-| \n'
     f.write(opening)
 
     for index, champ in enumerate(get_top_scores(new_champStats)):
 
-        link_string = ''
+        link_string_top = ''
+        link_string_bottom = ''
         for bigChamp in new_champStats:
 
-            if bigChamp == champ[0]:
-                if len(new_champStats[bigChamp]['players']) > 0:
+            if new_champStats[bigChamp]['champName'] == champ[0]:
+                if len(new_champStats[bigChamp]['players']) == 1:
                     top_player_region = new_champStats[bigChamp]['players'][0][0]
                     top_player_name = new_champStats[bigChamp]['players'][0][1]
-                    link_string = f'[{top_player_name}](https://www.op.gg/summoners/{top_player_region}/{top_player_name})'
-                    print('this is printing',new_champStats[bigChamp]['players'])
+                    link_string_top = f'[{top_player_name}](https://www.op.gg/summoners/{top_player_region}/{top_player_name})'
+                elif len(new_champStats[bigChamp]['players']) > 1:
+                    bottom_player_region = new_champStats[bigChamp]['players'][-1][0]
+                    bottom_player_name = new_champStats[bigChamp]['players'][-1][1]
+                    link_string_bottom = f'[{bottom_player_name}](https://www.op.gg/summoners/{bottom_player_region}/{bottom_player_name})'
+
+                    top_player_region = new_champStats[bigChamp]['players'][0][0]
+                    top_player_name = new_champStats[bigChamp]['players'][0][1]
+                    link_string_top = f'[{top_player_name}](https://www.op.gg/summoners/{top_player_region}/{top_player_name})'
+                else:
+                    link_string_top = 'not played'
 
         round_points = round(champ[1], 1)
-        string = f"| {index + 1} | {champ[0]} | {round_points} | {link_string} | \n"
+        string = f"| {index + 1} | {champ[0]} | {round_points} | {link_string_top} | {link_string_bottom} |\n"
         f.write(string)
 
     f.close()
