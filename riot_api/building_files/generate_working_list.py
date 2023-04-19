@@ -44,7 +44,7 @@ def build_working_list():
                 scoreUp_win = -10
 
             scoreUp = (player['kills'] * 3) - (player['deaths'] * 2) + (player['assists'] * 1) + (
-                        player['visionScore'] * 0.2) + scoreUp_win
+                        player['visionScore'] * 0.1) + scoreUp_win
 
             if player['championName'] == 'FiddleSticks':
                 player['championName'] = 'Fiddlesticks'
@@ -80,20 +80,9 @@ def build_working_list():
     now_nice = time.ctime(time.time())
     print(f'{now_nice} match number after building custom dictionary: {len(all_matches)}')
 
-    # filtering for time
-    all_matches_timed = []
-    for eachMatch in all_matches:
-        viewableTime = time.ctime(eachMatch['gameStartTimestamp'])
-        rawTime = eachMatch['gameStartTimestamp']
-        if rawTime > one_day_ago:
-            all_matches_timed.append(eachMatch)
-            print(f'added: {viewableTime}')
-        else:
-            print(f'removed: {viewableTime}')
-
     # filtering for remakes
     all_matches_finished = []
-    for eachMatch in all_matches_timed:
+    for eachMatch in all_matches:
         durationTime = eachMatch['gameDuration']
         if durationTime > 200:
             all_matches_finished.append(eachMatch)
@@ -104,11 +93,8 @@ def build_working_list():
     now_nice = time.ctime(time.time())
     print(f'{now_nice} match number after filtering for time: {len(all_matches_finished)}')
 
-    print(f'{now_nice} working list: {all_matches_finished}')
-
-    with open('json/working_list.json', 'w', encoding='utf-8') as f:
+    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/working_list.json', 'w', encoding='utf-8') as f:
         json.dump(all_matches_finished, f, ensure_ascii=False, indent=4)
 
     return all_matches_finished
 
-# print(f'working list (out of function): {build_working_list()}')

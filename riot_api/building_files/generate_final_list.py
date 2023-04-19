@@ -108,11 +108,11 @@ def building_final_list():
         score = score + (final_results[champ]['champStats']['assists'] * 1)
         score = score + (final_results[champ]['champStats']['wins'] * 10)
         score = score - (final_results[champ]['champStats']['losses'] * 10)
-        score = score + (final_results[champ]['champStats']['visionScore'] * 0.2)
+        score = score + (final_results[champ]['champStats']['visionScore'] * 0.1)
         score = score + (final_results[champ]['champStats']['bans'] * 10)
         final_results[champ]['score'] = score
 
-    with open('json/final_list.json', 'w', encoding='utf-8') as f:
+    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final_list.json', 'w', encoding='utf-8') as f:
         json.dump(final_results, f, ensure_ascii=False, indent=4)
 
     return final_results

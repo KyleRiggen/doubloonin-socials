@@ -1,0 +1,1306 @@
+[
+  {
+    'champName': 'Xayah',
+    'champScore': 301.4,
+    'topPlayer_name': 'i wanted u',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'udo1zO5x3',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Rakan',
+    'champScore': 271.8,
+    'topPlayer_name': 'BRO Gyosoo',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'TL Honda Rovex',
+    'botPlayer_region': 'na'
+  },
+  {
+    'champName': 'Cassiopeia',
+    'champScore': 255.4,
+    'topPlayer_name': 'Faker SIayer',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '마가가 소가죽',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Sylas',
+    'champScore': 221.0,
+    'topPlayer_name': '막스 배르스타펜',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'TYPE R12SCF',
+    'botPlayer_region': 'euw'
+  },
+  {
+    'champName': 'Lee Sin',
+    'champScore': 207.2,
+    'topPlayer_name': 'BRO Raptor',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': '키보드에음료쏟아서고장내는이도윤',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Aphelios',
+    'champScore': 189.8,
+    'topPlayer_name': '난화내',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'cha Liang',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Kindred',
+    'champScore': 180.6,
+    'topPlayer_name': 'hwa i tings',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': '키보드에음료쏟아서고장내는이도윤',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Thresh',
+    'champScore': 153.8,
+    'topPlayer_name': 'DDDRX',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'zyb',
+    'botPlayer_region': 'euw'
+  },
+  {
+    'champName': 'Draven',
+    'champScore': 136.6,
+    'topPlayer_name': 'Draven696969',
+    'topPlayer_region': 'na',
+    'botPlayer_name': 'niinim',
+    'botPlayer_region': 'na1'
+  },
+  {
+    'champName': 'Blitzcrank',
+    'champScore': 135.2,
+    'topPlayer_name': 'Lee Chαndler',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'PORTUGUESE GALA',
+    'botPlayer_region': 'euw1'
+  },
+  {
+    'champName': 'Milio',
+    'champScore': 119.2,
+    'topPlayer_name': 'NORDKASING',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Jinx',
+    'champScore': 118.4,
+    'topPlayer_name': 'Quotrell grrr',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'FA Kingdom',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'LeBlanc',
+    'champScore': 112.0,
+    'topPlayer_name': 'Chasyyyyyyyyy',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'T1 미드 테스트',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Malphite',
+    'champScore': 110.2,
+    'topPlayer_name': '미친듯이 파이팅',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'u good me better',
+    'botPlayer_region': 'euw'
+  },
+  {
+    'champName': 'Yasuo',
+    'champScore': 105.0,
+    'topPlayer_name': 'qweraszcdfgtyu',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': '자신감을잃지말자',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Jax',
+    'champScore': 100.2,
+    'topPlayer_name': 'lunacia',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Lissandra',
+    'champScore': 96.4,
+    'topPlayer_name': 'gpnoeynu',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'wo naozi buhao',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Annie',
+    'champScore': 95.4,
+    'topPlayer_name': 'faker god top',
+    'topPlayer_region': 'na',
+    'botPlayer_name': 'lvyepeihonghua',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Graves',
+    'champScore': 81.0,
+    'topPlayer_name': 'aespa karina99',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Lulu',
+    'champScore': 79.8,
+    'topPlayer_name': 'Nightmisty',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '한계뚫기',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Zeri',
+    'champScore': 78.2,
+    'topPlayer_name': 'EU Red',
+    'topPlayer_region': 'na',
+    'botPlayer_name': 'daoxinwengu1',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Olaf',
+    'champScore': 78.0,
+    'topPlayer_name': 'Strey en mission',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'Photon1',
+    'botPlayer_region': 'euw1'
+  },
+  {
+    'champName': 'Jarvan IV',
+    'champScore': 76.0,
+    'topPlayer_name': 'Baby Tarz1',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'Draven696969',
+    'botPlayer_region': 'na1'
+  },
+  {
+    'champName': 'Ahri',
+    'champScore': 74.6,
+    'topPlayer_name': 'Faker SIayer',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '무릉필드 1',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Gragas',
+    'champScore': 72.2,
+    'topPlayer_name': 'GO toucouille',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'Lee Chαndler',
+    'botPlayer_region': 'euw1'
+  },
+  {
+    'champName': 'Fiora',
+    'champScore': 70.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Viego',
+    'champScore': 69.2,
+    'topPlayer_name': 'Longttime',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'GO lyncas',
+    'botPlayer_region': 'euw'
+  },
+  {
+    'champName': 'Evelynn',
+    'champScore': 60.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Udyr',
+    'champScore': 60.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Kalista',
+    'champScore': 57.8,
+    'topPlayer_name': 'SPOLFCEI ',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "K'Sante",
+    'champScore': 57.6,
+    'topPlayer_name': 'ALVAROARBELOA17',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'asd233',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Quinn',
+    'champScore': 55.400000000000006,
+    'topPlayer_name': '살퀸레',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Nocturne',
+    'champScore': 54.0,
+    'topPlayer_name': 'TH Krillin',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Akshan',
+    'champScore': 49.6,
+    'topPlayer_name': 'Zeus Slayer',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Riven',
+    'champScore': 47.2,
+    'topPlayer_name': 'Been you',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Tristana',
+    'champScore': 45.8,
+    'topPlayer_name': '따가운 여름 햇살',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'asd233',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Fiddlesticks',
+    'champScore': 44.8,
+    'topPlayer_name': 'Nikkone',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Karthus',
+    'champScore': 40.8,
+    'topPlayer_name': 'naiyoubaby',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Hecarim',
+    'champScore': 40.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Nunu & Willump',
+    'champScore': 40.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Twitch',
+    'champScore': 40.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Vladimir',
+    'champScore': 36.0,
+    'topPlayer_name': 'IllllIIIIllllIIl',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Leona',
+    'champScore': 34.400000000000006,
+    'topPlayer_name': 'C9 Zven',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Samira',
+    'champScore': 30.8,
+    'topPlayer_name': 'Kenal',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Katarina',
+    'champScore': 30.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Pyke',
+    'champScore': 30.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Rengar',
+    'champScore': 30.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Zed',
+    'champScore': 30.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Talon',
+    'champScore': 28.6,
+    'topPlayer_name': 'K405 N815',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Ashe',
+    'champScore': 27.2,
+    'topPlayer_name': 'Hub1012345',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "Kha'Zix",
+    'champScore': 25.6,
+    'topPlayer_name': '마가가 소가죽',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': 'K405 N815',
+    'botPlayer_region': 'euw'
+  },
+  {
+    'champName': 'Syndra',
+    'champScore': 22.4,
+    'topPlayer_name': 'Lιght1',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Heimerdinger',
+    'champScore': 22.0,
+    'topPlayer_name': 'TL Honda Rovex',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Yuumi',
+    'champScore': 21.200000000000003,
+    'topPlayer_name': 'ƒreyá',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Darius',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Ekko',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Elise',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Qiyana',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "Rek'Sai",
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Rumble',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Trundle',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Varus',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Xin Zhao',
+    'champScore': 20.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Gwen',
+    'champScore': 17.8,
+    'topPlayer_name': 'Eclipse',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Seraphine',
+    'champScore': 16.2,
+    'topPlayer_name': 'eiji',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Kennen',
+    'champScore': 15.2,
+    'topPlayer_name': 'V Julius Caesar',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Jayce',
+    'champScore': 14.200000000000001,
+    'topPlayer_name': 'Airflash',
+    'topPlayer_region': 'na',
+    'botPlayer_name': 'Haruuta1',
+    'botPlayer_region': 'euw1'
+  },
+  {
+    'champName': 'Wukong',
+    'champScore': 12.600000000000001,
+    'topPlayer_name': 'viasdkjkasd',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Nidalee',
+    'champScore': 11.200000000000001,
+    'topPlayer_name': 'TH Krillin',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Aatrox',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Aurelion Sol',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Azir',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Camille',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "Cho'Gath",
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Garen',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Kayn',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Pantheon',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Senna',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Shaco',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Vex',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Vi',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Warwick',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Zac',
+    'champScore': 10.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Lucian',
+    'champScore': 6.0,
+    'topPlayer_name': 'TL Honda Rovex',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "Bel'Veth",
+    'champScore': 5.4,
+    'topPlayer_name': 'Maxlore',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Maokai',
+    'champScore': 3.5999999999999996,
+    'topPlayer_name': 'zyb',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Sivir',
+    'champScore': 2.6,
+    'topPlayer_name': 'i wanted u',
+    'topPlayer_region': 'kr',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Akali',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Alistar',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Amumu',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Anivia',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Bard',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Brand',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Braum',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Caitlyn',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Corki',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Diana',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Dr. Mundo',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Fizz',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Galio',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Gangplank',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Gnar',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Illaoi',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Ivern',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Janna',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Jhin',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Karma',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Kassadin',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Kayle',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Kled',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "Kog'Maw",
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Lillia',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Lux',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Malzahar',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Master Yi',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Miss Fortune',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Mordekaiser',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Morgana',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Nami',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Nasus',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Neeko',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Nilah',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Rammus',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Rell',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Renata Glasc',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Renekton',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Ryze',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Sejuani',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Sett',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Shen',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Shyvana',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Singed',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Sion',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Skarner',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Sona',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Soraka',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Swain',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Tahm Kench',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Taric',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Teemo',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Tryndamere',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Twisted Fate',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Urgot',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Vayne',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Veigar',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "Vel'Koz",
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Viktor',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Volibear',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Xerath',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Yone',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Yorick',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Ziggs',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Zilean',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Zoe',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Zyra',
+    'champScore': 0.0,
+    'topPlayer_name': '',
+    'topPlayer_region': '',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Nautilus',
+    'champScore': -1.5999999999999943,
+    'topPlayer_name': 'txiko polita',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'cha Liang',
+    'botPlayer_region': 'kr'
+  },
+  {
+    'champName': 'Poppy',
+    'champScore': -2.0,
+    'topPlayer_name': 'kookykrook',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Orianna',
+    'champScore': -2.1999999999999997,
+    'topPlayer_name': 'rainº',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': "Kai'Sa",
+    'champScore': -2.8,
+    'topPlayer_name': 'Stend',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': 'avarice61',
+    'botPlayer_region': 'euw1'
+  },
+  {
+    'champName': 'Taliyah',
+    'champScore': -5.8,
+    'topPlayer_name': 'TheRoyalKanin',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Ezreal',
+    'champScore': -7.2,
+    'topPlayer_name': 'alanna',
+    'topPlayer_region': 'na',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Ornn',
+    'champScore': -10.6,
+    'topPlayer_name': 'Ushuala',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  },
+  {
+    'champName': 'Irelia',
+    'champScore': -18.2,
+    'topPlayer_name': 'TwTVxKenzuke',
+    'topPlayer_region': 'euw',
+    'botPlayer_name': '',
+    'botPlayer_region': ''
+  }
+]
