@@ -1,4 +1,5 @@
 from doubloonin.riot_api.building_files.setup import setup_enviorment
+from doubloonin.riot_api.config_variables import *
 import json
 import time
 
@@ -17,10 +18,9 @@ def build_match_list():
     now_nice = time.ctime(time.time())
 
     for index, player in enumerate(puuid_list_wRegion):
-        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=20, start_time=one_day_ago, end_time=now)
+        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=config['match_list']['match_count_per_player'], start_time=one_day_ago, end_time=now)
 
-        # matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=2)
-        if index >= 300:
+        if index >= config['match_list']['player_count']:
             break
 
         print(index, player, matches)

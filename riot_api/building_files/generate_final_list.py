@@ -1,4 +1,5 @@
 from doubloonin.riot_api.building_files.generate_working_list import build_working_list
+from doubloonin.riot_api.config_variables import *
 import json
 
 with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/champion.json') as user_file:
@@ -103,13 +104,13 @@ def building_final_list():
     # totaling scores
     for champ in final_results:
         score = 0
-        score = score + (final_results[champ]['champStats']['kills'] * 3)
-        score = score - (final_results[champ]['champStats']['deaths'] * 2)
-        score = score + (final_results[champ]['champStats']['assists'] * 1)
-        score = score + (final_results[champ]['champStats']['wins'] * 10)
-        score = score - (final_results[champ]['champStats']['losses'] * 10)
-        score = score + (final_results[champ]['champStats']['visionScore'] * 0.1)
-        score = score + (final_results[champ]['champStats']['bans'] * 10)
+        score = score + (final_results[champ]['champStats']['kills'] * config['points']['kill'])
+        score = score + (final_results[champ]['champStats']['deaths'] * config['points']['death'])
+        score = score + (final_results[champ]['champStats']['assists'] * config['points']['assist'])
+        score = score + (final_results[champ]['champStats']['wins'] * config['points']['win'])
+        score = score + (final_results[champ]['champStats']['losses'] * config['points']['loss'])
+        score = score + (final_results[champ]['champStats']['visionScore'] * config['points']['visionScore'])
+        score = score + (final_results[champ]['champStats']['bans'] * config['points']['ban'])
         final_results[champ]['score'] = score
 
     with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final_list.json', 'w', encoding='utf-8') as f:

@@ -1,5 +1,6 @@
 from doubloonin.riot_api.building_files.setup import setup_enviorment
 from doubloonin.riot_api.building_files.generate_match_list import build_match_list
+from doubloonin.riot_api.config_variables import *
 import time
 import json
 
@@ -39,12 +40,13 @@ def build_working_list():
             playerID = player['puuid']
 
             if player['win']:
-                scoreUp_win = 10
+                scoreUp_win = config['points']['win']
             else:
-                scoreUp_win = -10
+                scoreUp_win = config['points']['loss']
 
-            scoreUp = (player['kills'] * 3) - (player['deaths'] * 2) + (player['assists'] * 1) + (
-                        player['visionScore'] * 0.1) + scoreUp_win
+            scoreUp = (player['kills'] * config['points']['kill']) - (player['deaths'] * config['points']['death']) + (
+                        player['assists'] * config['points']['assist']) + (
+                              player['visionScore'] * config['points']['visionScore']) + scoreUp_win
 
             if player['championName'] == 'FiddleSticks':
                 player['championName'] = 'Fiddlesticks'
@@ -93,8 +95,8 @@ def build_working_list():
     now_nice = time.ctime(time.time())
     print(f'{now_nice} match number after filtering for time: {len(all_matches_finished)}')
 
-    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/working_list.json', 'w', encoding='utf-8') as f:
+    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/working_list.json', 'w',
+              encoding='utf-8') as f:
         json.dump(all_matches_finished, f, ensure_ascii=False, indent=4)
 
     return all_matches_finished
-
