@@ -9,70 +9,154 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 1
         },
         "players": [],
-        "score": 0.0
+        "score": 10.0
     },
     "Ahri": {
         "champName": "Ahri",
         "champID": "103",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 55,
+            "deaths": 46,
+            "assists": 67,
+            "wins": 5,
+            "losses": 6,
+            "visionScore": 247,
+            "bans": 17
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Faker SIayer",
+                60.7
+            ],
+            [
+                "euw1",
+                "Roison",
+                47.3
+            ],
+            [
+                "kr",
+                "무릉필드 1",
+                -3.0
+            ],
+            [
+                "kr",
+                "Want To Be Young",
+                25.4
+            ],
+            [
+                "kr",
+                "함볼게볼게",
+                44.2
+            ],
+            [
+                "kr",
+                "저메추부탁",
+                12.5
+            ],
+            [
+                "kr",
+                "gpnoeynu",
+                29.9
+            ],
+            [
+                "kr",
+                "QuadQuad",
+                51.3
+            ],
+            [
+                "kr",
+                "Bae Suzy",
+                3.9000000000000004
+            ],
+            [
+                "kr",
+                "저메추부탁",
+                36.4
+            ],
+            [
+                "kr",
+                "저메추부탁",
+                30.1
+            ]
+        ],
+        "score": 324.7
     },
     "Akali": {
         "champName": "Akali",
         "champID": "84",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
+            "kills": 8,
+            "deaths": 2,
             "assists": 0,
-            "wins": 0,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 9,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "Aileri",
+                38.9
+            ]
+        ],
+        "score": 30.9
     },
     "Akshan": {
         "champName": "Akshan",
         "champID": "166",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 14,
+            "deaths": 11,
+            "assists": 10,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 93,
+            "bans": 8
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Zeus Slayer",
+                66.3
+            ],
+            [
+                "kr",
+                "lvyepeihonghua",
+                17.0
+            ]
+        ],
+        "score": 119.3
     },
     "Alistar": {
         "champName": "Alistar",
         "champID": "12",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 3,
+            "deaths": 16,
+            "assists": 46,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 164,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "qwazss",
+                46.2
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                57.2
+            ]
+        ],
+        "score": 39.400000000000006
     },
     "Amumu": {
         "champName": "Amumu",
@@ -93,88 +177,251 @@
         "champName": "Anivia",
         "champID": "34",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 7,
+            "deaths": 3,
+            "assists": 2,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 18,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Reborn Berkan",
+                20.8
+            ]
+        ],
+        "score": 8.8
     },
     "Annie": {
         "champName": "Annie",
         "champID": "1",
         "champStats": {
-            "kills": 8,
-            "deaths": 3,
-            "assists": 12,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 50,
-            "bans": 0
+            "kills": 31,
+            "deaths": 36,
+            "assists": 55,
+            "wins": 4,
+            "losses": 2,
+            "visionScore": 149,
+            "bans": 6
         },
         "players": [
             [
                 "na1",
                 "faker god top",
                 57.0
+            ],
+            [
+                "euw1",
+                "Faker SIayer",
+                40.0
+            ],
+            [
+                "kr",
+                "앗싸 지렸다리",
+                51.6
+            ],
+            [
+                "kr",
+                "gpnoeynu",
+                37.8
+            ],
+            [
+                "kr",
+                "lvyepeihonghua",
+                53.2
+            ],
+            [
+                "kr",
+                "lvyepeihonghua",
+                15.3
             ]
         ],
-        "score": 45.0
+        "score": 170.9
     },
     "Aphelios": {
         "champName": "Aphelios",
         "champID": "523",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 179,
+            "deaths": 109,
+            "assists": 149,
+            "wins": 15,
+            "losses": 8,
+            "visionScore": 567,
+            "bans": 14
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "PORTUGUESE GALA",
+                39.5
+            ],
+            [
+                "euw1",
+                "avarice61",
+                38.4
+            ],
+            [
+                "kr",
+                "daoxinwengu1",
+                2.8000000000000007
+            ],
+            [
+                "kr",
+                "krats aira",
+                42.8
+            ],
+            [
+                "kr",
+                "BRO Hena",
+                35.8
+            ],
+            [
+                "kr",
+                "난화내",
+                60.2
+            ],
+            [
+                "kr",
+                "난화내",
+                71.3
+            ],
+            [
+                "kr",
+                "땅우양1",
+                25.9
+            ],
+            [
+                "kr",
+                "cha Liang",
+                43.0
+            ],
+            [
+                "kr",
+                "RoarTHEBEAST",
+                54.2
+            ],
+            [
+                "kr",
+                "Jiaqi3",
+                43.7
+            ],
+            [
+                "kr",
+                "Jiaqi3",
+                100.5
+            ],
+            [
+                "kr",
+                "naiyoubaby",
+                51.9
+            ],
+            [
+                "kr",
+                "baozaopiqi",
+                33.2
+            ],
+            [
+                "kr",
+                "mei shu chu",
+                30.6
+            ],
+            [
+                "kr",
+                "krats aira",
+                28.9
+            ],
+            [
+                "kr",
+                "krats aira",
+                46.1
+            ],
+            [
+                "kr",
+                "krats aira",
+                15.399999999999999
+            ],
+            [
+                "kr",
+                "BRO Hena",
+                67.8
+            ],
+            [
+                "kr",
+                "krats aira",
+                42.7
+            ],
+            [
+                "kr",
+                "krats aira",
+                71.7
+            ],
+            [
+                "kr",
+                "krats aira",
+                21.1
+            ],
+            [
+                "kr",
+                "어떻게해야하려나",
+                63.2
+            ]
+        ],
+        "score": 734.7
     },
     "Ashe": {
         "champName": "Ashe",
         "champID": "22",
         "champStats": {
-            "kills": 2,
-            "deaths": 2,
-            "assists": 3,
+            "kills": 5,
+            "deaths": 14,
+            "assists": 18,
             "wins": 1,
-            "losses": 0,
-            "visionScore": 11,
-            "bans": 0
+            "losses": 2,
+            "visionScore": 83,
+            "bans": 3
         },
         "players": [
             [
                 "na1",
                 "Hub1012345",
                 24.1
+            ],
+            [
+                "kr",
+                "wo naozi buhao",
+                26.5
+            ],
+            [
+                "kr",
+                "만족한시즌이되길",
+                8.7
             ]
         ],
-        "score": 16.1
+        "score": 33.3
     },
     "AurelionSol": {
         "champName": "Aurelion Sol",
         "champID": "136",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 14,
+            "deaths": 5,
+            "assists": 16,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "visionScore": 51,
+            "bans": 2
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Faker SIayer",
+                83.1
+            ]
+        ],
+        "score": 83.1
     },
     "Azir": {
         "champName": "Azir",
@@ -186,10 +433,10 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 2
         },
         "players": [],
-        "score": 0.0
+        "score": 20.0
     },
     "Bard": {
         "champName": "Bard",
@@ -210,31 +457,93 @@
         "champName": "Bel'Veth",
         "champID": "200",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 4,
+            "deaths": 10,
+            "assists": 8,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "losses": 2,
+            "visionScore": 61,
+            "bans": 2
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Maxlore",
+                24.200000000000003
+            ],
+            [
+                "kr",
+                "시간시나 구 에렌",
+                1.9000000000000004
+            ]
+        ],
+        "score": 6.100000000000001
     },
     "Blitzcrank": {
         "champName": "Blitzcrank",
         "champID": "53",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 3
+            "kills": 17,
+            "deaths": 55,
+            "assists": 137,
+            "wins": 5,
+            "losses": 5,
+            "visionScore": 539,
+            "bans": 34
         },
-        "players": [],
-        "score": 30.0
+        "players": [
+            [
+                "euw1",
+                "V Julius Caesar",
+                31.299999999999997
+            ],
+            [
+                "euw1",
+                "V Julius Caesar",
+                53.1
+            ],
+            [
+                "euw1",
+                "Keria Slayer",
+                27.0
+            ],
+            [
+                "euw1",
+                "Keria Slayer",
+                32.8
+            ],
+            [
+                "euw1",
+                "PORTUGUESE GALA",
+                14.3
+            ],
+            [
+                "euw1",
+                "PORTUGUESE GALA",
+                11.399999999999999
+            ],
+            [
+                "euw1",
+                "Lee Chαndler",
+                41.8
+            ],
+            [
+                "kr",
+                "Waitingforaride",
+                23.1
+            ],
+            [
+                "kr",
+                "KDF Andil",
+                75.0
+            ],
+            [
+                "kr",
+                "최상의",
+                42.1
+            ]
+        ],
+        "score": 471.9
     },
     "Brand": {
         "champName": "Brand",
@@ -256,34 +565,25 @@
         "champID": "201",
         "champStats": {
             "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "deaths": 3,
+            "assists": 16,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 51,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "lvyepeihonghua",
+                37.1
+            ]
+        ],
+        "score": 25.1
     },
     "Caitlyn": {
         "champName": "Caitlyn",
         "champID": "51",
-        "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
-        },
-        "players": [],
-        "score": 0.0
-    },
-    "Camille": {
-        "champName": "Camille",
-        "champID": "164",
         "champStats": {
             "kills": 0,
             "deaths": 0,
@@ -296,41 +596,118 @@
         "players": [],
         "score": 10.0
     },
+    "Camille": {
+        "champName": "Camille",
+        "champID": "164",
+        "champStats": {
+            "kills": 1,
+            "deaths": 8,
+            "assists": 6,
+            "wins": 0,
+            "losses": 1,
+            "visionScore": 12,
+            "bans": 2
+        },
+        "players": [
+            [
+                "kr",
+                "lao Iiu",
+                16.2
+            ]
+        ],
+        "score": 4.199999999999999
+    },
     "Cassiopeia": {
         "champName": "Cassiopeia",
         "champID": "69",
         "champStats": {
-            "kills": 5,
-            "deaths": 0,
-            "assists": 1,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 6,
-            "bans": 0
+            "kills": 69,
+            "deaths": 43,
+            "assists": 49,
+            "wins": 6,
+            "losses": 5,
+            "visionScore": 235,
+            "bans": 29
         },
         "players": [
             [
                 "na1",
                 "Zykoo",
                 26.6
+            ],
+            [
+                "euw1",
+                "zyb",
+                25.4
+            ],
+            [
+                "euw1",
+                "Faker SIayer",
+                70.4
+            ],
+            [
+                "euw1",
+                "EMDDD",
+                53.4
+            ],
+            [
+                "euw1",
+                "the inescapable",
+                33.9
+            ],
+            [
+                "kr",
+                "마가가 소가죽",
+                35.9
+            ],
+            [
+                "kr",
+                "마가가 소가죽",
+                12.100000000000001
+            ],
+            [
+                "kr",
+                "마가가 소가죽",
+                48.2
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                47.6
+            ],
+            [
+                "kr",
+                "QuadQuad",
+                3.1999999999999993
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                18.8
             ]
         ],
-        "score": 26.6
+        "score": 493.5
     },
     "Chogath": {
         "champName": "Cho'Gath",
         "champID": "31",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 2,
+            "deaths": 5,
+            "assists": 5,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 26,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "ALVAROARBELOA17",
+                13.600000000000001
+            ]
+        ],
+        "score": -6.4
     },
     "Corki": {
         "champName": "Corki",
@@ -357,10 +734,10 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 1
+            "bans": 5
         },
         "players": [],
-        "score": 10.0
+        "score": 50.0
     },
     "Diana": {
         "champName": "Diana",
@@ -372,7 +749,7 @@
             "wins": 1,
             "losses": 0,
             "visionScore": 14,
-            "bans": 0
+            "bans": 1
         },
         "players": [
             [
@@ -381,19 +758,19 @@
                 29.4
             ]
         ],
-        "score": 21.4
+        "score": 31.4
     },
     "Draven": {
         "champName": "Draven",
         "champID": "119",
         "champStats": {
-            "kills": 13,
-            "deaths": 11,
-            "assists": 4,
-            "wins": 2,
+            "kills": 17,
+            "deaths": 13,
+            "assists": 12,
+            "wins": 3,
             "losses": 0,
-            "visionScore": 28,
-            "bans": 2
+            "visionScore": 39,
+            "bans": 44
         },
         "players": [
             [
@@ -405,9 +782,14 @@
                 "na1",
                 "niinim",
                 33.6
+            ],
+            [
+                "euw1",
+                "Hope0",
+                35.1
             ]
         ],
-        "score": 63.8
+        "score": 510.9
     },
     "DrMundo": {
         "champName": "Dr. Mundo",
@@ -434,51 +816,88 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 3
         },
         "players": [],
-        "score": 0.0
+        "score": 30.0
     },
     "Elise": {
         "champName": "Elise",
         "champID": "60",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 41,
+            "deaths": 12,
+            "assists": 36,
+            "wins": 4,
+            "losses": 1,
+            "visionScore": 142,
+            "bans": 22
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "KT Castle",
+                7.100000000000001
+            ],
+            [
+                "kr",
+                "정현심",
+                60.9
+            ],
+            [
+                "kr",
+                "정현심",
+                35.0
+            ],
+            [
+                "kr",
+                "키보드에음료쏟아서고장내는이도윤",
+                62.0
+            ],
+            [
+                "kr",
+                "HamBak",
+                62.2
+            ]
+        ],
+        "score": 399.2
     },
     "Evelynn": {
         "champName": "Evelynn",
         "champID": "28",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 1
+            "kills": 16,
+            "deaths": 4,
+            "assists": 14,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 26,
+            "bans": 15
         },
-        "players": [],
-        "score": 10.0
+        "players": [
+            [
+                "euw1",
+                "S P L A S H 777",
+                37.7
+            ],
+            [
+                "euw1",
+                "S P L A S H 777",
+                34.9
+            ]
+        ],
+        "score": 206.6
     },
     "Ezreal": {
         "champName": "Ezreal",
         "champID": "81",
         "champStats": {
-            "kills": 2,
-            "deaths": 3,
-            "assists": 1,
-            "wins": 0,
-            "losses": 1,
-            "visionScore": 9,
+            "kills": 21,
+            "deaths": 20,
+            "assists": 22,
+            "wins": 2,
+            "losses": 3,
+            "visionScore": 60,
             "bans": 0
         },
         "players": [
@@ -486,9 +905,29 @@
                 "na1",
                 "alanna",
                 3.9000000000000004
+            ],
+            [
+                "euw1",
+                "Dragdar",
+                37.1
+            ],
+            [
+                "kr",
+                "안x찬",
+                7.800000000000001
+            ],
+            [
+                "kr",
+                "NS Jiwoo",
+                51.1
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                21.1
             ]
         ],
-        "score": -8.1
+        "score": 41.0
     },
     "Fiddlesticks": {
         "champName": "Fiddlesticks",
@@ -515,22 +954,27 @@
         "champName": "Fiora",
         "champID": "114",
         "champStats": {
-            "kills": 2,
-            "deaths": 6,
-            "assists": 0,
-            "wins": 0,
+            "kills": 7,
+            "deaths": 13,
+            "assists": 4,
+            "wins": 1,
             "losses": 1,
-            "visionScore": 7,
-            "bans": 3
+            "visionScore": 44,
+            "bans": 19
         },
         "players": [
             [
                 "na1",
                 "jjking10",
                 8.7
+            ],
+            [
+                "kr",
+                "잘잘못해쓰요 TnT",
+                46.7
             ]
         ],
-        "score": 14.7
+        "score": 193.4
     },
     "Fizz": {
         "champName": "Fizz",
@@ -551,16 +995,27 @@
         "champName": "Galio",
         "champID": "3",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 10,
+            "deaths": 15,
+            "assists": 27,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 49,
+            "bans": 1
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "함볼게볼게",
+                38.8
+            ],
+            [
+                "kr",
+                "Maeng in love",
+                53.1
+            ]
+        ],
+        "score": 41.9
     },
     "Gangplank": {
         "champName": "Gangplank",
@@ -587,37 +1042,43 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 5
         },
         "players": [],
-        "score": 0.0
+        "score": 50.0
     },
     "Gnar": {
         "champName": "Gnar",
         "champID": "150",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 2,
+            "deaths": 3,
+            "assists": 1,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 11,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "함볼게볼게",
+                24.1
+            ]
+        ],
+        "score": 12.1
     },
     "Gragas": {
         "champName": "Gragas",
         "champID": "79",
         "champStats": {
-            "kills": 25,
-            "deaths": 21,
-            "assists": 18,
-            "wins": 1,
-            "losses": 2,
-            "visionScore": 63,
-            "bans": 3
+            "kills": 68,
+            "deaths": 83,
+            "assists": 80,
+            "wins": 5,
+            "losses": 11,
+            "visionScore": 350,
+            "bans": 14
         },
         "players": [
             [
@@ -634,60 +1095,202 @@
                 "na1",
                 "Music101",
                 37.7
+            ],
+            [
+                "euw1",
+                "I Love Uber Eats",
+                26.4
+            ],
+            [
+                "euw1",
+                "ALVAROARBELOA17",
+                20.1
+            ],
+            [
+                "euw1",
+                "GO toucouille",
+                36.7
+            ],
+            [
+                "euw1",
+                "Lee Chαndler",
+                19.0
+            ],
+            [
+                "euw1",
+                "TH Krillin",
+                46.7
+            ],
+            [
+                "kr",
+                "KDF1",
+                -0.6999999999999993
+            ],
+            [
+                "kr",
+                "KDF1",
+                14.899999999999999
+            ],
+            [
+                "kr",
+                "qweasdcxz",
+                46.5
+            ],
+            [
+                "kr",
+                "KT Castle",
+                41.9
+            ],
+            [
+                "kr",
+                "HLE Tempester",
+                21.0
+            ],
+            [
+                "kr",
+                "KDF1",
+                5.9
+            ],
+            [
+                "kr",
+                "JUGKlNG",
+                11.0
+            ],
+            [
+                "kr",
+                "Want To Be Young",
+                4.300000000000001
             ]
         ],
-        "score": 77.3
+        "score": 233.0
     },
     "Graves": {
         "champName": "Graves",
         "champID": "104",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 3
+            "kills": 86,
+            "deaths": 31,
+            "assists": 53,
+            "wins": 5,
+            "losses": 4,
+            "visionScore": 317,
+            "bans": 11
         },
-        "players": [],
-        "score": 30.0
+        "players": [
+            [
+                "euw1",
+                "GO lyncas",
+                14.0
+            ],
+            [
+                "euw1",
+                "aespa karina99",
+                55.0
+            ],
+            [
+                "kr",
+                "Longttime",
+                45.6
+            ],
+            [
+                "kr",
+                "키보드에음료쏟아서고장내는이도윤",
+                80.2
+            ],
+            [
+                "kr",
+                "오뚜기3분미트볼",
+                54.1
+            ],
+            [
+                "kr",
+                "HamBak",
+                46.0
+            ],
+            [
+                "kr",
+                "무릉필드 1",
+                24.799999999999997
+            ],
+            [
+                "kr",
+                "Tianzhidao",
+                33.6
+            ],
+            [
+                "kr",
+                "마가가 소가죽",
+                61.4
+            ]
+        ],
+        "score": 400.7
     },
     "Gwen": {
         "champName": "Gwen",
         "champID": "887",
         "champStats": {
-            "kills": 2,
-            "deaths": 5,
-            "assists": 0,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 9,
-            "bans": 0
+            "kills": 22,
+            "deaths": 14,
+            "assists": 15,
+            "wins": 3,
+            "losses": 1,
+            "visionScore": 88,
+            "bans": 2
         },
         "players": [
             [
                 "na1",
                 "Eclipse",
                 26.9
+            ],
+            [
+                "kr",
+                "오뚜기3분미트볼",
+                45.8
+            ],
+            [
+                "kr",
+                "KDF1",
+                6.600000000000001
+            ],
+            [
+                "kr",
+                "Meteor is coming",
+                58.5
             ]
         ],
-        "score": 6.9
+        "score": 101.8
     },
     "Hecarim": {
         "champName": "Hecarim",
         "champID": "120",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 2
+            "kills": 24,
+            "deaths": 23,
+            "assists": 33,
+            "wins": 1,
+            "losses": 2,
+            "visionScore": 105,
+            "bans": 12
         },
-        "players": [],
-        "score": 20.0
+        "players": [
+            [
+                "kr",
+                "신김성욱",
+                49.1
+            ],
+            [
+                "kr",
+                "ranranbaby",
+                21.3
+            ],
+            [
+                "kr",
+                "신김성욱",
+                81.1
+            ]
+        ],
+        "score": 179.5
     },
     "Heimerdinger": {
         "champName": "Heimerdinger",
@@ -699,7 +1302,7 @@
             "wins": 1,
             "losses": 0,
             "visionScore": 20,
-            "bans": 0
+            "bans": 5
         },
         "players": [
             [
@@ -708,37 +1311,54 @@
                 28.0
             ]
         ],
-        "score": 20.0
+        "score": 70.0
     },
     "Illaoi": {
         "champName": "Illaoi",
         "champID": "420",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 8,
+            "deaths": 12,
+            "assists": 5,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 42,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "Rich3",
+                47.2
+            ]
+        ],
+        "score": -0.7999999999999998
     },
     "Irelia": {
         "champName": "Irelia",
         "champID": "39",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 15,
+            "deaths": 14,
+            "assists": 9,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 44,
+            "bans": 6
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "TwTVxKenzuke",
+                27.9
+            ],
+            [
+                "kr",
+                "Aileri",
+                58.5
+            ]
+        ],
+        "score": 90.4
     },
     "Ivern": {
         "champName": "Ivern",
@@ -774,13 +1394,13 @@
         "champName": "Jarvan IV",
         "champID": "59",
         "champStats": {
-            "kills": 9,
-            "deaths": 11,
-            "assists": 29,
-            "wins": 1,
-            "losses": 1,
-            "visionScore": 33,
-            "bans": 0
+            "kills": 20,
+            "deaths": 25,
+            "assists": 67,
+            "wins": 3,
+            "losses": 2,
+            "visionScore": 130,
+            "bans": 8
         },
         "players": [
             [
@@ -792,92 +1412,299 @@
                 "na1",
                 "Draven696969",
                 6.199999999999999
+            ],
+            [
+                "euw1",
+                "Baby Tarz1",
+                33.5
+            ],
+            [
+                "euw1",
+                "Baby Tarz1",
+                50.3
+            ],
+            [
+                "kr",
+                "타 잔",
+                34.9
             ]
         ],
-        "score": 37.3
+        "score": 180.0
     },
     "Jax": {
         "champName": "Jax",
         "champID": "24",
         "champStats": {
-            "kills": 3,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 6,
-            "bans": 7
+            "kills": 28,
+            "deaths": 18,
+            "assists": 23,
+            "wins": 6,
+            "losses": 1,
+            "visionScore": 129,
+            "bans": 28
         },
         "players": [
             [
                 "na1",
                 "lunacia",
                 19.6
+            ],
+            [
+                "euw1",
+                "u good me better",
+                39.0
+            ],
+            [
+                "euw1",
+                "Kât l ï Äm",
+                33.5
+            ],
+            [
+                "kr",
+                "자신감잃지마이현",
+                25.4
+            ],
+            [
+                "kr",
+                "qwazss",
+                43.1
+            ],
+            [
+                "kr",
+                " 갱생한 이현",
+                22.700000000000003
+            ],
+            [
+                "kr",
+                " 갱생한 이현",
+                22.6
             ]
         ],
-        "score": 89.6
+        "score": 413.9
     },
     "Jayce": {
         "champName": "Jayce",
         "champID": "126",
         "champStats": {
-            "kills": 2,
-            "deaths": 7,
-            "assists": 9,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 18,
-            "bans": 1
+            "kills": 51,
+            "deaths": 62,
+            "assists": 51,
+            "wins": 5,
+            "losses": 6,
+            "visionScore": 222,
+            "bans": 6
         },
         "players": [
             [
                 "na1",
                 "Airflash",
                 40.8
+            ],
+            [
+                "euw1",
+                "Haruuta1",
+                3.3000000000000007
+            ],
+            [
+                "euw1",
+                "Been you",
+                11.899999999999999
+            ],
+            [
+                "euw1",
+                "TYPE R12SCF",
+                27.5
+            ],
+            [
+                "euw1",
+                "TTV Potent213",
+                52.9
+            ],
+            [
+                "euw1",
+                "Been you",
+                76.7
+            ],
+            [
+                "kr",
+                "asd233",
+                26.799999999999997
+            ],
+            [
+                "kr",
+                "DK Pullbae",
+                9.5
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                63.9
+            ],
+            [
+                "kr",
+                "막스 배르스타펜",
+                23.4
+            ],
+            [
+                "kr",
+                "KDF1",
+                3.5
             ]
         ],
-        "score": 22.8
+        "score": 152.2
     },
     "Jhin": {
         "champName": "Jhin",
         "champID": "202",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 12,
+            "deaths": 11,
+            "assists": 17,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 74,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "원광대 옥진영",
+                36.8
+            ],
+            [
+                "kr",
+                "원광대 옥진영",
+                45.6
+            ]
+        ],
+        "score": 38.4
     },
     "Jinx": {
         "champName": "Jinx",
         "champID": "222",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 106,
+            "deaths": 101,
+            "assists": 130,
+            "wins": 7,
+            "losses": 13,
+            "visionScore": 488,
+            "bans": 11
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Quotrell grrr",
+                54.6
+            ],
+            [
+                "euw1",
+                "LPG ZAMULEK",
+                30.3
+            ],
+            [
+                "euw1",
+                "AKR Bibou",
+                17.6
+            ],
+            [
+                "euw1",
+                "TPAA nrmn",
+                12.600000000000001
+            ],
+            [
+                "euw1",
+                "Nomi",
+                30.700000000000003
+            ],
+            [
+                "euw1",
+                "Mindrago",
+                30.299999999999997
+            ],
+            [
+                "euw1",
+                "PORTUGUESE GALA",
+                27.1
+            ],
+            [
+                "euw1",
+                "disciplinfreedom",
+                48.8
+            ],
+            [
+                "kr",
+                "FA Kingdom",
+                22.200000000000003
+            ],
+            [
+                "kr",
+                "123312123123",
+                40.0
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                34.8
+            ],
+            [
+                "kr",
+                "FA Kingdom",
+                20.1
+            ],
+            [
+                "kr",
+                "RoarTHEBEAST",
+                56.5
+            ],
+            [
+                "kr",
+                "함볼게볼게",
+                21.6
+            ],
+            [
+                "kr",
+                "naiyoubaby",
+                52.0
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                21.4
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                11.8
+            ],
+            [
+                "kr",
+                "RoarTHEBEAST",
+                86.9
+            ],
+            [
+                "kr",
+                "i wanted u",
+                -0.6999999999999993
+            ],
+            [
+                "kr",
+                "krats aira",
+                20.2
+            ]
+        ],
+        "score": 344.8
     },
     "Kaisa": {
         "champName": "Kai'Sa",
         "champID": "145",
         "champStats": {
-            "kills": 10,
-            "deaths": 4,
-            "assists": 9,
+            "kills": 17,
+            "deaths": 12,
+            "assists": 14,
             "wins": 2,
-            "losses": 0,
-            "visionScore": 47,
+            "losses": 2,
+            "visionScore": 83,
             "bans": 0
         },
         "players": [
@@ -890,54 +1717,117 @@
                 "na1",
                 "Asyc",
                 50.2
+            ],
+            [
+                "euw1",
+                "avarice61",
+                5.800000000000001
+            ],
+            [
+                "euw1",
+                "Stend",
+                19.8
             ]
         ],
-        "score": 55.7
+        "score": 49.3
     },
     "Kalista": {
         "champName": "Kalista",
         "champID": "429",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 30,
+            "deaths": 19,
+            "assists": 16,
+            "wins": 1,
+            "losses": 2,
+            "visionScore": 77,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "LEC ADC 2024",
+                52.2
+            ],
+            [
+                "euw1",
+                "Notiko",
+                11.100000000000001
+            ],
+            [
+                "euw1",
+                "SPOLFCEI ",
+                78.4
+            ]
+        ],
+        "score": 65.7
     },
     "Karma": {
         "champName": "Karma",
         "champID": "43",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 14,
+            "deaths": 23,
+            "assists": 22,
+            "wins": 1,
+            "losses": 3,
+            "visionScore": 179,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "라면이 맛있다",
+                40.1
+            ],
+            [
+                "kr",
+                "2 C U Again",
+                14.3
+            ],
+            [
+                "kr",
+                "HLE Tempester",
+                20.5
+            ],
+            [
+                "kr",
+                "봄 여름 괄 겨울",
+                33.0
+            ]
+        ],
+        "score": 15.900000000000002
     },
     "Karthus": {
         "champName": "Karthus",
         "champID": "30",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 3
+            "kills": 27,
+            "deaths": 22,
+            "assists": 42,
+            "wins": 2,
+            "losses": 1,
+            "visionScore": 94,
+            "bans": 12
         },
-        "players": [],
-        "score": 30.0
+        "players": [
+            [
+                "euw1",
+                "Baby Tarz1",
+                60.7
+            ],
+            [
+                "kr",
+                "naiyoubaby",
+                37.4
+            ],
+            [
+                "kr",
+                "마가가 소가죽",
+                88.3
+            ]
+        ],
+        "score": 218.4
     },
     "Kassadin": {
         "champName": "Kassadin",
@@ -949,10 +1839,10 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 1
         },
         "players": [],
-        "score": 0.0
+        "score": 10.0
     },
     "Katarina": {
         "champName": "Katarina",
@@ -964,10 +1854,10 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 9
         },
         "players": [],
-        "score": 0.0
+        "score": 90.0
     },
     "Kayle": {
         "champName": "Kayle",
@@ -994,61 +1884,168 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 4
+            "bans": 5
         },
         "players": [],
-        "score": 40.0
+        "score": 50.0
     },
     "Kennen": {
         "champName": "Kennen",
         "champID": "85",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 3
+            "kills": 50,
+            "deaths": 50,
+            "assists": 37,
+            "wins": 4,
+            "losses": 4,
+            "visionScore": 163,
+            "bans": 20
         },
-        "players": [],
-        "score": 30.0
+        "players": [
+            [
+                "euw1",
+                "V Julius Caesar",
+                4.6
+            ],
+            [
+                "kr",
+                "키보드에음료쏟아서고장내는이도윤",
+                41.4
+            ],
+            [
+                "kr",
+                "재벌의 외아들",
+                -0.1999999999999993
+            ],
+            [
+                "kr",
+                "mmhgr",
+                60.2
+            ],
+            [
+                "kr",
+                "mmhgr",
+                32.4
+            ],
+            [
+                "kr",
+                "mmhgr",
+                47.4
+            ],
+            [
+                "kr",
+                "asd233",
+                57.2
+            ],
+            [
+                "kr",
+                "asd233",
+                60.3
+            ]
+        ],
+        "score": 303.3
     },
     "Khazix": {
         "champName": "Kha'Zix",
         "champID": "121",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 17,
+            "deaths": 16,
+            "assists": 13,
+            "wins": 1,
+            "losses": 3,
+            "visionScore": 113,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "K405 N815",
+                4.800000000000001
+            ],
+            [
+                "kr",
+                "Katappo",
+                18.1
+            ],
+            [
+                "kr",
+                "마가가 소가죽",
+                39.5
+            ],
+            [
+                "kr",
+                "Katappo",
+                24.9
+            ]
+        ],
+        "score": 23.3
     },
     "Kindred": {
         "champName": "Kindred",
         "champID": "203",
         "champStats": {
-            "kills": 8,
-            "deaths": 2,
-            "assists": 3,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 6,
-            "bans": 8
+            "kills": 81,
+            "deaths": 59,
+            "assists": 79,
+            "wins": 6,
+            "losses": 4,
+            "visionScore": 330,
+            "bans": 26
         },
         "players": [
             [
                 "na1",
                 "Draven696969",
                 41.6
+            ],
+            [
+                "euw1",
+                "TH Krillin",
+                43.3
+            ],
+            [
+                "kr",
+                "무릉필드 1",
+                32.9
+            ],
+            [
+                "kr",
+                "hwa i tings",
+                65.5
+            ],
+            [
+                "kr",
+                "키보드에음료쏟아서고장내는이도윤",
+                49.3
+            ],
+            [
+                "kr",
+                "Juhana",
+                31.799999999999997
+            ],
+            [
+                "kr",
+                "마가가 소가죽",
+                69.4
+            ],
+            [
+                "kr",
+                "naiyoubaby",
+                44.8
+            ],
+            [
+                "kr",
+                "Juhana",
+                55.4
+            ],
+            [
+                "kr",
+                "Juhana",
+                59.0
             ]
         ],
-        "score": 113.6
+        "score": 517.0
     },
     "Kled": {
         "champName": "Kled",
@@ -1060,150 +2057,498 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 1
         },
         "players": [],
-        "score": 0.0
+        "score": 10.0
     },
     "KogMaw": {
         "champName": "Kog'Maw",
         "champID": "96",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 13,
+            "deaths": 7,
+            "assists": 13,
+            "wins": 2,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 54,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "땅우양",
+                18.3
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                73.1
+            ]
+        ],
+        "score": 63.4
     },
     "KSante": {
         "champName": "K'Sante",
         "champID": "897",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 77,
+            "deaths": 75,
+            "assists": 100,
+            "wins": 8,
+            "losses": 12,
+            "visionScore": 415,
+            "bans": 16
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Maynter",
+                12.2
+            ],
+            [
+                "euw1",
+                "ALVAROARBELOA17",
+                7.100000000000001
+            ],
+            [
+                "euw1",
+                "ALVAROARBELOA17",
+                24.5
+            ],
+            [
+                "euw1",
+                "ALVAROARBELOA17",
+                30.2
+            ],
+            [
+                "kr",
+                "T1 미드 테스트",
+                27.4
+            ],
+            [
+                "kr",
+                "asd233",
+                17.7
+            ],
+            [
+                "kr",
+                "자신감을잃지말자",
+                27.700000000000003
+            ],
+            [
+                "kr",
+                "저메추부탁",
+                10.600000000000001
+            ],
+            [
+                "kr",
+                "농심 콜미",
+                35.6
+            ],
+            [
+                "kr",
+                "lvyepeihonghua",
+                10.399999999999999
+            ],
+            [
+                "kr",
+                "재벌의 외아들",
+                42.2
+            ],
+            [
+                "kr",
+                "lvyepeihonghua",
+                27.1
+            ],
+            [
+                "kr",
+                "DK Pullbae",
+                24.4
+            ],
+            [
+                "kr",
+                "mmhgr",
+                55.8
+            ],
+            [
+                "kr",
+                "asd233",
+                32.3
+            ],
+            [
+                "kr",
+                "T1 미드 테스트",
+                12.3
+            ],
+            [
+                "kr",
+                "wohuizuodegenhao",
+                16.1
+            ],
+            [
+                "kr",
+                "DRXVIICHAN",
+                27.0
+            ],
+            [
+                "kr",
+                "DRXVIICHAN",
+                21.4
+            ],
+            [
+                "kr",
+                "DRXVIICHAN",
+                20.5
+            ]
+        ],
+        "score": 342.5
     },
     "Leblanc": {
         "champName": "LeBlanc",
         "champID": "7",
         "champStats": {
-            "kills": 13,
-            "deaths": 4,
-            "assists": 13,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 24,
-            "bans": 3
+            "kills": 36,
+            "deaths": 37,
+            "assists": 55,
+            "wins": 6,
+            "losses": 2,
+            "visionScore": 193,
+            "bans": 33
         },
         "players": [
             [
                 "na1",
                 "animalcrossing42",
                 72.4
+            ],
+            [
+                "euw1",
+                "Chasyyyyyyyyy",
+                32.8
+            ],
+            [
+                "kr",
+                "T1 미드 테스트",
+                21.2
+            ],
+            [
+                "kr",
+                "지훈백크",
+                24.9
+            ],
+            [
+                "kr",
+                "T1 미드 테스트",
+                46.2
+            ],
+            [
+                "kr",
+                "재벌의 외아들",
+                60.0
+            ],
+            [
+                "kr",
+                "쪼렙이다말로하자",
+                26.3
+            ],
+            [
+                "kr",
+                "따가운 여름 햇살",
+                12.5
             ]
         ],
-        "score": 86.4
+        "score": 478.3
     },
     "LeeSin": {
         "champName": "Lee Sin",
         "champID": "64",
         "champStats": {
-            "kills": 16,
-            "deaths": 11,
-            "assists": 13,
-            "wins": 0,
-            "losses": 1,
-            "visionScore": 31,
-            "bans": 1
+            "kills": 153,
+            "deaths": 95,
+            "assists": 168,
+            "wins": 11,
+            "losses": 10,
+            "visionScore": 589,
+            "bans": 25
         },
         "players": [
             [
                 "na1",
                 "Draven696969",
                 76.1
+            ],
+            [
+                "euw1",
+                "Maxlore",
+                55.5
+            ],
+            [
+                "euw1",
+                "Mohamed du 56",
+                39.8
+            ],
+            [
+                "euw1",
+                "aespa karina99",
+                46.1
+            ],
+            [
+                "euw1",
+                "TH Krillin",
+                15.5
+            ],
+            [
+                "kr",
+                "정현심",
+                -2.2
+            ],
+            [
+                "kr",
+                "키보드에음료쏟아서고장내는이도윤",
+                7.899999999999999
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                59.4
+            ],
+            [
+                "kr",
+                "따봉 람미스",
+                22.799999999999997
+            ],
+            [
+                "kr",
+                "봄 여름 괄 겨울",
+                54.6
+            ],
+            [
+                "kr",
+                "kismets",
+                101.4
+            ],
+            [
+                "kr",
+                "kismets",
+                52.4
+            ],
+            [
+                "kr",
+                "cxsdw",
+                39.5
+            ],
+            [
+                "kr",
+                "봄 여름 괄 겨울",
+                37.5
+            ],
+            [
+                "kr",
+                "QuadQuad",
+                31.5
+            ],
+            [
+                "kr",
+                "오뚜기3분미트볼",
+                55.9
+            ],
+            [
+                "kr",
+                "cxsdw",
+                18.4
+            ],
+            [
+                "kr",
+                "cxsdw",
+                32.5
+            ],
+            [
+                "kr",
+                "cxsdw",
+                60.2
+            ],
+            [
+                "kr",
+                "viasdkjkasd",
+                12.5
+            ],
+            [
+                "kr",
+                "HLE Roamer",
+                68.6
             ]
         ],
-        "score": 42.1
+        "score": 755.9
     },
     "Leona": {
         "champName": "Leona",
         "champID": "89",
         "champStats": {
-            "kills": 1,
-            "deaths": 11,
-            "assists": 19,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 122,
-            "bans": 0
+            "kills": 14,
+            "deaths": 39,
+            "assists": 92,
+            "wins": 5,
+            "losses": 2,
+            "visionScore": 545,
+            "bans": 1
         },
         "players": [
             [
                 "na1",
                 "C9 Zven",
                 66.2
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                45.1
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                47.0
+            ],
+            [
+                "kr",
+                "얼린레몬차",
+                12.5
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                32.5
+            ],
+            [
+                "kr",
+                "yitianyit1an",
+                46.5
+            ],
+            [
+                "kr",
+                "BRO Effort",
+                46.7
             ]
         ],
-        "score": 22.200000000000003
+        "score": 150.5
     },
     "Lillia": {
         "champName": "Lillia",
         "champID": "876",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 2,
+            "deaths": 8,
+            "assists": 7,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 37,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "Katappo",
+                22.700000000000003
+            ]
+        ],
+        "score": -9.3
     },
     "Lissandra": {
         "champName": "Lissandra",
         "champID": "127",
         "champStats": {
-            "kills": 8,
-            "deaths": 5,
-            "assists": 17,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 31,
-            "bans": 0
+            "kills": 69,
+            "deaths": 61,
+            "assists": 126,
+            "wins": 9,
+            "losses": 5,
+            "visionScore": 346,
+            "bans": 5
         },
         "players": [
             [
                 "na1",
                 "animalcrossing42",
                 64.1
+            ],
+            [
+                "kr",
+                "QqQqQuid",
+                40.3
+            ],
+            [
+                "kr",
+                "gpnoeynu",
+                68.9
+            ],
+            [
+                "kr",
+                "농심 콜미",
+                34.8
+            ],
+            [
+                "kr",
+                "wo naozi buhao",
+                51.3
+            ],
+            [
+                "kr",
+                "함볼게볼게",
+                34.3
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                39.8
+            ],
+            [
+                "kr",
+                "앗싸 지렸다리",
+                38.1
+            ],
+            [
+                "kr",
+                "원광대 옥진영",
+                56.1
+            ],
+            [
+                "kr",
+                "원광대 옥진영",
+                4.4
+            ],
+            [
+                "kr",
+                "원광대 옥진영",
+                14.100000000000001
+            ],
+            [
+                "kr",
+                "T1 미드 테스트",
+                18.3
+            ],
+            [
+                "kr",
+                "따가운 여름 햇살",
+                32.1
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                33.0
             ]
         ],
-        "score": 44.1
+        "score": 335.6
     },
     "Lucian": {
         "champName": "Lucian",
         "champID": "236",
         "champStats": {
-            "kills": 3,
-            "deaths": 5,
-            "assists": 10,
-            "wins": 0,
+            "kills": 7,
+            "deaths": 9,
+            "assists": 20,
+            "wins": 1,
             "losses": 1,
-            "visionScore": 35,
+            "visionScore": 65,
             "bans": 0
         },
         "players": [
@@ -1211,30 +2556,60 @@
                 "na1",
                 "TL Honda Rovex",
                 22.5
+            ],
+            [
+                "euw1",
+                "AFW Nan0",
+                43.0
             ]
         ],
-        "score": 2.5
+        "score": 29.5
     },
     "Lulu": {
         "champName": "Lulu",
         "champID": "117",
         "champStats": {
-            "kills": 5,
-            "deaths": 3,
-            "assists": 22,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 70,
-            "bans": 0
+            "kills": 12,
+            "deaths": 29,
+            "assists": 85,
+            "wins": 3,
+            "losses": 3,
+            "visionScore": 352,
+            "bans": 2
         },
         "players": [
             [
                 "na1",
                 "Nightmisty",
                 60.0
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                23.9
+            ],
+            [
+                "kr",
+                "asd233",
+                59.0
+            ],
+            [
+                "kr",
+                "양과 수",
+                29.5
+            ],
+            [
+                "kr",
+                "KDF Andil",
+                20.5
+            ],
+            [
+                "kr",
+                "라면이 맛있다",
+                21.3
             ]
         ],
-        "score": 48.0
+        "score": 118.2
     },
     "Lux": {
         "champName": "Lux",
@@ -1255,16 +2630,87 @@
         "champName": "Malphite",
         "champID": "54",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 1
+            "kills": 44,
+            "deaths": 66,
+            "assists": 101,
+            "wins": 6,
+            "losses": 8,
+            "visionScore": 290,
+            "bans": 20
         },
-        "players": [],
-        "score": 10.0
+        "players": [
+            [
+                "euw1",
+                "Jαvier",
+                5.0
+            ],
+            [
+                "euw1",
+                "u good me better",
+                8.7
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                31.1
+            ],
+            [
+                "kr",
+                "미친듯이 파이팅",
+                26.200000000000003
+            ],
+            [
+                "kr",
+                "미친듯이 파이팅",
+                38.7
+            ],
+            [
+                "kr",
+                "미친듯이 파이팅",
+                73.8
+            ],
+            [
+                "kr",
+                "asd233",
+                1.8000000000000007
+            ],
+            [
+                "kr",
+                "BRO Morgan",
+                38.5
+            ],
+            [
+                "kr",
+                "BRO Morgan",
+                15.899999999999999
+            ],
+            [
+                "kr",
+                "mmhgr",
+                34.0
+            ],
+            [
+                "kr",
+                "타 잔",
+                19.5
+            ],
+            [
+                "kr",
+                "KDF1",
+                8.7
+            ],
+            [
+                "kr",
+                "KDF1",
+                32.7
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                39.4
+            ]
+        ],
+        "score": 310.0
     },
     "Malzahar": {
         "champName": "Malzahar",
@@ -1285,46 +2731,114 @@
         "champName": "Maokai",
         "champID": "57",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 4,
+            "deaths": 11,
+            "assists": 22,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 44,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "zyb",
+                3.8000000000000007
+            ],
+            [
+                "euw1",
+                "I Love Uber Eats",
+                56.6
+            ]
+        ],
+        "score": 16.4
     },
     "MasterYi": {
         "champName": "Master Yi",
         "champID": "11",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 3,
+            "deaths": 8,
+            "assists": 2,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "losses": 1,
+            "visionScore": 21,
+            "bans": 1
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "wutian",
+                19.1
+            ]
+        ],
+        "score": -2.9000000000000004
     },
     "Milio": {
         "champName": "Milio",
         "champID": "902",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 7
+            "kills": 6,
+            "deaths": 37,
+            "assists": 106,
+            "wins": 5,
+            "losses": 5,
+            "visionScore": 528,
+            "bans": 22
         },
-        "players": [],
-        "score": 70.0
+        "players": [
+            [
+                "euw1",
+                "NORDKASING",
+                45.6
+            ],
+            [
+                "kr",
+                "씨맥당신은틀렸어",
+                19.7
+            ],
+            [
+                "kr",
+                "Waitingforaride",
+                39.8
+            ],
+            [
+                "kr",
+                "Peter NS",
+                2.4000000000000004
+            ],
+            [
+                "kr",
+                "양과 수",
+                43.0
+            ],
+            [
+                "kr",
+                "얼린레몬차",
+                24.3
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                37.6
+            ],
+            [
+                "kr",
+                "양과 수",
+                -1.5
+            ],
+            [
+                "kr",
+                "렐서폿",
+                13.8
+            ],
+            [
+                "kr",
+                "IgNar",
+                26.1
+            ]
+        ],
+        "score": 322.8
     },
     "MissFortune": {
         "champName": "Miss Fortune",
@@ -1345,31 +2859,63 @@
         "champName": "Wukong",
         "champID": "62",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 39,
+            "deaths": 29,
+            "assists": 37,
+            "wins": 2,
+            "losses": 3,
+            "visionScore": 183,
+            "bans": 1
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "viasdkjkasd",
+                34.8
+            ],
+            [
+                "kr",
+                "QqQqQuid",
+                63.4
+            ],
+            [
+                "kr",
+                "2 C U Again",
+                36.3
+            ],
+            [
+                "kr",
+                "2 C U Again",
+                51.5
+            ],
+            [
+                "kr",
+                "에휴휴휴휴휴",
+                34.3
+            ]
+        ],
+        "score": 114.3
     },
     "Mordekaiser": {
         "champName": "Mordekaiser",
         "champID": "82",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
+            "kills": 3,
+            "deaths": 7,
             "assists": 0,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 11,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "농심 콜미",
+                14.100000000000001
+            ]
+        ],
+        "score": -13.9
     },
     "Morgana": {
         "champName": "Morgana",
@@ -1411,31 +2957,101 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 3
         },
         "players": [],
-        "score": 0.0
+        "score": 30.0
     },
     "Nautilus": {
         "champName": "Nautilus",
         "champID": "111",
         "champStats": {
-            "kills": 0,
-            "deaths": 12,
-            "assists": 16,
-            "wins": 0,
-            "losses": 1,
-            "visionScore": 48,
-            "bans": 0
+            "kills": 27,
+            "deaths": 97,
+            "assists": 159,
+            "wins": 8,
+            "losses": 7,
+            "visionScore": 749,
+            "bans": 1
         },
         "players": [
             [
                 "na1",
                 "shochi",
                 34.8
+            ],
+            [
+                "euw1",
+                "txiko polita",
+                38.5
+            ],
+            [
+                "kr",
+                "BRO Effort",
+                44.2
+            ],
+            [
+                "kr",
+                "따봉 람미스",
+                30.799999999999997
+            ],
+            [
+                "kr",
+                "따봉 람미스",
+                17.1
+            ],
+            [
+                "kr",
+                "따봉 람미스",
+                49.3
+            ],
+            [
+                "kr",
+                "KDF Andil",
+                17.3
+            ],
+            [
+                "kr",
+                "cha Liang",
+                20.0
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                20.9
+            ],
+            [
+                "kr",
+                "yitianyit1an",
+                43.5
+            ],
+            [
+                "kr",
+                "yitianyit1an",
+                49.4
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                22.4
+            ],
+            [
+                "kr",
+                "라면이 맛있다",
+                29.2
+            ],
+            [
+                "kr",
+                "asd233",
+                40.7
+            ],
+            [
+                "kr",
+                "zui hao yige ren",
+                60.8
             ]
         ],
-        "score": -13.2
+        "score": 140.9
     },
     "Neeko": {
         "champName": "Neeko",
@@ -1456,16 +3072,47 @@
         "champName": "Nidalee",
         "champID": "76",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 45,
+            "deaths": 22,
+            "assists": 38,
+            "wins": 2,
+            "losses": 4,
+            "visionScore": 357,
+            "bans": 24
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "aespa karina99",
+                53.8
+            ],
+            [
+                "euw1",
+                "TH Krillin",
+                28.1
+            ],
+            [
+                "kr",
+                "HLE Roamer",
+                35.5
+            ],
+            [
+                "kr",
+                "봄 여름 괄 겨울",
+                63.7
+            ],
+            [
+                "kr",
+                "Longttime",
+                42.6
+            ],
+            [
+                "kr",
+                "에휴휴휴휴휴",
+                9.0
+            ]
+        ],
+        "score": 384.7
     },
     "Nilah": {
         "champName": "Nilah",
@@ -1486,16 +3133,22 @@
         "champName": "Nocturne",
         "champID": "56",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 12,
+            "deaths": 1,
+            "assists": 6,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 20,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "TH Krillin",
+                56.0
+            ]
+        ],
+        "score": 52.0
     },
     "Nunu": {
         "champName": "Nunu & Willump",
@@ -1507,22 +3160,22 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 5
+            "bans": 8
         },
         "players": [],
-        "score": 50.0
+        "score": 80.0
     },
     "Olaf": {
         "champName": "Olaf",
         "champID": "2",
         "champStats": {
-            "kills": 13,
-            "deaths": 7,
-            "assists": 9,
-            "wins": 0,
+            "kills": 22,
+            "deaths": 12,
+            "assists": 12,
+            "wins": 2,
             "losses": 2,
-            "visionScore": 52,
-            "bans": 0
+            "visionScore": 70,
+            "bans": 2
         },
         "players": [
             [
@@ -1534,9 +3187,19 @@
                 "na1",
                 "lunacia",
                 22.4
+            ],
+            [
+                "euw1",
+                "Photon1",
+                23.9
+            ],
+            [
+                "euw1",
+                "Strey en mission",
+                37.9
             ]
         ],
-        "score": 19.2
+        "score": 81.0
     },
     "Orianna": {
         "champName": "Orianna",
@@ -1563,31 +3226,53 @@
         "champName": "Ornn",
         "champID": "516",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 5,
+            "deaths": 13,
+            "assists": 10,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 2,
+            "visionScore": 28,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Ushuala",
+                16.2
+            ],
+            [
+                "euw1",
+                "Ushuala",
+                17.6
+            ]
+        ],
+        "score": -18.2
     },
     "Pantheon": {
         "champName": "Pantheon",
         "champID": "80",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 1
+            "kills": 17,
+            "deaths": 15,
+            "assists": 22,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 49,
+            "bans": 4
         },
-        "players": [],
-        "score": 10.0
+        "players": [
+            [
+                "euw1",
+                "Mohamed du 56",
+                86.4
+            ],
+            [
+                "kr",
+                "알파몽",
+                21.5
+            ]
+        ],
+        "score": 87.9
     },
     "Poppy": {
         "champName": "Poppy",
@@ -1614,58 +3299,116 @@
         "champName": "Pyke",
         "champID": "555",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 3
+            "kills": 13,
+            "deaths": 34,
+            "assists": 40,
+            "wins": 1,
+            "losses": 4,
+            "visionScore": 305,
+            "bans": 11
         },
-        "players": [],
-        "score": 30.0
+        "players": [
+            [
+                "euw1",
+                "Photon1",
+                34.0
+            ],
+            [
+                "euw1",
+                "death ends",
+                27.700000000000003
+            ],
+            [
+                "euw1",
+                "death ends",
+                32.3
+            ],
+            [
+                "kr",
+                "씨맥당신은틀렸어",
+                14.5
+            ],
+            [
+                "kr",
+                "eilataN",
+                39.0
+            ]
+        ],
+        "score": 121.5
     },
     "Qiyana": {
         "champName": "Qiyana",
         "champID": "246",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 8,
+            "deaths": 5,
+            "assists": 8,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "visionScore": 24,
+            "bans": 10
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "elyoyaaaaaaaaaaa",
+                54.4
+            ]
+        ],
+        "score": 134.4
     },
     "Quinn": {
         "champName": "Quinn",
         "champID": "133",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 16,
+            "deaths": 31,
+            "assists": 29,
+            "wins": 4,
+            "losses": 1,
+            "visionScore": 142,
+            "bans": 1
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "살퀸레",
+                39.4
+            ],
+            [
+                "kr",
+                "살퀸레",
+                37.3
+            ],
+            [
+                "kr",
+                "살퀸레",
+                18.0
+            ],
+            [
+                "kr",
+                "살퀸레",
+                54.0
+            ],
+            [
+                "kr",
+                "살퀸레",
+                34.5
+            ]
+        ],
+        "score": 69.2
     },
     "Rakan": {
         "champName": "Rakan",
         "champID": "497",
         "champStats": {
-            "kills": 2,
-            "deaths": 18,
-            "assists": 55,
-            "wins": 1,
-            "losses": 1,
-            "visionScore": 166,
-            "bans": 2
+            "kills": 26,
+            "deaths": 118,
+            "assists": 454,
+            "wins": 19,
+            "losses": 8,
+            "visionScore": 1935,
+            "bans": 20
         },
         "players": [
             [
@@ -1677,9 +3420,134 @@
                 "na1",
                 "TL Honda Rovex",
                 53.7
+            ],
+            [
+                "euw1",
+                "Keria Slayer",
+                56.9
+            ],
+            [
+                "euw1",
+                "sparz n summer",
+                37.2
+            ],
+            [
+                "euw1",
+                "El Camino provee",
+                38.6
+            ],
+            [
+                "euw1",
+                "school phobia",
+                45.8
+            ],
+            [
+                "euw1",
+                "txiko polita",
+                35.9
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                21.0
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                44.1
+            ],
+            [
+                "kr",
+                "Peter NS",
+                69.5
+            ],
+            [
+                "kr",
+                "댕청잇",
+                55.8
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                26.200000000000003
+            ],
+            [
+                "kr",
+                "씨맥당신은틀렸어",
+                21.6
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                54.0
+            ],
+            [
+                "kr",
+                "2 C U Again",
+                55.5
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                34.0
+            ],
+            [
+                "kr",
+                "얼린레몬차",
+                52.1
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                32.7
+            ],
+            [
+                "kr",
+                "최상의",
+                27.299999999999997
+            ],
+            [
+                "kr",
+                "IgNar",
+                28.6
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                9.100000000000001
+            ],
+            [
+                "kr",
+                "DK fire",
+                38.9
+            ],
+            [
+                "kr",
+                "yitianyit1an",
+                39.5
+            ],
+            [
+                "kr",
+                "눈이 보고 싶다",
+                50.4
+            ],
+            [
+                "kr",
+                "IgNar",
+                44.5
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                13.3
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                25.4
             ]
         ],
-        "score": 61.6
+        "score": 799.5
     },
     "Rammus": {
         "champName": "Rammus",
@@ -1706,55 +3574,103 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 5
         },
         "players": [],
-        "score": 0.0
+        "score": 50.0
     },
     "Rell": {
         "champName": "Rell",
         "champID": "526",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 11,
+            "deaths": 29,
+            "assists": 55,
+            "wins": 3,
+            "losses": 2,
+            "visionScore": 203,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "한계뚫기",
+                18.4
+            ],
+            [
+                "kr",
+                "렐서폿",
+                43.0
+            ],
+            [
+                "kr",
+                "렐서폿",
+                41.4
+            ],
+            [
+                "kr",
+                "렐서폿",
+                56.9
+            ],
+            [
+                "kr",
+                "렐서폿",
+                16.6
+            ]
+        ],
+        "score": 60.3
     },
     "Renata": {
         "champName": "Renata Glasc",
         "champID": "888",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 4,
+            "deaths": 7,
+            "assists": 19,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "visionScore": 68,
+            "bans": 5
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "재벌의 외아들",
+                61.8
+            ]
+        ],
+        "score": 83.8
     },
     "Renekton": {
         "champName": "Renekton",
         "champID": "58",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 8,
+            "deaths": 18,
+            "assists": 26,
+            "wins": 3,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 73,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "함볼게볼게",
+                54.2
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                33.8
+            ],
+            [
+                "kr",
+                "자신감을잃지말자",
+                35.3
+            ]
+        ],
+        "score": 51.3
     },
     "Rengar": {
         "champName": "Rengar",
@@ -1766,40 +3682,77 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 13
         },
         "players": [],
-        "score": 0.0
+        "score": 130.0
     },
     "Riven": {
         "champName": "Riven",
         "champID": "92",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 21,
+            "deaths": 29,
+            "assists": 29,
+            "wins": 5,
+            "losses": 1,
+            "visionScore": 119,
+            "bans": 7
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Been you",
+                51.3
+            ],
+            [
+                "euw1",
+                "Been you",
+                36.5
+            ],
+            [
+                "euw1",
+                "Been you",
+                2.9000000000000004
+            ],
+            [
+                "euw1",
+                "Been you",
+                38.2
+            ],
+            [
+                "euw1",
+                "Been you",
+                36.1
+            ],
+            [
+                "euw1",
+                "Been you",
+                36.9
+            ]
+        ],
+        "score": 155.9
     },
     "Rumble": {
         "champName": "Rumble",
         "champID": "68",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 4,
+            "deaths": 9,
+            "assists": 6,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 1
+            "losses": 1,
+            "visionScore": 66,
+            "bans": 7
         },
-        "players": [],
-        "score": 10.0
+        "players": [
+            [
+                "euw1",
+                "Vizícsacsi",
+                32.6
+            ]
+        ],
+        "score": 66.6
     },
     "Ryze": {
         "champName": "Ryze",
@@ -1820,63 +3773,110 @@
         "champName": "Samira",
         "champID": "360",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 8,
+            "deaths": 15,
+            "assists": 19,
+            "wins": 1,
+            "losses": 2,
+            "visionScore": 33,
+            "bans": 2
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Kenal",
+                45.4
+            ],
+            [
+                "euw1",
+                "LEC ADC 2024",
+                13.399999999999999
+            ],
+            [
+                "euw1",
+                "LEC ADC 2024",
+                7.5
+            ]
+        ],
+        "score": 26.3
     },
     "Sejuani": {
         "champName": "Sejuani",
         "champID": "113",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 5,
+            "deaths": 3,
+            "assists": 21,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 43,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "따봉 람미스",
+                56.3
+            ]
+        ],
+        "score": 44.3
     },
     "Senna": {
         "champName": "Senna",
         "champID": "235",
         "champStats": {
-            "kills": 0,
-            "deaths": 1,
-            "assists": 3,
-            "wins": 0,
-            "losses": 1,
-            "visionScore": 27,
-            "bans": 0
+            "kills": 16,
+            "deaths": 36,
+            "assists": 94,
+            "wins": 3,
+            "losses": 3,
+            "visionScore": 352,
+            "bans": 3
         },
         "players": [
             [
                 "na1",
                 "ƒreyá",
                 -2.3
+            ],
+            [
+                "euw1",
+                "V Julius Caesar",
+                64.4
+            ],
+            [
+                "euw1",
+                "Keria Slayer",
+                62.599999999999994
+            ],
+            [
+                "euw1",
+                "PORTUGUESE GALA",
+                60.0
+            ],
+            [
+                "kr",
+                "땅우양",
+                12.600000000000001
+            ],
+            [
+                "kr",
+                "lvyepeihonghua",
+                51.9
             ]
         ],
-        "score": -6.3
+        "score": 135.2
     },
     "Seraphine": {
         "champName": "Seraphine",
         "champID": "147",
         "champStats": {
-            "kills": 5,
-            "deaths": 3,
-            "assists": 12,
-            "wins": 0,
-            "losses": 1,
-            "visionScore": 26,
+            "kills": 17,
+            "deaths": 10,
+            "assists": 39,
+            "wins": 1,
+            "losses": 2,
+            "visionScore": 75,
             "bans": 0
         },
         "players": [
@@ -1884,9 +3884,19 @@
                 "na1",
                 "eiji",
                 25.6
+            ],
+            [
+                "euw1",
+                "LPG ZAMULEK",
+                58.0
+            ],
+            [
+                "euw1",
+                "school phobia",
+                23.9
             ]
         ],
-        "score": 13.6
+        "score": 67.5
     },
     "Sett": {
         "champName": "Sett",
@@ -1967,31 +3977,43 @@
         "champName": "Sion",
         "champID": "14",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 3,
+            "deaths": 10,
+            "assists": 11,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 27,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "BRO Morgan",
+                32.7
+            ]
+        ],
+        "score": -7.3
     },
     "Sivir": {
         "champName": "Sivir",
         "champID": "15",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 4,
+            "deaths": 7,
+            "assists": 11,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 18,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "i wanted u",
+                28.799999999999997
+            ]
+        ],
+        "score": 0.8
     },
     "Skarner": {
         "champName": "Skarner",
@@ -2027,16 +4049,22 @@
         "champName": "Soraka",
         "champID": "16",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 3,
+            "deaths": 4,
+            "assists": 16,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 51,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "gpnoeynu",
+                48.1
+            ]
+        ],
+        "score": 32.1
     },
     "Swain": {
         "champName": "Swain",
@@ -2048,22 +4076,22 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 3
         },
         "players": [],
-        "score": 0.0
+        "score": 30.0
     },
     "Sylas": {
         "champName": "Sylas",
         "champID": "517",
         "champStats": {
-            "kills": 31,
-            "deaths": 20,
-            "assists": 17,
-            "wins": 2,
-            "losses": 2,
-            "visionScore": 88,
-            "bans": 1
+            "kills": 113,
+            "deaths": 78,
+            "assists": 81,
+            "wins": 10,
+            "losses": 6,
+            "visionScore": 311,
+            "bans": 14
         },
         "players": [
             [
@@ -2085,69 +4113,183 @@
                 "na1",
                 "animalcrossing42",
                 5.0
+            ],
+            [
+                "euw1",
+                "TYPE R12SCF",
+                -0.3000000000000007
+            ],
+            [
+                "euw1",
+                "PCS Kamiloo",
+                55.7
+            ],
+            [
+                "euw1",
+                "Envy Carry",
+                58.0
+            ],
+            [
+                "euw1",
+                "Haruuta1",
+                32.8
+            ],
+            [
+                "kr",
+                "봄 여름 괄 겨울",
+                50.8
+            ],
+            [
+                "kr",
+                "막스 배르스타펜",
+                88.2
+            ],
+            [
+                "kr",
+                "저메추부탁",
+                12.5
+            ],
+            [
+                "kr",
+                "T1 미드 테스트",
+                70.2
+            ],
+            [
+                "kr",
+                "앗싸 지렸다리",
+                44.4
+            ],
+            [
+                "kr",
+                "막스 배르스타펜",
+                39.7
+            ],
+            [
+                "kr",
+                "앗싸 지렸다리",
+                27.6
+            ],
+            [
+                "kr",
+                "막스 배르스타펜",
+                8.7
             ]
         ],
-        "score": 88.8
+        "score": 475.1
     },
     "Syndra": {
         "champName": "Syndra",
         "champID": "134",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 19,
+            "deaths": 13,
+            "assists": 22,
+            "wins": 2,
+            "losses": 2,
+            "visionScore": 71,
+            "bans": 4
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Lιght1",
+                29.2
+            ],
+            [
+                "euw1",
+                "Wesley Warren Jr",
+                25.299999999999997
+            ],
+            [
+                "kr",
+                "Bae Suzy",
+                32.3
+            ],
+            [
+                "kr",
+                "Jiaqi3",
+                25.299999999999997
+            ]
+        ],
+        "score": 100.1
     },
     "TahmKench": {
         "champName": "Tahm Kench",
         "champID": "223",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 4,
+            "deaths": 5,
+            "assists": 21,
+            "wins": 1,
+            "losses": 1,
+            "visionScore": 81,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "FA Kingdom",
+                20.6
+            ],
+            [
+                "kr",
+                "Dazbee9",
+                30.5
+            ]
+        ],
+        "score": 31.1
     },
     "Taliyah": {
         "champName": "Taliyah",
         "champID": "163",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 18,
+            "deaths": 22,
+            "assists": 13,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "losses": 3,
+            "visionScore": 64,
+            "bans": 1
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "TheRoyalKanin",
+                16.6
+            ],
+            [
+                "kr",
+                "lao Iiu",
+                34.0
+            ],
+            [
+                "kr",
+                "kismets",
+                36.8
+            ]
+        ],
+        "score": 9.4
     },
     "Talon": {
         "champName": "Talon",
         "champID": "91",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 6,
+            "deaths": 4,
+            "assists": 5,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "losses": 1,
+            "visionScore": 18,
+            "bans": 9
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "K405 N815",
+                22.799999999999997
+            ]
+        ],
+        "score": 96.8
     },
     "Taric": {
         "champName": "Taric",
@@ -2168,28 +4310,34 @@
         "champName": "Teemo",
         "champID": "17",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 5,
+            "deaths": 5,
+            "assists": 12,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 67,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Alan234",
+                53.7
+            ]
+        ],
+        "score": 33.7
     },
     "Thresh": {
         "champName": "Thresh",
         "champID": "412",
         "champStats": {
-            "kills": 2,
-            "deaths": 11,
-            "assists": 20,
-            "wins": 1,
-            "losses": 1,
-            "visionScore": 63,
-            "bans": 1
+            "kills": 19,
+            "deaths": 87,
+            "assists": 171,
+            "wins": 5,
+            "losses": 10,
+            "visionScore": 756,
+            "bans": 14
         },
         "players": [
             [
@@ -2201,73 +4349,114 @@
                 "na1",
                 "Chaye",
                 32.5
+            ],
+            [
+                "euw1",
+                "V Julius Caesar",
+                34.9
+            ],
+            [
+                "euw1",
+                "alvarooo",
+                17.7
+            ],
+            [
+                "euw1",
+                "Keria Slayer",
+                31.200000000000003
+            ],
+            [
+                "euw1",
+                "Paixdia",
+                26.9
+            ],
+            [
+                "euw1",
+                "zyb",
+                24.200000000000003
+            ],
+            [
+                "kr",
+                "Peter NS",
+                29.0
+            ],
+            [
+                "kr",
+                "DDDRX",
+                47.6
+            ],
+            [
+                "kr",
+                "BRO Effort",
+                25.200000000000003
+            ],
+            [
+                "kr",
+                "IgNar",
+                23.6
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                21.7
+            ],
+            [
+                "kr",
+                "BRO Gyosoo",
+                22.9
+            ],
+            [
+                "kr",
+                "Waitingforaride",
+                11.399999999999999
+            ],
+            [
+                "kr",
+                "Peter NS",
+                57.0
             ]
         ],
-        "score": 20.3
+        "score": 219.60000000000002
     },
     "Tristana": {
         "champName": "Tristana",
         "champID": "18",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 22,
+            "deaths": 20,
+            "assists": 10,
+            "wins": 1,
+            "losses": 3,
+            "visionScore": 79,
             "bans": 1
         },
-        "players": [],
-        "score": 10.0
+        "players": [
+            [
+                "kr",
+                "따가운 여름 햇살",
+                33.5
+            ],
+            [
+                "kr",
+                "gpnoeynu",
+                20.0
+            ],
+            [
+                "kr",
+                "asd233",
+                32.6
+            ],
+            [
+                "kr",
+                "따가운 여름 햇살",
+                17.8
+            ]
+        ],
+        "score": 33.9
     },
     "Trundle": {
         "champName": "Trundle",
         "champID": "48",
-        "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
-        },
-        "players": [],
-        "score": 0.0
-    },
-    "Tryndamere": {
-        "champName": "Tryndamere",
-        "champID": "23",
-        "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
-        },
-        "players": [],
-        "score": 0.0
-    },
-    "TwistedFate": {
-        "champName": "Twisted Fate",
-        "champID": "4",
-        "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
-        },
-        "players": [],
-        "score": 0.0
-    },
-    "Twitch": {
-        "champName": "Twitch",
-        "champID": "29",
         "champStats": {
             "kills": 0,
             "deaths": 0,
@@ -2280,6 +4469,63 @@
         "players": [],
         "score": 20.0
     },
+    "Tryndamere": {
+        "champName": "Tryndamere",
+        "champID": "23",
+        "champStats": {
+            "kills": 9,
+            "deaths": 3,
+            "assists": 6,
+            "wins": 1,
+            "losses": 0,
+            "visionScore": 20,
+            "bans": 0
+        },
+        "players": [
+            [
+                "euw1",
+                "innerbloom2",
+                51.0
+            ]
+        ],
+        "score": 39.0
+    },
+    "TwistedFate": {
+        "champName": "Twisted Fate",
+        "champID": "4",
+        "champStats": {
+            "kills": 5,
+            "deaths": 4,
+            "assists": 13,
+            "wins": 1,
+            "losses": 0,
+            "visionScore": 34,
+            "bans": 0
+        },
+        "players": [
+            [
+                "kr",
+                "헤어지기 싫어",
+                49.4
+            ]
+        ],
+        "score": 33.4
+    },
+    "Twitch": {
+        "champName": "Twitch",
+        "champID": "29",
+        "champStats": {
+            "kills": 0,
+            "deaths": 0,
+            "assists": 0,
+            "wins": 0,
+            "losses": 0,
+            "visionScore": 0,
+            "bans": 5
+        },
+        "players": [],
+        "score": 50.0
+    },
     "Udyr": {
         "champName": "Udyr",
         "champID": "77",
@@ -2290,7 +4536,7 @@
             "wins": 0,
             "losses": 1,
             "visionScore": 10,
-            "bans": 3
+            "bans": 8
         },
         "players": [
             [
@@ -2299,7 +4545,7 @@
                 0.0
             ]
         ],
-        "score": 14.0
+        "score": 64.0
     },
     "Urgot": {
         "champName": "Urgot",
@@ -2320,31 +4566,53 @@
         "champName": "Varus",
         "champID": "110",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 6,
+            "deaths": 6,
+            "assists": 3,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 1
+            "losses": 1,
+            "visionScore": 12,
+            "bans": 8
         },
-        "players": [],
-        "score": 10.0
+        "players": [
+            [
+                "kr",
+                "Tianzhidao",
+                24.200000000000003
+            ]
+        ],
+        "score": 80.2
     },
     "Vayne": {
         "champName": "Vayne",
         "champID": "67",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 4,
+            "deaths": 19,
+            "assists": 7,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 3,
+            "visionScore": 40,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "daoxinwengu1",
+                21.1
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                5.6
+            ],
+            [
+                "kr",
+                "바르고고운말해여",
+                4.300000000000001
+            ]
+        ],
+        "score": -45.0
     },
     "Veigar": {
         "champName": "Veigar",
@@ -2356,10 +4624,10 @@
             "wins": 0,
             "losses": 0,
             "visionScore": 0,
-            "bans": 0
+            "bans": 5
         },
         "players": [],
-        "score": 0.0
+        "score": 50.0
     },
     "Velkoz": {
         "champName": "Vel'Koz",
@@ -2380,91 +4648,257 @@
         "champName": "Vex",
         "champID": "711",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "kills": 3,
+            "deaths": 7,
+            "assists": 4,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "losses": 1,
+            "visionScore": 14,
+            "bans": 6
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "Jiaqi3",
+                18.4
+            ]
+        ],
+        "score": 50.4
     },
     "Vi": {
         "champName": "Vi",
         "champID": "254",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 14,
+            "deaths": 9,
+            "assists": 17,
+            "wins": 2,
+            "losses": 1,
+            "visionScore": 95,
+            "bans": 1
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "I Love Uber Eats",
+                53.0
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                41.6
+            ],
+            [
+                "kr",
+                "키보드에음료쏟아서고장내는이도윤",
+                1.9000000000000004
+            ]
+        ],
+        "score": 70.5
     },
     "Viego": {
         "champName": "Viego",
         "champID": "234",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "kills": 161,
+            "deaths": 118,
+            "assists": 163,
+            "wins": 12,
+            "losses": 13,
+            "visionScore": 655,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "GO lyncas",
+                7.699999999999999
+            ],
+            [
+                "euw1",
+                "TH Krillin",
+                31.5
+            ],
+            [
+                "kr",
+                "dwqjlkdjahsdqw",
+                23.0
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                48.2
+            ],
+            [
+                "kr",
+                "lao Iiu",
+                25.700000000000003
+            ],
+            [
+                "kr",
+                "Longttime",
+                69.0
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                44.7
+            ],
+            [
+                "kr",
+                "HLE Grizzly",
+                106.1
+            ],
+            [
+                "kr",
+                "2 C U Again",
+                56.5
+            ],
+            [
+                "kr",
+                "정현심",
+                12.100000000000001
+            ],
+            [
+                "kr",
+                "qweasdcxz",
+                39.1
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                47.9
+            ],
+            [
+                "kr",
+                "정현심",
+                23.0
+            ],
+            [
+                "kr",
+                "viasdkjkasd",
+                48.2
+            ],
+            [
+                "kr",
+                "HLE Roamer",
+                51.7
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                43.6
+            ],
+            [
+                "kr",
+                "NEED HER",
+                58.5
+            ],
+            [
+                "kr",
+                "NEED HER",
+                39.2
+            ],
+            [
+                "kr",
+                "NEED HER",
+                8.100000000000001
+            ],
+            [
+                "kr",
+                "NEED HER",
+                4.4
+            ],
+            [
+                "kr",
+                "NEED HER",
+                47.5
+            ],
+            [
+                "kr",
+                "HamBak",
+                18.7
+            ],
+            [
+                "kr",
+                "Epilogue for you",
+                44.9
+            ],
+            [
+                "kr",
+                "무릉필드 1",
+                0.9000000000000004
+            ],
+            [
+                "kr",
+                "마음이 피곤하다",
+                37.3
+            ]
+        ],
+        "score": 465.5
     },
     "Viktor": {
         "champName": "Viktor",
         "champID": "112",
         "champStats": {
             "kills": 0,
-            "deaths": 0,
-            "assists": 0,
+            "deaths": 7,
+            "assists": 5,
             "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
+            "losses": 1,
+            "visionScore": 13,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Roison",
+                10.3
+            ]
+        ],
+        "score": -17.7
     },
     "Vladimir": {
         "champName": "Vladimir",
         "champID": "8",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 9,
+            "deaths": 4,
+            "assists": 3,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
-            "bans": 1
+            "visionScore": 20,
+            "bans": 2
         },
-        "players": [],
-        "score": 10.0
+        "players": [
+            [
+                "na1",
+                "IllllIIIIllllIIl",
+                50.0
+            ]
+        ],
+        "score": 54.0
     },
     "Volibear": {
         "champName": "Volibear",
         "champID": "106",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 6,
+            "deaths": 2,
+            "assists": 10,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 17,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Alexxanderkyling",
+                43.7
+            ]
+        ],
+        "score": 35.7
     },
     "Warwick": {
         "champName": "Warwick",
@@ -2485,22 +4919,117 @@
         "champName": "Xayah",
         "champID": "498",
         "champStats": {
-            "kills": 11,
-            "deaths": 4,
-            "assists": 18,
-            "wins": 0,
-            "losses": 1,
-            "visionScore": 30,
-            "bans": 4
+            "kills": 174,
+            "deaths": 81,
+            "assists": 129,
+            "wins": 15,
+            "losses": 5,
+            "visionScore": 552,
+            "bans": 30
         },
         "players": [
             [
                 "na1",
                 "Blaster3",
                 52.0
+            ],
+            [
+                "euw1",
+                "Kang Myunggu",
+                74.9
+            ],
+            [
+                "euw1",
+                "Mindrago",
+                47.7
+            ],
+            [
+                "kr",
+                "daoxinwengu1",
+                86.1
+            ],
+            [
+                "kr",
+                "Mid Pungyeon",
+                71.1
+            ],
+            [
+                "kr",
+                "i wanted u",
+                70.3
+            ],
+            [
+                "kr",
+                "어떻게해야하려나",
+                78.2
+            ],
+            [
+                "kr",
+                "Peter NS",
+                51.7
+            ],
+            [
+                "kr",
+                "cha Liang",
+                11.8
+            ],
+            [
+                "kr",
+                "FA Kingdom",
+                15.899999999999999
+            ],
+            [
+                "kr",
+                "hei si yyds",
+                69.3
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                16.0
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                28.6
+            ],
+            [
+                "kr",
+                "Jiaqi3",
+                61.8
+            ],
+            [
+                "kr",
+                "NS Jiwoo",
+                33.5
+            ],
+            [
+                "kr",
+                "어떻게해야하려나",
+                53.1
+            ],
+            [
+                "kr",
+                "gpnoeynu",
+                53.1
+            ],
+            [
+                "kr",
+                "qwercxvz",
+                36.1
+            ],
+            [
+                "kr",
+                "Bull kdf",
+                41.8
+            ],
+            [
+                "kr",
+                "krats aira",
+                15.2
             ]
         ],
-        "score": 76.0
+        "score": 944.2
     },
     "Xerath": {
         "champName": "Xerath",
@@ -2521,52 +5050,109 @@
         "champName": "Xin Zhao",
         "champID": "5",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "kills": 23,
+            "deaths": 15,
+            "assists": 39,
+            "wins": 1,
+            "losses": 2,
+            "visionScore": 105,
+            "bans": 3
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "정현심",
+                56.0
+            ],
+            [
+                "kr",
+                "마음이 피곤하다",
+                36.3
+            ],
+            [
+                "kr",
+                "cxsdw",
+                46.2
+            ]
+        ],
+        "score": 108.5
     },
     "Yasuo": {
         "champName": "Yasuo",
         "champID": "157",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
-            "losses": 0,
-            "visionScore": 0,
-            "bans": 4
+            "kills": 29,
+            "deaths": 18,
+            "assists": 18,
+            "wins": 2,
+            "losses": 2,
+            "visionScore": 89,
+            "bans": 15
         },
-        "players": [],
-        "score": 40.0
+        "players": [
+            [
+                "kr",
+                "qweraszcdfgtyu",
+                70.2
+            ],
+            [
+                "kr",
+                "자신감을잃지말자",
+                31.5
+            ],
+            [
+                "kr",
+                "자신감을잃지말자",
+                -0.1999999999999993
+            ],
+            [
+                "kr",
+                "자신감을잃지말자",
+                48.4
+            ]
+        ],
+        "score": 227.9
     },
     "Yone": {
         "champName": "Yone",
         "champID": "777",
         "champStats": {
-            "kills": 7,
-            "deaths": 5,
-            "assists": 5,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 10,
-            "bans": 0
+            "kills": 34,
+            "deaths": 27,
+            "assists": 38,
+            "wins": 3,
+            "losses": 2,
+            "visionScore": 92,
+            "bans": 2
         },
         "players": [
             [
                 "na1",
                 "DIG Rich",
                 47.0
+            ],
+            [
+                "kr",
+                "BRO Raptor",
+                7.899999999999999
+            ],
+            [
+                "kr",
+                "qweraszcdfgtyu",
+                71.7
+            ],
+            [
+                "kr",
+                "HLE Grizzly",
+                26.700000000000003
+            ],
+            [
+                "kr",
+                "막스 배르스타펜",
+                59.9
             ]
         ],
-        "score": 27.0
+        "score": 125.2
     },
     "Yorick": {
         "champName": "Yorick",
@@ -2593,7 +5179,7 @@
             "wins": 0,
             "losses": 1,
             "visionScore": 46,
-            "bans": 0
+            "bans": 6
         },
         "players": [
             [
@@ -2602,7 +5188,7 @@
                 20.6
             ]
         ],
-        "score": -3.3999999999999995
+        "score": 56.6
     },
     "Zac": {
         "champName": "Zac",
@@ -2623,13 +5209,13 @@
         "champName": "Zed",
         "champID": "238",
         "champStats": {
-            "kills": 8,
-            "deaths": 15,
-            "assists": 9,
-            "wins": 0,
-            "losses": 2,
-            "visionScore": 26,
-            "bans": 1
+            "kills": 39,
+            "deaths": 38,
+            "assists": 40,
+            "wins": 1,
+            "losses": 5,
+            "visionScore": 96,
+            "bans": 6
         },
         "players": [
             [
@@ -2641,45 +5227,146 @@
                 "na1",
                 "shochi",
                 33.2
+            ],
+            [
+                "euw1",
+                "plum blossoms",
+                47.4
+            ],
+            [
+                "euw1",
+                "PCS Kamiloo",
+                35.2
+            ],
+            [
+                "euw1",
+                "plum blossoms",
+                46.3
+            ],
+            [
+                "kr",
+                "HamBak",
+                28.1
             ]
         ],
-        "score": -4.4
+        "score": 110.6
     },
     "Zeri": {
         "champName": "Zeri",
         "champID": "221",
         "champStats": {
-            "kills": 9,
-            "deaths": 4,
-            "assists": 15,
-            "wins": 1,
-            "losses": 0,
-            "visionScore": 38,
-            "bans": 0
+            "kills": 126,
+            "deaths": 76,
+            "assists": 99,
+            "wins": 6,
+            "losses": 10,
+            "visionScore": 486,
+            "bans": 12
         },
         "players": [
             [
                 "na1",
                 "EU Red",
                 63.8
+            ],
+            [
+                "euw1",
+                "Faker SIayer",
+                62.2
+            ],
+            [
+                "euw1",
+                "KARELIASABUSER69",
+                22.4
+            ],
+            [
+                "kr",
+                "daoxinwengu1",
+                21.6
+            ],
+            [
+                "kr",
+                "daoxinwengu1",
+                11.2
+            ],
+            [
+                "kr",
+                "DDDRX",
+                41.2
+            ],
+            [
+                "kr",
+                "cha Liang",
+                48.0
+            ],
+            [
+                "kr",
+                "FA Kingdom",
+                28.700000000000003
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                78.5
+            ],
+            [
+                "kr",
+                "한계뚫기",
+                33.5
+            ],
+            [
+                "kr",
+                "ecrrd",
+                53.2
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                27.5
+            ],
+            [
+                "kr",
+                "udo1zO5x3",
+                25.0
+            ],
+            [
+                "kr",
+                "cha Liang",
+                19.3
+            ],
+            [
+                "kr",
+                "땅우양1",
+                74.2
+            ],
+            [
+                "kr",
+                "gndmjlrjkfc",
+                27.3
             ]
         ],
-        "score": 47.8
+        "score": 453.6
     },
     "Ziggs": {
         "champName": "Ziggs",
         "champID": "115",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 5,
+            "deaths": 2,
+            "assists": 8,
+            "wins": 1,
             "losses": 0,
-            "visionScore": 0,
+            "visionScore": 25,
             "bans": 0
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "kr",
+                "Gen G Seeder",
+                39.5
+            ]
+        ],
+        "score": 31.5
     },
     "Zilean": {
         "champName": "Zilean",
@@ -2700,16 +5387,27 @@
         "champName": "Zoe",
         "champID": "142",
         "champStats": {
-            "kills": 0,
-            "deaths": 0,
-            "assists": 0,
-            "wins": 0,
+            "kills": 8,
+            "deaths": 1,
+            "assists": 11,
+            "wins": 2,
             "losses": 0,
-            "visionScore": 0,
-            "bans": 0
+            "visionScore": 40,
+            "bans": 13
         },
-        "players": [],
-        "score": 0.0
+        "players": [
+            [
+                "euw1",
+                "Lιght1",
+                25.8
+            ],
+            [
+                "kr",
+                "쪼렙이다말로하자",
+                35.2
+            ]
+        ],
+        "score": 187.0
     },
     "Zyra": {
         "champName": "Zyra",

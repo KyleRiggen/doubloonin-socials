@@ -6,6 +6,10 @@ with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final
     file_contents = user_file.read()
 final2_list = json.loads(file_contents)
 
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/yesterday_rankings.json') as user_file:
+    file_contents = user_file.read()
+yesterday = json.loads(file_contents)
+
 
 def created_ranked_list():
     new_data = []
@@ -54,8 +58,15 @@ def created_ranked_list():
     sorted_data = sorted(new_data, key=lambda x: x['champScore'], reverse=True)
 
     for index, champ in enumerate(sorted_data):
+
         champRank = index + 1
         sorted_data[index]['champRank'] = champRank
+        rank_change = 0
+        for index2, champ2 in enumerate(yesterday):
+            if sorted_data[index]['champName'] == yesterday[index2]['champName']:
+                rank_change = yesterday[index2]['champRank'] - sorted_data[index]['champRank']
+
+        sorted_data[index]['rankChange'] = rank_change
 
 
     return sorted_data
