@@ -1,0 +1,165 @@
+||Champion|Points|Rank Change|Best Player|Worst Player| 
+|-|-|-|-|-|-| 
+| 1 | Xayah | 4433.2 |🟩🔺 2| [alanna](https://www.op.gg/summoners/na/alanna) | [Toasterr](https://www.op.gg/summoners/euw/Toasterr) |
+| 2 | Draven | 3980.1 |🟨 0| [niinim](https://www.op.gg/summoners/na/niinim) | [jkjkjkjkk](https://www.op.gg/summoners/kr/jkjkjkjkk) |
+| 3 | Nidalee | 3453.6 |🟩🔺 21| [Hsurc3](https://www.op.gg/summoners/kr/Hsurc3) | [BRO Polllu](https://www.op.gg/summoners/kr/BRO Polllu) |
+| 4 | Rakan | 3315.0 |🟥🔻 3| [Dazbee9](https://www.op.gg/summoners/kr/Dazbee9) | [hzyw](https://www.op.gg/summoners/kr/hzyw) |
+| 5 | Kindred | 2986.7 |🟨 0| [마가가 소가죽](https://www.op.gg/summoners/kr/마가가 소가죽) | [진주 이민웅](https://www.op.gg/summoners/kr/진주 이민웅) |
+| 6 | Blitzcrank | 2970.1 |🟩🔺 1| [V Julius Caesar](https://www.op.gg/summoners/euw/V Julius Caesar) | [Drak O Hearn](https://www.op.gg/summoners/na/Drak O Hearn) |
+| 7 | LeBlanc | 2836.6 |🟩🔺 4| [저메추부탁](https://www.op.gg/summoners/kr/저메추부탁) | [Bae Suzy](https://www.op.gg/summoners/kr/Bae Suzy) |
+| 8 | Aphelios | 2743.2 |🟩🔺 7| [krats aira](https://www.op.gg/summoners/kr/krats aira) | [da xi gua](https://www.op.gg/summoners/na/da xi gua) |
+| 9 | Malphite | 2470.8 |🟨 0| [I Love Uber Eats](https://www.op.gg/summoners/euw/I Love Uber Eats) | [ego jungler](https://www.op.gg/summoners/euw/ego jungler) |
+| 10 | Lee Sin | 2443.5 |🟥🔻 4| [Mohamed du 56](https://www.op.gg/summoners/euw/Mohamed du 56) | [The 글로리](https://www.op.gg/summoners/kr/The 글로리) |
+| 11 | Gragas | 2425.3 |🟥🔻 1| [PCS Icarus](https://www.op.gg/summoners/euw/PCS Icarus) | [teach you play](https://www.op.gg/summoners/na/teach you play) |
+| 12 | Jinx | 2323.4 |🟥🔻 8| [TPAA nrmn](https://www.op.gg/summoners/euw/TPAA nrmn) | [bluerzοr](https://www.op.gg/summoners/euw/bluerzοr) |
+| 13 | Rengar | 2300.4 |🟩🔺 5| [NattyNatt](https://www.op.gg/summoners/euw/NattyNatt) | [100 yukino](https://www.op.gg/summoners/na/100 yukino) |
+| 14 | Sylas | 2235.6 |🟩🔺 5| [전설이 될 남자](https://www.op.gg/summoners/kr/전설이 될 남자) | [TYPE R12SCF](https://www.op.gg/summoners/euw/TYPE R12SCF) |
+| 15 | Zeri | 2216.3 |🟩🔺 1| [Electric](https://www.op.gg/summoners/euw/Electric) | [Noodlz](https://www.op.gg/summoners/na/Noodlz) |
+| 16 | Jax | 2214.6 |🟥🔻 3| [forsenCDKEKW](https://www.op.gg/summoners/euw/forsenCDKEKW) | [Want To Be Young](https://www.op.gg/summoners/kr/Want To Be Young) |
+| 17 | Thresh | 2010.7 |🟥🔻 9| [Heavenly Scars](https://www.op.gg/summoners/euw/Heavenly Scars) | [한계뚫기](https://www.op.gg/summoners/kr/한계뚫기) |
+| 18 | K'Sante | 1963.5 |🟩🔺 2| [자신감을잃지말자](https://www.op.gg/summoners/kr/자신감을잃지말자) | [lunacia](https://www.op.gg/summoners/na/lunacia) |
+| 19 | Milio | 1803.7 |🟥🔻 5| [Biggest Glazer](https://www.op.gg/summoners/na/Biggest Glazer) | [다이아몬드](https://www.op.gg/summoners/na/다이아몬드) |
+| 20 | Karthus | 1736.8 |🟩🔺 2| [naiyoubaby](https://www.op.gg/summoners/kr/naiyoubaby) | [명치에팔콘펀치꽂는이도윤](https://www.op.gg/summoners/kr/명치에팔콘펀치꽂는이도윤) |
+| 21 | Pyke | 1734.0 |🟥🔻 9| [eilataN](https://www.op.gg/summoners/kr/eilataN) | [씨맥당신은틀렸어](https://www.op.gg/summoners/kr/씨맥당신은틀렸어) |
+| 22 | Kennen | 1728.9 |🟩🔺 1| [Andy](https://www.op.gg/summoners/na/Andy) | [100 Sniper ](https://www.op.gg/summoners/na/100 Sniper ) |
+| 23 | Evelynn | 1689.4 |🟥🔻 6| [명치에팔콘펀치꽂는이도윤](https://www.op.gg/summoners/kr/명치에팔콘펀치꽂는이도윤) | [viasdkjkasd](https://www.op.gg/summoners/kr/viasdkjkasd) |
+| 24 | Elise | 1666.4 |🟩🔺 2| [100 yukino](https://www.op.gg/summoners/na/100 yukino) | [KT Castle](https://www.op.gg/summoners/kr/KT Castle) |
+| 25 | Cassiopeia | 1598.5 |🟩🔺 2| [바르고고운말해여](https://www.op.gg/summoners/kr/바르고고운말해여) | [ARMAO](https://www.op.gg/summoners/na/ARMAO) |
+| 26 | Hecarim | 1555.0 |🟩🔺 3| [ranranbaby](https://www.op.gg/summoners/kr/ranranbaby) | [twtv Gryffinn](https://www.op.gg/summoners/na/twtv Gryffinn) |
+| 27 | Ahri | 1515.8 |🟥🔻 2| [Bingbingjiang](https://www.op.gg/summoners/kr/Bingbingjiang) | [dajor25](https://www.op.gg/summoners/euw/dajor25) |
+| 28 | Jayce | 1435.4 |🟩🔺 5| [eXyu](https://www.op.gg/summoners/na/eXyu) | [Haruuta1](https://www.op.gg/summoners/euw/Haruuta1) |
+| 29 | Graves | 1432.3 |🟩🔺 1| [aespa karina99](https://www.op.gg/summoners/euw/aespa karina99) | [김잡초](https://www.op.gg/summoners/kr/김잡초) |
+| 30 | Ezreal | 1376.9 |🟩🔺 29| [chill falls](https://www.op.gg/summoners/kr/chill falls) | [안x찬](https://www.op.gg/summoners/kr/안x찬) |
+| 31 | Fiora | 1376.2 |🟩🔺 1| [mrsaxobeatt](https://www.op.gg/summoners/euw/mrsaxobeatt) | [CU Ego](https://www.op.gg/summoners/na/CU Ego) |
+| 32 | Yasuo | 1263.2 |🟩🔺 11| [Sorde](https://www.op.gg/summoners/na/Sorde) | [100 Sniper ](https://www.op.gg/summoners/na/100 Sniper ) |
+| 33 | Vi | 1229.6 |🟩🔺 12| [The 글로리](https://www.op.gg/summoners/kr/The 글로리) | [Just Engageee](https://www.op.gg/summoners/euw/Just Engageee) |
+| 34 | Olaf | 1174.0 |🟩🔺 5| [kookykrook](https://www.op.gg/summoners/na/kookykrook) | [톱 왕](https://www.op.gg/summoners/na/톱 왕) |
+| 35 | Zoe | 1163.2 |🟩🔺 1| [Samikin](https://www.op.gg/summoners/na/Samikin) | [Blaster3](https://www.op.gg/summoners/na/Blaster3) |
+| 36 | Zed | 1156.2 |🟥🔻 2| [nemy2](https://www.op.gg/summoners/na/nemy2) | [bluerzοr](https://www.op.gg/summoners/euw/bluerzοr) |
+| 37 | Talon | 1132.3 |🟨 0| [TwTv Kaos Angel](https://www.op.gg/summoners/euw/TwTv Kaos Angel) | [K405 N815](https://www.op.gg/summoners/euw/K405 N815) |
+| 38 | Rumble | 1106.0 |🟩🔺 3| [aespa karina99](https://www.op.gg/summoners/euw/aespa karina99) | [eXyu](https://www.op.gg/summoners/na/eXyu) |
+| 39 | Twitch | 1068.8 |🟩🔺 17| [jimmykoi](https://www.op.gg/summoners/na/jimmykoi) | [Sophist Sage](https://www.op.gg/summoners/na/Sophist Sage) |
+| 40 | Annie | 1067.0 |🟩🔺 4| [애LI 어른이LI](https://www.op.gg/summoners/kr/애LI 어른이LI) | [zlaksd](https://www.op.gg/summoners/euw/zlaksd) |
+| 41 | Udyr | 1000.8 |🟥🔻 3| [pulse](https://www.op.gg/summoners/na/pulse) | [ARMAO](https://www.op.gg/summoners/na/ARMAO) |
+| 42 | Varus | 993.1 |🟥🔻 7| [wlam](https://www.op.gg/summoners/na/wlam) | [Eclipse](https://www.op.gg/summoners/na/Eclipse) |
+| 43 | Kai'Sa | 922.8 |🟩🔺 22| [Eyla](https://www.op.gg/summoners/na/Eyla) | [Good Boi](https://www.op.gg/summoners/na/Good Boi) |
+| 44 | Viego | 898.1 |🟥🔻 23| [2 C U Again](https://www.op.gg/summoners/kr/2 C U Again) | [GO lyncas](https://www.op.gg/summoners/euw/GO lyncas) |
+| 45 | Yuumi | 877.9 |🟩🔺 4| [Get Pongered](https://www.op.gg/summoners/na/Get Pongered) | [alanna](https://www.op.gg/summoners/na/alanna) |
+| 46 | Nautilus | 857.6 |🟥🔻 18| [yitianyit1an](https://www.op.gg/summoners/kr/yitianyit1an) | [Julien](https://www.op.gg/summoners/na/Julien) |
+| 47 | Kha'Zix | 846.9 |🟩🔺 16| [Just Engageee](https://www.op.gg/summoners/euw/Just Engageee) | [무릉필드 1](https://www.op.gg/summoners/kr/무릉필드 1) |
+| 48 | Jarvan IV | 837.7 |🟥🔻 17| [wx fortilux0422](https://www.op.gg/summoners/na/wx fortilux0422) | [ARMAO](https://www.op.gg/summoners/na/ARMAO) |
+| 49 | Katarina | 834.7 |🟩🔺 2| [PHKT ](https://www.op.gg/summoners/euw/PHKT ) |  |
+| 50 | Riven | 821.8 |🟥🔻 3| [Riven PhD](https://www.op.gg/summoners/euw/Riven PhD) | [dajor25](https://www.op.gg/summoners/euw/dajor25) |
+| 51 | Senna | 818.8 |🟩🔺 1| [V Julius Caesar](https://www.op.gg/summoners/euw/V Julius Caesar) | [ƒreyá](https://www.op.gg/summoners/na/ƒreyá) |
+| 52 | Bel'Veth | 775.9 |🟥🔻 4| [Maxlore](https://www.op.gg/summoners/euw/Maxlore) | [앗싸 지렸다리](https://www.op.gg/summoners/kr/앗싸 지렸다리) |
+| 53 | Akshan | 768.3 |🟩🔺 5| [Indexy](https://www.op.gg/summoners/kr/Indexy) | [lvyepeihonghua](https://www.op.gg/summoners/kr/lvyepeihonghua) |
+| 54 | Kayn | 734.8 |🟩🔺 15| [TwTv DarkAuraLOL](https://www.op.gg/summoners/euw/TwTv DarkAuraLOL) | [Epilogue for you](https://www.op.gg/summoners/kr/Epilogue for you) |
+| 55 | Wukong | 685.8 |🟥🔻 15| [Airflash](https://www.op.gg/summoners/na/Airflash) | [Matty](https://www.op.gg/summoners/na/Matty) |
+| 56 | Syndra | 670.4 |🟥🔻 6| [SPOLFCEI ](https://www.op.gg/summoners/euw/SPOLFCEI ) | [PORTUGUESE GALA](https://www.op.gg/summoners/euw/PORTUGUESE GALA) |
+| 57 | Lulu | 577.3 |🟥🔻 3| [Nightmisty](https://www.op.gg/summoners/na/Nightmisty) | [즐기시게냅둬](https://www.op.gg/summoners/kr/즐기시게냅둬) |
+| 58 | Qiyana | 564.2 |🟩🔺 9| [pizzaman007](https://www.op.gg/summoners/na/pizzaman007) |  |
+| 59 | Karma | 551.5 |🟩🔺 33| [sup line](https://www.op.gg/summoners/na/sup line) | [2 C U Again](https://www.op.gg/summoners/kr/2 C U Again) |
+| 60 | Pantheon | 550.5 |🟥🔻 5| [pulse](https://www.op.gg/summoners/na/pulse) | [TH Krillin](https://www.op.gg/summoners/euw/TH Krillin) |
+| 61 | Heimerdinger | 546.4 |🟩🔺 3| [Keia CH](https://www.op.gg/summoners/euw/Keia CH) | [eustachian](https://www.op.gg/summoners/euw/eustachian) |
+| 62 | Darius | 534.6 |🟩🔺 6| [Elephant eater](https://www.op.gg/summoners/euw/Elephant eater) | [kookykrook](https://www.op.gg/summoners/na/kookykrook) |
+| 63 | Tristana | 527.8 |🟥🔻 17| [T1 미드 테스트](https://www.op.gg/summoners/kr/T1 미드 테스트) | [rainº](https://www.op.gg/summoners/na/rainº) |
+| 64 | Nunu & Willump | 521.9 |🟩🔺 2| [eustachian](https://www.op.gg/summoners/euw/eustachian) | [씨맥당신은틀렸어](https://www.op.gg/summoners/kr/씨맥당신은틀렸어) |
+| 65 | Irelia | 480.9 |🟥🔻 12| [The 글로리](https://www.op.gg/summoners/kr/The 글로리) | [dajor25](https://www.op.gg/summoners/euw/dajor25) |
+| 66 | Swain | 452.0 |🟩🔺 10| [Fishlord](https://www.op.gg/summoners/na/Fishlord) | [토트 무지카](https://www.op.gg/summoners/kr/토트 무지카) |
+| 67 | Taliyah | 432.2 |🟩🔺 16| [따봉 람미스](https://www.op.gg/summoners/kr/따봉 람미스) | [앗싸 지렸다리](https://www.op.gg/summoners/kr/앗싸 지렸다리) |
+| 68 | Shaco | 404.0 |🟩🔺 53| [Get Pongered](https://www.op.gg/summoners/na/Get Pongered) |  |
+| 69 | Leona | 399.5 |🟩🔺 12| [Peter NS](https://www.op.gg/summoners/kr/Peter NS) | [Paixdia](https://www.op.gg/summoners/euw/Paixdia) |
+| 70 | Singed | 372.2 |🟩🔺 57| [SlNGED](https://www.op.gg/summoners/euw/SlNGED) |  |
+| 71 | Seraphine | 357.9 |🟥🔻 10| [Cupic](https://www.op.gg/summoners/na/Cupic) | [Hub1012345](https://www.op.gg/summoners/na/Hub1012345) |
+| 72 | Vex | 356.9 |🟩🔺 7| [dajor25](https://www.op.gg/summoners/euw/dajor25) | [nemy2](https://www.op.gg/summoners/na/nemy2) |
+| 73 | Gwen | 338.7 |🟩🔺 21| [Blacc Massu](https://www.op.gg/summoners/na/Blacc Massu) | [Riven PhD](https://www.op.gg/summoners/euw/Riven PhD) |
+| 74 | Aurelion Sol | 333.6 |🟥🔻 17| [안x찬](https://www.op.gg/summoners/kr/안x찬) | [앗싸 지렸다리](https://www.op.gg/summoners/kr/앗싸 지렸다리) |
+| 75 | Viktor | 326.7 |🟩🔺 11| [Stevenatør](https://www.op.gg/summoners/na/Stevenatør) | [rainº](https://www.op.gg/summoners/na/rainº) |
+| 76 | Renekton | 320.7 |🟥🔻 14| [TL Honda MaRin](https://www.op.gg/summoners/na/TL Honda MaRin) | [RXBXCXP](https://www.op.gg/summoners/euw/RXBXCXP) |
+| 77 | Lux | 319.2 |🟩🔺 37| [Cupic](https://www.op.gg/summoners/na/Cupic) | [BRO Gyosoo](https://www.op.gg/summoners/kr/BRO Gyosoo) |
+| 78 | Samira | 303.2 |🟩🔺 2| [최상의](https://www.op.gg/summoners/kr/최상의) | [Winking](https://www.op.gg/summoners/na/Winking) |
+| 79 | Kassadin | 289.8 |🟩🔺 9| [전설이 될 남자](https://www.op.gg/summoners/kr/전설이 될 남자) |  |
+| 80 | Caitlyn | 281.8 |🟩🔺 44| [i wanted u](https://www.op.gg/summoners/kr/i wanted u) | [MONSTER CHAD GOD](https://www.op.gg/summoners/na/MONSTER CHAD GOD) |
+| 81 | Lissandra | 277.7 |🟥🔻 39| [바르고고운말해여](https://www.op.gg/summoners/kr/바르고고운말해여) | [Jαvier](https://www.op.gg/summoners/euw/Jαvier) |
+| 82 | Fiddlesticks | 276.0 |🟥🔻 8| [Wanfeng ouo](https://www.op.gg/summoners/na/Wanfeng ouo) | [Nikkone](https://www.op.gg/summoners/na/Nikkone) |
+| 83 | Braum | 274.2 |🟩🔺 33| [Zyko](https://www.op.gg/summoners/na/Zyko) | [Isles LFT 2](https://www.op.gg/summoners/na/Isles LFT 2) |
+| 84 | Alistar | 272.6 |🟥🔻 24| [Breezyyy](https://www.op.gg/summoners/na/Breezyyy) | [Peter NS](https://www.op.gg/summoners/kr/Peter NS) |
+| 85 | Poppy | 262.6 |🟩🔺 26| [kookykrook](https://www.op.gg/summoners/na/kookykrook) | [invicta23](https://www.op.gg/summoners/euw/invicta23) |
+| 86 | Tryndamere | 259.5 |🟩🔺 5| [010 9018 8846](https://www.op.gg/summoners/kr/010 9018 8846) | [forsenCDKEKW](https://www.op.gg/summoners/euw/forsenCDKEKW) |
+| 87 | Ornn | 254.9 |🟩🔺 35| [Ushuala](https://www.op.gg/summoners/euw/Ushuala) | [Dazbee9](https://www.op.gg/summoners/kr/Dazbee9) |
+| 88 | Ivern | 242.7 |🟥🔻 11| [jamican banana](https://www.op.gg/summoners/na/jamican banana) | [Roulette](https://www.op.gg/summoners/euw/Roulette) |
+| 89 | Warwick | 240.1 |🟩🔺 8| [H0rnlime](https://www.op.gg/summoners/euw/H0rnlime) | [xxbasjexx](https://www.op.gg/summoners/euw/xxbasjexx) |
+| 90 | Yone | 230.0 |🟥🔻 20| [100 Tenacity](https://www.op.gg/summoners/na/100 Tenacity) | [The 글로리](https://www.op.gg/summoners/kr/The 글로리) |
+| 91 | Garen | 224.1 |🟥🔻 7| [forsenCDKEKW](https://www.op.gg/summoners/euw/forsenCDKEKW) | [twtv Gryffinn](https://www.op.gg/summoners/na/twtv Gryffinn) |
+| 92 | Sion | 223.8 |🟩🔺 15| [artistic turtle](https://www.op.gg/summoners/euw/artistic turtle) | [Ushuala](https://www.op.gg/summoners/euw/Ushuala) |
+| 93 | Teemo | 214.5 |🟩🔺 37| [Yung Fappy](https://www.op.gg/summoners/na/Yung Fappy) |  |
+| 94 | Master Yi | 210.0 |🟩🔺 16| not played |  |
+| 95 | Ekko | 209.9 |🟥🔻 6| [247247247247](https://www.op.gg/summoners/na/247247247247) | [타 잔](https://www.op.gg/summoners/kr/타 잔) |
+| 96 | Ashe | 202.6 |🟥🔻 24| [HidoAD](https://www.op.gg/summoners/euw/HidoAD) | [eustachian](https://www.op.gg/summoners/euw/eustachian) |
+| 97 | Galio | 202.2 |🟥🔻 24| [럽 갈](https://www.op.gg/summoners/kr/럽 갈) | [BRO Polllu](https://www.op.gg/summoners/kr/BRO Polllu) |
+| 98 | Renata Glasc | 194.8 |🟨 0| [Zyko](https://www.op.gg/summoners/na/Zyko) | [alvarooo](https://www.op.gg/summoners/euw/alvarooo) |
+| 99 | Akali | 185.2 |🟥🔻 14| [전설이 될 남자](https://www.op.gg/summoners/kr/전설이 될 남자) | [100 Sniper ](https://www.op.gg/summoners/na/100 Sniper ) |
+| 100 | Veigar | 181.2 |🟥🔻 13| [Flower1ng](https://www.op.gg/summoners/kr/Flower1ng) | [Drak O Hearn](https://www.op.gg/summoners/na/Drak O Hearn) |
+| 101 | Neeko | 173.2 |🟩🔺 16| [VioletRoses](https://www.op.gg/summoners/na/VioletRoses) | [gg wtf](https://www.op.gg/summoners/na/gg wtf) |
+| 102 | Gangplank | 172.0 |🟩🔺 30| [the pebble](https://www.op.gg/summoners/euw/the pebble) |  |
+| 103 | Nasus | 170.2 |🟩🔺 33| [쿼드쿼드](https://www.op.gg/summoners/kr/쿼드쿼드) | [Zeus Slayer](https://www.op.gg/summoners/euw/Zeus Slayer) |
+| 104 | Vladimir | 162.5 |🟥🔻 5| [Matcha Tamago](https://www.op.gg/summoners/na/Matcha Tamago) | [CU Ego](https://www.op.gg/summoners/na/CU Ego) |
+| 105 | Camille | 158.7 |🟥🔻 30| [100 Sniper ](https://www.op.gg/summoners/na/100 Sniper ) | [viasdkjkasd](https://www.op.gg/summoners/kr/viasdkjkasd) |
+| 106 | Xin Zhao | 155.9 |🟥🔻 28| [Epilogue for you](https://www.op.gg/summoners/kr/Epilogue for you) | [elyoyaaaaaaaaaaa](https://www.op.gg/summoners/euw/elyoyaaaaaaaaaaa) |
+| 107 | Nocturne | 146.8 |🟩🔺 48| [TH Krillin](https://www.op.gg/summoners/euw/TH Krillin) | [Just Engageee](https://www.op.gg/summoners/euw/Just Engageee) |
+| 108 | Kog'Maw | 143.1 |🟩🔺 55| [ToongE](https://www.op.gg/summoners/kr/ToongE) | [avarice61](https://www.op.gg/summoners/euw/avarice61) |
+| 109 | Zac | 132.8 |🟥🔻 16| [ego jungler](https://www.op.gg/summoners/euw/ego jungler) |  |
+| 110 | Orianna | 132.3 |🟩🔺 15| [Bae Suzy](https://www.op.gg/summoners/kr/Bae Suzy) | [rainº](https://www.op.gg/summoners/na/rainº) |
+| 111 | Vayne | 131.9 |🟥🔻 29| [forsenCDKEKW](https://www.op.gg/summoners/euw/forsenCDKEKW) | [SPOLFCEI ](https://www.op.gg/summoners/euw/SPOLFCEI ) |
+| 112 | Sivir | 127.9 |🟥🔻 11| [Kenal](https://www.op.gg/summoners/euw/Kenal) | [innerbloom2](https://www.op.gg/summoners/euw/innerbloom2) |
+| 113 | Kalista | 125.1 |🟩🔺 24| [brightside7](https://www.op.gg/summoners/euw/brightside7) | [소년가장 원딜](https://www.op.gg/summoners/kr/소년가장 원딜) |
+| 114 | Anivia | 120.1 |🟥🔻 24| [Reborn Berkan](https://www.op.gg/summoners/euw/Reborn Berkan) | [Hub1012345](https://www.op.gg/summoners/na/Hub1012345) |
+| 115 | Gnar | 119.2 |🟥🔻 13| [Tony Top](https://www.op.gg/summoners/na/Tony Top) | [Tibbers ln Paris](https://www.op.gg/summoners/euw/Tibbers ln Paris) |
+| 116 | Kled | 114.5 |🟩🔺 18| [my kled mid acc](https://www.op.gg/summoners/na/my kled mid acc) |  |
+| 117 | Rell | 112.0 |🟥🔻 17| [DIG Diamond](https://www.op.gg/summoners/na/DIG Diamond) | [sup line](https://www.op.gg/summoners/na/sup line) |
+| 118 | Tahm Kench | 102.7 |🟩🔺 8| [Iinks](https://www.op.gg/summoners/na/Iinks) | [Isles LFT 2](https://www.op.gg/summoners/na/Isles LFT 2) |
+| 119 | Rek'Sai | 101.5 |🟩🔺 1| [Hsurc3](https://www.op.gg/summoners/kr/Hsurc3) |  |
+| 120 | Amumu | 96.4 |🟩🔺 15| [Get Pongered](https://www.op.gg/summoners/na/Get Pongered) | [alanna](https://www.op.gg/summoners/na/alanna) |
+| 121 | Cho'Gath | 96.3 |🟥🔻 6| [asdfasdfasds](https://www.op.gg/summoners/na/asdfasdfasds) | [Bae Suzy](https://www.op.gg/summoners/kr/Bae Suzy) |
+| 122 | Illaoi | 91.6 |🟥🔻 13| [ILLAKlNG](https://www.op.gg/summoners/kr/ILLAKlNG) | [pulse](https://www.op.gg/summoners/na/pulse) |
+| 123 | Sona | 91.6 |🟩🔺 25| [The Tank Man](https://www.op.gg/summoners/na/The Tank Man) | [ƒreyá](https://www.op.gg/summoners/na/ƒreyá) |
+| 124 | Janna | 88.6 |🟩🔺 7| [BOUT Tockimo](https://www.op.gg/summoners/euw/BOUT Tockimo) | [Chaye](https://www.op.gg/summoners/na/Chaye) |
+| 125 | Taric | 88.5 |🟩🔺 25| [TSM Chime](https://www.op.gg/summoners/na/TSM Chime) |  |
+| 126 | Morgana | 87.8 |🟩🔺 3| [BOUT Tockimo](https://www.op.gg/summoners/euw/BOUT Tockimo) | [정의의 양진우](https://www.op.gg/summoners/kr/정의의 양진우) |
+| 127 | Zilean | 86.2 |🟥🔻 24| [Kang Myunggu](https://www.op.gg/summoners/euw/Kang Myunggu) |  |
+| 128 | Sejuani | 83.5 |🟥🔻 24| [답답해서네가뛴다](https://www.op.gg/summoners/kr/답답해서네가뛴다) | [명치에팔콘펀치꽂는이도윤](https://www.op.gg/summoners/kr/명치에팔콘펀치꽂는이도윤) |
+| 129 | Zyra | 81.0 |🟩🔺 24| [다이아몬드](https://www.op.gg/summoners/na/다이아몬드) |  |
+| 130 | Azir | 80.1 |🟥🔻 17| [the inescapable](https://www.op.gg/summoners/euw/the inescapable) | [Andoqs](https://www.op.gg/summoners/na/Andoqs) |
+| 131 | Maokai | 80.1 |🟥🔻 35| [BOUT Tockimo](https://www.op.gg/summoners/euw/BOUT Tockimo) | [zyb](https://www.op.gg/summoners/euw/zyb) |
+| 132 | Bard | 69.9 |🟥🔻 26| [오늘밥머먹지](https://www.op.gg/summoners/kr/오늘밥머먹지) | [t d](https://www.op.gg/summoners/na/t d) |
+| 133 | Jhin | 65.1 |🟥🔻 5| [원광대 옥진영](https://www.op.gg/summoners/kr/원광대 옥진영) | [DIG Diamond](https://www.op.gg/summoners/na/DIG Diamond) |
+| 134 | Diana | 64.2 |🟥🔻 16| [BRO Raptor](https://www.op.gg/summoners/kr/BRO Raptor) | [마음이 피곤하다](https://www.op.gg/summoners/kr/마음이 피곤하다) |
+| 135 | Ryze | 63.4 |🟩🔺 5| [424PHL](https://www.op.gg/summoners/euw/424PHL) | [칸 나](https://www.op.gg/summoners/kr/칸 나) |
+| 136 | Fizz | 60.0 |🟩🔺 2| not played |  |
+| 137 | Nilah | 59.2 |🟩🔺 5| [NS Jiwoo](https://www.op.gg/summoners/kr/NS Jiwoo) | [Kenal](https://www.op.gg/summoners/euw/Kenal) |
+| 138 | Shen | 58.1 |🟥🔻 26| [invicta23](https://www.op.gg/summoners/euw/invicta23) | [IgNar](https://www.op.gg/summoners/kr/IgNar) |
+| 139 | Lillia | 47.7 |🟩🔺 21| [100 yukino](https://www.op.gg/summoners/na/100 yukino) | [DantesMjmQAQ](https://www.op.gg/summoners/na/DantesMjmQAQ) |
+| 140 | Twisted Fate | 46.9 |🟥🔻 35| [헤어지기 싫어](https://www.op.gg/summoners/kr/헤어지기 싫어) | [PastIsJustAGhost](https://www.op.gg/summoners/na/PastIsJustAGhost) |
+| 141 | Rammus | 44.8 |🟩🔺 16| [키보드에음료쏟아서고장내는이도윤](https://www.op.gg/summoners/kr/키보드에음료쏟아서고장내는이도윤) | [Augustine](https://www.op.gg/summoners/na/Augustine) |
+| 142 | Nami | 40.7 |🟥🔻 34| [GOREDRINK STERAK](https://www.op.gg/summoners/euw/GOREDRINK STERAK) | [ƒreyá](https://www.op.gg/summoners/na/ƒreyá) |
+| 143 | Skarner | 40.1 |🟩🔺 9| [던갈교수](https://www.op.gg/summoners/kr/던갈교수) |  |
+| 144 | Quinn | 40.0 |🟥🔻 49| not played |  |
+| 145 | Mordekaiser | 38.9 |🟩🔺 9| [The Hunger](https://www.op.gg/summoners/euw/The Hunger) | [농심 콜미](https://www.op.gg/summoners/kr/농심 콜미) |
+| 146 | Lucian | 34.6 |🟥🔻 75| [disciplinfreedom](https://www.op.gg/summoners/euw/disciplinfreedom) | [TL Honda Rovex](https://www.op.gg/summoners/na/TL Honda Rovex) |
+| 147 | Aatrox | 32.3 |🟥🔻 14| [100 Tenacity](https://www.op.gg/summoners/na/100 Tenacity) | [강하다 별](https://www.op.gg/summoners/kr/강하다 별) |
+| 148 | Yorick | 30.0 |🟩🔺 11| not played |  |
+| 149 | Ziggs | 27.8 |🟥🔻 26| [Gen G Seeder](https://www.op.gg/summoners/kr/Gen G Seeder) | [명치에팔콘펀치꽂는이도윤](https://www.op.gg/summoners/kr/명치에팔콘펀치꽂는이도윤) |
+| 150 | Corki | 22.3 |🟩🔺 11| [미친듯이 파이팅](https://www.op.gg/summoners/kr/미친듯이 파이팅) |  |
+| 151 | Sett | 20.0 |🟥🔻 10| not played |  |
+| 152 | Trundle | 10.5 |🟥🔻 6| [No Ionger Iove](https://www.op.gg/summoners/na/No Ionger Iove) |  |
+| 153 | Brand | 10.0 |🟥🔻 9| not played |  |
+| 154 | Malzahar | 10.0 |🟥🔻 3| not played |  |
+| 155 | Xerath | 5.6 |🟥🔻 8| [Julien](https://www.op.gg/summoners/na/Julien) |  |
+| 156 | Dr. Mundo | 0.0 |🟩🔺 6| not played |  |
+| 157 | Shyvana | 0.0 |🟥🔻 14| not played |  |
+| 158 | Urgot | 0.0 |🟨 0| not played |  |
+| 159 | Vel'Koz | 0.0 |🟥🔻 10| not played |  |
+| 160 | Volibear | 0.0 |🟥🔻 21| not played |  |
+| 161 | Soraka | -9.8 |🟥🔻 42| [Mid Pungyeon](https://www.op.gg/summoners/kr/Mid Pungyeon) | [Stend](https://www.op.gg/summoners/euw/Stend) |
+| 162 | Kayle | -10.6 |🟥🔻 6| [Yung Fappy](https://www.op.gg/summoners/na/Yung Fappy) |  |
+| 163 | Miss Fortune | -32.2 |🟥🔻 18| [alanna](https://www.op.gg/summoners/na/alanna) | [TPAA nrmn](https://www.op.gg/summoners/euw/TPAA nrmn) |

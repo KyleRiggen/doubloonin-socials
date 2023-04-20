@@ -13,7 +13,8 @@ data_import = created_ranked_list()
 
 def publish_file2(data):
     f = open(f"publish-{now_nice}.txt", "a")
-    opening = '||Champion|Points|Rank Change|Best Player|Worst Player| \n|-|-|-|-|-|-| \n'
+    opening = '||Champion|Points|Rank Change|Best Player|Worst Player| \n' \
+              '|-|-|-|-|-|-| \n'
     f.write(opening)
 
     for index, champ in enumerate(data):

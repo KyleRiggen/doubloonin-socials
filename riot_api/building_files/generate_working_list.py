@@ -49,6 +49,7 @@ def build_working_list():
                               player['visionScore'] * config['points']['visionScore']) + scoreUp_win
 
             if player['championName'] == 'FiddleSticks':
+                print('fiddlesticks in working')
                 player['championName'] = 'Fiddlesticks'
 
             if playerID in puuid_list:

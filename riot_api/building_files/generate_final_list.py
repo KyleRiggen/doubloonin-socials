@@ -78,9 +78,6 @@ def building_final_list():
             champVisionScore = eachPlayer['visionScore']
             winBoolean = eachPlayer['win']
 
-            if champName == 'FiddleSticks' or champName == 'Fiddlesticks':
-                champName = 'Fiddlesticks'
-
             if winBoolean:
                 champWins = 1
                 champLooses = 0
@@ -113,7 +110,8 @@ def building_final_list():
         score = score + (final_results[champ]['champStats']['bans'] * config['points']['ban'])
         final_results[champ]['score'] = score
 
-    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final_list.json', 'w', encoding='utf-8') as f:
+    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final_list.json', 'w',
+              encoding='utf-8') as f:
         json.dump(final_results, f, ensure_ascii=False, indent=4)
 
     return final_results
