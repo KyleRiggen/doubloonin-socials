@@ -10,6 +10,6 @@ config = {
     },
     "match_list": {
         "player_count": 1000,
-        "match_count_per_player": 30
+        "match_count_per_player": 40
     }
 }
