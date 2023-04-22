@@ -1,0 +1,1632 @@
+[
+    {
+        "champName": "Draven",
+        "champScore": 3940.2,
+        "topPlayer_name": "Antonioooo",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "shochi",
+        "botPlayer_region": "na",
+        "champRank": 1,
+        "rankChange": 1
+    },
+    {
+        "champName": "Xayah",
+        "champScore": 3655.7,
+        "topPlayer_name": "QCH4B2Y4",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "혀니곤듀요정천사",
+        "botPlayer_region": "kr",
+        "champRank": 2,
+        "rankChange": -1
+    },
+    {
+        "champName": "Nidalee",
+        "champScore": 3285.3,
+        "topPlayer_name": "따봉 람미스",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "갱스기무라",
+        "botPlayer_region": "kr",
+        "champRank": 3,
+        "rankChange": 0
+    },
+    {
+        "champName": "Kindred",
+        "champScore": 2768.7,
+        "topPlayer_name": "SwagTake",
+        "topPlayer_region": "na",
+        "botPlayer_name": "aespa karina99",
+        "botPlayer_region": "euw",
+        "champRank": 4,
+        "rankChange": 2
+    },
+    {
+        "champName": "Rakan",
+        "champScore": 2757.7,
+        "topPlayer_name": "Lekcyc",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "541865204694",
+        "botPlayer_region": "euw",
+        "champRank": 5,
+        "rankChange": 0
+    },
+    {
+        "champName": "LeBlanc",
+        "champScore": 2558.9,
+        "topPlayer_name": "재벌의 외아들",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "용감한바다의전사",
+        "botPlayer_region": "kr",
+        "champRank": 6,
+        "rankChange": 2
+    },
+    {
+        "champName": "Gragas",
+        "champScore": 2512.2,
+        "topPlayer_name": "xiaofangOWO",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Ellim DNB",
+        "botPlayer_region": "kr",
+        "champRank": 7,
+        "rankChange": 4
+    },
+    {
+        "champName": "Blitzcrank",
+        "champScore": 2510.0,
+        "topPlayer_name": "마가가 소가죽",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Lehends",
+        "botPlayer_region": "kr",
+        "champRank": 8,
+        "rankChange": -1
+    },
+    {
+        "champName": "Rengar",
+        "champScore": 2365.5,
+        "topPlayer_name": "NattyNatt",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "스물다섯번째밤",
+        "botPlayer_region": "kr",
+        "champRank": 9,
+        "rankChange": 0
+    },
+    {
+        "champName": "Aphelios",
+        "champScore": 2289.2,
+        "topPlayer_name": "krats aira",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Deep Learning1",
+        "botPlayer_region": "na",
+        "champRank": 10,
+        "rankChange": 10
+    },
+    {
+        "champName": "Jinx",
+        "champScore": 2247.6,
+        "topPlayer_name": "Xicor7",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "ARRAY123",
+        "botPlayer_region": "na",
+        "champRank": 11,
+        "rankChange": -7
+    },
+    {
+        "champName": "Milio",
+        "champScore": 2093.3,
+        "topPlayer_name": "Biggest Glazer",
+        "topPlayer_region": "na",
+        "botPlayer_name": "5tunt",
+        "botPlayer_region": "na",
+        "champRank": 12,
+        "rankChange": 11
+    },
+    {
+        "champName": "Evelynn",
+        "champScore": 2071.0,
+        "topPlayer_name": "S P L A S H 777",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 13,
+        "rankChange": -3
+    },
+    {
+        "champName": "Karthus",
+        "champScore": 2029.9,
+        "topPlayer_name": "twitchtvELOSANTA",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "2 C U Again",
+        "botPlayer_region": "kr",
+        "champRank": 14,
+        "rankChange": 4
+    },
+    {
+        "champName": "Malphite",
+        "champScore": 1790.3,
+        "topPlayer_name": "its a marathon",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "AloisNL",
+        "botPlayer_region": "euw",
+        "champRank": 15,
+        "rankChange": -1
+    },
+    {
+        "champName": "Zeri",
+        "champScore": 1771.2,
+        "topPlayer_name": "jkjkjkjkk",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "SUP Serin",
+        "botPlayer_region": "euw",
+        "champRank": 16,
+        "rankChange": -1
+    },
+    {
+        "champName": "Ahri",
+        "champScore": 1680.2,
+        "topPlayer_name": "토트 무지카",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Mid Pungyeon",
+        "botPlayer_region": "kr",
+        "champRank": 17,
+        "rankChange": 2
+    },
+    {
+        "champName": "Thresh",
+        "champScore": 1679.3,
+        "topPlayer_name": "FA ady",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Kite Machine",
+        "botPlayer_region": "euw",
+        "champRank": 18,
+        "rankChange": 4
+    },
+    {
+        "champName": "Jax",
+        "champScore": 1672.0,
+        "topPlayer_name": "자신감잃지마이현",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "미친듯이 파이팅",
+        "botPlayer_region": "kr",
+        "champRank": 19,
+        "rankChange": -7
+    },
+    {
+        "champName": "Lee Sin",
+        "champScore": 1661.4,
+        "topPlayer_name": "2 C U Again",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "따봉 람미스",
+        "botPlayer_region": "kr",
+        "champRank": 20,
+        "rankChange": -7
+    },
+    {
+        "champName": "Yasuo",
+        "champScore": 1521.7,
+        "topPlayer_name": "Molnigt",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Iziio",
+        "botPlayer_region": "euw",
+        "champRank": 21,
+        "rankChange": 11
+    },
+    {
+        "champName": "Pyke",
+        "champScore": 1508.6,
+        "topPlayer_name": "VIV Serendrip",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "no leo lloros",
+        "botPlayer_region": "na",
+        "champRank": 22,
+        "rankChange": -6
+    },
+    {
+        "champName": "Cassiopeia",
+        "champScore": 1496.6,
+        "topPlayer_name": "바르고고운말해여",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Adarladorri",
+        "botPlayer_region": "na",
+        "champRank": 23,
+        "rankChange": 3
+    },
+    {
+        "champName": "Hecarim",
+        "champScore": 1495.0,
+        "topPlayer_name": "이 차가 식기전에",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Stomme Eend",
+        "botPlayer_region": "euw",
+        "champRank": 24,
+        "rankChange": 4
+    },
+    {
+        "champName": "Kha'Zix",
+        "champScore": 1404.6,
+        "topPlayer_name": "Subgainer700",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Nightmisty",
+        "botPlayer_region": "na",
+        "champRank": 25,
+        "rankChange": -8
+    },
+    {
+        "champName": "Udyr",
+        "champScore": 1390.4,
+        "topPlayer_name": "DenSygeKamel69",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Crowno",
+        "botPlayer_region": "euw",
+        "champRank": 26,
+        "rankChange": 8
+    },
+    {
+        "champName": "K'Sante",
+        "champScore": 1327.6,
+        "topPlayer_name": "Want To Be Young",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "pft",
+        "botPlayer_region": "kr",
+        "champRank": 27,
+        "rankChange": -6
+    },
+    {
+        "champName": "Ezreal",
+        "champScore": 1310.9,
+        "topPlayer_name": "T1 Gumayusi",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "C9 Berzerker",
+        "botPlayer_region": "na",
+        "champRank": 28,
+        "rankChange": 5
+    },
+    {
+        "champName": "Kennen",
+        "champScore": 1295.9,
+        "topPlayer_name": "mmhgr",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Want To Be Young",
+        "botPlayer_region": "kr",
+        "champRank": 29,
+        "rankChange": 0
+    },
+    {
+        "champName": "Jayce",
+        "champScore": 1283.0,
+        "topPlayer_name": "Sandflame",
+        "topPlayer_region": "na",
+        "botPlayer_name": "sopjsafjp",
+        "botPlayer_region": "na",
+        "champRank": 30,
+        "rankChange": -6
+    },
+    {
+        "champName": "Fiora",
+        "champScore": 1268.1,
+        "topPlayer_name": "010 9018 8846",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "mmhgr",
+        "botPlayer_region": "kr",
+        "champRank": 31,
+        "rankChange": -6
+    },
+    {
+        "champName": "Elise",
+        "champScore": 1235.8,
+        "topPlayer_name": "100 yukino",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Ellim DNB",
+        "botPlayer_region": "kr",
+        "champRank": 32,
+        "rankChange": -5
+    },
+    {
+        "champName": "Senna",
+        "champScore": 1227.6,
+        "topPlayer_name": "Bäby Rekkles",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "ƒreyá",
+        "botPlayer_region": "na",
+        "champRank": 33,
+        "rankChange": 30
+    },
+    {
+        "champName": "Graves",
+        "champScore": 1209.0,
+        "topPlayer_name": "2 C U Again",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "aespa karina99",
+        "botPlayer_region": "euw",
+        "champRank": 34,
+        "rankChange": 2
+    },
+    {
+        "champName": "Annie",
+        "champScore": 1151.9,
+        "topPlayer_name": "taodaotaodao",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "dog kachu",
+        "botPlayer_region": "na",
+        "champRank": 35,
+        "rankChange": 17
+    },
+    {
+        "champName": "Sylas",
+        "champScore": 1140.4,
+        "topPlayer_name": "xiaofangOWO",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "TDSP D1verse",
+        "botPlayer_region": "euw",
+        "champRank": 36,
+        "rankChange": -6
+    },
+    {
+        "champName": "Nautilus",
+        "champScore": 1103.7,
+        "topPlayer_name": "zh30",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Lehends",
+        "botPlayer_region": "kr",
+        "champRank": 37,
+        "rankChange": 3
+    },
+    {
+        "champName": "Olaf",
+        "champScore": 1004.5,
+        "topPlayer_name": "톱 왕",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Mohamed du 56",
+        "botPlayer_region": "euw",
+        "champRank": 38,
+        "rankChange": -7
+    },
+    {
+        "champName": "Katarina",
+        "champScore": 988.1,
+        "topPlayer_name": "PHKT ",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "현재가 제일 중요해 ",
+        "botPlayer_region": "kr",
+        "champRank": 39,
+        "rankChange": -2
+    },
+    {
+        "champName": "Zoe",
+        "champScore": 908.5,
+        "topPlayer_name": "VIV Serendrip",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "QuadQuad",
+        "botPlayer_region": "kr",
+        "champRank": 40,
+        "rankChange": 8
+    },
+    {
+        "champName": "Zed",
+        "champScore": 873.9,
+        "topPlayer_name": "nemy2",
+        "topPlayer_region": "na",
+        "botPlayer_name": "hellosiemanihao",
+        "botPlayer_region": "euw",
+        "champRank": 41,
+        "rankChange": 1
+    },
+    {
+        "champName": "Rumble",
+        "champScore": 866.0,
+        "topPlayer_name": "SatØrius",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "eXyu",
+        "botPlayer_region": "na",
+        "champRank": 42,
+        "rankChange": 9
+    },
+    {
+        "champName": "Riven",
+        "champScore": 865.3,
+        "topPlayer_name": "Built",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Been you",
+        "botPlayer_region": "euw",
+        "champRank": 43,
+        "rankChange": -8
+    },
+    {
+        "champName": "Talon",
+        "champScore": 847.0,
+        "topPlayer_name": "K405 N815",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "shochi",
+        "botPlayer_region": "na",
+        "champRank": 44,
+        "rankChange": -3
+    },
+    {
+        "champName": "Irelia",
+        "champScore": 828.7,
+        "topPlayer_name": "invicta23",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Nem9",
+        "botPlayer_region": "na",
+        "champRank": 45,
+        "rankChange": 11
+    },
+    {
+        "champName": "Twitch",
+        "champScore": 786.6,
+        "topPlayer_name": "jimmykoi",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Deft DK",
+        "botPlayer_region": "kr",
+        "champRank": 46,
+        "rankChange": 1
+    },
+    {
+        "champName": "Bel'Veth",
+        "champScore": 774.2,
+        "topPlayer_name": "real gankster",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Barkoon",
+        "botPlayer_region": "euw",
+        "champRank": 47,
+        "rankChange": 10
+    },
+    {
+        "champName": "Kayn",
+        "champScore": 749.4,
+        "topPlayer_name": "ego jungler",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Epilogue for you",
+        "botPlayer_region": "kr",
+        "champRank": 48,
+        "rankChange": 6
+    },
+    {
+        "champName": "Vi",
+        "champScore": 742.6,
+        "topPlayer_name": "SwagTake",
+        "topPlayer_region": "na",
+        "botPlayer_name": "100 yukino",
+        "botPlayer_region": "na",
+        "champRank": 49,
+        "rankChange": -11
+    },
+    {
+        "champName": "Poppy",
+        "champScore": 723.5,
+        "topPlayer_name": "FA ady",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Topo",
+        "botPlayer_region": "na",
+        "champRank": 50,
+        "rankChange": 49
+    },
+    {
+        "champName": "Akshan",
+        "champScore": 688.4,
+        "topPlayer_name": "TwitchTv Zy0xxx",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "shochi",
+        "botPlayer_region": "na",
+        "champRank": 51,
+        "rankChange": 4
+    },
+    {
+        "champName": "Jarvan IV",
+        "champScore": 679.2,
+        "topPlayer_name": "PHKT ",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "KingClueless",
+        "botPlayer_region": "na",
+        "champRank": 52,
+        "rankChange": -7
+    },
+    {
+        "champName": "Viego",
+        "champScore": 669.1,
+        "topPlayer_name": "NEED HER",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "dog kachu",
+        "botPlayer_region": "na",
+        "champRank": 53,
+        "rankChange": -10
+    },
+    {
+        "champName": "Yuumi",
+        "champScore": 603.2,
+        "topPlayer_name": "Peter NS",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "뭐너가어쩔건데",
+        "botPlayer_region": "kr",
+        "champRank": 54,
+        "rankChange": -5
+    },
+    {
+        "champName": "Qiyana",
+        "champScore": 563.3,
+        "topPlayer_name": "Maxlore",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "xiaofangOWO",
+        "botPlayer_region": "kr",
+        "champRank": 55,
+        "rankChange": -11
+    },
+    {
+        "champName": "Wukong",
+        "champScore": 557.6,
+        "topPlayer_name": "xiaofangOWO",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "xycj",
+        "botPlayer_region": "kr",
+        "champRank": 56,
+        "rankChange": -10
+    },
+    {
+        "champName": "Darius",
+        "champScore": 549.0,
+        "topPlayer_name": "Cylainius",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Zeus Slayer",
+        "botPlayer_region": "euw",
+        "champRank": 57,
+        "rankChange": 15
+    },
+    {
+        "champName": "Varus",
+        "champScore": 521.9,
+        "topPlayer_name": "adking9",
+        "topPlayer_region": "na",
+        "botPlayer_name": "오하오하",
+        "botPlayer_region": "kr",
+        "champRank": 58,
+        "rankChange": -19
+    },
+    {
+        "champName": "Karma",
+        "champScore": 518.8,
+        "topPlayer_name": "Good Boi",
+        "topPlayer_region": "na",
+        "botPlayer_name": "VIV Serendrip",
+        "botPlayer_region": "euw",
+        "champRank": 59,
+        "rankChange": -1
+    },
+    {
+        "champName": "Heimerdinger",
+        "champScore": 511.2,
+        "topPlayer_name": "Crowno",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Keia CH",
+        "botPlayer_region": "euw",
+        "champRank": 60,
+        "rankChange": 8
+    },
+    {
+        "champName": "Pantheon",
+        "champScore": 490.5,
+        "topPlayer_name": "ZEUSTONYTOPNILES",
+        "topPlayer_region": "na",
+        "botPlayer_name": "IS THAT FEEDABOI",
+        "botPlayer_region": "na",
+        "champRank": 61,
+        "rankChange": 4
+    },
+    {
+        "champName": "Kassadin",
+        "champScore": 481.2,
+        "topPlayer_name": "마가가 소가죽",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 62,
+        "rankChange": 13
+    },
+    {
+        "champName": "Tristana",
+        "champScore": 462.0,
+        "topPlayer_name": "Mid Pungyeon",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "혀니곤듀요정천사",
+        "botPlayer_region": "kr",
+        "champRank": 63,
+        "rankChange": -10
+    },
+    {
+        "champName": "Syndra",
+        "champScore": 457.4,
+        "topPlayer_name": "Bae Suzy",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Flower1ng",
+        "botPlayer_region": "kr",
+        "champRank": 64,
+        "rankChange": -14
+    },
+    {
+        "champName": "Taliyah",
+        "champScore": 447.4,
+        "topPlayer_name": "Odysseus131",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "dlwlrma22",
+        "botPlayer_region": "kr",
+        "champRank": 65,
+        "rankChange": 26
+    },
+    {
+        "champName": "Galio",
+        "champScore": 421.3,
+        "topPlayer_name": "FA ady",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Lee Chαndler",
+        "botPlayer_region": "euw",
+        "champRank": 66,
+        "rankChange": 21
+    },
+    {
+        "champName": "Yone",
+        "champScore": 367.9,
+        "topPlayer_name": "Iziio",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "rainº",
+        "botPlayer_region": "na",
+        "champRank": 67,
+        "rankChange": 0
+    },
+    {
+        "champName": "Kai'Sa",
+        "champScore": 354.3,
+        "topPlayer_name": "Sexelent",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Lowest",
+        "botPlayer_region": "na",
+        "champRank": 68,
+        "rankChange": 2
+    },
+    {
+        "champName": "Vex",
+        "champScore": 352.4,
+        "topPlayer_name": "Bingbingjiang",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Charlie2",
+        "botPlayer_region": "kr",
+        "champRank": 69,
+        "rankChange": 32
+    },
+    {
+        "champName": "Seraphine",
+        "champScore": 340.5,
+        "topPlayer_name": "Grimmsters",
+        "topPlayer_region": "na",
+        "botPlayer_name": "TheRoyalKanin",
+        "botPlayer_region": "euw",
+        "champRank": 70,
+        "rankChange": 15
+    },
+    {
+        "champName": "Lissandra",
+        "champScore": 338.1,
+        "topPlayer_name": "바르고고운말해여",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "22 July",
+        "botPlayer_region": "kr",
+        "champRank": 71,
+        "rankChange": 9
+    },
+    {
+        "champName": "Renekton",
+        "champScore": 336.8,
+        "topPlayer_name": "막스 배르스타펜",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Maynter",
+        "botPlayer_region": "euw",
+        "champRank": 72,
+        "rankChange": -6
+    },
+    {
+        "champName": "Orianna",
+        "champScore": 331.5,
+        "topPlayer_name": "sigyetaeyeob",
+        "topPlayer_region": "na",
+        "botPlayer_name": "424PHL",
+        "botPlayer_region": "euw",
+        "champRank": 73,
+        "rankChange": 24
+    },
+    {
+        "champName": "Zac",
+        "champScore": 328.3,
+        "topPlayer_name": "언니우기",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 74,
+        "rankChange": 18
+    },
+    {
+        "champName": "Lillia",
+        "champScore": 327.2,
+        "topPlayer_name": "BRO UmTi",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "OMGAbIe",
+        "botPlayer_region": "kr",
+        "champRank": 75,
+        "rankChange": 6
+    },
+    {
+        "champName": "Nunu & Willump",
+        "champScore": 301.6,
+        "topPlayer_name": "뉴뉴킹",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "lightrocket2",
+        "botPlayer_region": "na",
+        "champRank": 76,
+        "rankChange": -15
+    },
+    {
+        "champName": "Maokai",
+        "champScore": 300.4,
+        "topPlayer_name": "bqrekmlre",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "BRO Polllu",
+        "botPlayer_region": "kr",
+        "champRank": 77,
+        "rankChange": 11
+    },
+    {
+        "champName": "Lulu",
+        "champScore": 293.6,
+        "topPlayer_name": "sigyetaeyeob",
+        "topPlayer_region": "na",
+        "botPlayer_name": "만족한시즌이되길",
+        "botPlayer_region": "kr",
+        "champRank": 78,
+        "rankChange": -19
+    },
+    {
+        "champName": "Viktor",
+        "champScore": 283.5,
+        "topPlayer_name": "Epilogue for you",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "KeeI",
+        "botPlayer_region": "na",
+        "champRank": 79,
+        "rankChange": 3
+    },
+    {
+        "champName": "Aatrox",
+        "champScore": 281.3,
+        "topPlayer_name": "Berik",
+        "topPlayer_region": "na",
+        "botPlayer_name": "ai xiao yo",
+        "botPlayer_region": "na",
+        "champRank": 80,
+        "rankChange": 24
+    },
+    {
+        "champName": "Aurelion Sol",
+        "champScore": 280.1,
+        "topPlayer_name": "wysek",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "재벌의 외아들",
+        "botPlayer_region": "kr",
+        "champRank": 81,
+        "rankChange": -10
+    },
+    {
+        "champName": "Jhin",
+        "champScore": 278.2,
+        "topPlayer_name": "Bazz B",
+        "topPlayer_region": "na",
+        "botPlayer_name": "우승을 차지하다",
+        "botPlayer_region": "kr",
+        "champRank": 82,
+        "rankChange": 52
+    },
+    {
+        "champName": "Samira",
+        "champScore": 268.2,
+        "topPlayer_name": "LEC ADC 2024",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "korean7",
+        "botPlayer_region": "euw",
+        "champRank": 83,
+        "rankChange": -19
+    },
+    {
+        "champName": "Gwen",
+        "champScore": 266.6,
+        "topPlayer_name": "100 Sniper ",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Maynter",
+        "botPlayer_region": "euw",
+        "champRank": 84,
+        "rankChange": 12
+    },
+    {
+        "champName": "Gnar",
+        "champScore": 259.4,
+        "topPlayer_name": "eYa Bewbiou",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Want To Be Young",
+        "botPlayer_region": "kr",
+        "champRank": 85,
+        "rankChange": 40
+    },
+    {
+        "champName": "Ashe",
+        "champScore": 252.3,
+        "topPlayer_name": "혀니곤듀요정천사",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "난화내",
+        "botPlayer_region": "kr",
+        "champRank": 86,
+        "rankChange": -17
+    },
+    {
+        "champName": "Tryndamere",
+        "champScore": 250.8,
+        "topPlayer_name": "010 9018 8846",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "shochi",
+        "botPlayer_region": "na",
+        "champRank": 87,
+        "rankChange": -9
+    },
+    {
+        "champName": "Veigar",
+        "champScore": 246.6,
+        "topPlayer_name": "Flower1ng",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "MUSCLE MONSTROB",
+        "botPlayer_region": "euw",
+        "champRank": 88,
+        "rankChange": 5
+    },
+    {
+        "champName": "Alistar",
+        "champScore": 243.8,
+        "topPlayer_name": "우승을 차지하다",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Biggest Glazer",
+        "botPlayer_region": "na",
+        "champRank": 89,
+        "rankChange": 1
+    },
+    {
+        "champName": "Fiddlesticks",
+        "champScore": 242.7,
+        "topPlayer_name": "Wanfeng ouo",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Nikkone",
+        "botPlayer_region": "na",
+        "champRank": 90,
+        "rankChange": -28
+    },
+    {
+        "champName": "Akali",
+        "champScore": 238.0,
+        "topPlayer_name": "EMDDD",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Noeyim",
+        "botPlayer_region": "euw",
+        "champRank": 91,
+        "rankChange": 19
+    },
+    {
+        "champName": "Taric",
+        "champScore": 207.4,
+        "topPlayer_name": "lightrocket2",
+        "topPlayer_region": "na",
+        "botPlayer_name": "FA ady",
+        "botPlayer_region": "kr",
+        "champRank": 92,
+        "rankChange": 41
+    },
+    {
+        "champName": "Diana",
+        "champScore": 202.6,
+        "topPlayer_name": "Arcsecond",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Subgainer700",
+        "botPlayer_region": "euw",
+        "champRank": 93,
+        "rankChange": 56
+    },
+    {
+        "champName": "Sion",
+        "champScore": 202.6,
+        "topPlayer_name": "mmhgr",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "쿼드쿼드",
+        "botPlayer_region": "kr",
+        "champRank": 94,
+        "rankChange": 6
+    },
+    {
+        "champName": "Shaco",
+        "champScore": 202.1,
+        "topPlayer_name": "The Hatman",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 95,
+        "rankChange": -18
+    },
+    {
+        "champName": "Kalista",
+        "champScore": 196.8,
+        "topPlayer_name": "Xicor7",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Mohamed du 56",
+        "botPlayer_region": "euw",
+        "champRank": 96,
+        "rankChange": 11
+    },
+    {
+        "champName": "Camille",
+        "champScore": 192.9,
+        "topPlayer_name": "TwitchTv Zy0xxx",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "The Moment",
+        "botPlayer_region": "na",
+        "champRank": 97,
+        "rankChange": -11
+    },
+    {
+        "champName": "Tahm Kench",
+        "champScore": 192.4,
+        "topPlayer_name": "Just1",
+        "topPlayer_region": "na",
+        "botPlayer_name": "zui hao yige ren",
+        "botPlayer_region": "kr",
+        "champRank": 98,
+        "rankChange": 17
+    },
+    {
+        "champName": "Leona",
+        "champScore": 190.1,
+        "topPlayer_name": "우승을 차지하다",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "ysssy",
+        "botPlayer_region": "na",
+        "champRank": 99,
+        "rankChange": -25
+    },
+    {
+        "champName": "Master Yi",
+        "champScore": 190.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 100,
+        "rankChange": 5
+    },
+    {
+        "champName": "Singed",
+        "champScore": 187.3,
+        "topPlayer_name": "1 def",
+        "topPlayer_region": "na",
+        "botPlayer_name": "OMGAbIe",
+        "botPlayer_region": "kr",
+        "champRank": 101,
+        "rankChange": -41
+    },
+    {
+        "champName": "Zilean",
+        "champScore": 184.0,
+        "topPlayer_name": "Lars Agnar",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Chaye",
+        "botPlayer_region": "na",
+        "champRank": 102,
+        "rankChange": 6
+    },
+    {
+        "champName": "Kog'Maw",
+        "champScore": 183.7,
+        "topPlayer_name": "niinim",
+        "topPlayer_region": "na",
+        "botPlayer_name": "bababaabam",
+        "botPlayer_region": "kr",
+        "champRank": 103,
+        "rankChange": -8
+    },
+    {
+        "champName": "Renata Glasc",
+        "champScore": 172.6,
+        "topPlayer_name": "메가웅즈",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Road2Narnia",
+        "botPlayer_region": "euw",
+        "champRank": 104,
+        "rankChange": 12
+    },
+    {
+        "champName": "Teemo",
+        "champScore": 171.4,
+        "topPlayer_name": "Yung Fappy",
+        "topPlayer_region": "na",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 105,
+        "rankChange": 6
+    },
+    {
+        "champName": "Nasus",
+        "champScore": 169.9,
+        "topPlayer_name": "쿼드쿼드",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "MUSCLE MONSTROB",
+        "botPlayer_region": "euw",
+        "champRank": 106,
+        "rankChange": 40
+    },
+    {
+        "champName": "Fizz",
+        "champScore": 169.5,
+        "topPlayer_name": "iYuki",
+        "topPlayer_region": "na",
+        "botPlayer_name": "hellosiemanihao",
+        "botPlayer_region": "euw",
+        "champRank": 107,
+        "rankChange": 45
+    },
+    {
+        "champName": "Vladimir",
+        "champScore": 163.0,
+        "topPlayer_name": "IllllIIIIllllIIl",
+        "topPlayer_region": "na",
+        "botPlayer_name": "forsenCDKEKW",
+        "botPlayer_region": "euw",
+        "champRank": 108,
+        "rankChange": -10
+    },
+    {
+        "champName": "Rek'Sai",
+        "champScore": 160.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 109,
+        "rankChange": 22
+    },
+    {
+        "champName": "Rell",
+        "champScore": 156.5,
+        "topPlayer_name": "Lee Chαndler",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 110,
+        "rankChange": 18
+    },
+    {
+        "champName": "Quinn",
+        "champScore": 152.2,
+        "topPlayer_name": "살퀸레",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "shochi",
+        "botPlayer_region": "na",
+        "champRank": 111,
+        "rankChange": -2
+    },
+    {
+        "champName": "Lucian",
+        "champScore": 149.6,
+        "topPlayer_name": "AFW Nan0",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "wlam",
+        "botPlayer_region": "na",
+        "champRank": 112,
+        "rankChange": 20
+    },
+    {
+        "champName": "Volibear",
+        "champScore": 145.1,
+        "topPlayer_name": "Mr Bluehat",
+        "topPlayer_region": "na",
+        "botPlayer_name": "100 Tenacity",
+        "botPlayer_region": "na",
+        "champRank": 113,
+        "rankChange": 49
+    },
+    {
+        "champName": "Ekko",
+        "champScore": 145.0,
+        "topPlayer_name": "kygoo",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "xiao fei ya",
+        "botPlayer_region": "na",
+        "champRank": 114,
+        "rankChange": -12
+    },
+    {
+        "champName": "Gangplank",
+        "champScore": 143.9,
+        "topPlayer_name": "the pebble",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "TC porsche",
+        "botPlayer_region": "na",
+        "champRank": 115,
+        "rankChange": 5
+    },
+    {
+        "champName": "Xin Zhao",
+        "champScore": 143.7,
+        "topPlayer_name": "Stomme Eend",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "100 yukino",
+        "botPlayer_region": "na",
+        "champRank": 116,
+        "rankChange": -43
+    },
+    {
+        "champName": "Zyra",
+        "champScore": 138.2,
+        "topPlayer_name": "Lars Agnar",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 117,
+        "rankChange": 21
+    },
+    {
+        "champName": "Warwick",
+        "champScore": 137.8,
+        "topPlayer_name": "칼과 창 방패",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 118,
+        "rankChange": -24
+    },
+    {
+        "champName": "Caitlyn",
+        "champScore": 136.8,
+        "topPlayer_name": "Deft DK",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Deep Learning1",
+        "botPlayer_region": "na",
+        "champRank": 119,
+        "rankChange": -35
+    },
+    {
+        "champName": "Garen",
+        "champScore": 130.8,
+        "topPlayer_name": "규 보 리",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Yung Fappy",
+        "botPlayer_region": "na",
+        "champRank": 120,
+        "rankChange": -41
+    },
+    {
+        "champName": "Nocturne",
+        "champScore": 121.6,
+        "topPlayer_name": "PantsAreYouTube",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Not Hans",
+        "botPlayer_region": "na",
+        "champRank": 121,
+        "rankChange": 19
+    },
+    {
+        "champName": "Kled",
+        "champScore": 102.8,
+        "topPlayer_name": "IS THAT FEEDABOI",
+        "topPlayer_region": "na",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 122,
+        "rankChange": 0
+    },
+    {
+        "champName": "Janna",
+        "champScore": 99.6,
+        "topPlayer_name": "The Tank Man",
+        "topPlayer_region": "na",
+        "botPlayer_name": "씨맥당신은틀렸어",
+        "botPlayer_region": "kr",
+        "champRank": 123,
+        "rankChange": -34
+    },
+    {
+        "champName": "Neeko",
+        "champScore": 96.2,
+        "topPlayer_name": "gg wtf",
+        "topPlayer_region": "na",
+        "botPlayer_name": "KISN0",
+        "botPlayer_region": "na",
+        "champRank": 124,
+        "rankChange": -12
+    },
+    {
+        "champName": "Ivern",
+        "champScore": 90.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 125,
+        "rankChange": -19
+    },
+    {
+        "champName": "Anivia",
+        "champScore": 89.4,
+        "topPlayer_name": "Reborn Berkan",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "no leo lloros",
+        "botPlayer_region": "na",
+        "champRank": 126,
+        "rankChange": -23
+    },
+    {
+        "champName": "Twisted Fate",
+        "champScore": 88.0,
+        "topPlayer_name": "헤어지기 싫어",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "TDSP D1verse",
+        "botPlayer_region": "euw",
+        "champRank": 127,
+        "rankChange": -9
+    },
+    {
+        "champName": "Sivir",
+        "champScore": 87.8,
+        "topPlayer_name": "elyoyaaaaaaaaaaa",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Noodlz",
+        "botPlayer_region": "na",
+        "champRank": 128,
+        "rankChange": -45
+    },
+    {
+        "champName": "Shen",
+        "champScore": 84.4,
+        "topPlayer_name": "invicta23",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Kât l ï Äm",
+        "botPlayer_region": "euw",
+        "champRank": 129,
+        "rankChange": 7
+    },
+    {
+        "champName": "Vayne",
+        "champScore": 81.6,
+        "topPlayer_name": "Sushee",
+        "topPlayer_region": "na",
+        "botPlayer_name": "ToastyAlex",
+        "botPlayer_region": "na",
+        "champRank": 130,
+        "rankChange": -7
+    },
+    {
+        "champName": "Miss Fortune",
+        "champScore": 76.0,
+        "topPlayer_name": "땅우양1",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "TSM Chime",
+        "botPlayer_region": "na",
+        "champRank": 131,
+        "rankChange": 19
+    },
+    {
+        "champName": "Lux",
+        "champScore": 73.2,
+        "topPlayer_name": "shochi",
+        "topPlayer_region": "na",
+        "botPlayer_name": "ƒreyá",
+        "botPlayer_region": "na",
+        "champRank": 132,
+        "rankChange": -56
+    },
+    {
+        "champName": "Morgana",
+        "champScore": 69.1,
+        "topPlayer_name": "insung",
+        "topPlayer_region": "na",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 133,
+        "rankChange": -14
+    },
+    {
+        "champName": "Braum",
+        "champScore": 64.2,
+        "topPlayer_name": "우승을 차지하다",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "zui hao yige ren",
+        "botPlayer_region": "kr",
+        "champRank": 134,
+        "rankChange": -20
+    },
+    {
+        "champName": "Nilah",
+        "champScore": 55.8,
+        "topPlayer_name": "Zev",
+        "topPlayer_region": "na",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 135,
+        "rankChange": 20
+    },
+    {
+        "champName": "Swain",
+        "champScore": 53.9,
+        "topPlayer_name": "bigboichoi69",
+        "topPlayer_region": "na",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 136,
+        "rankChange": -23
+    },
+    {
+        "champName": "Nami",
+        "champScore": 53.8,
+        "topPlayer_name": "DIG Diamond",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Lee Chαndler",
+        "botPlayer_region": "euw",
+        "champRank": 137,
+        "rankChange": 14
+    },
+    {
+        "champName": "Skarner",
+        "champScore": 50.7,
+        "topPlayer_name": "던갈교수",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 138,
+        "rankChange": 15
+    },
+    {
+        "champName": "Rammus",
+        "champScore": 50.6,
+        "topPlayer_name": "Horse Tongue ",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 139,
+        "rankChange": -9
+    },
+    {
+        "champName": "Amumu",
+        "champScore": 49.5,
+        "topPlayer_name": "alanna",
+        "topPlayer_region": "na",
+        "botPlayer_name": "바르고고운말해여",
+        "botPlayer_region": "kr",
+        "champRank": 140,
+        "rankChange": -5
+    },
+    {
+        "champName": "Soraka",
+        "champScore": 46.1,
+        "topPlayer_name": "ƒreyá",
+        "topPlayer_region": "na",
+        "botPlayer_name": "Lars Agnar",
+        "botPlayer_region": "euw",
+        "champRank": 141,
+        "rankChange": 7
+    },
+    {
+        "champName": "Yorick",
+        "champScore": 40.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 142,
+        "rankChange": -16
+    },
+    {
+        "champName": "Azir",
+        "champScore": 37.8,
+        "topPlayer_name": "막스 배르스타펜",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Bae Suzy",
+        "botPlayer_region": "kr",
+        "champRank": 143,
+        "rankChange": -19
+    },
+    {
+        "champName": "Bard",
+        "champScore": 35.5,
+        "topPlayer_name": "눈이 보고 싶다",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Chaye",
+        "botPlayer_region": "na",
+        "champRank": 144,
+        "rankChange": 3
+    },
+    {
+        "champName": "Urgot",
+        "champScore": 35.5,
+        "topPlayer_name": "ALVAROARBELOA17",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 145,
+        "rankChange": 16
+    },
+    {
+        "champName": "Vel'Koz",
+        "champScore": 32.9,
+        "topPlayer_name": "eYa Bewbiou",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 146,
+        "rankChange": -1
+    },
+    {
+        "champName": "Trundle",
+        "champScore": 31.5,
+        "topPlayer_name": "Alexxanderkyling",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 147,
+        "rankChange": 9
+    },
+    {
+        "champName": "Mordekaiser",
+        "champScore": 28.2,
+        "topPlayer_name": "ai xiao yo",
+        "topPlayer_region": "na",
+        "botPlayer_name": "미친듯이 파이팅",
+        "botPlayer_region": "kr",
+        "champRank": 148,
+        "rankChange": -7
+    },
+    {
+        "champName": "Ryze",
+        "champScore": 26.7,
+        "topPlayer_name": "토트 무지카",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Jiahai",
+        "botPlayer_region": "kr",
+        "champRank": 149,
+        "rankChange": -5
+    },
+    {
+        "champName": "Illaoi",
+        "champScore": 26.3,
+        "topPlayer_name": "ILLAKlNG",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 150,
+        "rankChange": -33
+    },
+    {
+        "champName": "Xerath",
+        "champScore": 17.2,
+        "topPlayer_name": "포기를 포기할게",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "Pusi Puu",
+        "botPlayer_region": "euw",
+        "champRank": 151,
+        "rankChange": -22
+    },
+    {
+        "champName": "Ornn",
+        "champScore": 14.7,
+        "topPlayer_name": "IW Elramir",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Alexxanderkyling",
+        "botPlayer_region": "euw",
+        "champRank": 152,
+        "rankChange": -25
+    },
+    {
+        "champName": "Dr. Mundo",
+        "champScore": 10.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 153,
+        "rankChange": 6
+    },
+    {
+        "champName": "Sejuani",
+        "champScore": 10.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 154,
+        "rankChange": -17
+    },
+    {
+        "champName": "Sona",
+        "champScore": 10.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 155,
+        "rankChange": 2
+    },
+    {
+        "champName": "Brand",
+        "champScore": 0.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 156,
+        "rankChange": 7
+    },
+    {
+        "champName": "Malzahar",
+        "champScore": 0.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 157,
+        "rankChange": -14
+    },
+    {
+        "champName": "Shyvana",
+        "champScore": 0.0,
+        "topPlayer_name": "",
+        "topPlayer_region": "",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 158,
+        "rankChange": 2
+    },
+    {
+        "champName": "Ziggs",
+        "champScore": -0.2,
+        "topPlayer_name": "HellYeahhhh",
+        "topPlayer_region": "na",
+        "botPlayer_name": "no leo lloros",
+        "botPlayer_region": "na",
+        "champRank": 159,
+        "rankChange": -20
+    },
+    {
+        "champName": "Kayle",
+        "champScore": -4.0,
+        "topPlayer_name": "HellYeahhhh",
+        "topPlayer_region": "na",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 160,
+        "rankChange": -6
+    },
+    {
+        "champName": "Corki",
+        "champScore": -5.4,
+        "topPlayer_name": "Bae Suzy",
+        "topPlayer_region": "kr",
+        "botPlayer_name": "",
+        "botPlayer_region": "",
+        "champRank": 161,
+        "rankChange": -3
+    },
+    {
+        "champName": "Sett",
+        "champScore": -6.6,
+        "topPlayer_name": "Strey en mission",
+        "topPlayer_region": "euw",
+        "botPlayer_name": "Epilogue for you",
+        "botPlayer_region": "kr",
+        "champRank": 162,
+        "rankChange": -20
+    },
+    {
+        "champName": "Cho'Gath",
+        "champScore": -7.5,
+        "topPlayer_name": "Noodlz",
+        "topPlayer_region": "na",
+        "botPlayer_name": "skarp skyder",
+        "botPlayer_region": "euw",
+        "champRank": 163,
+        "rankChange": -42
+    }
+]

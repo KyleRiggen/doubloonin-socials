@@ -9,7 +9,7 @@ config = {
         "visionScore": 0.1
     },
     "match_list": {
-        "player_count": 1000,
+        "player_count": 10,
         "match_count_per_player": 40
     }
 }

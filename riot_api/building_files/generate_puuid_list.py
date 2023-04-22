@@ -1,4 +1,4 @@
-from doubloonin.riot_api.building_files.setup import setup_enviorment
+from doubloonin.riot_api.building_files.setup import *
 import json
 
 lol_watcher = setup_enviorment()

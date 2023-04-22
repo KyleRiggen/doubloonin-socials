@@ -11,8 +11,8 @@ all_matches_timed = build_working_list()
 
 # building results dictionary
 def building_final_list():
-    banned_champs = []
 
+    banned_champs = []
     for match in all_matches_timed:
         # print(match['bans'])
         for index, champ in enumerate(champs_json['data']):
@@ -62,6 +62,7 @@ def building_final_list():
                 'wins': 0,
                 'losses': 0,
                 'visionScore': 0,
+                'picks': 0,
                 'bans': added_banned_champs[eachChamp],
             },
             'players': player_list
@@ -97,6 +98,7 @@ def building_final_list():
             final_results[champName]['champStats']['wins'] = wins
             final_results[champName]['champStats']['losses'] = looses
             final_results[champName]['champStats']['visionScore'] = visionScore
+            final_results[champName]['champStats']['picks'] += 1
 
     # totaling scores
     for champ in final_results:
