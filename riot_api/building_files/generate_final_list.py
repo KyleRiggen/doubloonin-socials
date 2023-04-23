@@ -103,12 +103,8 @@ def building_final_list():
     # totaling scores
     for champ in final_results:
         score = 0
-        score = score + (final_results[champ]['champStats']['kills'] * config['points']['kill'])
-        score = score + (final_results[champ]['champStats']['deaths'] * config['points']['death'])
-        score = score + (final_results[champ]['champStats']['assists'] * config['points']['assist'])
+        score = score + (final_results[champ]['champStats']['picks'] * config['points']['pick'])
         score = score + (final_results[champ]['champStats']['wins'] * config['points']['win'])
-        score = score + (final_results[champ]['champStats']['losses'] * config['points']['loss'])
-        score = score + (final_results[champ]['champStats']['visionScore'] * config['points']['visionScore'])
         score = score + (final_results[champ]['champStats']['bans'] * config['points']['ban'])
         final_results[champ]['score'] = score
 

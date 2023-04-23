@@ -14,11 +14,15 @@ match_list = []
 def build_match_list():
     now = round(time.time())
     one_day = 86400
+    one_week = (one_day * 7)
+    few_days = (one_day * 3)
     one_day_ago = round(now - one_day)
+    one_week_ago = round(now - one_week)
+    few_days_ago = round(now - few_days)
     now_nice = time.ctime(time.time())
 
     for index, player in enumerate(puuid_list_wRegion):
-        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=config['match_list']['match_count_per_player'], start_time=one_day_ago, end_time=now)
+        matches = lol_watcher.match.matchlist_by_puuid(region=player[1], puuid=player[0], queue=420, start=0, count=config['match_list']['match_count_per_player'], start_time=few_days_ago, end_time=now)
 
         if index >= config['match_list']['player_count']:
             break

@@ -1,15 +1,16 @@
 config = {
     "points": {
-        "kill": 3,
+        "kill": 2,
         "death": -2,
         "assist": 1,
-        "loss": -10,
-        "win": 10,
-        "ban": 10,
-        "visionScore": 0.1
+        "loss": 0,
+        "win": 1,
+        "ban": 1,
+        "pick": 1,
+        "visionScore": 0
     },
     "match_list": {
-        "player_count": 10,
-        "match_count_per_player": 40
+        "player_count": 1000,
+        "match_count_per_player": 100
     }
 }

@@ -1,0 +1,165 @@
+||Champion|Points|Rank Change|Best Player| 
+|-|-|-|-|-| 
+| 1 | Kindred | 67 |🟩🔺 5| [Kenvi2](https://www.op.gg/summoners/na/Kenvi2) |
+| 2 | Draven | 65 |🟥🔻 1| [SnipaXD](https://www.op.gg/summoners/na/SnipaXD) |
+| 3 | Milio | 44 |🟩🔺 8| [Biggest Glazer](https://www.op.gg/summoners/na/Biggest Glazer) |
+| 4 | Rakan | 43 |🟨 0| [C9 Zven](https://www.op.gg/summoners/na/C9 Zven) |
+| 5 | Blitzcrank | 41 |🟥🔻 3| [C9 Zven](https://www.op.gg/summoners/na/C9 Zven) |
+| 6 | Jayce | 35 |🟩🔺 23| [FLY VicLa](https://www.op.gg/summoners/na/FLY VicLa) |
+| 7 | Gragas | 34 |🟩🔺 5| [KeeI](https://www.op.gg/summoners/na/KeeI) |
+| 8 | Jax | 34 |🟩🔺 2| [dog kachu](https://www.op.gg/summoners/na/dog kachu) |
+| 9 | Hecarim | 32 |🟩🔺 12| [gyu123987](https://www.op.gg/summoners/na/gyu123987) |
+| 10 | Varus | 32 |🟩🔺 41| [XO T0UR LiF3E](https://www.op.gg/summoners/na/XO T0UR LiF3E) |
+| 11 | Thresh | 30 |🟩🔺 6| [C9 Zven](https://www.op.gg/summoners/na/C9 Zven) |
+| 12 | Fiora | 28 |🟩🔺 11| [톱 왕](https://www.op.gg/summoners/na/톱 왕) |
+| 13 | Malphite | 28 |🟩🔺 3| [Saknom](https://www.op.gg/summoners/na/Saknom) |
+| 14 | Jinx | 25 |🟥🔻 9| [ScaryJ3rry](https://www.op.gg/summoners/na/ScaryJ3rry) |
+| 15 | Rengar | 25 |🟥🔻 8| [Wumpus Wave](https://www.op.gg/summoners/na/Wumpus Wave) |
+| 16 | Sylas | 25 |🟩🔺 10| [Trickyyy](https://www.op.gg/summoners/na/Trickyyy) |
+| 17 | Aphelios | 24 |🟩🔺 10| [warcyclone](https://www.op.gg/summoners/na/warcyclone) |
+| 18 | Kennen | 22 |🟨 0| [faker god top](https://www.op.gg/summoners/na/faker god top) |
+| 19 | Kha'Zix | 22 |🟩🔺 15| [247247247247](https://www.op.gg/summoners/na/247247247247) |
+| 20 | LeBlanc | 22 |🟥🔻 12| not played |
+| 21 | Yasuo | 22 |🟩🔺 9| [jjking10](https://www.op.gg/summoners/na/jjking10) |
+| 22 | Udyr | 21 |🟨 0| [U Never Loved Me](https://www.op.gg/summoners/na/U Never Loved Me) |
+| 23 | Karthus | 20 |🟥🔻 10| [twtv Gryffinn](https://www.op.gg/summoners/na/twtv Gryffinn) |
+| 24 | Xayah | 20 |🟥🔻 21| [Mobility3](https://www.op.gg/summoners/na/Mobility3) |
+| 25 | Twitch | 19 |🟩🔺 30| [SnipaXD](https://www.op.gg/summoners/na/SnipaXD) |
+| 26 | Evelynn | 18 |🟥🔻 12| not played |
+| 27 | Zeri | 18 |🟩🔺 1| [warcyclone](https://www.op.gg/summoners/na/warcyclone) |
+| 28 | Graves | 17 |🟩🔺 11| [xiao fei ya](https://www.op.gg/summoners/na/xiao fei ya) |
+| 29 | Elise | 16 |🟩🔺 2| [SwagTake](https://www.op.gg/summoners/na/SwagTake) |
+| 30 | Pyke | 16 |🟥🔻 10| [IamaNewby](https://www.op.gg/summoners/na/IamaNewby) |
+| 31 | Wukong | 15 |🟩🔺 16| [AnazKr](https://www.op.gg/summoners/na/AnazKr) |
+| 32 | Irelia | 14 |🟩🔺 8| [100 Sniper ](https://www.op.gg/summoners/na/100 Sniper ) |
+| 33 | Mordekaiser | 14 |🟩🔺 91| [ai xiao yo](https://www.op.gg/summoners/na/ai xiao yo) |
+| 34 | Nautilus | 14 |🟥🔻 2| [Sorde](https://www.op.gg/summoners/na/Sorde) |
+| 35 | Zed | 14 |🟩🔺 3| [nemy2](https://www.op.gg/summoners/na/nemy2) |
+| 36 | Lee Sin | 13 |🟥🔻 21| [톱 왕](https://www.op.gg/summoners/na/톱 왕) |
+| 37 | Rumble | 13 |🟩🔺 17| [gg wtf](https://www.op.gg/summoners/na/gg wtf) |
+| 38 | Ahri | 12 |🟥🔻 19| [Stevenatør](https://www.op.gg/summoners/na/Stevenatør) |
+| 39 | Karma | 12 |🟩🔺 19| [Biggest Glazer](https://www.op.gg/summoners/na/Biggest Glazer) |
+| 40 | Kayn | 12 |🟩🔺 20| [Kenvi2](https://www.op.gg/summoners/na/Kenvi2) |
+| 41 | Senna | 12 |🟨 0| [Good Boi](https://www.op.gg/summoners/na/Good Boi) |
+| 42 | Ezreal | 11 |🟥🔻 18| [ARRAY123](https://www.op.gg/summoners/na/ARRAY123) |
+| 43 | Seraphine | 11 |🟩🔺 57| [Grimmsters](https://www.op.gg/summoners/na/Grimmsters) |
+| 44 | Heimerdinger | 10 |🟩🔺 13| [C9 Zven](https://www.op.gg/summoners/na/C9 Zven) |
+| 45 | Ivern | 9 |🟩🔺 95| [jamican banana](https://www.op.gg/summoners/na/jamican banana) |
+| 46 | Tristana | 9 |🟩🔺 2| [SnipaXD](https://www.op.gg/summoners/na/SnipaXD) |
+| 47 | Nidalee | 8 |🟥🔻 38| [247247247247](https://www.op.gg/summoners/na/247247247247) |
+| 48 | Pantheon | 8 |🟩🔺 17| [pizzaman007](https://www.op.gg/summoners/na/pizzaman007) |
+| 49 | Poppy | 8 |🟥🔻 4| [Allorim](https://www.op.gg/summoners/na/Allorim) |
+| 50 | Qiyana | 8 |🟨 0| [pizzaman007](https://www.op.gg/summoners/na/pizzaman007) |
+| 51 | Yone | 8 |🟩🔺 19| [Wumpus Wave](https://www.op.gg/summoners/na/Wumpus Wave) |
+| 52 | Yuumi | 8 |🟥🔻 15| [gyu123987](https://www.op.gg/summoners/na/gyu123987) |
+| 53 | Aatrox | 7 |🟩🔺 21| [ai xiao yo](https://www.op.gg/summoners/na/ai xiao yo) |
+| 54 | Annie | 7 |🟥🔻 21| [MONSTER CHAD GOD](https://www.op.gg/summoners/na/MONSTER CHAD GOD) |
+| 55 | Camille | 7 |🟩🔺 42| [jjking10](https://www.op.gg/summoners/na/jjking10) |
+| 56 | Diana | 7 |🟩🔺 32| [Arcsecond](https://www.op.gg/summoners/na/Arcsecond) |
+| 57 | Orianna | 7 |🟩🔺 41| [sigyetaeyeob](https://www.op.gg/summoners/na/sigyetaeyeob) |
+| 58 | Sion | 7 |🟩🔺 9| [Augustine](https://www.op.gg/summoners/na/Augustine) |
+| 59 | Zac | 7 |🟩🔺 4| not played |
+| 60 | Zoe | 7 |🟥🔻 18| [Samikin](https://www.op.gg/summoners/na/Samikin) |
+| 61 | Akshan | 6 |🟩🔺 1| [pizzaman007](https://www.op.gg/summoners/na/pizzaman007) |
+| 62 | Caitlyn | 6 |🟩🔺 52| [Deep Learning1](https://www.op.gg/summoners/na/Deep Learning1) |
+| 63 | Fiddlesticks | 6 |🟩🔺 26| not played |
+| 64 | Katarina | 6 |🟥🔻 15| not played |
+| 65 | Kog'Maw | 6 |🟩🔺 39| [niinim](https://www.op.gg/summoners/na/niinim) |
+| 66 | K'Sante | 6 |🟥🔻 30| [SorryMyßad](https://www.op.gg/summoners/na/SorryMyßad) |
+| 67 | Lulu | 6 |🟥🔻 3| [Mixtsure](https://www.op.gg/summoners/na/Mixtsure) |
+| 68 | Olaf | 6 |🟥🔻 33| [Sandflame](https://www.op.gg/summoners/na/Sandflame) |
+| 69 | Viktor | 6 |🟩🔺 11| [EMENES](https://www.op.gg/summoners/na/EMENES) |
+| 70 | Cho'Gath | 5 |🟩🔺 24| [Taffys](https://www.op.gg/summoners/na/Taffys) |
+| 71 | Ekko | 5 |🟩🔺 30| not played |
+| 72 | Gwen | 5 |🟩🔺 5| [100 Sniper ](https://www.op.gg/summoners/na/100 Sniper ) |
+| 73 | Syndra | 5 |🟥🔻 20| not played |
+| 74 | Teemo | 5 |🟩🔺 37| not played |
+| 75 | Alistar | 4 |🟩🔺 8| [Biggest Glazer](https://www.op.gg/summoners/na/Biggest Glazer) |
+| 76 | Garen | 4 |🟩🔺 10| [dog kachu](https://www.op.gg/summoners/na/dog kachu) |
+| 77 | Jarvan IV | 4 |🟥🔻 25| [Allorim](https://www.op.gg/summoners/na/Allorim) |
+| 78 | Kled | 4 |🟩🔺 25| [CU Ego](https://www.op.gg/summoners/na/CU Ego) |
+| 79 | Lucian | 4 |🟩🔺 3| [smiley2](https://www.op.gg/summoners/na/smiley2) |
+| 80 | Nami | 4 |🟩🔺 49| [sup line](https://www.op.gg/summoners/na/sup line) |
+| 81 | Nunu & Willump | 4 |🟥🔻 12| not played |
+| 82 | Singed | 4 |🟩🔺 3| [ShyAlex](https://www.op.gg/summoners/na/ShyAlex) |
+| 83 | Volibear | 4 |🟩🔺 69| [Mr Bluehat](https://www.op.gg/summoners/na/Mr Bluehat) |
+| 84 | Cassiopeia | 3 |🟥🔻 59| not played |
+| 85 | Fizz | 3 |🟩🔺 50| not played |
+| 86 | Gangplank | 3 |🟩🔺 36| [TC porsche](https://www.op.gg/summoners/na/TC porsche) |
+| 87 | Leona | 3 |🟩🔺 4| [Neøø](https://www.op.gg/summoners/na/Neøø) |
+| 88 | Maokai | 3 |🟩🔺 4| [ARMAO](https://www.op.gg/summoners/na/ARMAO) |
+| 89 | Nasus | 3 |🟩🔺 47| [Mr Bluehat](https://www.op.gg/summoners/na/Mr Bluehat) |
+| 90 | Ornn | 3 |🟩🔺 16| [TL Honda CoreJJ](https://www.op.gg/summoners/na/TL Honda CoreJJ) |
+| 91 | Swain | 3 |🟩🔺 52| [bigboichoi69](https://www.op.gg/summoners/na/bigboichoi69) |
+| 92 | Vayne | 3 |🟩🔺 1| not played |
+| 93 | Vi | 3 |🟥🔻 40| not played |
+| 94 | Viego | 3 |🟥🔻 33| [gyu123987](https://www.op.gg/summoners/na/gyu123987) |
+| 95 | Warwick | 3 |🟩🔺 1| not played |
+| 96 | Xerath | 3 |🟩🔺 37| [gyu123987](https://www.op.gg/summoners/na/gyu123987) |
+| 97 | Zilean | 3 |🟥🔻 22| not played |
+| 98 | Ashe | 2 |🟥🔻 14| [Mixtsure](https://www.op.gg/summoners/na/Mixtsure) |
+| 99 | Aurelion Sol | 2 |🟩🔺 17| not played |
+| 100 | Bel'Veth | 2 |🟥🔻 57| not played |
+| 101 | Darius | 2 |🟥🔻 45| [Mr Bluehat](https://www.op.gg/summoners/na/Mr Bluehat) |
+| 102 | Galio | 2 |🟥🔻 36| [rege](https://www.op.gg/summoners/na/rege) |
+| 103 | Janna | 2 |🟥🔻 1| [The Tank Man](https://www.op.gg/summoners/na/The Tank Man) |
+| 104 | Jhin | 2 |🟩🔺 40| [Bazz B](https://www.op.gg/summoners/na/Bazz B) |
+| 105 | Kalista | 2 |🟥🔻 15| [Noodlz](https://www.op.gg/summoners/na/Noodlz) |
+| 106 | Kassadin | 2 |🟥🔻 38| not played |
+| 107 | Master Yi | 2 |🟥🔻 12| not played |
+| 108 | Neeko | 2 |🟥🔻 3| [gg wtf](https://www.op.gg/summoners/na/gg wtf) |
+| 109 | Renekton | 2 |🟥🔻 22| [ScaryJ3rry](https://www.op.gg/summoners/na/ScaryJ3rry) |
+| 110 | Ryze | 2 |🟩🔺 35| [ffman](https://www.op.gg/summoners/na/ffman) |
+| 111 | Shaco | 2 |🟩🔺 14| not played |
+| 112 | Sivir | 2 |🟩🔺 14| [ARRAY123](https://www.op.gg/summoners/na/ARRAY123) |
+| 113 | Sona | 2 |🟩🔺 5| [C9 Zven](https://www.op.gg/summoners/na/C9 Zven) |
+| 114 | Soraka | 2 |🟩🔺 1| [no leo lloros](https://www.op.gg/summoners/na/no leo lloros) |
+| 115 | Tahm Kench | 2 |🟥🔻 5| not played |
+| 116 | Talon | 2 |🟥🔻 72| not played |
+| 117 | Taric | 2 |🟥🔻 44| not played |
+| 118 | Tryndamere | 2 |🟥🔻 6| not played |
+| 119 | Vladimir | 2 |🟥🔻 38| not played |
+| 120 | Akali | 1 |🟥🔻 44| not played |
+| 121 | Azir | 1 |🟩🔺 26| [EMENES](https://www.op.gg/summoners/na/EMENES) |
+| 122 | Kai'Sa | 1 |🟥🔻 50| [jjking10](https://www.op.gg/summoners/na/jjking10) |
+| 123 | Lux | 1 |🟩🔺 18| [Miky boy](https://www.op.gg/summoners/na/Miky boy) |
+| 124 | Morgana | 1 |🟩🔺 4| [skétch](https://www.op.gg/summoners/na/skétch) |
+| 125 | Nocturne | 1 |🟩🔺 5| [TL Honda CoreJJ](https://www.op.gg/summoners/na/TL Honda CoreJJ) |
+| 126 | Riven | 1 |🟥🔻 67| not played |
+| 127 | Vex | 1 |🟥🔻 48| not played |
+| 128 | Ziggs | 1 |🟩🔺 6| [Adarladorri](https://www.op.gg/summoners/na/Adarladorri) |
+| 129 | Amumu | 0 |🟩🔺 25| not played |
+| 130 | Anivia | 0 |🟥🔻 10| not played |
+| 131 | Bard | 0 |🟩🔺 8| not played |
+| 132 | Brand | 0 |🟩🔺 17| not played |
+| 133 | Braum | 0 |🟥🔻 34| not played |
+| 134 | Corki | 0 |🟩🔺 25| not played |
+| 135 | Dr. Mundo | 0 |🟩🔺 25| not played |
+| 136 | Gnar | 0 |🟥🔻 19| not played |
+| 137 | Illaoi | 0 |🟥🔻 14| not played |
+| 138 | Kayle | 0 |🟩🔺 10| not played |
+| 139 | Lillia | 0 |🟥🔻 18| not played |
+| 140 | Lissandra | 0 |🟥🔻 69| not played |
+| 141 | Malzahar | 0 |🟩🔺 20| not played |
+| 142 | Miss Fortune | 0 |🟥🔻 15| not played |
+| 143 | Nilah | 0 |🟥🔻 7| not played |
+| 144 | Quinn | 0 |🟥🔻 37| not played |
+| 145 | Rammus | 0 |🟥🔻 3| not played |
+| 146 | Rek'Sai | 0 |🟥🔻 8| not played |
+| 147 | Rell | 0 |🟥🔻 28| not played |
+| 148 | Renata Glasc | 0 |🟥🔻 40| not played |
+| 149 | Samira | 0 |🟥🔻 40| not played |
+| 150 | Sejuani | 0 |🟥🔻 19| not played |
+| 151 | Sett | 0 |🟥🔻 1| not played |
+| 152 | Shen | 0 |🟥🔻 20| not played |
+| 153 | Shyvana | 0 |🟥🔻 2| not played |
+| 154 | Skarner | 0 |🟩🔺 1| not played |
+| 155 | Taliyah | 0 |🟥🔻 77| not played |
+| 156 | Trundle | 0 |🟨 0| not played |
+| 157 | Twisted Fate | 0 |🟩🔺 5| not played |
+| 158 | Urgot | 0 |🟥🔻 1| not played |
+| 159 | Veigar | 0 |🟥🔻 46| not played |
+| 160 | Vel'Koz | 0 |🟩🔺 3| not played |
+| 161 | Xin Zhao | 0 |🟥🔻 8| not played |
+| 162 | Yorick | 0 |🟥🔻 4| not played |
+| 163 | Zyra | 0 |🟥🔻 17| not played |

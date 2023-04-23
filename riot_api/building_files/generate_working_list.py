@@ -39,14 +39,15 @@ def build_working_list():
         for player in match_info['info']['participants']:
             playerID = player['puuid']
 
-            if player['win']:
-                scoreUp_win = config['points']['win']
-            else:
-                scoreUp_win = config['points']['loss']
+            # if player['win']:
+            #     scoreUp_win = config['points']['win']
+            # else:
+            #     scoreUp_win = config['points']['loss']
 
-            scoreUp = (player['kills'] * config['points']['kill']) - (player['deaths'] * config['points']['death']) + (
-                        player['assists'] * config['points']['assist']) + (
-                              player['visionScore'] * config['points']['visionScore']) + scoreUp_win
+            scoreUp = 0
+            scoreUp = scoreUp + (config['points']['kill'] * player['kills'])
+            scoreUp = scoreUp + (config['points']['death'] * player['deaths'])
+            scoreUp = scoreUp + (config['points']['assist'] * player['assists'])
 
             if player['championName'] == 'FiddleSticks':
                 print('fiddlesticks in working')
