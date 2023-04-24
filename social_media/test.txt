@@ -1,5 +1,5 @@
-||Champion|Points|Rank Change|Best Player| 
-|-|-|-|-|-| 
+||Champion|Points|Rank Change|Best Player|
+|-|-|-|-|-|
 | 1 | Draven | 1182 |🟨 0| [Antonioooo](https://www.op.gg/summoners/euw/Antonioooo) |
 | 2 | Xayah | 997 |🟩🔺 1| [QCH4B2Y4](https://www.op.gg/summoners/kr/QCH4B2Y4) |
 | 3 | Rakan | 845 |🟩🔺 1| [Infoneral](https://www.op.gg/summoners/euw/Infoneral) |

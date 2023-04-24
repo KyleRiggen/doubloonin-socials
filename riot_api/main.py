@@ -1,9 +1,42 @@
 from doubloonin.riot_api.building_files.generate_final3_list import created_ranked_list
 import json
-import time
+import time as pause
+from datetime import datetime
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from dotenv import load_dotenv
+import os
 
-now_nice = time.ctime(time.time())
-print(now_nice)
+def get_link():
+    load_dotenv('/Users/kyleriggenbach/Desktop/projects/doubloonin/config2.env')
+    username = os.environ['reddit_username']
+    password = os.environ['reddit_password']
+
+    driver = webdriver.Firefox()
+    driver.get("https://old.reddit.com/")
+
+    enter_username = driver.find_element(By.XPATH, '//*[@id="login_login-main"]/input[2]')
+    enter_password = driver.find_element(By.XPATH, '//*[@id="login_login-main"]/input[3]')
+    enter_username.send_keys(username)
+    enter_password.send_keys(password)
+    enter_password.send_keys(Keys.ENTER)
+
+    pause.sleep(5)
+    click_profile = driver.find_element(By.XPATH, '/html/body/div[2]/div[3]/span[1]/a')
+    click_profile.click()
+
+    submitted_tab = driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/ul/li[3]/a')
+    submitted_tab.click()
+
+    desired_link = driver.find_element(By.XPATH, '/html/body/div[4]/div[2]/div[1]/div[2]/div[1]/p[1]/a')
+    link = desired_link.get_attribute('href')
+    return link
+
+
+now = datetime.now()
+formatted_time = now.strftime("%Y-%m-%d %H:%M")
+print(formatted_time)
 
 with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final3_list.json') as user_file:
     file_contents = user_file.read()
@@ -11,10 +44,36 @@ final3_list = json.loads(file_contents)
 
 data_import = created_ranked_list()
 
+
 def publish_file2(data):
-    f = open(f"publish-{now_nice}.txt", "a")
-    opening = '||Champion|Points|Rank Change|Best Player| \n' \
-              '|-|-|-|-|-| \n'
+
+    now = datetime.now()
+    formatted_time = now.strftime("%Y-%m-%d %H:%M")
+    f = open(f"publish-{formatted_time}.txt", "a")
+    yesterday_link = get_link()
+    meta_data = "__Champion Rank Points:__     \n" \
+           "(highly subject to change)      \n" \
+           "Picked + 1 Point     \n" \
+           "Banned + 1 Point      \n" \
+           "Won + 1 Point     \n" \
+           "&nbsp;     \n" \
+           "     \n" \
+           "__Best Player Points:__     \n" \
+           "(highly subject to change)     \n" \
+           "Kill + 2 Points     \n" \
+           "Death - 2 Points     \n" \
+           "Assist + 1 Point     \n" \
+           "&nbsp;     \n" \
+           "     \n" \
+           "__Selection Criteria:__     \n" \
+           "Challenger Player     \n" \
+           "NA/EU/Korean Ladder (want China but it's not available)     \n" \
+           "Match in the past 72 Hours     \n" \
+           "&nbsp;     \n" \
+           "     \n"
+    opening = f'||Champion|Points|Rank Change from [Yesterday]({yesterday_link})|Best Player| \n' \
+                              '|-|-|-|-|-| \n'
+    f.write(meta_data)
     f.write(opening)
 
     for index, champ in enumerate(data):
@@ -37,9 +96,12 @@ def publish_file2(data):
             link_string_bot = ''
 
         string = f"| {index + 1} | {champ['champName']} | {champ['champScore']} |{rank_symbol} {rank_value}| {link_string_top} |\n"
-        f.write(string)
+        string = string.rstrip()
+        string += ' ' * 10
+        f.write(string + '\n')
 
     f.close()
+
 
 publish_file2(data_import)
 

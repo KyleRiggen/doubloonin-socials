@@ -30,7 +30,16 @@ enter_username.send_keys(USERNAME)
 enter_password.send_keys(PASSWORD)
 enter_password.send_keys(Keys.ENTER)
 
-# //*[@id="SHORTCUT_FOCUSABLE_DIV"]/div[1]/header/div/div[1]/div[2]/button
-
+profile_dropdown = WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located((By.XPATH, '//*[@id="USER_DROPDOWN_ID"]'))
+)
+profile_dropdown.click()
+time.sleep(10)
+profile_button = WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located((By.XPATH, '/html/body/div[14]/div/div/div[2]/a[1]'))
+)
+profile_button.click()
 time.sleep(60)
+
+
 driver.quit()

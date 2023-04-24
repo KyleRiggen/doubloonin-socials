@@ -7,7 +7,7 @@ with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final
     file_contents = user_file.read()
 final2_list = json.loads(file_contents)
 
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/yesterday5.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final3_list_keep.json') as user_file:
     file_contents = user_file.read()
 yesterday = json.loads(file_contents)
 
