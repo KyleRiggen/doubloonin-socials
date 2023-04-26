@@ -105,6 +105,7 @@ def building_final_list():
         score = 0
         score = score + (final_results[champ]['champStats']['picks'] * config['points']['pick'])
         score = score + (final_results[champ]['champStats']['wins'] * config['points']['win'])
+        score = score + (final_results[champ]['champStats']['losses'] * config['points']['loss'])
         score = score + (final_results[champ]['champStats']['bans'] * config['points']['ban'])
         final_results[champ]['score'] = score
 
