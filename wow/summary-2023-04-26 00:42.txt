@@ -1,0 +1,40 @@
+|Amount|Spec| 
+|-|-| 
+|⚔️🟠Paladin Retribution|100|          
+|⚔️🔮Warlock Demonology|87|          
+|⚔️🔮Hunter Beastmastery|66|          
+|⚔️🔮Warrior Arms|65|          
+|⚔️🔮Shaman Elemental|58|          
+|⚔️🔮Warlock Destruction|58|          
+|❤️‍🩹🔮Monk Mistweaver|47|          
+|❤️‍🩹🔮Priest Discipline|46|          
+|⚔️🔮Monk Windwalker|40|          
+|❤️‍🩹🔮Paladin Holy|36|          
+|⚔️🔮Demonhunter Havoc|35|          
+|❤️‍🩹🔮Shaman Restoration|34|          
+|⚔️🔮Druid Feral|33|          
+|⚔️🔮Druid Balance|30|          
+|⚔️🔮Hunter Marksmanship|29|          
+|❤️‍🩹🔮Druid Restoration|27|          
+|⚔️🔮Rogue Assassination|26|          
+|⚔️🔮Mage Frost|25|          
+|⚔️🔮Priest Shadow|20|          
+|❤️‍🩹🔮Evoker Preservation|19|          
+|⚔️🔮Rogue Subtlety|18|          
+|⚔️🔮Deathknight Unholy|15|          
+|⚔️🔮Hunter Survival|15|          
+|⚔️🔮Warlock Affliction|14|          
+|⚔️🔮Mage Arcane|13|          
+|⚔️🔮Shaman Enhancement|12|          
+|⚔️🔮Mage Fire|10|          
+|⚔️🔮Evoker Devastation|9|          
+|⚔️🔮Deathknight Frost|8|          
+|❤️‍🩹🔮Priest Holy|2|          
+|⚔️🔮Rogue Outlaw|2|          
+|⚔️🔮Warrior Fury|1|          
+|⚔️🔮Deathknight Blood|0|          
+|⚔️🔮Demonhunter Vengeance|0|          
+|⚔️🔮Druid Guardian|0|          
+|⚔️🔮Monk Brewmaster|0|          
+|⚔️🔮Paladin Protection|0|          
+|⚔️🔮Warrior Protection|0|          
