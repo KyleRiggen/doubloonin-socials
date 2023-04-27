@@ -10,27 +10,34 @@ website = 'https://worldofwarcraft.blizzard.com'
 now = datetime.now()
 formatted_time = now.strftime("%Y-%m-%d %H:%M")
 f = open(f"top100-{formatted_time}.txt", "a")
-opening = '||Rating|Spec|Player| \n'
-opening2 = '|-|-|-|-| \n'
-f.write(opening)
+
+opening1 = '&nbsp;   \n'
+opening2 = '__Top 100 Player and what they play__   \n'
+opening3 = '               \n'
+opening4 = '||Rating|Spec|Player| \n'
+opening5 = '|-|-|-|-| \n'
+f.write(opening1)
 f.write(opening2)
+f.write(opening3)
+f.write(opening4)
+f.write(opening5)
 
 dps = '⚔️'
 healer = '❤️‍🩹'
 
-warlock = '🔮'
-mage = '🧊'
-shaman = '🔵'
-death_knight = '🔴'
-druid = '🟠'
-warrior = '🟤️'
-rogue = '🟡'
-monk = '🍺'
-paladin = '🌸'
-evoker = '🐉'
-dh = '👿'
-hunter = '🦖'
-priest = '⚪'
+warlock = '🔮'  # purple globe thing
+mage = '🧊'     # ice cube
+shaman = '🔵'   # blue dot
+death_knight = '🔴' # red dot
+druid = '🟠'    # orange dot
+warrior = '🟤️'  # brown dot
+rogue = '🟡'    # yellow dot
+monk = '🍺'     # beer mug
+paladin = '🌸'  # pink flower
+evoker = '🐉'   # green dragon
+dh = '👿'       # purple demon face
+hunter = '🦖'   # green dino
+priest = '⚪'   # white dote
 
 role_icon = ''
 class_icon = ''
@@ -74,7 +81,7 @@ for index, item in enumerate(data):
     elif clas == 'Priest':
         class_icon = priest
 
-    string = f'| {index + 1} | {rating} | {role_icon} {clas} {class_icon} {spec} | [{name}]({website}{link}) |'
+    string = f'| {index + 1} | {rating} | {role_icon}{class_icon} {clas} {spec} | [{name}]({website}{link}) |'
     string = string.rstrip()
     string += ' ' * 10
     f.write(string + '\n')
@@ -85,10 +92,14 @@ with open("jsons/summary.json", "r") as infile:
     summary_data = json.load(infile)
 
 summary_file = open(f"summary-{formatted_time}.txt", "a")
-opening = '|Amount|Spec| \n'
-opening2 = '|-|-| \n'
-summary_file.write(opening)
+opening1 = '__In the top 1000 of players, how much of each class/spec represented__      \n'
+opening2 = '             \n'
+opening3 = '|Specialization|Amount|     \n'
+opening4 = '|-|-|     \n'
+summary_file.write(opening1)
 summary_file.write(opening2)
+summary_file.write(opening3)
+summary_file.write(opening4)
 
 for key, value in summary_data.items():
 
@@ -105,39 +116,37 @@ for key, value in summary_data.items():
     else:
         role_icon = dps
 
-    # if substring in fullstring:
-    #     print("Found!")
-    # else:
-    #     print("Not found!")
-
     if 'Warlock' in key:
         class_icon = warlock
-    elif 'Mage' == key:
+    elif 'Mage' in key:
         class_icon = mage
-    elif 'Shaman' == key:
+    elif 'Shaman' in key:
         class_icon = shaman
-    elif 'Deathknight' == key:
+    elif 'Deathknight' in key:
         class_icon = death_knight
-    elif 'Druid' == key:
+    elif 'Druid' in key:
         class_icon = druid
-    elif 'Warrior' == key:
+    elif 'Warrior' in key:
         class_icon = warrior
-    elif 'Rogue' == key:
+    elif 'Rogue' in key:
         class_icon = rogue
-    elif 'Monk' == key:
+    elif 'Monk' in key:
         class_icon = monk
-    elif 'Paladin' == key:
+    elif 'Paladin' in key:
         class_icon = paladin
-    elif 'Evoker' == key:
+    elif 'Evoker' in key:
         class_icon = evoker
-    elif 'Demonhunter' == key:
+    elif 'Demonhunter' in key:
         class_icon = dh
-    elif 'Hunter' == key:
+    elif 'Hunter' in key:
         class_icon = hunter
-    elif 'Priest' == key:
+    elif 'Priest' in key:
         class_icon = priest
 
-    string = f'|{role_icon}{class_icon}{key}|{value}|'
+    print(key)
+    print(class_icon)
+
+    string = f'|{role_icon}{class_icon} {key}|{value}|'
     string = string.rstrip()
     string += ' ' * 10
     summary_file.write(string + '\n')

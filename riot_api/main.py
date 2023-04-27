@@ -38,7 +38,7 @@ now = datetime.now()
 formatted_time = now.strftime("%Y-%m-%d %H:%M")
 print(formatted_time)
 
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final3_list_1682466979.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final3_list_keep.json') as user_file:
     file_contents = user_file.read()
 final3_list = json.loads(file_contents)
 
@@ -46,33 +46,32 @@ data_import = created_ranked_list()
 
 
 def publish_file2(data):
-
     now = datetime.now()
-    formatted_time = now.strftime("%Y-%m-%d %H:%M")
     f = open(f"publish-{formatted_time}.txt", "a")
-    yesterday_link = 'set Link'
+    yesterday_link = 'https://www.reddit.com/r/leagueoflegends/comments/13025eh/popular_champions_in_challenger_and_how_they/'
     meta_data = "__Champion Rank Points:__     \n" \
-           "(highly subject to change)      \n" \
-           "Picked + 1 Point     \n" \
-           "Banned + 1 Point      \n" \
-           "Won + 1 Point     \n" \
-           "&nbsp;     \n" \
-           "     \n" \
-           "__Best Player Points:__     \n" \
-           "(highly subject to change)     \n" \
-           "Kill + 2 Points     \n" \
-           "Death - 2 Points     \n" \
-           "Assist + 1 Point     \n" \
-           "&nbsp;     \n" \
-           "     \n" \
-           "__Selection Criteria:__     \n" \
-           "Challenger Player     \n" \
-           "NA/EU/Korean Ladder (want China but it's not available)     \n" \
-           "Match in the past 72 Hours     \n" \
-           "&nbsp;     \n" \
-           "     \n"
-    opening = f'||Champion|Points|Rank Change from [Yesterday]({yesterday_link})|Best Player| \n' \
-                              '|-|-|-|-|-| \n'
+                "(highly subject to change)      \n" \
+                "Picked +1 Point     \n" \
+                "Banned +1 Point      \n" \
+                "Won +2 Points     \n" \
+                "Loss -2 Points     \n" \
+                "&nbsp;     \n" \
+                "     \n" \
+                "__Best Player Points:__     \n" \
+                "(highly subject to change)     \n" \
+                "Kill +2 Points     \n" \
+                "Death -2 Points     \n" \
+                "Assist +1 Point     \n" \
+                "&nbsp;     \n" \
+                "     \n" \
+                "__Selection Criteria:__     \n" \
+                "Challenger Player     \n" \
+                "NA/EU/Korean Ladder (want China but it's not available)     \n" \
+                "Match in the past 72 Hours     \n" \
+                "&nbsp;     \n" \
+                "     \n"
+    opening = f'||Champion|Points|Win % / Games Played|Rank Change from [Yesterday]({yesterday_link})|Best Player| \n' \
+              '|-|-|-|-|-|-| \n'
     f.write(meta_data)
     f.write(opening)
 
@@ -95,7 +94,7 @@ def publish_file2(data):
         elif champ['botPlayer_name'] == '':
             link_string_bot = ''
 
-        string = f"| {index + 1} | {champ['champName']} | {champ['champScore']} |{rank_symbol} {rank_value}| {link_string_top} |\n"
+        string = f"| {index + 1} | {champ['champName']} | {champ['champScore']} |{champ['champWinPercent']} / {champ['champGames']}|{rank_symbol} {rank_value}| {link_string_top} |\n"
         string = string.rstrip()
         string += ' ' * 10
         f.write(string + '\n')

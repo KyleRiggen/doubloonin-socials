@@ -73,7 +73,6 @@ for spec_url in url_end:
         character_names.append(name_text)
 
     split_spec = spec_url.split('/')
-    print(split_spec)
 
     for index, rating in enumerate(ratings):
         info = {

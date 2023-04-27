@@ -15,6 +15,13 @@ yesterday = json.loads(file_contents)
 def created_ranked_list():
     new_data = []
     for champ in data:
+        champGames = data[champ]['champStats']['picks']
+
+        if champGames != 0:
+            champWinPercentage = round((data[champ]['champStats']['wins'] / champGames), 2)
+        else:
+            champWinPercentage = '-'
+
         champName = data[champ]['champName']
         champScore = round(data[champ]['score'], 1)
 
@@ -48,8 +55,11 @@ def created_ranked_list():
             botPlayer_region = ''
 
         new_data.append({
+
             'champName': champName,
             'champScore': champScore,
+            'champGames': champGames,
+            'champWinPercent': champWinPercentage,
             'topPlayer_name': topPlayer_name,
             'topPlayer_region': topPlayer_region,
             'botPlayer_name': botPlayer_name,

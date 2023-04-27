@@ -3,8 +3,8 @@ config = {
         "kill": 2,
         "death": -2,
         "assist": 1,
-        "loss": -1,
-        "win": 1,
+        "loss": -2,
+        "win": 2,
         "ban": 1,
         "pick": 1,
         "visionScore": 0

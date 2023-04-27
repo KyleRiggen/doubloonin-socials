@@ -1,0 +1,42 @@
+__In the top 1000 of players, how much of each class/spec represented__      
+             
+|Specialization|Amount|     
+|-|-|     
+|⚔️🌸 Paladin Retribution|100|          
+|⚔️🔮 Warlock Demonology|82|          
+|⚔️🦖 Hunter Beastmastery|67|          
+|⚔️🟤️ Warrior Arms|66|          
+|⚔️🔵 Shaman Elemental|60|          
+|⚔️🔮 Warlock Destruction|58|          
+|❤️‍🩹🍺 Monk Mistweaver|50|          
+|❤️‍🩹⚪ Priest Discipline|44|          
+|⚔️🍺 Monk Windwalker|40|          
+|❤️‍🩹🌸 Paladin Holy|38|          
+|⚔️👿 Demonhunter Havoc|35|          
+|❤️‍🩹🔵 Shaman Restoration|34|          
+|⚔️🟠 Druid Feral|32|          
+|⚔️🟠 Druid Balance|30|          
+|⚔️🦖 Hunter Marksmanship|29|          
+|❤️‍🩹🟠 Druid Restoration|28|          
+|⚔️🟡 Rogue Assassination|26|          
+|⚔️🧊 Mage Frost|25|          
+|⚔️⚪ Priest Shadow|20|          
+|❤️‍🩹🐉 Evoker Preservation|17|          
+|⚔️🟡 Rogue Subtlety|17|          
+|⚔️🔴 Deathknight Unholy|15|          
+|⚔️🦖 Hunter Survival|14|          
+|⚔️🔵 Shaman Enhancement|14|          
+|⚔️🔮 Warlock Affliction|14|          
+|⚔️🧊 Mage Arcane|13|          
+|⚔️🧊 Mage Fire|10|          
+|⚔️🐉 Evoker Devastation|9|          
+|⚔️🔴 Deathknight Frost|8|          
+|❤️‍🩹⚪ Priest Holy|2|          
+|⚔️🟡 Rogue Outlaw|2|          
+|⚔️🟤️ Warrior Fury|1|          
+|⚔️🔴 Deathknight Blood|0|          
+|⚔️👿 Demonhunter Vengeance|0|          
+|⚔️🟠 Druid Guardian|0|          
+|⚔️🍺 Monk Brewmaster|0|          
+|⚔️🌸 Paladin Protection|0|          
+|⚔️🟤️ Warrior Protection|0|          
