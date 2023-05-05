@@ -1,8 +1,8 @@
-from doubloonin.riot_api.building_files.generate_working_list import build_working_list
-from doubloonin.riot_api.config_variables import *
+from generate_working_list import build_working_list
+from config_variables import *
 import json
 
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/champion.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/champion.json') as user_file:
     file_contents = user_file.read()
 champs_json = json.loads(file_contents)
 
@@ -109,7 +109,7 @@ def building_final_list():
         score = score + (final_results[champ]['champStats']['bans'] * config['points']['ban'])
         final_results[champ]['score'] = score
 
-    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final_list.json', 'w',
+    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/final_list.json', 'w',
               encoding='utf-8') as f:
         json.dump(final_results, f, ensure_ascii=False, indent=4)
 

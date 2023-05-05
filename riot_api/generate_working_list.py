@@ -1,10 +1,10 @@
-from doubloonin.riot_api.building_files.setup import setup_enviorment
-from doubloonin.riot_api.building_files.generate_match_list import build_match_list
-from doubloonin.riot_api.config_variables import *
+import setup_api_stuff
+from generate_match_list import build_match_list
+from config_variables import *
 import time
 import json
 
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/puuid_list.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/puuid_list.json') as user_file:
     file_contents = user_file.read()
 puuid_list = json.loads(file_contents)
 
@@ -13,7 +13,7 @@ now_nice = time.ctime(time.time())
 one_day = 86400
 one_day_ago = now - one_day
 
-lol_watcher = setup_enviorment()
+lol_watcher = setup_api_stuff.setup_enviorment()
 result = build_match_list()
 matches_to_go_over = len(result)
 all_matches = []
@@ -97,7 +97,7 @@ def build_working_list():
     now_nice = time.ctime(time.time())
     print(f'{now_nice} match number after filtering for time: {len(all_matches_finished)}')
 
-    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/working_list.json', 'w',
+    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/working_list.json', 'w',
               encoding='utf-8') as f:
         json.dump(all_matches_finished, f, ensure_ascii=False, indent=4)
 

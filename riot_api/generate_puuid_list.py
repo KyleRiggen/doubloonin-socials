@@ -1,7 +1,7 @@
-from doubloonin.riot_api.building_files.setup import *
+import setup_api_stuff
 import json
 
-lol_watcher = setup_enviorment()
+lol_watcher = setup_api_stuff.setup_enviorment()
 player_region = ['na1', 'euw1', 'kr']
 queue_type = 'RANKED_SOLO_5x5'
 puuid_list_wRegion = []
@@ -26,8 +26,8 @@ for region in player_region:
 
 print(len(puuid_list_wRegion))
 
-with open('../json/puuid_list_wRegion.json', 'w', encoding='utf-8') as f:
+with open('json/puuid_list_wRegion.json', 'w', encoding='utf-8') as f:
     json.dump(puuid_list_wRegion, f, ensure_ascii=False, indent=4)
 
-with open('../json/puuid_list.json', 'w', encoding='utf-8') as f:
+with open('json/puuid_list.json', 'w', encoding='utf-8') as f:
     json.dump(puuid_list, f, ensure_ascii=False, indent=4)

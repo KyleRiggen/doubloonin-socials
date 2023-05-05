@@ -1,4 +1,4 @@
-from doubloonin.riot_api.building_files.generate_final_list import building_final_list
+from generate_final_list import building_final_list
 import json
 
 champStats = building_final_list()
@@ -19,7 +19,7 @@ def get_top_player():
         champStats[champ]['players'] = sorted_players
         #print(f'added up new players to champ {champ}: {sorted_players}')
 
-    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final2_list.json', 'w', encoding='utf-8') as f:
+    with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/final2_list.json', 'w', encoding='utf-8') as f:
         json.dump(champStats, f, ensure_ascii=False, indent=4)
 
     return champStats

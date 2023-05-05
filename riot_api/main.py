@@ -1,4 +1,4 @@
-from doubloonin.riot_api.building_files.generate_final3_list import created_ranked_list
+from generate_final3_list import created_ranked_list
 import json
 import time as pause
 from datetime import datetime
@@ -38,7 +38,7 @@ now = datetime.now()
 formatted_time = now.strftime("%Y-%m-%d %H:%M")
 print(formatted_time)
 
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final3_list_keep.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/final3_list_keep.json') as user_file:
     file_contents = user_file.read()
 final3_list = json.loads(file_contents)
 
@@ -70,7 +70,7 @@ def publish_file2(data):
                 "Match in the past 72 Hours     \n" \
                 "&nbsp;     \n" \
                 "     \n"
-    opening = f'||Champion|Points|Win % / Games Played|Rank Change from [Yesterday]({yesterday_link})|Best Player| \n' \
+    opening = f'||Champion|Points|Win % / Games Played|Rank Change from [Last Week]({yesterday_link})|Best Player| \n' \
               '|-|-|-|-|-|-| \n'
     f.write(meta_data)
     f.write(opening)

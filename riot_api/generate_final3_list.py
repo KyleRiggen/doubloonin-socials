@@ -1,13 +1,13 @@
-from doubloonin.riot_api.building_files.generate_final2_list import get_top_player
+from generate_final2_list import get_top_player
 import json
 import time
 
 data = get_top_player()
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final2_list.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/final2_list.json') as user_file:
     file_contents = user_file.read()
 final2_list = json.loads(file_contents)
 
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final3_list_keep.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/final3_list_keep.json') as user_file:
     file_contents = user_file.read()
 yesterday = json.loads(file_contents)
 
@@ -84,6 +84,6 @@ def created_ranked_list():
 
 # shipping json
 now = round(time.time())
-with open(f'/Users/kyleriggenbach/Desktop/projects/doubloonin/riot_api/json/final3_list_{now}.json', 'w', encoding='utf-8') as f:
+with open(f'/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/final3_list_{now}.json', 'w', encoding='utf-8') as f:
     json.dump(created_ranked_list(), f, ensure_ascii=False, indent=4)
 
