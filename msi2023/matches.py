@@ -1804,7 +1804,186 @@ matches = [
                 'position': 'sup'
             }
         ]
+    },
+    {
+        "winner": "PSG",
+        "looser": "LLL",
+        'Bracket': 'Play-in',
+        'Match': 'Lower Bracket Round 2',
+        'Date': '6 May 2023',
+        "bans": ['Olaf', 'Maokai', 'Xayah', 'Ahri', 'Malphite', 'Lucian', 'Vi', 'Nautilus', 'Viego', 'Kindred'],
+        'picks': [
+            {
+                'champ': "Kennen",
+                'win': True,
+                'kills': 4,
+                'deaths': 0,
+                'assists': 6,
+                'position': 'top'
+            },
+            {
+                'champ': 'Sejuani',
+                'win': True,
+                'kills': 2,
+                'deaths': 0,
+                'assists': 13,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Trisana',
+                'win': True,
+                'kills': 6,
+                'deaths': 1,
+                'assists': 1,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Aphelios',
+                'win': True,
+                'kills': 3,
+                'deaths': 2,
+                'assists': 6,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Thresh',
+                'win': True,
+                'kills': 1,
+                'deaths': 2,
+                'assists': 10,
+                'position': 'sup'
+            },
+            {
+                'champ': "Ryze",
+                'win': False,
+                'kills': 0,
+                'deaths': 6,
+                'assists': 2,
+                'position': 'top'
+            },
+            {
+                'champ': 'Wukong',
+                'win': False,
+                'kills': 4,
+                'deaths': 5,
+                'assists': 0,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Cassiopeia',
+                'win': False,
+                'kills': 0,
+                'deaths': 1,
+                'assists': 0,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Zeri',
+                'win': False,
+                'kills': 1,
+                'deaths': 1,
+                'assists': 3,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Rakan',
+                'win': False,
+                'kills': 0,
+                'deaths': 3,
+                'assists': 4,
+                'position': 'sup'
+            }
+        ]
+    },
+    {
+        "winner": "PSG",
+        "looser": "LLL",
+        'Bracket': 'Play-in',
+        'Match': 'Lower Bracket Round 2',
+        'Date': '0 May 2023',
+        "bans": ['Lucian', 'Vi', 'Kennen', 'Syndra', 'Sylas', 'Olaf', 'Maokai', 'Xayah', 'Gnar', 'Jax'],
+        'picks': [
+            {
+                'champ': "K'Sante",
+                'win': True,
+                'kills': 1,
+                'deaths': 0,
+                'assists': 15,
+                'position': 'top'
+            },
+            {
+                'champ': 'Kindred',
+                'win': True,
+                'kills': 8,
+                'deaths': 2,
+                'assists': 10,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Galio',
+                'win': True,
+                'kills': 3,
+                'deaths': 3,
+                'assists': 17,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Aphelios',
+                'win': True,
+                'kills': 11,
+                'deaths': 2,
+                'assists': 8,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Thresh',
+                'win': True,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 21,
+                'position': 'sup'
+            },
+            {
+                'champ': "Malphite",
+                'win': False,
+                'kills': 0,
+                'deaths': 4,
+                'assists': 2,
+                'position': 'top'
+            },
+            {
+                'champ': 'Viego',
+                'win': False,
+                'kills': 2,
+                'deaths': 4,
+                'assists': 5,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Annie',
+                'win': False,
+                'kills': 2,
+                'deaths': 3,
+                'assists': 3,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Zeri',
+                'win': False,
+                'kills': 4,
+                'deaths': 3,
+                'assists': 2,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Nautilus',
+                'win': False,
+                'kills': 0,
+                'deaths': 9,
+                'assists': 3,
+                'position': 'sup'
+            }
+        ]
     }
 ]
 
-print(len(matches))

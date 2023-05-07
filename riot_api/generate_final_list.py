@@ -25,7 +25,6 @@ def building_final_list():
         added_banned_champs[champ] = 0
 
     for champ in banned_champs:
-        # addUp = 0
         if champ not in added_banned_champs.keys():
             added_banned_champs[champ] = 1
         else:
