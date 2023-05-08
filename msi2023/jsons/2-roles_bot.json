@@ -1,15 +1,15 @@
 {
+    "Zeri": {
+        "kills": 59,
+        "deaths": 26,
+        "assists": 61,
+        "score": 127
+    },
     "Aphelios": {
         "kills": 56,
         "deaths": 29,
         "assists": 56,
         "score": 110
-    },
-    "Zeri": {
-        "kills": 40,
-        "deaths": 24,
-        "assists": 53,
-        "score": 85
     },
     "Xayah": {
         "kills": 48,
@@ -18,21 +18,33 @@
         "score": 78
     },
     "Jinx": {
-        "kills": 38,
-        "deaths": 30,
-        "assists": 46,
+        "kills": 40,
+        "deaths": 33,
+        "assists": 48,
         "score": 62
     },
     "Lucian": {
-        "kills": 21,
-        "deaths": 12,
+        "kills": 24,
+        "deaths": 17,
         "assists": 22,
-        "score": 40
+        "score": 36
     },
     "Tristana": {
         "kills": 11,
         "deaths": 1,
         "assists": 3,
         "score": 23
+    },
+    "Kaisa": {
+        "kills": 6,
+        "deaths": 0,
+        "assists": 4,
+        "score": 16
+    },
+    "Ezreal": {
+        "kills": 2,
+        "deaths": 4,
+        "assists": 0,
+        "score": -4
     }
 }

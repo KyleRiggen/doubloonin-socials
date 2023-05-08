@@ -1,4 +1,4 @@
-__Champion Rank Points:__     
+__Role Champion Rank Points:__     
 (highly subject to change)      
 Kill +2 Points     
 Death -2 Points      
@@ -8,17 +8,16 @@ Assist +1 Point
 ||Jungle Champion|Points| 
 |-|-|-| 
 | 1 | Nidalee | 81 |          
-| 2 | Vi | 67 |          
-| 3 | Viego | 51 |          
+| 2 | Vi | 75 |          
+| 3 | Viego | 61 |          
 | 4 | Wukong | 32 |          
-| 5 | Sejuani | 26 |          
-| 6 | Khazix | 24 |          
-| 7 | Kindred | 18 |          
+| 5 | Sejuani | 30 |          
+| 6 | Maokai | 25 |          
+| 7 | Khazix | 23 |          
 | 8 | Poppy | 16 |          
-| 9 | Maokai | 15 |          
+| 9 | Kindred | 15 |          
 | 10 | Gragas | 12 |          
 | 11 | Lee Sin | 10 |          
 | 12 | Nocturne | 9 |          
 | 13 | Elise | 7 |          
 | 14 | Jarvan IV | 1 |          
-| 15 | River | -3 |          

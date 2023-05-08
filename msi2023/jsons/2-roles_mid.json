@@ -1,9 +1,9 @@
 {
     "Ahri": {
-        "kills": 39,
+        "kills": 41,
         "deaths": 17,
-        "assists": 67,
-        "score": 111
+        "assists": 74,
+        "score": 122
     },
     "Nautilus": {
         "kills": 8,
@@ -18,9 +18,9 @@
         "score": 41
     },
     "Taliyah": {
-        "kills": 9,
-        "deaths": 4,
-        "assists": 16,
+        "kills": 10,
+        "deaths": 9,
+        "assists": 24,
         "score": 26
     },
     "LeBlanc": {
@@ -34,6 +34,18 @@
         "deaths": 9,
         "assists": 19,
         "score": 23
+    },
+    "Lissandra": {
+        "kills": 14,
+        "deaths": 33,
+        "assists": 57,
+        "score": 19
+    },
+    "Syndra": {
+        "kills": 9,
+        "deaths": 4,
+        "assists": 8,
+        "score": 18
     },
     "Cassiopeia": {
         "kills": 5,
@@ -53,23 +65,11 @@
         "assists": 12,
         "score": 16
     },
-    "Lissandra": {
-        "kills": 8,
-        "deaths": 26,
-        "assists": 51,
-        "score": 15
-    },
     "Annie": {
         "kills": 14,
         "deaths": 19,
         "assists": 24,
         "score": 14
-    },
-    "Syndra": {
-        "kills": 4,
-        "deaths": 2,
-        "assists": 7,
-        "score": 11
     },
     "Trisana": {
         "kills": 6,
@@ -80,6 +80,12 @@
     "Swain": {
         "kills": 2,
         "deaths": 1,
+        "assists": 5,
+        "score": 7
+    },
+    "K'Sante": {
+        "kills": 3,
+        "deaths": 2,
         "assists": 5,
         "score": 7
     },

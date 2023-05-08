@@ -779,7 +779,7 @@ matches = [
                 'position': 'top'
             },
             {
-                'champ': 'River',
+                'champ': 'Kindred',
                 'win': False,
                 'kills': 2,
                 'deaths': 5,
@@ -1900,7 +1900,7 @@ matches = [
         "looser": "LLL",
         'Bracket': 'Play-in',
         'Match': 'Lower Bracket Round 2',
-        'Date': '0 May 2023',
+        'Date': '6 May 2023',
         "bans": ['Lucian', 'Vi', 'Kennen', 'Syndra', 'Sylas', 'Olaf', 'Maokai', 'Xayah', 'Gnar', 'Jax'],
         'picks': [
             {
@@ -1984,6 +1984,274 @@ matches = [
                 'position': 'sup'
             }
         ]
+    },
+    {
+        "winner": "GG",
+        "looser": "PSG",
+        'Bracket': 'Play-in',
+        'Match': 'Lower Bracket Final',
+        'Date': '7 May 2023',
+        "bans": ['Aphelios', 'Annie', 'Vi', 'Kindred', 'Galio', 'Rakan', 'Lucian', 'LeBlanc', 'Nautilus', 'Varus'],
+        'picks': [
+            {
+                'champ': "Kennen",
+                'win': True,
+                'kills': 3,
+                'deaths': 3,
+                'assists': 2,
+                'position': 'top'
+            },
+            {
+                'champ': 'Viego',
+                'win': True,
+                'kills': 3,
+                'deaths': 1,
+                'assists': 6,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Ahri',
+                'win': True,
+                'kills': 2,
+                'deaths': 0,
+                'assists': 7,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Kaisa',
+                'win': True,
+                'kills': 6,
+                'deaths': 0,
+                'assists': 4,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Sett',
+                'win': True,
+                'kills': 0,
+                'deaths': 1,
+                'assists': 8,
+                'position': 'sup'
+            },
+            {
+                'champ': "K'Sante",
+                'win': False,
+                'kills': 2,
+                'deaths': 3,
+                'assists': 2,
+                'position': 'top'
+            },
+            {
+                'champ': 'Khazix',
+                'win': False,
+                'kills': 1,
+                'deaths': 3,
+                'assists': 3,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Lissandra',
+                'win': False,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 3,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Ezreal',
+                'win': False,
+                'kills': 2,
+                'deaths': 4,
+                'assists': 0,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Karma',
+                'win': False,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 4,
+                'position': 'sup'
+            }
+        ]
+    }, {
+        "winner": "GG",
+        "looser": "PSG",
+        'Bracket': 'Play-in',
+        'Match': 'Lower Bracket Final',
+        'Date': '7 May 2023',
+        "bans": ['Rakan', 'LeBlanc', 'Ahri', 'Lulu', 'Sylas', 'Aphelios', 'Ezreal', 'Kennen', 'Tristana', "K'Sante"],
+        'picks': [
+            {
+                'champ': "Poppy",
+                'win': True,
+                'kills': 4,
+                'deaths': 1,
+                'assists': 9,
+                'position': 'top'
+            },
+            {
+                'champ': 'Vi',
+                'win': True,
+                'kills': 1,
+                'deaths': 3,
+                'assists': 14,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Lissandra',
+                'win': True,
+                'kills': 6,
+                'deaths': 5,
+                'assists': 3,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Zeri',
+                'win': True,
+                'kills': 9,
+                'deaths': 1,
+                'assists': 6,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Annie',
+                'win': True,
+                'kills': 1,
+                'deaths': 3,
+                'assists': 18,
+                'position': 'sup'
+            },
+            {
+                'champ': "Gnar",
+                'win': False,
+                'kills': 2,
+                'deaths': 3,
+                'assists': 3,
+                'position': 'top'
+            },
+            {
+                'champ': 'Sejuani',
+                'win': False,
+                'kills': 5,
+                'deaths': 4,
+                'assists': 2,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Taliyah',
+                'win': False,
+                'kills': 1,
+                'deaths': 5,
+                'assists': 8,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Lucian',
+                'win': False,
+                'kills': 3,
+                'deaths': 5,
+                'assists': 0,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Nami',
+                'win': False,
+                'kills': 0,
+                'deaths': 4,
+                'assists': 10,
+                'position': 'sup'
+            }
+        ]
+    },
+    {
+        "winner": "GG",
+        "looser": "PSG",
+        'Bracket': 'Play-in',
+        'Match': 'Lower Bracket Final',
+        'Date': '7 May 2023',
+        "bans": ['Rakan', 'Viego', 'Ahri', 'Gragas', 'Poppy', 'Aphelios', 'Ezreal', 'Kennen', 'Taliyah', 'Galio'],
+        'picks': [
+            {
+                'champ': "Ornn",
+                'win': True,
+                'kills': 0,
+                'deaths': 1,
+                'assists': 9,
+                'position': 'top'
+            },
+            {
+                'champ': 'Maokai',
+                'win': True,
+                'kills': 2,
+                'deaths': 3,
+                'assists': 12,
+                'position': 'jungle'
+            },
+            {
+                'champ': "K'Sante",
+                'win': True,
+                'kills': 3,
+                'deaths': 2,
+                'assists': 5,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Zeri',
+                'win': True,
+                'kills': 10,
+                'deaths': 1,
+                'assists': 2,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Annie',
+                'win': True,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 9,
+                'position': 'sup'
+            },
+            {
+                'champ': "Gnar",
+                'win': False,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 3,
+                'position': 'top'
+            },
+            {
+                'champ': 'Vi',
+                'win': False,
+                'kills': 1,
+                'deaths': 4,
+                'assists': 4,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Syndra',
+                'win': False,
+                'kills': 5,
+                'deaths': 2,
+                'assists': 1,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Jinx',
+                'win': False,
+                'kills': 2,
+                'deaths': 3,
+                'assists': 2,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Thresh',
+                'win': False,
+                'kills': 1,
+                'deaths': 4,
+                'assists': 5,
+                'position': 'sup'
+            }
+        ]
     }
 ]
-

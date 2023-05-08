@@ -1,33 +1,33 @@
 {
     "K'Sante": {
-        "kills": 34,
-        "deaths": 24,
-        "assists": 82,
+        "kills": 36,
+        "deaths": 27,
+        "assists": 84,
         "score": 102
     },
     "Kennen": {
-        "kills": 10,
-        "deaths": 5,
-        "assists": 23,
-        "score": 33
+        "kills": 13,
+        "deaths": 8,
+        "assists": 25,
+        "score": 35
     },
     "Gnar": {
-        "kills": 15,
-        "deaths": 10,
-        "assists": 21,
+        "kills": 17,
+        "deaths": 15,
+        "assists": 27,
         "score": 31
+    },
+    "Poppy": {
+        "kills": 9,
+        "deaths": 6,
+        "assists": 23,
+        "score": 29
     },
     "Darius": {
         "kills": 12,
         "deaths": 3,
         "assists": 9,
         "score": 27
-    },
-    "Poppy": {
-        "kills": 5,
-        "deaths": 5,
-        "assists": 14,
-        "score": 14
     },
     "Sion": {
         "kills": 4,
@@ -46,6 +46,12 @@
         "deaths": 5,
         "assists": 4,
         "score": 8
+    },
+    "Ornn": {
+        "kills": 0,
+        "deaths": 1,
+        "assists": 9,
+        "score": 7
     },
     "Renekton": {
         "kills": 6,
