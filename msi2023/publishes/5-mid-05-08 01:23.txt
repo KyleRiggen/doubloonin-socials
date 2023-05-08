@@ -1,0 +1,27 @@
+__Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Mid Champion|Points| 
+|-|-|-| 
+| 1 | Ahri | 111 |          
+| 2 | Nautilus | 44 |          
+| 3 | Gragas | 41 |          
+| 4 | Taliyah | 26 |          
+| 5 | LeBlanc | 25 |          
+| 6 | Sylas | 23 |          
+| 7 | Cassiopeia | 17 |          
+| 8 | Galio | 17 |          
+| 9 | Yasuo | 16 |          
+| 10 | Lissandra | 15 |          
+| 11 | Annie | 14 |          
+| 12 | Syndra | 11 |          
+| 13 | Trisana | 11 |          
+| 14 | Swain | 7 |          
+| 15 | Orianna | 3 |          
+| 16 | Jayce | 2 |          
+| 17 | Tristana | 1 |          
+| 18 | Aurelion Sol | -5 |          

@@ -13,12 +13,10 @@ champs_json = json.loads(file_contents)
 results = []
 for champ in champs_json['data']:
 
-    champID = champs_json['data'][champ]['key']
     champName = champs_json['data'][champ]['name']
 
     results.append({
         'name': champName,
-        'id': champID,
         'picks': 0,
         'bans': bans_json[champ],
         'kills': 0,
@@ -73,11 +71,17 @@ for index, champ in enumerate(results):
 
     results[index]['score'] = score
 
+print(len(results))
+new_results = []
+for champ in results:
+    if champ['picks'] == 0 and champ['bans'] == 0:
+        print(f'if block: name: {champ["name"]} picks: {champ["picks"]} bans: {champ["bans"]}')
+    else:
+        #print(f'else block: name: {champ["name"]} picks: {champ["picks"]} bans: {champ["bans"]}')
+        new_results.append(champ)
 
 
-
-
-sorted_list = sorted(results, key=lambda k: k['picks'], reverse=True)
+sorted_list = sorted(new_results, key=lambda k: k['score'], reverse=True)
 print(len(sorted_list))
 
 with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/msi2023/jsons/2-total_stats.json', 'w',

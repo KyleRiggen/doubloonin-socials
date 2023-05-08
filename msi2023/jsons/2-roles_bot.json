@@ -1,0 +1,38 @@
+{
+    "Aphelios": {
+        "kills": 56,
+        "deaths": 29,
+        "assists": 56,
+        "score": 110
+    },
+    "Zeri": {
+        "kills": 40,
+        "deaths": 24,
+        "assists": 53,
+        "score": 85
+    },
+    "Xayah": {
+        "kills": 48,
+        "deaths": 33,
+        "assists": 48,
+        "score": 78
+    },
+    "Jinx": {
+        "kills": 38,
+        "deaths": 30,
+        "assists": 46,
+        "score": 62
+    },
+    "Lucian": {
+        "kills": 21,
+        "deaths": 12,
+        "assists": 22,
+        "score": 40
+    },
+    "Tristana": {
+        "kills": 11,
+        "deaths": 1,
+        "assists": 3,
+        "score": 23
+    }
+}

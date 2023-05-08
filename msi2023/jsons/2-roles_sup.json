@@ -1,0 +1,92 @@
+{
+    "Rakan": {
+        "kills": 6,
+        "deaths": 43,
+        "assists": 140,
+        "score": 66
+    },
+    "Nami": {
+        "kills": 4,
+        "deaths": 10,
+        "assists": 60,
+        "score": 48
+    },
+    "Lulu": {
+        "kills": 8,
+        "deaths": 12,
+        "assists": 45,
+        "score": 37
+    },
+    "Thresh": {
+        "kills": 1,
+        "deaths": 10,
+        "assists": 45,
+        "score": 27
+    },
+    "Renata Glasc": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 27,
+        "score": 21
+    },
+    "Annie": {
+        "kills": 1,
+        "deaths": 0,
+        "assists": 12,
+        "score": 14
+    },
+    "Sett": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 17,
+        "score": 11
+    },
+    "Amumu": {
+        "kills": 0,
+        "deaths": 2,
+        "assists": 13,
+        "score": 9
+    },
+    "Morgana": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 10,
+        "score": 4
+    },
+    "Braum": {
+        "kills": 2,
+        "deaths": 5,
+        "assists": 9,
+        "score": 3
+    },
+    "Rell": {
+        "kills": 0,
+        "deaths": 6,
+        "assists": 14,
+        "score": 2
+    },
+    "Leona": {
+        "kills": 2,
+        "deaths": 17,
+        "assists": 28,
+        "score": -2
+    },
+    "Blitzcrank": {
+        "kills": 1,
+        "deaths": 9,
+        "assists": 11,
+        "score": -5
+    },
+    "Nautilus": {
+        "kills": 0,
+        "deaths": 14,
+        "assists": 17,
+        "score": -11
+    },
+    "Tahm Kench": {
+        "kills": 0,
+        "deaths": 10,
+        "assists": 7,
+        "score": -13
+    }
+}

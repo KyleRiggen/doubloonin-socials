@@ -1,0 +1,86 @@
+{
+    "K'Sante": {
+        "kills": 34,
+        "deaths": 24,
+        "assists": 82,
+        "score": 102
+    },
+    "Kennen": {
+        "kills": 10,
+        "deaths": 5,
+        "assists": 23,
+        "score": 33
+    },
+    "Gnar": {
+        "kills": 15,
+        "deaths": 10,
+        "assists": 21,
+        "score": 31
+    },
+    "Darius": {
+        "kills": 12,
+        "deaths": 3,
+        "assists": 9,
+        "score": 27
+    },
+    "Poppy": {
+        "kills": 5,
+        "deaths": 5,
+        "assists": 14,
+        "score": 14
+    },
+    "Sion": {
+        "kills": 4,
+        "deaths": 3,
+        "assists": 12,
+        "score": 14
+    },
+    "Gragas": {
+        "kills": 5,
+        "deaths": 11,
+        "assists": 22,
+        "score": 10
+    },
+    "Gwen": {
+        "kills": 7,
+        "deaths": 5,
+        "assists": 4,
+        "score": 8
+    },
+    "Renekton": {
+        "kills": 6,
+        "deaths": 14,
+        "assists": 18,
+        "score": 2
+    },
+    "Fiora": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 5,
+        "score": -1
+    },
+    "Jax": {
+        "kills": 7,
+        "deaths": 14,
+        "assists": 7,
+        "score": -7
+    },
+    "Olaf": {
+        "kills": 1,
+        "deaths": 5,
+        "assists": 1,
+        "score": -7
+    },
+    "Ryze": {
+        "kills": 0,
+        "deaths": 6,
+        "assists": 2,
+        "score": -10
+    },
+    "Malphite": {
+        "kills": 10,
+        "deaths": 30,
+        "assists": 18,
+        "score": -22
+    }
+}

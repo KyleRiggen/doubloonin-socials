@@ -1,0 +1,15 @@
+__Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Bot Champion|Points| 
+|-|-|-| 
+| 1 | Aphelios | 110 |          
+| 2 | Zeri | 85 |          
+| 3 | Xayah | 78 |          
+| 4 | Jinx | 62 |          
+| 5 | Lucian | 40 |          
+| 6 | Tristana | 23 |          
