@@ -1,0 +1,15 @@
+__Role Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Top Champion|Points| 
+|-|-|-| 
+| 1 | Kennen | 8 |          
+| 2 | Fiora | 7 |          
+| 3 | Tristana | 4 |          
+| 4 | K'Sante | 4 |          
+| 5 | Malphite | 3 |          
+| 6 | Darius | 1 |          

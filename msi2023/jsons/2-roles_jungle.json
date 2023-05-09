@@ -1,86 +1,38 @@
 {
-    "Nidalee": {
-        "kills": 30,
-        "deaths": 5,
-        "assists": 31,
-        "score": 81
-    },
     "Vi": {
-        "kills": 24,
-        "deaths": 18,
-        "assists": 63,
-        "score": 75
-    },
-    "Viego": {
-        "kills": 32,
-        "deaths": 36,
-        "assists": 69,
-        "score": 61
-    },
-    "Wukong": {
-        "kills": 28,
-        "deaths": 33,
-        "assists": 42,
-        "score": 32
-    },
-    "Sejuani": {
-        "kills": 10,
-        "deaths": 8,
-        "assists": 26,
-        "score": 30
-    },
-    "Maokai": {
         "kills": 7,
-        "deaths": 9,
-        "assists": 29,
-        "score": 25
-    },
-    "Khazix": {
-        "kills": 19,
-        "deaths": 13,
-        "assists": 11,
-        "score": 23
-    },
-    "Poppy": {
-        "kills": 4,
-        "deaths": 0,
-        "assists": 8,
+        "deaths": 2,
+        "assists": 6,
         "score": 16
     },
-    "Kindred": {
-        "kills": 14,
-        "deaths": 14,
-        "assists": 15,
-        "score": 15
+    "Nidalee": {
+        "kills": 8,
+        "deaths": 5,
+        "assists": 10,
+        "score": 16
     },
-    "Gragas": {
-        "kills": 5,
-        "deaths": 7,
-        "assists": 16,
-        "score": 12
-    },
-    "Lee Sin": {
-        "kills": 3,
-        "deaths": 2,
-        "assists": 8,
-        "score": 10
-    },
-    "Nocturne": {
-        "kills": 3,
-        "deaths": 2,
-        "assists": 7,
-        "score": 9
-    },
-    "Elise": {
-        "kills": 5,
-        "deaths": 4,
-        "assists": 5,
-        "score": 7
-    },
-    "Jarvan IV": {
+    "Poppy": {
         "kills": 2,
         "deaths": 6,
-        "assists": 9,
-        "score": 1
+        "assists": 19,
+        "score": 11
+    },
+    "Elise": {
+        "kills": 4,
+        "deaths": 1,
+        "assists": 3,
+        "score": 9
+    },
+    "Maokai": {
+        "kills": 0,
+        "deaths": 0,
+        "assists": 8,
+        "score": 8
+    },
+    "Viego": {
+        "kills": 4,
+        "deaths": 2,
+        "assists": 1,
+        "score": 5
     }
 }

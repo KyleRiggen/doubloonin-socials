@@ -1,0 +1,15 @@
+__Role Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Mid Champion|Points| 
+|-|-|-| 
+| 1 | Ahri | 27 |          
+| 2 | Tristana | 15 |          
+| 3 | Annie | 3 |          
+| 4 | Aurelion Sol | -1 |          
+| 5 | Lissandra | -2 |          
+| 6 | K'Sante | -5 |          

@@ -1,5 +1,6 @@
-from matches import *
+from matchesBracket import *
 import json
+from collections import Counter
 
 with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/json/champion.json') as user_file:
     file_contents = user_file.read()
@@ -13,11 +14,13 @@ for match in matches:
         banned_champs.append(ban)
 
 added_banned_champs = {}
-for champ in champs_json['data']:
-    added_banned_champs[champ] = banned_champs.count(champ)
+counts = Counter(banned_champs)
+added_banned_champs = dict(counts)
+
+print(added_banned_champs)
 
 # data = {k: v for k, v in added_banned_champs.items() if v != 0}
-
+print(banned_champs)
 sorted_dict = dict(sorted(added_banned_champs.items(), key=lambda item: item[1], reverse=True))
 
 

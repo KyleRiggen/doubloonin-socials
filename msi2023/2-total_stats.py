@@ -1,4 +1,4 @@
-from matches import *
+from matchesBracket import *
 from config_variables import *
 import json
 
@@ -15,10 +15,14 @@ for champ in champs_json['data']:
 
     champName = champs_json['data'][champ]['name']
 
+    banned = 0
+    if champName in bans_json:
+        banned = bans_json[champName]
+
     results.append({
         'name': champName,
         'picks': 0,
-        'bans': bans_json[champ],
+        'bans': banned,
         'kills': 0,
         'deaths': 0,
         'assists': 0,

@@ -1,0 +1,15 @@
+__Role Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Jungle Champion|Points| 
+|-|-|-| 
+| 1 | Vi | 16 |          
+| 2 | Nidalee | 16 |          
+| 3 | Poppy | 11 |          
+| 4 | Elise | 9 |          
+| 5 | Maokai | 8 |          
+| 6 | Viego | 5 |          

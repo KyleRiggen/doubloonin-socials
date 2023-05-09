@@ -1,6 +1,12 @@
-list1 = [1, 2, 3, 4, 5]
-list2 = [2, 4, 6, 8, 10]
+from collections import Counter
 
-new_list = [x for x in list1 if x in list2]
+my_list = ['Nautilus', 'Olaf', 'Annie', 'Thresh', 'Poppy', 'Jayce', 'Gnar', 'Kennen', 'Annie', 'Annie']
 
-print(new_list) # Output: [2, 4]
+counts = Counter(my_list)
+
+print(counts)
+
+# Convert Counter object to dictionary
+counts_dict = dict(counts)
+
+print(counts_dict)

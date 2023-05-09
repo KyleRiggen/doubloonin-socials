@@ -120,5 +120,7 @@ for index1, column in enumerate(grid):
     if grid[index1][4]["status"]:
         pass
 
+# todo: save each randomy gnerated grid into database/file along with (user, link, win/loss boolean)
+
 
 
