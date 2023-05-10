@@ -10,6 +10,10 @@ with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/js
     file_contents = user_file.read()
 champs_json = json.loads(file_contents)
 
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/msi2023/jsons/2-total_stats-keep.json') as user_file:
+    file_contents = user_file.read()
+yesterday = json.loads(file_contents)
+
 results = []
 for champ in champs_json['data']:
 
@@ -87,6 +91,20 @@ for champ in results:
 
 sorted_list = sorted(new_results, key=lambda k: k['score'], reverse=True)
 print(len(sorted_list))
+
+for index, champ in enumerate(sorted_list):
+    sorted_list[index]['rank'] = index + 1
+    print(champ)
+
+for index, champ in enumerate(sorted_list):
+
+    rank_change = 0
+    for index2, champ2 in enumerate(yesterday):
+        if sorted_list[index]['name'] == yesterday[index2]['name']:
+            rank_change = yesterday[index2]['rank'] - sorted_list[index]['rank']
+
+    sorted_list[index]['rankChange'] = rank_change
+
 
 with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/msi2023/jsons/2-total_stats.json', 'w',
           encoding='utf-8') as f:

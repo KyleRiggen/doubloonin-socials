@@ -17,13 +17,24 @@ meta_data = "__Total Champion Rank Points:__     \n" \
             "Loss -2 Points     \n" \
             "&nbsp;     \n" \
             "     \n"
-opening = f'||Champion|Points| \n' \
-          '|-|-|-| \n'
+
+yesterday_link = 'https://www.reddit.com/r/leagueoflegends/comments/13d1d7t/day_1_of_msi_champion_popularityperformance/'
+opening = f'||Champion|Points| Rank Change from [Yesterday]({yesterday_link})\n' \
+          '|-|-|-|-| \n'
 f.write(meta_data)
 f.write(opening)
 
 for index, champ in enumerate(data):
-    string = f"| {index + 1} | {champ['name']} | {champ['score']} |\n"
+
+    rank_value = abs(champ['rankChange'])
+    if champ['rankChange'] > 0:
+        rank_symbol = '🟩🔺'
+    elif champ['rankChange'] < 0:
+        rank_symbol = '🟥🔻'
+    else:
+        rank_symbol = '🟨'
+
+    string = f"| {index + 1} | {champ['name']} | {champ['score']} | {rank_symbol} {rank_value} | \n"
     string = string.rstrip()
     string += ' ' * 10
     f.write(string + '\n')

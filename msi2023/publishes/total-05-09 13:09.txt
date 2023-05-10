@@ -1,0 +1,43 @@
+__Total Champion Rank Points:__     
+(highly subject to change)      
+Picked +1 Point     
+Banned +1 Point      
+Won +2 Points     
+Loss -2 Points     
+&nbsp;     
+     
+||Champion|Points| Rank Change from [Yesterday](https://www.reddit.com/r/leagueoflegends/comments/13d1d7t/day_1_of_msi_champion_popularityperformance/)
+|-|-|-|-| 
+| 1 | Aphelios | 8 | 🟨 0 |          
+| 2 | Rakan | 6 | 🟨 0 |          
+| 3 | Vi | 6 | 🟩🔺 1 |          
+| 4 | Maokai | 5 | 🟩🔺 1 |          
+| 5 | Annie | 4 | 🟩🔺 1 |          
+| 6 | Blitzcrank | 4 | 🟩🔺 1 |          
+| 7 | Nautilus | 4 | 🟩🔺 3 |          
+| 8 | Olaf | 4 | 🟩🔺 3 |          
+| 9 | Poppy | 4 | 🟩🔺 7 |          
+| 10 | Ahri | 3 | 🟩🔺 2 |          
+| 11 | Fiora | 3 | 🟩🔺 3 |          
+| 12 | Kennen | 3 | 🟩🔺 8 |          
+| 13 | Leona | 3 | 🟩🔺 2 |          
+| 14 | Tristana | 3 | 🟥🔻 11 |          
+| 15 | Xayah | 3 | 🟩🔺 2 |          
+| 16 | Jayce | 2 | 🟩🔺 2 |          
+| 17 | Lissandra | 2 | 🟩🔺 4 |          
+| 18 | Draven | 1 | 🟩🔺 9 |          
+| 19 | Gnar | 1 | 🟩🔺 3 |          
+| 20 | Gragas | 1 | 🟩🔺 3 |          
+| 21 | K'Sante | 1 | 🟥🔻 13 |          
+| 22 | Lulu | 1 | 🟥🔻 13 |          
+| 23 | Sion | 1 | 🟩🔺 1 |          
+| 24 | Sylas | 1 | 🟩🔺 1 |          
+| 25 | Thresh | 1 | 🟩🔺 1 |          
+| 26 | Malphite | 0 | 🟩🔺 2 |          
+| 27 | Viego | 0 | 🟩🔺 2 |          
+| 28 | Braum | -1 | 🟩🔺 3 |          
+| 29 | Darius | -1 | 🟩🔺 3 |          
+| 30 | Jinx | -1 | 🟥🔻 11 |          
+| 31 | Nidalee | -1 | 🟩🔺 2 |          
+| 32 | Rell | -1 | 🟩🔺 2 |          
+| 33 | Zeri | -1 | 🟩🔺 3 |          
