@@ -93,7 +93,7 @@ matches = [{
         "looser": "G2",
         'Bracket': 'Play-in',
         'Match': '',
-        'Date': '0 May 2023',
+        'Date': '9 May 2023',
         "bans": ["K'Sante", 'Vi', 'Nidalee', 'Gragas', 'Sion', 'Rakan', 'Sylas', 'Olaf', 'Draven', 'Nautilus'],
         'picks': [
             {
@@ -183,7 +183,7 @@ matches = [{
         "looser": "",
         'Bracket': 'Play-in',
         'Match': '',
-        'Date': '0 May 2023',
+        'Date': '9 May 2023',
         "bans": ['Vi', 'Aphelios', 'Maokai', 'Lulu', 'Jayce', 'Viego', 'Khazix', 'Olaf', 'Draven', 'Nautilus'],
         'picks': [
             {
@@ -268,94 +268,364 @@ matches = [{
             }
         ]
     },
-    # {
-    #     "winner": "GG",
-    #     "looser": "G2",
-    #     'Bracket': 'Play-in',
-    #     'Match': '',
-    #     'Date': '0 May 2023',
-    #     "bans": ['Nautilus', 'Olaf', 'Rakan', 'Annie', 'Thresh', 'Blitzcrank', 'Malphite', 'Maokai', 'Aphelios', 'Vi'],
-    #     'picks': [
-    #         {
-    #             'champ': "K'Sante",
-    #             'win': True,
-    #             'kills': 3,
-    #             'deaths': 5,
-    #             'assists': 8,
-    #             'position': 'top'
-    #         },
-    #         {
-    #             'champ': 'Elise',
-    #             'win': True,
-    #             'kills': 4,
-    #             'deaths': 1,
-    #             'assists': 3,
-    #             'position': 'jungle'
-    #         },
-    #         {
-    #             'champ': 'Tristana',
-    #             'win': True,
-    #             'kills': 3,
-    #             'deaths': 0,
-    #             'assists': 9,
-    #             'position': 'mid'
-    #         },
-    #         {
-    #             'champ': 'Jinx',
-    #             'win': True,
-    #             'kills': 5,
-    #             'deaths': 1,
-    #             'assists': 5,
-    #             'position': 'bot'
-    #         },
-    #         {
-    #             'champ': 'Lulu',
-    #             'win': True,
-    #             'kills': 0,
-    #             'deaths': 2,
-    #             'assists': 10,
-    #             'position': 'sup'
-    #         },
-    #         {
-    #             'champ': "Kennen",
-    #             'win': False,
-    #             'kills': 2,
-    #             'deaths': 3,
-    #             'assists': 3,
-    #             'position': 'top'
-    #         },
-    #         {
-    #             'champ': 'Poppy',
-    #             'win': False,
-    #             'kills': 1,
-    #             'deaths': 3,
-    #             'assists': 5,
-    #             'position': 'jungle'
-    #         },
-    #         {
-    #             'champ': 'Aurelion Sol',
-    #             'win': False,
-    #             'kills': 4,
-    #             'deaths': 5,
-    #             'assists': 1,
-    #             'position': 'mid'
-    #         },
-    #         {
-    #             'champ': 'Draven',
-    #             'win': False,
-    #             'kills': 2,
-    #             'deaths': 2,
-    #             'assists': 2,
-    #             'position': 'bot'
-    #         },
-    #         {
-    #             'champ': 'Soraka',
-    #             'win': False,
-    #             'kills': 0,
-    #             'deaths': 2,
-    #             'assists': 8,
-    #             'position': 'sup'
-    #         }
-    #     ]
-    # }
+    {
+        "winner": "GG",
+        "looser": "G2",
+        'Bracket': 'Play-in',
+        'Match': '',
+        'Date': '9 May 2023',
+        "bans": ['Nautilus', 'Olaf', 'Rakan', 'Annie', 'Thresh', 'Blitzcrank', 'Malphite', 'Maokai', 'Aphelios', 'Vi'],
+        'picks': [
+            {
+                'champ': "K'Sante",
+                'win': True,
+                'kills': 3,
+                'deaths': 5,
+                'assists': 8,
+                'position': 'top'
+            },
+            {
+                'champ': 'Elise',
+                'win': True,
+                'kills': 4,
+                'deaths': 1,
+                'assists': 3,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Tristana',
+                'win': True,
+                'kills': 3,
+                'deaths': 0,
+                'assists': 9,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Jinx',
+                'win': True,
+                'kills': 5,
+                'deaths': 1,
+                'assists': 5,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Lulu',
+                'win': True,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 10,
+                'position': 'sup'
+            },
+            {
+                'champ': "Kennen",
+                'win': False,
+                'kills': 2,
+                'deaths': 3,
+                'assists': 3,
+                'position': 'top'
+            },
+            {
+                'champ': 'Poppy',
+                'win': False,
+                'kills': 1,
+                'deaths': 3,
+                'assists': 5,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Aurelion Sol',
+                'win': False,
+                'kills': 4,
+                'deaths': 5,
+                'assists': 1,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Draven',
+                'win': False,
+                'kills': 2,
+                'deaths': 2,
+                'assists': 2,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Soraka',
+                'win': False,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 8,
+                'position': 'sup'
+            }
+        ]
+    },
+    {
+        "winner": "",
+        "looser": "",
+        'Bracket': 'Play-in',
+        'Match': '',
+        'Date': '10 May 2023',
+        "bans": ['Lucian', 'Nidalee', 'Jayce', 'Elise', 'Lissandra', 'Ahri', 'Blitzcrank', 'Vi', 'Rakan', 'Gragas'],
+        'picks': [
+            {
+                'champ': "K'Sante",
+                'win': True,
+                'kills': 6,
+                'deaths': 5,
+                'assists': 10,
+                'position': 'top'
+            },
+            {
+                'champ': 'Khazix',
+                'win': True,
+                'kills': 7,
+                'deaths': 2,
+                'assists': 11,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Nautilus',
+                'win': True,
+                'kills': 5,
+                'deaths': 7,
+                'assists': 17,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Aphelios',
+                'win': True,
+                'kills': 9,
+                'deaths': 7,
+                'assists': 10,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Lulu',
+                'win': True,
+                'kills': 1,
+                'deaths': 2,
+                'assists': 21,
+                'position': 'sup'
+            },
+            {
+                'champ': "Kennen",
+                'win': False,
+                'kills': 3,
+                'deaths': 6,
+                'assists': 4,
+                'position': 'top'
+            },
+            {
+                'champ': 'Lee Sin',
+                'win': False,
+                'kills': 9,
+                'deaths': 3,
+                'assists': 6,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Annie',
+                'win': False,
+                'kills': 1,
+                'deaths': 8,
+                'assists': 12,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Xayah',
+                'win': False,
+                'kills': 8,
+                'deaths': 4,
+                'assists': 7,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Pyke',
+                'win': False,
+                'kills': 2,
+                'deaths': 7,
+                'assists': 8,
+                'position': 'sup'
+            }
+        ]
+    },
+    {
+        "winner": "",
+        "looser": "",
+        'Bracket': 'Play-in',
+        'Match': '',
+        'Date': '10 May 2023',
+        "bans": ['Lucian', 'Nidalee', 'Jayce', 'Nautilus', 'Annie', 'Blitzcrank', 'Pyke', 'Vi', 'Rakan', 'Gragas'],
+        'picks': [
+            {
+                'champ': "Karma",
+                'win': True,
+                'kills': 2,
+                'deaths': 1,
+                'assists': 8,
+                'position': 'top'
+            },
+            {
+                'champ': 'Maokai',
+                'win': True,
+                'kills': 5,
+                'deaths': 1,
+                'assists': 11,
+                'position': 'jungle'
+            },
+            {
+                'champ': "K'Sante",
+                'win': True,
+                'kills': 4,
+                'deaths': 3,
+                'assists': 6,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Aphelios',
+                'win': True,
+                'kills': 9,
+                'deaths': 0,
+                'assists': 5,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Lulu',
+                'win': True,
+                'kills': 0,
+                'deaths': 0,
+                'assists': 16,
+                'position': 'sup'
+            },
+            {
+                'champ': "Kennen",
+                'win': False,
+                'kills': 1,
+                'deaths': 4,
+                'assists': 0,
+                'position': 'top'
+            },
+            {
+                'champ': 'Lee Sin',
+                'win': False,
+                'kills': 2,
+                'deaths': 4,
+                'assists': 2,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Lissandra',
+                'win': False,
+                'kills': 1,
+                'deaths': 3,
+                'assists': 2,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Xayah',
+                'win': False,
+                'kills': 0,
+                'deaths': 3,
+                'assists': 1,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Rell',
+                'win': False,
+                'kills': 1,
+                'deaths': 6,
+                'assists': 2,
+                'position': 'sup'
+            }
+        ]
+    },
+    {
+        "winner": "",
+        "looser": "",
+        'Bracket': 'Play-in',
+        'Match': '',
+        'Date': '10 May 2023',
+        "bans": ['Lucian', 'Nidalee', 'Aphelios', 'Lulu', 'Jayce', 'Kennen', 'Pyke', 'Vi', 'Rakan', 'Gragas'],
+        'picks': [
+            {
+                'champ': "Sion",
+                'win': True,
+                'kills': 2,
+                'deaths': 2,
+                'assists': 4,
+                'position': 'top'
+            },
+            {
+                'champ': 'Maokai',
+                'win': True,
+                'kills': 2,
+                'deaths': 0,
+                'assists': 11,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Ahri',
+                'win': True,
+                'kills': 5,
+                'deaths': 2,
+                'assists': 7,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Jinx',
+                'win': True,
+                'kills': 10,
+                'deaths': 0,
+                'assists': 3,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Tahm Kench',
+                'win': True,
+                'kills': 0,
+                'deaths': 1,
+                'assists': 9,
+                'position': 'sup'
+            },
+            {
+                'champ': "K'Sante",
+                'win': False,
+                'kills': 0,
+                'deaths': 2,
+                'assists': 1,
+                'position': 'top'
+            },
+            {
+                'champ': 'Lee Sin',
+                'win': False,
+                'kills': 2,
+                'deaths': 6,
+                'assists': 1,
+                'position': 'jungle'
+            },
+            {
+                'champ': 'Twisted Fate',
+                'win': False,
+                'kills': 1,
+                'deaths': 3,
+                'assists': 2,
+                'position': 'mid'
+            },
+            {
+                'champ': 'Ezreal',
+                'win': False,
+                'kills': 1,
+                'deaths': 4,
+                'assists': 1,
+                'position': 'bot'
+            },
+            {
+                'champ': 'Annie',
+                'win': False,
+                'kills': 1,
+                'deaths': 5,
+                'assists': 2,
+                'position': 'sup'
+            }
+        ]
+    }
 ]

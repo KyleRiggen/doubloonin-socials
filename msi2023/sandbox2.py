@@ -1,12 +1,14 @@
-from collections import Counter
+data = {"K'Sante": {'kills': 9, 'deaths': 12, 'assists': 19, 'score': 13, 'rank': 1, 'rankChange': 3},
+        'Karma': {'kills': 2, 'deaths': 1, 'assists': 8, 'score': 10, 'rank': 2},
+        'Fiora': {'kills': 3, 'deaths': 3, 'assists': 7, 'score': 7, 'rank': 3, 'rankChange': -1},
+        'rankChange': 0}
 
-my_list = ['Nautilus', 'Olaf', 'Annie', 'Thresh', 'Poppy', 'Jayce', 'Gnar', 'Kennen', 'Annie', 'Annie']
+default_rankChange = 0  # default value for rankChange
 
-counts = Counter(my_list)
+for item in data.values():
+    if isinstance(item, dict):  # check if item is a dictionary
+        item.setdefault('rankChange', default_rankChange)
+    else:  # if item is not a dictionary, skip it
+        continue
 
-print(counts)
-
-# Convert Counter object to dictionary
-counts_dict = dict(counts)
-
-print(counts_dict)
+print(data)

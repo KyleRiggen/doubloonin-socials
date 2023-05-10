@@ -1,38 +1,66 @@
 {
+    "Maokai": {
+        "kills": 7,
+        "deaths": 1,
+        "assists": 30,
+        "score": 42,
+        "rank": 1,
+        "rankChange": 4
+    },
+    "Khazix": {
+        "kills": 7,
+        "deaths": 2,
+        "assists": 11,
+        "score": 21,
+        "rank": 2,
+        "rankChange": 0
+    },
     "Vi": {
         "kills": 7,
         "deaths": 2,
         "assists": 6,
-        "score": 16
+        "score": 16,
+        "rank": 3,
+        "rankChange": -2
     },
     "Nidalee": {
         "kills": 8,
         "deaths": 5,
         "assists": 10,
-        "score": 16
+        "score": 16,
+        "rank": 4,
+        "rankChange": -2
     },
     "Poppy": {
         "kills": 2,
         "deaths": 6,
         "assists": 19,
-        "score": 11
+        "score": 11,
+        "rank": 5,
+        "rankChange": -2
     },
     "Elise": {
         "kills": 4,
         "deaths": 1,
         "assists": 3,
-        "score": 9
+        "score": 9,
+        "rank": 6,
+        "rankChange": -2
     },
-    "Maokai": {
-        "kills": 0,
-        "deaths": 0,
-        "assists": 8,
-        "score": 8
+    "Lee Sin": {
+        "kills": 13,
+        "deaths": 13,
+        "assists": 9,
+        "score": 9,
+        "rank": 7,
+        "rankChange": 0
     },
     "Viego": {
         "kills": 4,
         "deaths": 2,
         "assists": 1,
-        "score": 5
+        "score": 5,
+        "rank": 8,
+        "rankChange": -2
     }
 }

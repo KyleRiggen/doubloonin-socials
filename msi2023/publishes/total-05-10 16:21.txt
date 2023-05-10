@@ -1,0 +1,53 @@
+__Total Champion Rank Points:__     
+(highly subject to change)      
+Picked +1 Point     
+Banned +1 Point      
+Won +2 Points     
+Loss -2 Points     
+&nbsp;     
+     
+||Champion|Points| Rank Change from [Yesterday](https://www.reddit.com/r/leagueoflegends/comments/13d1d7t/day_1_of_msi_champion_popularityperformance/)
+|-|-|-|-| 
+| 1 | Aphelios | 15 | 🟨 0 |          
+| 2 | Lulu | 11 | 🟩🔺 7 |          
+| 3 | Maokai | 11 | 🟩🔺 2 |          
+| 4 | K'Sante | 9 | 🟩🔺 4 |          
+| 5 | Rakan | 9 | 🟥🔻 3 |          
+| 6 | Vi | 9 | 🟥🔻 2 |          
+| 7 | Nautilus | 8 | 🟩🔺 3 |          
+| 8 | Ahri | 7 | 🟩🔺 4 |          
+| 9 | Blitzcrank | 6 | 🟥🔻 2 |          
+| 10 | Tristana | 6 | 🟥🔻 7 |          
+| 11 | Jayce | 5 | 🟩🔺 7 |          
+| 12 | Jinx | 5 | 🟩🔺 7 |          
+| 13 | Elise | 4 | 🟨 0 |          
+| 14 | Gragas | 4 | 🟩🔺 9 |          
+| 15 | Olaf | 4 | 🟥🔻 4 |          
+| 16 | Sion | 4 | 🟩🔺 8 |          
+| 17 | Annie | 3 | 🟥🔻 11 |          
+| 18 | Fiora | 3 | 🟥🔻 4 |          
+| 19 | Karma | 3 | 🟨 0 |          
+| 20 | Leona | 3 | 🟥🔻 5 |          
+| 21 | Lucian | 3 | 🟨 0 |          
+| 22 | Poppy | 3 | 🟥🔻 6 |          
+| 23 | Tahm Kench | 3 | 🟨 0 |          
+| 24 | Lissandra | 2 | 🟥🔻 3 |          
+| 25 | Nidalee | 2 | 🟩🔺 8 |          
+| 26 | Gnar | 1 | 🟥🔻 4 |          
+| 27 | Kennen | 1 | 🟥🔻 7 |          
+| 28 | Pyke | 1 | 🟨 0 |          
+| 29 | Sylas | 1 | 🟥🔻 4 |          
+| 30 | Thresh | 1 | 🟥🔻 4 |          
+| 31 | Xayah | 1 | 🟥🔻 14 |          
+| 32 | Draven | 0 | 🟥🔻 5 |          
+| 33 | Malphite | 0 | 🟥🔻 5 |          
+| 34 | Viego | 0 | 🟥🔻 5 |          
+| 35 | Aurelion Sol | -1 | 🟥🔻 5 |          
+| 36 | Braum | -1 | 🟥🔻 5 |          
+| 37 | Darius | -1 | 🟥🔻 5 |          
+| 38 | Ezreal | -1 | 🟨 0 |          
+| 39 | Soraka | -1 | 🟥🔻 4 |          
+| 40 | Twisted Fate | -1 | 🟨 0 |          
+| 41 | Zeri | -1 | 🟥🔻 5 |          
+| 42 | Rell | -2 | 🟥🔻 8 |          
+| 43 | Lee Sin | -3 | 🟨 0 |          

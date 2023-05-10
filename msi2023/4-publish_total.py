@@ -1,4 +1,5 @@
 from datetime import datetime
+from config_variables import *
 import json
 
 with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/msi2023/jsons/2-total_stats.json') as user_file:
@@ -18,13 +19,14 @@ meta_data = "__Total Champion Rank Points:__     \n" \
             "&nbsp;     \n" \
             "     \n"
 
-yesterday_link = 'https://www.reddit.com/r/leagueoflegends/comments/13d1d7t/day_1_of_msi_champion_popularityperformance/'
-opening = f'||Champion|Points| Rank Change from [Yesterday]({yesterday_link})\n' \
+# yesterday_link = 'https://www.reddit.com/r/leagueoflegends/comments/13d1d7t/day_1_of_msi_champion_popularityperformance/'
+opening = f'||Champion|Points| Rank Change from [Yesterday]({config["yesterday_link"]})\n' \
           '|-|-|-|-| \n'
 f.write(meta_data)
 f.write(opening)
 
 for index, champ in enumerate(data):
+
 
     rank_value = abs(champ['rankChange'])
     if champ['rankChange'] > 0:

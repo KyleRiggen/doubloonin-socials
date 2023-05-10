@@ -1,0 +1,44 @@
+{
+    "Ahri": {
+        "kills": 6,
+        "deaths": 0,
+        "assists": 15,
+        "score": 27,
+        "rank": 1
+    },
+    "Tristana": {
+        "kills": 3,
+        "deaths": 0,
+        "assists": 9,
+        "score": 15,
+        "rank": 2
+    },
+    "Annie": {
+        "kills": 3,
+        "deaths": 6,
+        "assists": 9,
+        "score": 3,
+        "rank": 3
+    },
+    "Aurelion Sol": {
+        "kills": 4,
+        "deaths": 5,
+        "assists": 1,
+        "score": -1,
+        "rank": 4
+    },
+    "Lissandra": {
+        "kills": 2,
+        "deaths": 7,
+        "assists": 8,
+        "score": -2,
+        "rank": 5
+    },
+    "K'Sante": {
+        "kills": 2,
+        "deaths": 5,
+        "assists": 1,
+        "score": -5,
+        "rank": 6
+    }
+}

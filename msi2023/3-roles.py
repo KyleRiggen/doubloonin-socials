@@ -49,6 +49,8 @@ def build_the_roles(array, name):
               encoding='utf-8') as f:
         json.dump(sorted_data, f, ensure_ascii=False, indent=4)
 
+
+
 build_the_roles(top, 'top')
 build_the_roles(jungle, 'jungle')
 build_the_roles(mid, 'mid')
