@@ -1,0 +1,65 @@
+__Total Champion Rank Points:__     
+(highly subject to change)      
+Picked +1 Point     
+Banned +1 Point      
+Won +2 Points     
+Loss -2 Points     
+&nbsp;     
+     
+||Champion|Points| Rank Change from [Yesterday](https://www.reddit.com/r/leagueoflegends/comments/13e5ey3/day_2_of_msi_champion_popularityperformance/)
+|-|-|-|-| 
+| 1 | Vi | 16 | 🟩🔺 5 |          
+| 2 | Aphelios | 14 | 🟥🔻 1 |          
+| 3 | Maokai | 14 | 🟨 0 |          
+| 4 | Ahri | 12 | 🟩🔺 4 |          
+| 5 | K'Sante | 12 | 🟥🔻 1 |          
+| 6 | Lulu | 12 | 🟥🔻 4 |          
+| 7 | Nautilus | 11 | 🟨 0 |          
+| 8 | Lucian | 9 | 🟩🔺 13 |          
+| 9 | Jinx | 8 | 🟩🔺 3 |          
+| 10 | Rakan | 8 | 🟥🔻 5 |          
+| 11 | Annie | 6 | 🟩🔺 6 |          
+| 12 | Blitzcrank | 6 | 🟥🔻 3 |          
+| 13 | Nami | 6 | 🟨 0 |          
+| 14 | Tristana | 6 | 🟥🔻 4 |          
+| 15 | Elise | 5 | 🟥🔻 2 |          
+| 16 | Gnar | 5 | 🟩🔺 10 |          
+| 17 | Jayce | 5 | 🟥🔻 6 |          
+| 18 | Nidalee | 5 | 🟩🔺 7 |          
+| 19 | Gragas | 4 | 🟥🔻 5 |          
+| 20 | Gwen | 4 | 🟨 0 |          
+| 21 | Olaf | 4 | 🟥🔻 6 |          
+| 22 | Alistar | 3 | 🟨 0 |          
+| 23 | Fiora | 3 | 🟥🔻 5 |          
+| 24 | Karma | 3 | 🟥🔻 5 |          
+| 25 | Kennen | 3 | 🟩🔺 2 |          
+| 26 | Leona | 3 | 🟥🔻 6 |          
+| 27 | Wukong | 3 | 🟨 0 |          
+| 28 | Poppy | 3 | 🟥🔻 6 |          
+| 29 | Sion | 3 | 🟥🔻 13 |          
+| 30 | Syndra | 3 | 🟨 0 |          
+| 31 | Tahm Kench | 3 | 🟥🔻 8 |          
+| 32 | Taliyah | 3 | 🟨 0 |          
+| 33 | Lissandra | 2 | 🟥🔻 9 |          
+| 34 | Viego | 2 | 🟨 0 |          
+| 35 | Pyke | 1 | 🟥🔻 7 |          
+| 36 | Varus | 1 | 🟨 0 |          
+| 37 | Yasuo | 1 | 🟨 0 |          
+| 38 | Draven | 0 | 🟥🔻 6 |          
+| 39 | Galio | 0 | 🟨 0 |          
+| 40 | LeBlanc | 0 | 🟨 0 |          
+| 41 | Malphite | 0 | 🟥🔻 8 |          
+| 42 | Sylas | 0 | 🟥🔻 13 |          
+| 43 | Thresh | 0 | 🟥🔻 13 |          
+| 44 | Aurelion Sol | -1 | 🟥🔻 9 |          
+| 45 | Braum | -1 | 🟥🔻 9 |          
+| 46 | Darius | -1 | 🟥🔻 9 |          
+| 47 | Ezreal | -1 | 🟥🔻 9 |          
+| 48 | Kindred | -1 | 🟨 0 |          
+| 49 | Nocturne | -1 | 🟨 0 |          
+| 50 | Soraka | -1 | 🟥🔻 11 |          
+| 51 | Twisted Fate | -1 | 🟥🔻 11 |          
+| 52 | Xayah | -1 | 🟥🔻 21 |          
+| 53 | Zeri | -1 | 🟥🔻 12 |          
+| 54 | Rell | -2 | 🟥🔻 12 |          
+| 55 | Lee Sin | -4 | 🟥🔻 12 |          

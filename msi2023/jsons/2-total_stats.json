@@ -1,107 +1,146 @@
 [
     {
-        "name": "Aphelios",
-        "picks": 4,
-        "bans": 3,
-        "kills": 36,
-        "deaths": 10,
-        "assists": 24,
-        "wins": 4,
-        "losses": 0,
-        "score": 15,
-        "rank": 1,
-        "rankChange": 0
-    },
-    {
-        "name": "Lulu",
+        "name": "Vi",
         "picks": 3,
-        "bans": 2,
-        "kills": 1,
-        "deaths": 4,
-        "assists": 47,
+        "bans": 7,
+        "kills": 11,
+        "deaths": 7,
+        "assists": 24,
         "wins": 3,
         "losses": 0,
-        "score": 11,
+        "score": 16,
+        "rank": 1,
+        "rankChange": 5
+    },
+    {
+        "name": "Aphelios",
+        "picks": 5,
+        "bans": 3,
+        "kills": 42,
+        "deaths": 13,
+        "assists": 27,
+        "wins": 4,
+        "losses": 1,
+        "score": 14,
         "rank": 2,
-        "rankChange": 7
+        "rankChange": -1
     },
     {
         "name": "Maokai",
         "picks": 3,
-        "bans": 2,
+        "bans": 5,
         "kills": 7,
         "deaths": 1,
         "assists": 30,
         "wins": 3,
         "losses": 0,
-        "score": 11,
+        "score": 14,
         "rank": 3,
-        "rankChange": 2
+        "rankChange": 0
+    },
+    {
+        "name": "Ahri",
+        "picks": 3,
+        "bans": 3,
+        "kills": 13,
+        "deaths": 5,
+        "assists": 31,
+        "wins": 3,
+        "losses": 0,
+        "score": 12,
+        "rank": 4,
+        "rankChange": 4
     },
     {
         "name": "K'Sante",
         "picks": 5,
-        "bans": 2,
+        "bans": 5,
         "kills": 15,
         "deaths": 20,
         "assists": 26,
         "wins": 3,
         "losses": 2,
-        "score": 9,
-        "rank": 4,
-        "rankChange": 4
-    },
-    {
-        "name": "Rakan",
-        "picks": 1,
-        "bans": 6,
-        "kills": 5,
-        "deaths": 3,
-        "assists": 10,
-        "wins": 1,
-        "losses": 0,
-        "score": 9,
+        "score": 12,
         "rank": 5,
-        "rankChange": -3
+        "rankChange": -1
     },
     {
-        "name": "Vi",
-        "picks": 1,
-        "bans": 6,
-        "kills": 7,
-        "deaths": 2,
-        "assists": 6,
-        "wins": 1,
+        "name": "Lulu",
+        "picks": 3,
+        "bans": 3,
+        "kills": 1,
+        "deaths": 4,
+        "assists": 47,
+        "wins": 3,
         "losses": 0,
-        "score": 9,
+        "score": 12,
         "rank": 6,
-        "rankChange": -2
+        "rankChange": -4
     },
     {
         "name": "Nautilus",
         "picks": 1,
-        "bans": 5,
+        "bans": 8,
         "kills": 5,
         "deaths": 7,
         "assists": 17,
         "wins": 1,
         "losses": 0,
-        "score": 8,
+        "score": 11,
         "rank": 7,
+        "rankChange": 0
+    },
+    {
+        "name": "Lucian",
+        "picks": 2,
+        "bans": 3,
+        "kills": 13,
+        "deaths": 7,
+        "assists": 15,
+        "wins": 2,
+        "losses": 0,
+        "score": 9,
+        "rank": 8,
+        "rankChange": 13
+    },
+    {
+        "name": "Jinx",
+        "picks": 4,
+        "bans": 0,
+        "kills": 23,
+        "deaths": 8,
+        "assists": 19,
+        "wins": 3,
+        "losses": 1,
+        "score": 8,
+        "rank": 9,
         "rankChange": 3
     },
     {
-        "name": "Ahri",
-        "picks": 2,
-        "bans": 1,
-        "kills": 11,
-        "deaths": 2,
-        "assists": 22,
-        "wins": 2,
-        "losses": 0,
-        "score": 7,
-        "rank": 8,
-        "rankChange": 4
+        "name": "Rakan",
+        "picks": 3,
+        "bans": 7,
+        "kills": 7,
+        "deaths": 12,
+        "assists": 28,
+        "wins": 1,
+        "losses": 2,
+        "score": 8,
+        "rank": 10,
+        "rankChange": -5
+    },
+    {
+        "name": "Annie",
+        "picks": 4,
+        "bans": 6,
+        "kills": 5,
+        "deaths": 19,
+        "assists": 23,
+        "wins": 1,
+        "losses": 3,
+        "score": 6,
+        "rank": 11,
+        "rankChange": 6
     },
     {
         "name": "Blitzcrank",
@@ -113,8 +152,21 @@
         "wins": 1,
         "losses": 0,
         "score": 6,
-        "rank": 9,
-        "rankChange": -2
+        "rank": 12,
+        "rankChange": -3
+    },
+    {
+        "name": "Nami",
+        "picks": 2,
+        "bans": 0,
+        "kills": 3,
+        "deaths": 8,
+        "assists": 24,
+        "wins": 2,
+        "losses": 0,
+        "score": 6,
+        "rank": 13,
+        "rankChange": 0
     },
     {
         "name": "Tristana",
@@ -126,8 +178,34 @@
         "wins": 2,
         "losses": 0,
         "score": 6,
-        "rank": 10,
-        "rankChange": -7
+        "rank": 14,
+        "rankChange": -4
+    },
+    {
+        "name": "Elise",
+        "picks": 1,
+        "bans": 2,
+        "kills": 4,
+        "deaths": 1,
+        "assists": 3,
+        "wins": 1,
+        "losses": 0,
+        "score": 5,
+        "rank": 15,
+        "rankChange": -2
+    },
+    {
+        "name": "Gnar",
+        "picks": 1,
+        "bans": 2,
+        "kills": 6,
+        "deaths": 0,
+        "assists": 11,
+        "wins": 1,
+        "losses": 0,
+        "score": 5,
+        "rank": 16,
+        "rankChange": 10
     },
     {
         "name": "Jayce",
@@ -139,34 +217,21 @@
         "wins": 0,
         "losses": 0,
         "score": 5,
-        "rank": 11,
-        "rankChange": 7
+        "rank": 17,
+        "rankChange": -6
     },
     {
-        "name": "Jinx",
-        "picks": 3,
-        "bans": 0,
-        "kills": 15,
-        "deaths": 6,
+        "name": "Nidalee",
+        "picks": 2,
+        "bans": 7,
+        "kills": 8,
+        "deaths": 5,
         "assists": 10,
-        "wins": 2,
-        "losses": 1,
+        "wins": 0,
+        "losses": 2,
         "score": 5,
-        "rank": 12,
+        "rank": 18,
         "rankChange": 7
-    },
-    {
-        "name": "Elise",
-        "picks": 1,
-        "bans": 1,
-        "kills": 4,
-        "deaths": 1,
-        "assists": 3,
-        "wins": 1,
-        "losses": 0,
-        "score": 4,
-        "rank": 13,
-        "rankChange": 0
     },
     {
         "name": "Gragas",
@@ -178,8 +243,21 @@
         "wins": 0,
         "losses": 0,
         "score": 4,
-        "rank": 14,
-        "rankChange": 9
+        "rank": 19,
+        "rankChange": -5
+    },
+    {
+        "name": "Gwen",
+        "picks": 1,
+        "bans": 1,
+        "kills": 5,
+        "deaths": 5,
+        "assists": 1,
+        "wins": 1,
+        "losses": 0,
+        "score": 4,
+        "rank": 20,
+        "rankChange": 0
     },
     {
         "name": "Olaf",
@@ -191,34 +269,21 @@
         "wins": 0,
         "losses": 0,
         "score": 4,
-        "rank": 15,
-        "rankChange": -4
+        "rank": 21,
+        "rankChange": -6
     },
     {
-        "name": "Sion",
+        "name": "Alistar",
         "picks": 1,
-        "bans": 1,
-        "kills": 2,
+        "bans": 0,
+        "kills": 1,
         "deaths": 2,
-        "assists": 4,
+        "assists": 16,
         "wins": 1,
         "losses": 0,
-        "score": 4,
-        "rank": 16,
-        "rankChange": 8
-    },
-    {
-        "name": "Annie",
-        "picks": 4,
-        "bans": 3,
-        "kills": 5,
-        "deaths": 19,
-        "assists": 23,
-        "wins": 1,
-        "losses": 3,
         "score": 3,
-        "rank": 17,
-        "rankChange": -11
+        "rank": 22,
+        "rankChange": 0
     },
     {
         "name": "Fiora",
@@ -230,8 +295,8 @@
         "wins": 1,
         "losses": 0,
         "score": 3,
-        "rank": 18,
-        "rankChange": -4
+        "rank": 23,
+        "rankChange": -5
     },
     {
         "name": "Karma",
@@ -243,8 +308,21 @@
         "wins": 1,
         "losses": 0,
         "score": 3,
-        "rank": 19,
-        "rankChange": 0
+        "rank": 24,
+        "rankChange": -5
+    },
+    {
+        "name": "Kennen",
+        "picks": 7,
+        "bans": 2,
+        "kills": 15,
+        "deaths": 26,
+        "assists": 20,
+        "wins": 2,
+        "losses": 5,
+        "score": 3,
+        "rank": 25,
+        "rankChange": 2
     },
     {
         "name": "Leona",
@@ -256,20 +334,20 @@
         "wins": 1,
         "losses": 0,
         "score": 3,
-        "rank": 20,
-        "rankChange": -5
+        "rank": 26,
+        "rankChange": -6
     },
     {
-        "name": "Lucian",
-        "picks": 0,
-        "bans": 3,
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wins": 0,
+        "name": "Wukong",
+        "picks": 1,
+        "bans": 0,
+        "kills": 4,
+        "deaths": 3,
+        "assists": 9,
+        "wins": 1,
         "losses": 0,
         "score": 3,
-        "rank": 21,
+        "rank": 27,
         "rankChange": 0
     },
     {
@@ -282,8 +360,34 @@
         "wins": 1,
         "losses": 1,
         "score": 3,
-        "rank": 22,
+        "rank": 28,
         "rankChange": -6
+    },
+    {
+        "name": "Sion",
+        "picks": 3,
+        "bans": 2,
+        "kills": 7,
+        "deaths": 11,
+        "assists": 13,
+        "wins": 1,
+        "losses": 2,
+        "score": 3,
+        "rank": 29,
+        "rankChange": -13
+    },
+    {
+        "name": "Syndra",
+        "picks": 1,
+        "bans": 0,
+        "kills": 4,
+        "deaths": 1,
+        "assists": 4,
+        "wins": 1,
+        "losses": 0,
+        "score": 3,
+        "rank": 30,
+        "rankChange": 0
     },
     {
         "name": "Tahm Kench",
@@ -295,7 +399,20 @@
         "wins": 1,
         "losses": 0,
         "score": 3,
-        "rank": 23,
+        "rank": 31,
+        "rankChange": -8
+    },
+    {
+        "name": "Taliyah",
+        "picks": 1,
+        "bans": 0,
+        "kills": 6,
+        "deaths": 2,
+        "assists": 8,
+        "wins": 1,
+        "losses": 0,
+        "score": 3,
+        "rank": 32,
         "rankChange": 0
     },
     {
@@ -308,47 +425,21 @@
         "wins": 1,
         "losses": 2,
         "score": 2,
-        "rank": 24,
-        "rankChange": -3
+        "rank": 33,
+        "rankChange": -9
     },
     {
-        "name": "Nidalee",
-        "picks": 2,
-        "bans": 4,
-        "kills": 8,
-        "deaths": 5,
-        "assists": 10,
+        "name": "Viego",
+        "picks": 1,
+        "bans": 3,
+        "kills": 4,
+        "deaths": 2,
+        "assists": 1,
         "wins": 0,
-        "losses": 2,
+        "losses": 1,
         "score": 2,
-        "rank": 25,
-        "rankChange": 8
-    },
-    {
-        "name": "Gnar",
-        "picks": 0,
-        "bans": 1,
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wins": 0,
-        "losses": 0,
-        "score": 1,
-        "rank": 26,
-        "rankChange": -4
-    },
-    {
-        "name": "Kennen",
-        "picks": 5,
-        "bans": 2,
-        "kills": 12,
-        "deaths": 19,
-        "assists": 14,
-        "wins": 1,
-        "losses": 4,
-        "score": 1,
-        "rank": 27,
-        "rankChange": -7
+        "rank": 34,
+        "rankChange": 0
     },
     {
         "name": "Pyke",
@@ -360,11 +451,11 @@
         "wins": 0,
         "losses": 1,
         "score": 1,
-        "rank": 28,
-        "rankChange": 0
+        "rank": 35,
+        "rankChange": -7
     },
     {
-        "name": "Sylas",
+        "name": "Varus",
         "picks": 0,
         "bans": 1,
         "kills": 0,
@@ -373,34 +464,21 @@
         "wins": 0,
         "losses": 0,
         "score": 1,
-        "rank": 29,
-        "rankChange": -4
+        "rank": 36,
+        "rankChange": 0
     },
     {
-        "name": "Thresh",
-        "picks": 1,
-        "bans": 2,
+        "name": "Yasuo",
+        "picks": 0,
+        "bans": 1,
         "kills": 0,
-        "deaths": 6,
-        "assists": 3,
+        "deaths": 0,
+        "assists": 0,
         "wins": 0,
-        "losses": 1,
+        "losses": 0,
         "score": 1,
-        "rank": 30,
-        "rankChange": -4
-    },
-    {
-        "name": "Xayah",
-        "picks": 3,
-        "bans": 0,
-        "kills": 13,
-        "deaths": 8,
-        "assists": 15,
-        "wins": 1,
-        "losses": 2,
-        "score": 1,
-        "rank": 31,
-        "rankChange": -14
+        "rank": 37,
+        "rankChange": 0
     },
     {
         "name": "Draven",
@@ -412,8 +490,34 @@
         "wins": 0,
         "losses": 2,
         "score": 0,
-        "rank": 32,
-        "rankChange": -5
+        "rank": 38,
+        "rankChange": -6
+    },
+    {
+        "name": "Galio",
+        "picks": 1,
+        "bans": 1,
+        "kills": 1,
+        "deaths": 2,
+        "assists": 5,
+        "wins": 0,
+        "losses": 1,
+        "score": 0,
+        "rank": 39,
+        "rankChange": 0
+    },
+    {
+        "name": "LeBlanc",
+        "picks": 1,
+        "bans": 1,
+        "kills": 1,
+        "deaths": 2,
+        "assists": 5,
+        "wins": 0,
+        "losses": 1,
+        "score": 0,
+        "rank": 40,
+        "rankChange": 0
     },
     {
         "name": "Malphite",
@@ -425,21 +529,34 @@
         "wins": 0,
         "losses": 1,
         "score": 0,
-        "rank": 33,
-        "rankChange": -5
+        "rank": 41,
+        "rankChange": -8
     },
     {
-        "name": "Viego",
+        "name": "Sylas",
         "picks": 1,
         "bans": 1,
-        "kills": 4,
-        "deaths": 2,
-        "assists": 1,
+        "kills": 2,
+        "deaths": 6,
+        "assists": 6,
         "wins": 0,
         "losses": 1,
         "score": 0,
-        "rank": 34,
-        "rankChange": -5
+        "rank": 42,
+        "rankChange": -13
+    },
+    {
+        "name": "Thresh",
+        "picks": 2,
+        "bans": 2,
+        "kills": 0,
+        "deaths": 11,
+        "assists": 13,
+        "wins": 0,
+        "losses": 2,
+        "score": 0,
+        "rank": 43,
+        "rankChange": -13
     },
     {
         "name": "Aurelion Sol",
@@ -451,8 +568,8 @@
         "wins": 0,
         "losses": 1,
         "score": -1,
-        "rank": 35,
-        "rankChange": -5
+        "rank": 44,
+        "rankChange": -9
     },
     {
         "name": "Braum",
@@ -464,8 +581,8 @@
         "wins": 0,
         "losses": 1,
         "score": -1,
-        "rank": 36,
-        "rankChange": -5
+        "rank": 45,
+        "rankChange": -9
     },
     {
         "name": "Darius",
@@ -477,8 +594,8 @@
         "wins": 0,
         "losses": 1,
         "score": -1,
-        "rank": 37,
-        "rankChange": -5
+        "rank": 46,
+        "rankChange": -9
     },
     {
         "name": "Ezreal",
@@ -490,7 +607,33 @@
         "wins": 0,
         "losses": 1,
         "score": -1,
-        "rank": 38,
+        "rank": 47,
+        "rankChange": -9
+    },
+    {
+        "name": "Kindred",
+        "picks": 1,
+        "bans": 0,
+        "kills": 3,
+        "deaths": 3,
+        "assists": 1,
+        "wins": 0,
+        "losses": 1,
+        "score": -1,
+        "rank": 48,
+        "rankChange": 0
+    },
+    {
+        "name": "Nocturne",
+        "picks": 1,
+        "bans": 0,
+        "kills": 5,
+        "deaths": 5,
+        "assists": 6,
+        "wins": 0,
+        "losses": 1,
+        "score": -1,
+        "rank": 49,
         "rankChange": 0
     },
     {
@@ -503,8 +646,8 @@
         "wins": 0,
         "losses": 1,
         "score": -1,
-        "rank": 39,
-        "rankChange": -4
+        "rank": 50,
+        "rankChange": -11
     },
     {
         "name": "Twisted Fate",
@@ -516,8 +659,21 @@
         "wins": 0,
         "losses": 1,
         "score": -1,
-        "rank": 40,
-        "rankChange": 0
+        "rank": 51,
+        "rankChange": -11
+    },
+    {
+        "name": "Xayah",
+        "picks": 5,
+        "bans": 0,
+        "kills": 22,
+        "deaths": 13,
+        "assists": 23,
+        "wins": 1,
+        "losses": 4,
+        "score": -1,
+        "rank": 52,
+        "rankChange": -21
     },
     {
         "name": "Zeri",
@@ -529,8 +685,8 @@
         "wins": 0,
         "losses": 1,
         "score": -1,
-        "rank": 41,
-        "rankChange": -5
+        "rank": 53,
+        "rankChange": -12
     },
     {
         "name": "Rell",
@@ -542,20 +698,20 @@
         "wins": 0,
         "losses": 2,
         "score": -2,
-        "rank": 42,
-        "rankChange": -8
+        "rank": 54,
+        "rankChange": -12
     },
     {
         "name": "Lee Sin",
-        "picks": 3,
+        "picks": 4,
         "bans": 0,
-        "kills": 13,
-        "deaths": 13,
-        "assists": 9,
+        "kills": 18,
+        "deaths": 17,
+        "assists": 18,
         "wins": 0,
-        "losses": 3,
-        "score": -3,
-        "rank": 43,
-        "rankChange": 0
+        "losses": 4,
+        "score": -4,
+        "rank": 55,
+        "rankChange": -12
     }
 ]

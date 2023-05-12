@@ -1,18 +1,18 @@
 [
   {
-    "name": "item1",
+    "ticker": "TSLA",
+    "purchased": true,
     "amount": 3,
-    "category": "healthy"
   },
   {
-    "name": "item2",
-    "amount": 2,
-    "category": "neutral"
+    "ticker": "APPL",
+    "purchased": false,
+    "amount": null,
   },
   {
-    "name": "item3",
+    "ticker": "MSFT",
+    "purchased": true,
     "amount": 1,
-    "category": "healthy"
   }
 ]
 

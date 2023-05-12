@@ -9,8 +9,8 @@ def get_rank_change(role):
         file_contents = user_file.read()
     yesterday = json.loads(file_contents)
 
-    # for index, champ in enumerate(new_json):
-    #     new_json[champ]['rank'] = index + 1
+    for index, champ in enumerate(new_json):
+        new_json[champ]['rank'] = index + 1
 
     for champ in yesterday:
         for champ2 in new_json:

@@ -1,58 +1,90 @@
 {
+    "Lulu": {
+        "kills": 1,
+        "deaths": 4,
+        "assists": 47,
+        "score": 41,
+        "rank": 1,
+        "rankChange": 3
+    },
     "Rakan": {
         "kills": 5,
         "deaths": 3,
         "assists": 10,
         "score": 14,
-        "rank": 1
+        "rank": 2,
+        "rankChange": -1
     },
     "Blitzcrank": {
         "kills": 2,
         "deaths": 2,
         "assists": 12,
         "score": 12,
-        "rank": 2
+        "rank": 3,
+        "rankChange": -1
     },
     "Leona": {
         "kills": 1,
         "deaths": 2,
         "assists": 9,
         "score": 7,
-        "rank": 3
+        "rank": 4,
+        "rankChange": -1
     },
-    "Lulu": {
+    "Tahm Kench": {
         "kills": 0,
-        "deaths": 2,
-        "assists": 10,
-        "score": 6,
-        "rank": 4
+        "deaths": 1,
+        "assists": 9,
+        "score": 7,
+        "rank": 5,
+        "rankChange": 0
     },
     "Soraka": {
         "kills": 0,
         "deaths": 2,
         "assists": 8,
         "score": 4,
-        "rank": 5
+        "rank": 6,
+        "rankChange": -1
     },
-    "Rell": {
-        "kills": 0,
-        "deaths": 3,
-        "assists": 4,
+    "Pyke": {
+        "kills": 2,
+        "deaths": 7,
+        "assists": 8,
         "score": -2,
-        "rank": 6
+        "rank": 7,
+        "rankChange": 0
+    },
+    "Annie": {
+        "kills": 1,
+        "deaths": 5,
+        "assists": 2,
+        "score": -6,
+        "rank": 8,
+        "rankChange": 0
     },
     "Braum": {
         "kills": 0,
         "deaths": 7,
         "assists": 5,
         "score": -9,
-        "rank": 7
+        "rank": 9,
+        "rankChange": -2
     },
     "Thresh": {
         "kills": 0,
         "deaths": 6,
         "assists": 3,
         "score": -9,
-        "rank": 8
+        "rank": 10,
+        "rankChange": -2
+    },
+    "Rell": {
+        "kills": 1,
+        "deaths": 9,
+        "assists": 6,
+        "score": -10,
+        "rank": 11,
+        "rankChange": -5
     }
 }

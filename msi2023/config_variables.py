@@ -13,5 +13,5 @@ config = {
         "player_count": 1000,
         "match_count_per_player": 100
     },
-    'yesterday_link': 'https://www.reddit.com/r/leagueoflegends/comments/13e5ey3/day_2_of_msi_champion_popularityperformance/'
+    'yesterday_link': 'https://www.reddit.com/r/leagueoflegends/comments/13ezprf/day_3_of_msi_champion_popularityperformance/'
 }

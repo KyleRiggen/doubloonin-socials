@@ -10,7 +10,7 @@ with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/riot_api/js
     file_contents = user_file.read()
 champs_json = json.loads(file_contents)
 
-with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/msi2023/jsons/2-total_stats-keep.json') as user_file:
+with open('/Users/kyleriggenbach/Desktop/projects/doubloonin-socials/msi2023/jsons/2-total_stats_keep.json') as user_file:
     file_contents = user_file.read()
 yesterday = json.loads(file_contents)
 
