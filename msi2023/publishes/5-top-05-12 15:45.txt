@@ -1,0 +1,21 @@
+__Role Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Top Champion|Points|Rank Change from [Yesterday](https://www.reddit.com/r/leagueoflegends/comments/13ezprf/day_3_of_msi_champion_popularityperformance/)| 
+|-|-|-|-| 
+| 1 | Gnar | 26 | 🟨 0  |          
+| 2 | K'Sante | 15 | 🟨 0  |          
+| 3 | Gragas | 14 | 🟨 0  |          
+| 4 | Karma | 10 | 🟥🔻 1  |          
+| 5 | Fiora | 7 | 🟥🔻 1  |          
+| 6 | Gwen | 7 | 🟩🔺 3  |          
+| 7 | Sion | 5 | 🟥🔻 2  |          
+| 8 | Tristana | 4 | 🟥🔻 2  |          
+| 9 | Malphite | 3 | 🟥🔻 2  |          
+| 10 | Kennen | 2 | 🟨 0  |          
+| 11 | Darius | 1 | 🟥🔻 3  |          
+| 12 | Jax | -2 | 🟨 0  |          

@@ -1,25 +1,25 @@
 {
     "Aphelios": {
-        "kills": 42,
-        "deaths": 13,
-        "assists": 27,
-        "score": 85,
+        "kills": 45,
+        "deaths": 16,
+        "assists": 29,
+        "score": 87,
         "rank": 1,
         "rankChange": 0
     },
     "Jinx": {
-        "kills": 23,
-        "deaths": 8,
-        "assists": 19,
-        "score": 49,
+        "kills": 31,
+        "deaths": 14,
+        "assists": 24,
+        "score": 58,
         "rank": 2,
         "rankChange": 0
     },
     "Xayah": {
-        "kills": 22,
+        "kills": 26,
         "deaths": 13,
-        "assists": 23,
-        "score": 41,
+        "assists": 30,
+        "score": 56,
         "rank": 3,
         "rankChange": 0
     },
@@ -31,28 +31,36 @@
         "rank": 4,
         "rankChange": 0
     },
+    "Zeri": {
+        "kills": 8,
+        "deaths": 7,
+        "assists": 9,
+        "score": 11,
+        "rank": 5,
+        "rankChange": 1
+    },
     "Draven": {
         "kills": 6,
         "deaths": 6,
         "assists": 5,
         "score": 5,
-        "rank": 5,
-        "rankChange": -1
-    },
-    "Zeri": {
-        "kills": 1,
-        "deaths": 4,
-        "assists": 4,
-        "score": -2,
         "rank": 6,
         "rankChange": -1
+    },
+    "Tristana": {
+        "kills": 4,
+        "deaths": 3,
+        "assists": 3,
+        "score": 5,
+        "rank": 7,
+        "rankChange": 0
     },
     "Ezreal": {
         "kills": 1,
         "deaths": 4,
         "assists": 1,
         "score": -5,
-        "rank": 7,
+        "rank": 8,
         "rankChange": -1
     }
 }

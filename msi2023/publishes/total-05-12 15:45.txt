@@ -1,0 +1,70 @@
+__Total Champion Rank Points:__     
+(highly subject to change)      
+Picked +1 Point     
+Banned +1 Point      
+Won +2 Points     
+Loss -2 Points     
+&nbsp;     
+     
+||Champion|Points| Rank Change from [Yesterday](https://www.reddit.com/r/leagueoflegends/comments/13ezprf/day_3_of_msi_champion_popularityperformance/)
+|-|-|-|-| 
+| 1 | Maokai | 19 | 🟩🔺 2 |          
+| 2 | Lulu | 16 | 🟩🔺 4 |          
+| 3 | Vi | 16 | 🟥🔻 2 |          
+| 4 | Ahri | 15 | 🟨 0 |          
+| 5 | Aphelios | 15 | 🟥🔻 3 |          
+| 6 | K'Sante | 13 | 🟥🔻 1 |          
+| 7 | Nautilus | 13 | 🟨 0 |          
+| 8 | Rakan | 11 | 🟩🔺 2 |          
+| 9 | Jinx | 10 | 🟨 0 |          
+| 10 | Annie | 9 | 🟩🔺 1 |          
+| 11 | Lucian | 9 | 🟥🔻 3 |          
+| 12 | Gnar | 8 | 🟩🔺 4 |          
+| 13 | Gragas | 8 | 🟩🔺 6 |          
+| 14 | Jayce | 8 | 🟩🔺 3 |          
+| 15 | Nidalee | 8 | 🟩🔺 3 |          
+| 16 | Gwen | 7 | 🟩🔺 4 |          
+| 17 | Blitzcrank | 6 | 🟥🔻 5 |          
+| 18 | Elise | 6 | 🟥🔻 3 |          
+| 19 | Wukong | 6 | 🟩🔺 8 |          
+| 20 | Nami | 6 | 🟥🔻 7 |          
+| 21 | Syndra | 5 | 🟩🔺 9 |          
+| 22 | Tristana | 5 | 🟥🔻 8 |          
+| 23 | Kennen | 4 | 🟩🔺 2 |          
+| 24 | LeBlanc | 4 | 🟩🔺 16 |          
+| 25 | Olaf | 4 | 🟥🔻 4 |          
+| 26 | Alistar | 3 | 🟥🔻 4 |          
+| 27 | Fiora | 3 | 🟥🔻 4 |          
+| 28 | Karma | 3 | 🟥🔻 4 |          
+| 29 | Leona | 3 | 🟥🔻 3 |          
+| 30 | Poppy | 3 | 🟥🔻 2 |          
+| 31 | Sion | 3 | 🟥🔻 2 |          
+| 32 | Tahm Kench | 3 | 🟥🔻 1 |          
+| 33 | Taliyah | 3 | 🟥🔻 1 |          
+| 34 | Braum | 2 | 🟩🔺 11 |          
+| 35 | Viego | 2 | 🟥🔻 1 |          
+| 36 | Xayah | 2 | 🟩🔺 16 |          
+| 37 | Zeri | 2 | 🟩🔺 16 |          
+| 38 | Lissandra | 1 | 🟥🔻 5 |          
+| 39 | Pyke | 1 | 🟥🔻 4 |          
+| 40 | Renata Glasc | 1 | 🟨 0 |          
+| 41 | Sylas | 1 | 🟩🔺 1 |          
+| 42 | Varus | 1 | 🟥🔻 6 |          
+| 43 | Yasuo | 1 | 🟥🔻 6 |          
+| 44 | Yone | 1 | 🟨 0 |          
+| 45 | Draven | 0 | 🟥🔻 7 |          
+| 46 | Malphite | 0 | 🟥🔻 5 |          
+| 47 | Aurelion Sol | -1 | 🟥🔻 3 |          
+| 48 | Darius | -1 | 🟥🔻 2 |          
+| 49 | Ezreal | -1 | 🟥🔻 2 |          
+| 50 | Galio | -1 | 🟥🔻 11 |          
+| 51 | Jax | -1 | 🟨 0 |          
+| 52 | Kindred | -1 | 🟥🔻 4 |          
+| 53 | Nocturne | -1 | 🟥🔻 4 |          
+| 54 | Rengar | -1 | 🟨 0 |          
+| 55 | Sejuani | -1 | 🟨 0 |          
+| 56 | Soraka | -1 | 🟥🔻 6 |          
+| 57 | Thresh | -1 | 🟥🔻 14 |          
+| 58 | Twisted Fate | -1 | 🟥🔻 7 |          
+| 59 | Lee Sin | -3 | 🟥🔻 4 |          
+| 60 | Rell | -3 | 🟥🔻 6 |          

@@ -1,0 +1,24 @@
+__Role Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Mid Champion|Points|Rank Change from [Yesterday](https://www.reddit.com/r/leagueoflegends/comments/13ezprf/day_3_of_msi_champion_popularityperformance/)| 
+|-|-|-|-| 
+| 1 | Ahri | 47 | 🟨 0  |          
+| 2 | Jayce | 17 | 🟨 0  |          
+| 3 | Taliyah | 16 | 🟥🔻 1  |          
+| 4 | LeBlanc | 16 | 🟩🔺 4  |          
+| 5 | Tristana | 15 | 🟥🔻 2  |          
+| 6 | Nautilus | 15 | 🟥🔻 2  |          
+| 7 | Syndra | 10 | 🟥🔻 2  |          
+| 8 | K'Sante | 3 | 🟥🔻 2  |          
+| 9 | Annie | 1 | 🟨 0  |          
+| 10 | Galio | 1 | 🟥🔻 3  |          
+| 11 | Sion | 1 | 🟨 0  |          
+| 12 | Aurelion Sol | -1 | 🟥🔻 2  |          
+| 13 | Twisted Fate | -2 | 🟥🔻 2  |          
+| 14 | Sylas | -2 | 🟥🔻 2  |          
+| 15 | Lissandra | -6 | 🟥🔻 2  |          

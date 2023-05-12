@@ -1,26 +1,34 @@
 {
     "Gnar": {
-        "kills": 6,
-        "deaths": 0,
-        "assists": 11,
-        "score": 23,
+        "kills": 8,
+        "deaths": 2,
+        "assists": 14,
+        "score": 26,
         "rank": 1,
         "rankChange": 0
     },
     "K'Sante": {
-        "kills": 9,
-        "deaths": 12,
-        "assists": 19,
-        "score": 13,
+        "kills": 12,
+        "deaths": 15,
+        "assists": 21,
+        "score": 15,
         "rank": 2,
-        "rankChange": -1
+        "rankChange": 0
+    },
+    "Gragas": {
+        "kills": 4,
+        "deaths": 0,
+        "assists": 6,
+        "score": 14,
+        "rank": 3,
+        "rankChange": 0
     },
     "Karma": {
         "kills": 2,
         "deaths": 1,
         "assists": 8,
         "score": 10,
-        "rank": 3,
+        "rank": 4,
         "rankChange": -1
     },
     "Fiora": {
@@ -28,23 +36,31 @@
         "deaths": 3,
         "assists": 7,
         "score": 7,
-        "rank": 4,
+        "rank": 5,
         "rankChange": -1
+    },
+    "Gwen": {
+        "kills": 9,
+        "deaths": 7,
+        "assists": 3,
+        "score": 7,
+        "rank": 6,
+        "rankChange": 3
     },
     "Sion": {
         "kills": 7,
         "deaths": 11,
         "assists": 13,
         "score": 5,
-        "rank": 5,
-        "rankChange": 0
+        "rank": 7,
+        "rankChange": -2
     },
     "Tristana": {
         "kills": 3,
         "deaths": 1,
         "assists": 0,
         "score": 4,
-        "rank": 6,
+        "rank": 8,
         "rankChange": -2
     },
     "Malphite": {
@@ -52,31 +68,31 @@
         "deaths": 5,
         "assists": 7,
         "score": 3,
-        "rank": 7,
-        "rankChange": -1
+        "rank": 9,
+        "rankChange": -2
+    },
+    "Kennen": {
+        "kills": 17,
+        "deaths": 27,
+        "assists": 22,
+        "score": 2,
+        "rank": 10,
+        "rankChange": 0
     },
     "Darius": {
         "kills": 2,
         "deaths": 3,
         "assists": 3,
         "score": 1,
-        "rank": 8,
-        "rankChange": -1
+        "rank": 11,
+        "rankChange": -3
     },
-    "Gwen": {
-        "kills": 5,
-        "deaths": 5,
-        "assists": 1,
-        "score": 1,
-        "rank": 9,
-        "rankChange": 0
-    },
-    "Kennen": {
-        "kills": 15,
-        "deaths": 26,
-        "assists": 20,
+    "Jax": {
+        "kills": 1,
+        "deaths": 3,
+        "assists": 2,
         "score": -2,
-        "rank": 10,
-        "rankChange": -2
+        "rank": 12,
+        "rankChange": 0
     }
 }

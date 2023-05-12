@@ -5,54 +5,70 @@
         "assists": 30,
         "score": 42,
         "rank": 1,
-        "rankChange": 4
+        "rankChange": 0
+    },
+    "Vi": {
+        "kills": 11,
+        "deaths": 7,
+        "assists": 24,
+        "score": 32,
+        "rank": 2,
+        "rankChange": 1
     },
     "Khazix": {
         "kills": 7,
         "deaths": 2,
         "assists": 11,
         "score": 21,
-        "rank": 2,
-        "rankChange": 0
-    },
-    "Vi": {
-        "kills": 7,
-        "deaths": 2,
-        "assists": 6,
-        "score": 16,
         "rank": 3,
-        "rankChange": -2
+        "rankChange": -1
+    },
+    "Lee Sin": {
+        "kills": 18,
+        "deaths": 17,
+        "assists": 18,
+        "score": 20,
+        "rank": 4,
+        "rankChange": 3
     },
     "Nidalee": {
         "kills": 8,
         "deaths": 5,
         "assists": 10,
         "score": 16,
-        "rank": 4,
-        "rankChange": -2
+        "rank": 5,
+        "rankChange": -1
     },
     "Poppy": {
         "kills": 2,
         "deaths": 6,
         "assists": 19,
         "score": 11,
-        "rank": 5,
-        "rankChange": -2
+        "rank": 6,
+        "rankChange": -1
+    },
+    "Wukong": {
+        "kills": 4,
+        "deaths": 3,
+        "assists": 9,
+        "score": 11,
+        "rank": 7,
+        "rankChange": 0
     },
     "Elise": {
         "kills": 4,
         "deaths": 1,
         "assists": 3,
         "score": 9,
-        "rank": 6,
+        "rank": 8,
         "rankChange": -2
     },
-    "Lee Sin": {
-        "kills": 13,
-        "deaths": 13,
-        "assists": 9,
-        "score": 9,
-        "rank": 7,
+    "Nocturne": {
+        "kills": 5,
+        "deaths": 5,
+        "assists": 6,
+        "score": 6,
+        "rank": 9,
         "rankChange": 0
     },
     "Viego": {
@@ -60,7 +76,15 @@
         "deaths": 2,
         "assists": 1,
         "score": 5,
-        "rank": 8,
+        "rank": 10,
         "rankChange": -2
+    },
+    "Kindred": {
+        "kills": 3,
+        "deaths": 3,
+        "assists": 1,
+        "score": 1,
+        "rank": 11,
+        "rankChange": 0
     }
 }

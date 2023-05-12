@@ -1,42 +1,50 @@
 {
     "Maokai": {
-        "kills": 7,
-        "deaths": 1,
-        "assists": 30,
-        "score": 42,
+        "kills": 8,
+        "deaths": 2,
+        "assists": 40,
+        "score": 52,
         "rank": 1,
         "rankChange": 0
     },
     "Vi": {
-        "kills": 11,
-        "deaths": 7,
-        "assists": 24,
-        "score": 32,
+        "kills": 14,
+        "deaths": 10,
+        "assists": 29,
+        "score": 37,
         "rank": 2,
-        "rankChange": 1
+        "rankChange": 0
     },
     "Khazix": {
-        "kills": 7,
-        "deaths": 2,
-        "assists": 11,
-        "score": 21,
+        "kills": 15,
+        "deaths": 5,
+        "assists": 13,
+        "score": 33,
         "rank": 3,
-        "rankChange": -1
+        "rankChange": 0
+    },
+    "Wukong": {
+        "kills": 8,
+        "deaths": 6,
+        "assists": 17,
+        "score": 21,
+        "rank": 4,
+        "rankChange": 3
     },
     "Lee Sin": {
         "kills": 18,
         "deaths": 17,
         "assists": 18,
         "score": 20,
-        "rank": 4,
-        "rankChange": 3
+        "rank": 5,
+        "rankChange": -1
     },
     "Nidalee": {
         "kills": 8,
         "deaths": 5,
         "assists": 10,
         "score": 16,
-        "rank": 5,
+        "rank": 6,
         "rankChange": -1
     },
     "Poppy": {
@@ -44,16 +52,8 @@
         "deaths": 6,
         "assists": 19,
         "score": 11,
-        "rank": 6,
-        "rankChange": -1
-    },
-    "Wukong": {
-        "kills": 4,
-        "deaths": 3,
-        "assists": 9,
-        "score": 11,
         "rank": 7,
-        "rankChange": 0
+        "rankChange": -1
     },
     "Elise": {
         "kills": 4,
@@ -61,7 +61,7 @@
         "assists": 3,
         "score": 9,
         "rank": 8,
-        "rankChange": -2
+        "rankChange": 0
     },
     "Nocturne": {
         "kills": 5,
@@ -77,14 +77,30 @@
         "assists": 1,
         "score": 5,
         "rank": 10,
-        "rankChange": -2
+        "rankChange": 0
+    },
+    "Sejuani": {
+        "kills": 3,
+        "deaths": 2,
+        "assists": 3,
+        "score": 5,
+        "rank": 11,
+        "rankChange": 0
     },
     "Kindred": {
         "kills": 3,
         "deaths": 3,
         "assists": 1,
         "score": 1,
-        "rank": 11,
+        "rank": 12,
+        "rankChange": -1
+    },
+    "Rengar": {
+        "kills": 1,
+        "deaths": 6,
+        "assists": 4,
+        "score": -6,
+        "rank": 13,
         "rankChange": 0
     }
 }

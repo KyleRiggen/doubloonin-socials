@@ -1,0 +1,17 @@
+__Role Champion Rank Points:__     
+(highly subject to change)      
+Kill +2 Points     
+Death -2 Points      
+Assist +1 Point     
+&nbsp;     
+     
+||Bot Champion|Points|Rank Change from [Yesterday](https://www.reddit.com/r/leagueoflegends/comments/13ezprf/day_3_of_msi_champion_popularityperformance/)| 
+|-|-|-|-| 
+| 1 | Aphelios | 87 | 🟨 0  |          
+| 2 | Jinx | 58 | 🟨 0  |          
+| 3 | Xayah | 56 | 🟨 0  |          
+| 4 | Lucian | 27 | 🟨 0  |          
+| 5 | Zeri | 11 | 🟩🔺 1  |          
+| 6 | Draven | 5 | 🟥🔻 1  |          
+| 7 | Tristana | 5 | 🟨 0  |          
+| 8 | Ezreal | -5 | 🟥🔻 1  |          
