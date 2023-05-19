@@ -48,7 +48,7 @@ data_import = created_ranked_list()
 def publish_file2(data):
     now = datetime.now()
     f = open(f"publish-{formatted_time}.txt", "a")
-    yesterday_link = 'https://www.reddit.com/r/leagueoflegends/comments/13025eh/popular_champions_in_challenger_and_how_they/'
+    yesterday_link = 'https://www.reddit.com/r/leagueoflegends/comments/13m9f19/champion_performancepopularity_in_challengers/'
     meta_data = "__Champion Rank Points:__     \n" \
                 "(highly subject to change)      \n" \
                 "Picked +1 Point     \n" \
@@ -57,20 +57,15 @@ def publish_file2(data):
                 "Loss -2 Points     \n" \
                 "&nbsp;     \n" \
                 "     \n" \
-                "__Best Player Points:__     \n" \
+                "__Star Player Points:__     \n" \
                 "(highly subject to change)     \n" \
                 "Kill +2 Points     \n" \
                 "Death -2 Points     \n" \
                 "Assist +1 Point     \n" \
                 "&nbsp;     \n" \
                 "     \n" \
-                "__Selection Criteria:__     \n" \
-                "Challenger Player     \n" \
-                "NA/EU/Korean Ladder (want China but it's not available)     \n" \
-                "Match in the past 72 Hours     \n" \
-                "&nbsp;     \n" \
-                "     \n"
-    opening = f'||Champion|Points|Win % / Games Played|Rank Change from [Last Week]({yesterday_link})|Best Player| \n' \
+
+    opening = f'||Champion|Points|Win % / Games Played|Rank Change from [Last Week]({yesterday_link})|Star Player| \n' \
               '|-|-|-|-|-|-| \n'
     f.write(meta_data)
     f.write(opening)
