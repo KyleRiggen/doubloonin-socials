@@ -2,9 +2,9 @@ from generate_final3_list import created_ranked_list
 import json
 import time as pause
 from datetime import datetime
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
+# from selenium import webdriver
+# from selenium.webdriver.common.keys import Keys
+# from selenium.webdriver.common.by import By
 from dotenv import load_dotenv
 import os
 
